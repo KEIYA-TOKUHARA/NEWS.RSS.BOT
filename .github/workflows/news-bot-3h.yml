@@ -2,7 +2,7 @@ name: news-bot (every 3h) v2
 
 on:
   schedule:
-    - cron: "0 */3 * * *"
+    - cron: "0 */3 * * *"      # 3時間おき（UTC）
   workflow_dispatch:
 
 concurrency:
@@ -14,6 +14,10 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 15
 
+    # ✅ ここで job 全体に Secret を渡す（以降すべての step が使える）
+    env:
+      SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
+
     steps:
       - uses: actions/checkout@v4
 
@@ -21,6 +25,7 @@ jobs:
         run: |
           pwd
           ls -la
+          echo "GITHUB_SHA=$GITHUB_SHA"
 
       - uses: actions/setup-python@v4
         with:
@@ -31,27 +36,23 @@ jobs:
           pip install -U pip
           pip install -r requirements.txt
 
-      # ✅ Secret が GitHub 側に存在するか（直接参照）
+      # ✅ Secret が“存在”するか（直接参照でチェック）
       - name: Check secret exists (repo secret)
         run: |
           if [ -z "${{ secrets.SLACK_WEBHOOK_URL }}" ]; then
             echo "ERROR: SLACK_WEBHOOK_URL secret is missing."
             exit 1
           fi
-          echo "Secret is present (value masked)."
+          echo "Secret PRESENT (masked)."
 
-      # ✅ Secret を ENV に渡せているか（環境変数化してチェック）
+      # ✅ job env に“渡せている”か（環境変数でチェック）
       - name: Check env passed (debug)
-        env:
-          SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
         run: |
           if [ -z "$SLACK_WEBHOOK_URL" ]; then
             echo "ERROR: env var SLACK_WEBHOOK_URL is empty"
             exit 1
           fi
-          echo "ENV PRESENT (masked)"
+          echo "ENV PRESENT (masked)."
 
       - name: Run collector and post to Slack
-        env:
-          SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
         run: python src/main.py

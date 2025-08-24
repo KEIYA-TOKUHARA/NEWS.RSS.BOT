@@ -1,0 +1,40 @@
+name: news-bot (every 3h)
+
+on:
+  schedule:
+    - cron: "0 */3 * * *"      # 3時間おき / UTC基準
+  workflow_dispatch:           # 手動実行ボタン
+
+concurrency:                   # 重複実行の防止（前回が走ってたらキャンセル）
+  group: news-bot
+  cancel-in-progress: true
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15        # 念のための安全弁（既定は6時間）
+
+    steps:
+      - uses: actions/checkout@v4
+
+      # Python を入れる + pip依存キャッシュ
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: "pip"         # pip依存を自動キャッシュ
+
+      - name: Install deps
+        run: |
+          pip install -U pip
+          pip install feedparser pyyaml requests
+
+      # （任意）JS描画サイトも取りたい場合
+      # - name: Install Playwright (browsers + deps)
+      #   run: |
+      #     npx --yes playwright install --with-deps chromium
+
+      - name: Run collector and post to Slack
+        env:
+          SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
+        run: |
+          python src/main.py

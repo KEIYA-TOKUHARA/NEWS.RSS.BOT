@@ -2,38 +2,35 @@ name: news-bot (every 3h)
 
 on:
   schedule:
-    - cron: "0 */3 * * *"      # 3時間おき / UTC基準
-  workflow_dispatch:           # 手動実行ボタン
+    - cron: "0 */3 * * *"
+  workflow_dispatch:
 
-concurrency:                   # 重複実行の防止（前回が走ってたらキャンセル）
+concurrency:
   group: news-bot
   cancel-in-progress: true
 
 jobs:
   run:
     runs-on: ubuntu-latest
-    timeout-minutes: 15        # 念のための安全弁（既定は6時間）
+    timeout-minutes: 15
 
     steps:
       - uses: actions/checkout@v4
 
-      # Python を入れる + pip依存キャッシュ
-      - uses: actions/setup-python@v5
+      - name: List repo (debug)
+        run: ls -la
+
+      # v5 だと requirements 検出でコケるため v4 を使用
+      - uses: actions/setup-python@v4
         with:
           python-version: "3.12"
 
       - name: Install deps
         run: |
           pip install -U pip
-          pip install feedparser pyyaml requests
-
-      # （任意）JS描画サイトも取りたい場合
-      # - name: Install Playwright (browsers + deps)
-      #   run: |
-      #     npx --yes playwright install --with-deps chromium
+          pip install -r requirements.txt
 
       - name: Run collector and post to Slack
         env:
           SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
-        run: |
-          python src/main.py
+        run: python src/main.py

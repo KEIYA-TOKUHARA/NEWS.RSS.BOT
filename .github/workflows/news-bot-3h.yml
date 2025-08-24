@@ -2,17 +2,17 @@ name: news-bot (every 3h) v2
 
 on:
   schedule:
-    - cron: "0 */3 * * *"
-  workflow_dispatch:
+    - cron: "0 */3 * * *"      # 3時間おき / UTC基準
+  workflow_dispatch:           # 手動実行ボタン
 
-concurrency:
+concurrency:                   # 重複実行の防止
   group: news-bot
   cancel-in-progress: true
 
 jobs:
   run:
     runs-on: ubuntu-latest
-    timeout-minutes: 15
+    timeout-minutes: 15        # 念のための安全弁
 
     steps:
       - uses: actions/checkout@v4
@@ -21,9 +21,8 @@ jobs:
         run: |
           pwd
           ls -la
-          echo "GITHUB_SHA=$GITHUB_SHA"
 
-      # v4 を使用（キャッシュ指定なし）
+      # Python をインストール
       - uses: actions/setup-python@v4
         with:
           python-version: "3.12"
@@ -32,6 +31,13 @@ jobs:
         run: |
           pip install -U pip
           pip install -r requirements.txt
+
+      - name: Check secret exists   # 👈 セーフティチェック
+        run: |
+          if [ -z "${{ secrets.SLACK_WEBHOOK_URL }}" ]; then
+            echo "ERROR: SLACK_WEBHOOK_URL secret is missing."
+            exit 1
+          fi
 
       - name: Run collector and post to Slack
         env:

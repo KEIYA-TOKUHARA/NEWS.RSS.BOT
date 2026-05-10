@@ -87,7 +87,33 @@ def strip_tags(text):
 
     text = re.sub(r"<[^>]+>", "", text)
     text = html.unescape(text)
+    text = re.sub(r"\s+", " ", text)
     return text.strip()
+
+
+def clean_display_text(text):
+    """Slack表示用にHTMLエンティティやタグを整える"""
+    if not text:
+        return ""
+
+    text = strip_tags(text)
+    text = html.unescape(text)
+    text = text.replace("\u3000", " ")
+    text = re.sub(r"\s+", " ", text)
+    return text.strip()
+
+
+def make_summary(summary, max_chars=350):
+    """RSS概要を社内共有用に整える"""
+    summary = clean_display_text(summary)
+
+    if not summary:
+        return "概要取得なし"
+
+    if len(summary) > max_chars:
+        return summary[:max_chars].rstrip() + "…"
+
+    return summary
 
 
 def extract_tag(block, tag):
@@ -281,7 +307,7 @@ def fetch_articles():
             entry_count = 0
 
             for item in items:
-                title = item.get("title", "")
+                title = clean_display_text(item.get("title", ""))
                 link = item.get("link", "")
                 summary = item.get("summary", "")
 
@@ -308,19 +334,22 @@ def fetch_articles():
 
 
 def build_slack_message(article, judgement):
-    title = article["title"]
+    title = clean_display_text(article["title"])
     link = article["link"]
     source = article["source"]
+    summary = make_summary(article.get("summary", ""))
+
     category = judgement["category"]
     matched_hospitality = "、".join(judgement["matched_hospitality"])
     matched_keywords = "、".join(judgement["matched_keywords"])
 
     message = (
         f"■{category}\n"
-        f"タイトル：{title}\n"
-        f"媒体：{source}\n"
-        f"判定理由：{matched_hospitality} × {matched_keywords}\n"
-        f"URL：{link}"
+        f"■ 記事タイトル {title}\n"
+        f"■ URL {link}\n"
+        f"■ 媒体 {source}\n"
+        f"■ 判定理由 {matched_hospitality} × {matched_keywords}\n"
+        f"【概要】 {summary}"
     )
 
     return message

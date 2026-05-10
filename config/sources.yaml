@@ -1,322 +1,329 @@
 sources:
-  # プレスリリース系
-  - name: PR TIMES
-    url: https://prtimes.jp/index.rdf
-
-  # 宿泊・観光業界メディア
-  - name: TravelVoice
-    url: https://www.travelvoice.jp/feed
-
-  - name: 観光経済新聞
-    url: https://www.kankokeizai.com/feed/
-
-  - name: 旬刊旅行新聞
-    url: https://www.ryoko-net.co.jp/?feed=rss2
-
-  # 地域経済ニュース：第1弾
-  - name: シブヤ経済新聞
-    url: https://www.shibukei.com/rss.xml
-
-  - name: ヨコハマ経済新聞
-    url: https://www.hamakei.com/rss.xml
-
-  - name: なんば経済新聞
-    url: https://namba.keizai.biz/rss.xml
-
-  # 海外ホテル・旅行ニュース
-  - name: Hospitality Net
-    url: https://www.hospitalitynet.org/rss/news.xml
-
-  - name: Breaking Travel News - Hotel
-    url: https://feeds.feedburner.com/breakingtravelnews/news/hotel
-
-  # 地域経済ニュース：第2弾
-  - name: 梅田経済新聞
-    url: https://umeda.keizai.biz/rss.xml
-
-  - name: 神戸経済新聞
-    url: https://kobe.keizai.biz/rss.xml
-
-  - name: 烏丸経済新聞
-    url: https://karasuma.keizai.biz/rss.xml
-
-  - name: 天神経済新聞
-    url: https://tenjin.keizai.biz/rss.xml
-
-  - name: 大宮経済新聞
-    url: https://omiya.keizai.biz/rss.xml
-
-  - name: 松本経済新聞
-    url: https://matsumoto.keizai.biz/rss.xml
-
-  - name: 調布経済新聞
-    url: https://chofu.keizai.biz/rss.xml
-
-  - name: アキバ経済新聞
-    url: https://akiba.keizai.biz/rss.xml
-
-  - name: すみだ経済新聞
-    url: https://sumida.keizai.biz/rss.xml
-
-  # 地域経済ニュース：第3弾
-  - name: 札幌経済新聞
-    url: https://sapporo.keizai.biz/rss.xml
-
-  - name: 函館経済新聞
-    url: https://hakodate.keizai.biz/rss.xml
-
-  - name: 弘前経済新聞
-    url: https://hirosaki.keizai.biz/rss.xml
-
-  - name: 盛岡経済新聞
-    url: https://morioka.keizai.biz/rss.xml
-
-  - name: 仙台経済新聞
-    url: https://sendai.keizai.biz/rss.xml
-
-  - name: 高崎前橋経済新聞
-    url: https://takasaki.keizai.biz/rss.xml
-
-  - name: 川崎経済新聞
-    url: https://kawasaki.keizai.biz/rss.xml
-
-  - name: 湘南経済新聞
-    url: https://shonan.keizai.biz/rss.xml
-
-  - name: 小田原箱根経済新聞
-    url: https://odawara-hakone.keizai.biz/rss.xml
-
-  - name: 新潟経済新聞
-    url: https://niigata.keizai.biz/rss.xml
-
-  - name: 金沢経済新聞
-    url: https://kanazawa.keizai.biz/rss.xml
-
-  - name: 富山経済新聞
-    url: https://toyama.keizai.biz/rss.xml
-
-  - name: 甲府経済新聞
-    url: https://kofu.keizai.biz/rss.xml
-
-  - name: 名駅経済新聞
-    url: https://meieki.keizai.biz/rss.xml
-
-  - name: サカエ経済新聞
-    url: https://sakae.keizai.biz/rss.xml
-
-  - name: 浜松経済新聞
-    url: https://hamamatsu.keizai.biz/rss.xml
-
-  - name: びわ湖大津経済新聞
-    url: https://biwako-otsu.keizai.biz/rss.xml
-
-  - name: 和歌山経済新聞
-    url: https://wakayama.keizai.biz/rss.xml
-
-  - name: 岡山経済新聞
-    url: https://okayama.keizai.biz/rss.xml
-
-  - name: 広島経済新聞
-    url: https://hiroshima.keizai.biz/rss.xml
-
-  - name: 松山経済新聞
-    url: https://matsuyama.keizai.biz/rss.xml
-
-  - name: 高松経済新聞
-    url: https://takamatsu.keizai.biz/rss.xml
-
-  - name: 博多経済新聞
-    url: https://hakata.keizai.biz/rss.xml
-
-  - name: 長崎経済新聞
-    url: https://nagasaki.keizai.biz/rss.xml
-
-  - name: 熊本経済新聞
-    url: https://kumamoto.keizai.biz/rss.xml
-
-  - name: 大分経済新聞
-    url: https://oita.keizai.biz/rss.xml
-
-  - name: 鹿児島経済新聞
-    url: https://kagoshima.keizai.biz/rss.xml
-
-  # 地域経済ニュース：第4弾（ご当地系の網羅拡大）
-  - name: 北見経済新聞
-    url: https://kitami.keizai.biz/rss.xml
-
-  - name: 旭川経済新聞
-    url: https://asahikawa.keizai.biz/rss.xml
-
-  - name: 小樽経済新聞
-    url: https://otaru.keizai.biz/rss.xml
-
-  - name: 青森経済新聞
-    url: https://aomori.keizai.biz/rss.xml
-
-  - name: 八戸経済新聞
-    url: https://hachinohe.keizai.biz/rss.xml
-
-  - name: 秋田経済新聞
-    url: https://akita.keizai.biz/rss.xml
-
-  - name: 福島経済新聞
-    url: https://fukushima.keizai.biz/rss.xml
-
-  - name: 水戸経済新聞
-    url: https://mito.keizai.biz/rss.xml
-
-  - name: 宇都宮経済新聞
-    url: https://utsunomiya.keizai.biz/rss.xml
-
-  - name: 秩父経済新聞
-    url: https://chichibu.keizai.biz/rss.xml
-
-  - name: 本庄経済新聞
-    url: https://honjo.keizai.biz/rss.xml
-
-  - name: 熊谷経済新聞
-    url: https://kumagaya.keizai.biz/rss.xml
-
-  - name: 川越経済新聞
-    url: https://kawagoe.keizai.biz/rss.xml
-
-  - name: 狭山経済新聞
-    url: https://sayama.keizai.biz/rss.xml
-
-  - name: 浦和経済新聞
-    url: https://urawa.keizai.biz/rss.xml
-
-  - name: 川口経済新聞
-    url: https://kawaguchi.keizai.biz/rss.xml
-
-  - name: 浦安経済新聞
-    url: https://urayasu.keizai.biz/rss.xml
-
-  - name: 船橋経済新聞
-    url: https://funabashi.keizai.biz/rss.xml
-
-  - name: 千葉経済新聞
-    url: https://chiba.keizai.biz/rss.xml
-
-  - name: 九十九里経済新聞
-    url: https://kujukuri.keizai.biz/rss.xml
-
-  - name: 港北経済新聞
-    url: https://kohoku.keizai.biz/rss.xml
-
-  - name: 横須賀経済新聞
-    url: https://yokosuka.keizai.biz/rss.xml
-
-  - name: 逗子葉山経済新聞
-    url: https://zushi-hayama.keizai.biz/rss.xml
-
-  - name: 鎌倉経済新聞
-    url: https://kamakura.keizai.biz/rss.xml
-
-  - name: 浅草経済新聞
-    url: https://asakusa.keizai.biz/rss.xml
-
-  - name: 日本橋経済新聞
-    url: https://nihombashi.keizai.biz/rss.xml
-
-  - name: 銀座経済新聞
-    url: https://ginza.keizai.biz/rss.xml
-
-  - name: 新橋経済新聞
-    url: https://shinbashi.keizai.biz/rss.xml
-
-  - name: 品川経済新聞
-    url: https://shinagawa.keizai.biz/rss.xml
-
-  - name: 六本木経済新聞
-    url: https://roppongi.keizai.biz/rss.xml
-
-  - name: 赤坂経済新聞
-    url: https://akasaka.keizai.biz/rss.xml
-
-  - name: 新宿経済新聞
-    url: https://shinjuku.keizai.biz/rss.xml
-
-  - name: 吉祥寺経済新聞
-    url: https://kichijoji.keizai.biz/rss.xml
-
-  - name: 立川経済新聞
-    url: https://tachikawa.keizai.biz/rss.xml
-
-  - name: 八王子経済新聞
-    url: https://hachioji.keizai.biz/rss.xml
-
-  # Yahoo!ニュース：補助ソース
-  - name: Yahoo!ニュース 国内
-    url: https://news.yahoo.co.jp/rss/categories/domestic.xml
-
-  - name: Yahoo!ニュース 経済
-    url: https://news.yahoo.co.jp/rss/categories/business.xml
-
-  - name: Yahoo!ニュース 地域
-    url: https://news.yahoo.co.jp/rss/categories/local.xml
-
-  - name: Yahoo!ニュース ライフ
-    url: https://news.yahoo.co.jp/rss/categories/life.xml
-
-  - name: Yahoo!ニュース IT
-    url: https://news.yahoo.co.jp/rss/categories/it.xml
-
-  - name: Yahoo!ニュース トピックス国内
-    url: https://news.yahoo.co.jp/rss/topics/domestic.xml
-
-  - name: Yahoo!ニュース トピックス経済
-    url: https://news.yahoo.co.jp/rss/topics/business.xml
-
-  - name: Yahoo!ニュース トピックス地域
-    url: https://news.yahoo.co.jp/rss/topics/local.xml
-
-      # 地域経済ニュース：第5弾（100サイト化・西日本強化）
-
-  - name: 京丹後経済新聞
-    url: https://kyotango.keizai.biz/rss.xml
-
-  - name: 奈良経済新聞
-    url: https://nara.keizai.biz/rss.xml
-
-  - name: 大阪ベイ経済新聞
-    url: https://osakabay.keizai.biz/rss.xml
-
-  - name: 東大阪経済新聞
-    url: https://higashiosaka.keizai.biz/rss.xml
-
-  - name: あべの経済新聞
-    url: https://abeno.keizai.biz/rss.xml
-
-  - name: 船場経済新聞
-    url: https://semba.keizai.biz/rss.xml
-
-  - name: 京橋経済新聞
-    url: https://kyobashi.keizai.biz/rss.xml
-
-  - name: 加古川経済新聞
-    url: https://kakogawa.keizai.biz/rss.xml
-
-  - name: 姫路経済新聞
-    url: https://himeji.keizai.biz/rss.xml
-
-  - name: 鳥取経済新聞
-    url: https://tottori.keizai.biz/rss.xml
-
-  - name: 倉敷経済新聞
-    url: https://kurashiki.keizai.biz/rss.xml
-
-  - name: 山口宇部経済新聞
-    url: https://yamaguchi.keizai.biz/rss.xml
-
-  - name: 徳島経済新聞
-    url: https://tokushima.keizai.biz/rss.xml
-
-  - name: 今治経済新聞
-    url: https://imabari.keizai.biz/rss.xml
-
-  - name: 佐賀経済新聞
-    url: https://saga.keizai.biz/rss.xml
-
-  - name: 宮崎経済新聞
-    url: https://miyazaki.keizai.biz/rss.xml
+- name: PR TIMES
+  url: https://prtimes.jp/index.rdf
+- name: TravelVoice
+  url: https://www.travelvoice.jp/feed
+- name: 観光経済新聞
+  url: https://www.kankokeizai.com/feed/
+- name: 旬刊旅行新聞
+  url: https://www.ryoko-net.co.jp/?feed=rss2
+- name: シブヤ経済新聞
+  url: https://www.shibukei.com/rss.xml
+- name: ヨコハマ経済新聞
+  url: https://www.hamakei.com/rss.xml
+- name: なんば経済新聞
+  url: https://namba.keizai.biz/rss.xml
+- name: Hospitality Net
+  url: https://www.hospitalitynet.org/rss/news.xml
+- name: Breaking Travel News - Hotel
+  url: https://feeds.feedburner.com/breakingtravelnews/news/hotel
+- name: 梅田経済新聞
+  url: https://umeda.keizai.biz/rss.xml
+- name: 神戸経済新聞
+  url: https://kobe.keizai.biz/rss.xml
+- name: 烏丸経済新聞
+  url: https://karasuma.keizai.biz/rss.xml
+- name: 天神経済新聞
+  url: https://tenjin.keizai.biz/rss.xml
+- name: 大宮経済新聞
+  url: https://omiya.keizai.biz/rss.xml
+- name: 松本経済新聞
+  url: https://matsumoto.keizai.biz/rss.xml
+- name: 調布経済新聞
+  url: https://chofu.keizai.biz/rss.xml
+- name: アキバ経済新聞
+  url: https://akiba.keizai.biz/rss.xml
+- name: すみだ経済新聞
+  url: https://sumida.keizai.biz/rss.xml
+- name: 札幌経済新聞
+  url: https://sapporo.keizai.biz/rss.xml
+- name: 函館経済新聞
+  url: https://hakodate.keizai.biz/rss.xml
+- name: 弘前経済新聞
+  url: https://hirosaki.keizai.biz/rss.xml
+- name: 盛岡経済新聞
+  url: https://morioka.keizai.biz/rss.xml
+- name: 仙台経済新聞
+  url: https://sendai.keizai.biz/rss.xml
+- name: 高崎前橋経済新聞
+  url: https://takasaki.keizai.biz/rss.xml
+- name: 川崎経済新聞
+  url: https://kawasaki.keizai.biz/rss.xml
+- name: 湘南経済新聞
+  url: https://shonan.keizai.biz/rss.xml
+- name: 小田原箱根経済新聞
+  url: https://odawara-hakone.keizai.biz/rss.xml
+- name: 新潟経済新聞
+  url: https://niigata.keizai.biz/rss.xml
+- name: 金沢経済新聞
+  url: https://kanazawa.keizai.biz/rss.xml
+- name: 富山経済新聞
+  url: https://toyama.keizai.biz/rss.xml
+- name: 甲府経済新聞
+  url: https://kofu.keizai.biz/rss.xml
+- name: 名駅経済新聞
+  url: https://meieki.keizai.biz/rss.xml
+- name: サカエ経済新聞
+  url: https://sakae.keizai.biz/rss.xml
+- name: 浜松経済新聞
+  url: https://hamamatsu.keizai.biz/rss.xml
+- name: びわ湖大津経済新聞
+  url: https://biwako-otsu.keizai.biz/rss.xml
+- name: 和歌山経済新聞
+  url: https://wakayama.keizai.biz/rss.xml
+- name: 岡山経済新聞
+  url: https://okayama.keizai.biz/rss.xml
+- name: 広島経済新聞
+  url: https://hiroshima.keizai.biz/rss.xml
+- name: 松山経済新聞
+  url: https://matsuyama.keizai.biz/rss.xml
+- name: 高松経済新聞
+  url: https://takamatsu.keizai.biz/rss.xml
+- name: 博多経済新聞
+  url: https://hakata.keizai.biz/rss.xml
+- name: 長崎経済新聞
+  url: https://nagasaki.keizai.biz/rss.xml
+- name: 熊本経済新聞
+  url: https://kumamoto.keizai.biz/rss.xml
+- name: 大分経済新聞
+  url: https://oita.keizai.biz/rss.xml
+- name: 鹿児島経済新聞
+  url: https://kagoshima.keizai.biz/rss.xml
+- name: 北見経済新聞
+  url: https://kitami.keizai.biz/rss.xml
+- name: 旭川経済新聞
+  url: https://asahikawa.keizai.biz/rss.xml
+- name: 小樽経済新聞
+  url: https://otaru.keizai.biz/rss.xml
+- name: 青森経済新聞
+  url: https://aomori.keizai.biz/rss.xml
+- name: 八戸経済新聞
+  url: https://hachinohe.keizai.biz/rss.xml
+- name: 秋田経済新聞
+  url: https://akita.keizai.biz/rss.xml
+- name: 福島経済新聞
+  url: https://fukushima.keizai.biz/rss.xml
+- name: 水戸経済新聞
+  url: https://mito.keizai.biz/rss.xml
+- name: 宇都宮経済新聞
+  url: https://utsunomiya.keizai.biz/rss.xml
+- name: 秩父経済新聞
+  url: https://chichibu.keizai.biz/rss.xml
+- name: 本庄経済新聞
+  url: https://honjo.keizai.biz/rss.xml
+- name: 熊谷経済新聞
+  url: https://kumagaya.keizai.biz/rss.xml
+- name: 川越経済新聞
+  url: https://kawagoe.keizai.biz/rss.xml
+- name: 狭山経済新聞
+  url: https://sayama.keizai.biz/rss.xml
+- name: 浦和経済新聞
+  url: https://urawa.keizai.biz/rss.xml
+- name: 川口経済新聞
+  url: https://kawaguchi.keizai.biz/rss.xml
+- name: 浦安経済新聞
+  url: https://urayasu.keizai.biz/rss.xml
+- name: 船橋経済新聞
+  url: https://funabashi.keizai.biz/rss.xml
+- name: 千葉経済新聞
+  url: https://chiba.keizai.biz/rss.xml
+- name: 九十九里経済新聞
+  url: https://kujukuri.keizai.biz/rss.xml
+- name: 港北経済新聞
+  url: https://kohoku.keizai.biz/rss.xml
+- name: 横須賀経済新聞
+  url: https://yokosuka.keizai.biz/rss.xml
+- name: 逗子葉山経済新聞
+  url: https://zushi-hayama.keizai.biz/rss.xml
+- name: 鎌倉経済新聞
+  url: https://kamakura.keizai.biz/rss.xml
+- name: 浅草経済新聞
+  url: https://asakusa.keizai.biz/rss.xml
+- name: 日本橋経済新聞
+  url: https://nihombashi.keizai.biz/rss.xml
+- name: 銀座経済新聞
+  url: https://ginza.keizai.biz/rss.xml
+- name: 新橋経済新聞
+  url: https://shinbashi.keizai.biz/rss.xml
+- name: 品川経済新聞
+  url: https://shinagawa.keizai.biz/rss.xml
+- name: 六本木経済新聞
+  url: https://roppongi.keizai.biz/rss.xml
+- name: 赤坂経済新聞
+  url: https://akasaka.keizai.biz/rss.xml
+- name: 新宿経済新聞
+  url: https://shinjuku.keizai.biz/rss.xml
+- name: 吉祥寺経済新聞
+  url: https://kichijoji.keizai.biz/rss.xml
+- name: 立川経済新聞
+  url: https://tachikawa.keizai.biz/rss.xml
+- name: 八王子経済新聞
+  url: https://hachioji.keizai.biz/rss.xml
+- name: Yahoo!ニュース 国内
+  url: https://news.yahoo.co.jp/rss/categories/domestic.xml
+- name: Yahoo!ニュース 経済
+  url: https://news.yahoo.co.jp/rss/categories/business.xml
+- name: Yahoo!ニュース 地域
+  url: https://news.yahoo.co.jp/rss/categories/local.xml
+- name: Yahoo!ニュース ライフ
+  url: https://news.yahoo.co.jp/rss/categories/life.xml
+- name: Yahoo!ニュース IT
+  url: https://news.yahoo.co.jp/rss/categories/it.xml
+- name: Yahoo!ニュース トピックス国内
+  url: https://news.yahoo.co.jp/rss/topics/domestic.xml
+- name: Yahoo!ニュース トピックス経済
+  url: https://news.yahoo.co.jp/rss/topics/business.xml
+- name: Yahoo!ニュース トピックス地域
+  url: https://news.yahoo.co.jp/rss/topics/local.xml
+- name: 京丹後経済新聞
+  url: https://kyotango.keizai.biz/rss.xml
+- name: 奈良経済新聞
+  url: https://nara.keizai.biz/rss.xml
+- name: 大阪ベイ経済新聞
+  url: https://osakabay.keizai.biz/rss.xml
+- name: 東大阪経済新聞
+  url: https://higashiosaka.keizai.biz/rss.xml
+- name: あべの経済新聞
+  url: https://abeno.keizai.biz/rss.xml
+- name: 船場経済新聞
+  url: https://semba.keizai.biz/rss.xml
+- name: 京橋経済新聞
+  url: https://kyobashi.keizai.biz/rss.xml
+- name: 加古川経済新聞
+  url: https://kakogawa.keizai.biz/rss.xml
+- name: 姫路経済新聞
+  url: https://himeji.keizai.biz/rss.xml
+- name: 鳥取経済新聞
+  url: https://tottori.keizai.biz/rss.xml
+- name: 倉敷経済新聞
+  url: https://kurashiki.keizai.biz/rss.xml
+- name: 山口宇部経済新聞
+  url: https://yamaguchi.keizai.biz/rss.xml
+- name: 徳島経済新聞
+  url: https://tokushima.keizai.biz/rss.xml
+- name: 今治経済新聞
+  url: https://imabari.keizai.biz/rss.xml
+- name: 佐賀経済新聞
+  url: https://saga.keizai.biz/rss.xml
+- name: 宮崎経済新聞
+  url: https://miyazaki.keizai.biz/rss.xml
+- name: 横手経済新聞
+  url: https://yokote.keizai.biz/rss.xml
+- name: 大仙経済新聞
+  url: https://daisen.keizai.biz/rss.xml
+- name: 足利経済新聞
+  url: https://ashikaga.keizai.biz/rss.xml
+- name: 春日部経済新聞
+  url: https://kasukabe.keizai.biz/rss.xml
+- name: 松戸経済新聞
+  url: https://matsudo.keizai.biz/rss.xml
+- name: 習志野経済新聞
+  url: https://narashino.keizai.biz/rss.xml
+- name: 外房経済新聞
+  url: https://sotobo.keizai.biz/rss.xml
+- name: 相模原町田経済新聞
+  url: https://machida.keizai.biz/rss.xml
+- name: 葛飾経済新聞
+  url: https://katsushika.keizai.biz/rss.xml
+- name: 江戸川経済新聞
+  url: https://edogawa.keizai.biz/rss.xml
+- name: 江東経済新聞
+  url: https://koto.keizai.biz/rss.xml
+- name: 文京経済新聞
+  url: https://bunkyo.keizai.biz/rss.xml
+- name: 東京ベイ経済新聞
+  url: https://tokyobay.keizai.biz/rss.xml
+- name: 市ケ谷経済新聞
+  url: https://ichigaya.keizai.biz/rss.xml
+- name: 池袋経済新聞
+  url: https://ikebukuro.keizai.biz/rss.xml
+- name: 赤羽経済新聞
+  url: https://akabane.keizai.biz/rss.xml
+- name: 板橋経済新聞
+  url: https://itabashi.keizai.biz/rss.xml
+- name: 練馬経済新聞
+  url: https://nerima.keizai.biz/rss.xml
+- name: 高田馬場経済新聞
+  url: https://takadanobaba.keizai.biz/rss.xml
+- name: 中野経済新聞
+  url: https://nakano.keizai.biz/rss.xml
+- name: 高円寺経済新聞
+  url: https://koenji.keizai.biz/rss.xml
+- name: 経堂経済新聞
+  url: https://kyodo.keizai.biz/rss.xml
+- name: 下北沢経済新聞
+  url: https://shimokita.keizai.biz/rss.xml
+- name: 三軒茶屋経済新聞
+  url: https://sancha.keizai.biz/rss.xml
+- name: 二子玉川経済新聞
+  url: https://nikotama.keizai.biz/rss.xml
+- name: 自由が丘経済新聞
+  url: https://jiyugaoka.keizai.biz/rss.xml
+- name: 町田経済新聞
+  url: https://machida.keizai.biz/rss.xml
+- name: 西多摩経済新聞
+  url: https://nishitama.keizai.biz/rss.xml
+- name: 福井経済新聞
+  url: https://fukui.keizai.biz/rss.xml
+- name: 軽井沢経済新聞
+  url: https://karuizawa.keizai.biz/rss.xml
+- name: 伊那経済新聞
+  url: https://ina.keizai.biz/rss.xml
+- name: 飯田経済新聞
+  url: https://iida.keizai.biz/rss.xml
+- name: 富士山経済新聞
+  url: https://mtfuji.keizai.biz/rss.xml
+- name: 熱海経済新聞
+  url: https://atami.keizai.biz/rss.xml
+- name: 伊豆下田経済新聞
+  url: https://shimoda.keizai.biz/rss.xml
+- name: 伊豆の国経済新聞
+  url: https://izunokuni.keizai.biz/rss.xml
+- name: 豊田経済新聞
+  url: https://toyota.keizai.biz/rss.xml
+- name: 長浜経済新聞
+  url: https://nagahama.keizai.biz/rss.xml
+- name: 彦根経済新聞
+  url: https://hikone.keizai.biz/rss.xml
+- name: 近江八幡経済新聞
+  url: https://omihachiman.keizai.biz/rss.xml
+- name: 雲南経済新聞
+  url: https://unnan.keizai.biz/rss.xml
+- name: 周南経済新聞
+  url: https://shunan.keizai.biz/rss.xml
+- name: 小倉経済新聞
+  url: https://kokura.keizai.biz/rss.xml
+- name: 筑豊経済新聞
+  url: https://chikuho.keizai.biz/rss.xml
+- name: 宗像経済新聞
+  url: https://munakata.keizai.biz/rss.xml
+- name: 杵築経済新聞
+  url: https://kitsuki.keizai.biz/rss.xml
+- name: 日向経済新聞
+  url: https://hyuga.keizai.biz/rss.xml
+- name: 屋久島経済新聞
+  url: https://yakushima.keizai.biz/rss.xml
+- name: 所沢経済新聞
+  url: https://tokorozawa.keizai.biz/rss.xml
+- name: 目黒経済新聞
+  url: https://meguro.keizai.biz/rss.xml
+- name: 伊勢志摩経済新聞
+  url: https://iseshima.keizai.biz/rss.xml
+- name: 伏見経済新聞
+  url: https://fushimi.keizai.biz/rss.xml
+- name: 西宮経済新聞
+  url: https://nishinomiya.keizai.biz/rss.xml
+- name: 内閣府 報道発表新着情報
+  url: https://www.cao.go.jp/rss/news.rdf
+- name: 経済産業省 METI Journal
+  url: https://journal.meti.go.jp/feed/
+- name: やまとごころ
+  url: https://www.yamatogokoro.jp/feed/
+- name: Impress Watch
+  url: https://www.watch.impress.co.jp/data/rss/1.0/ipw/feed.rdf
+- name: CNET Japan
+  url: https://japan.cnet.com/rss/index.rdf
+- name: ITmedia NEWS
+  url: https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml
+- name: ASCII.jp
+  url: https://ascii.jp/rss.xml

@@ -58,7 +58,6 @@ exclude_words:
   - 創業の地
   - 式典
   - 表彰
-    - ピックルボール
 
   # ペット・動物系ノイズ
   - ペットサロン
@@ -78,6 +77,7 @@ exclude_words:
   - サッカー
   - スタジアム
   - クラブチーム
+  - ピックルボール
 
   # 宿泊以外の施設・事業ノイズ
   - 給食施設
@@ -104,25 +104,9 @@ exclude_words:
 
 categories:
 
-  renovation:
-    label: "B：施設リニューアル・改装"
-    priority: 1
-    title_hospitality_required: true
-    keywords:
-      - リニューアル
-      - 改装
-      - 改修
-      - 大規模改修
-      - 客室改装
-      - リノベーション
-      - 刷新
-      - 再整備
-      - 再開
-      - リニューアルオープン
-
   opening_plan:
     label: "S：開業予定・開発計画"
-    priority: 2
+    priority: 1
     title_hospitality_required: true
     keywords:
       - 開業予定
@@ -156,6 +140,22 @@ categories:
       - 2028年開業
       - 2029年開業
       - 2030年開業
+
+  renovation:
+    label: "B：施設リニューアル・改装"
+    priority: 2
+    title_hospitality_required: true
+    keywords:
+      - リニューアル
+      - 改装
+      - 改修
+      - 大規模改修
+      - 客室改装
+      - リノベーション
+      - 刷新
+      - 再整備
+      - 再開
+      - リニューアルオープン
 
   operator_change:
     label: "A：運営変更・運営受託"

@@ -1,5 +1,34 @@
 sources:
+  # プレスリリース系
   - name: PR TIMES
     url: https://prtimes.jp/index.rdf
+
+  # 宿泊・観光業界メディア
   - name: TravelVoice
     url: https://www.travelvoice.jp/feed
+
+  - name: 観光経済新聞
+    url: https://www.kankokeizai.com/feed/
+
+  - name: 旬刊旅行新聞
+    url: https://www.ryoko-net.co.jp/?feed=rss2
+
+  - name: HOTERES ONLINE
+    url: https://www.hoteresonline.com/feed
+
+  # 地域経済ニュース
+  - name: シブヤ経済新聞
+    url: https://www.shibukei.com/headline/rss.xml
+
+  - name: ヨコハマ経済新聞
+    url: https://www.hamakei.com/headline/rss.xml
+
+  - name: なんば経済新聞
+    url: https://namba.keizai.biz/headline/rss.xml
+
+  # 海外ホテル・旅行ニュース
+  - name: Hospitality Net
+    url: https://www.hospitalitynet.org/rss/news.xml
+
+  - name: Breaking Travel News - Hotel
+    url: https://feeds.feedburner.com/breakingtravelnews/news/hotel

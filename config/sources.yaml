@@ -270,3 +270,53 @@ sources:
 
   - name: Yahoo!ニュース トピックス地域
     url: https://news.yahoo.co.jp/rss/topics/local.xml
+
+      # 地域経済ニュース：第5弾（100サイト化・西日本強化）
+
+  - name: 京丹後経済新聞
+    url: https://kyotango.keizai.biz/rss.xml
+
+  - name: 奈良経済新聞
+    url: https://nara.keizai.biz/rss.xml
+
+  - name: 大阪ベイ経済新聞
+    url: https://osakabay.keizai.biz/rss.xml
+
+  - name: 東大阪経済新聞
+    url: https://higashiosaka.keizai.biz/rss.xml
+
+  - name: あべの経済新聞
+    url: https://abeno.keizai.biz/rss.xml
+
+  - name: 船場経済新聞
+    url: https://semba.keizai.biz/rss.xml
+
+  - name: 京橋経済新聞
+    url: https://kyobashi.keizai.biz/rss.xml
+
+  - name: 加古川経済新聞
+    url: https://kakogawa.keizai.biz/rss.xml
+
+  - name: 姫路経済新聞
+    url: https://himeji.keizai.biz/rss.xml
+
+  - name: 鳥取経済新聞
+    url: https://tottori.keizai.biz/rss.xml
+
+  - name: 倉敷経済新聞
+    url: https://kurashiki.keizai.biz/rss.xml
+
+  - name: 山口宇部経済新聞
+    url: https://yamaguchi.keizai.biz/rss.xml
+
+  - name: 徳島経済新聞
+    url: https://tokushima.keizai.biz/rss.xml
+
+  - name: 今治経済新聞
+    url: https://imabari.keizai.biz/rss.xml
+
+  - name: 佐賀経済新聞
+    url: https://saga.keizai.biz/rss.xml
+
+  - name: 宮崎経済新聞
+    url: https://miyazaki.keizai.biz/rss.xml

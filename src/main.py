@@ -1,8 +1,11 @@
 import feedparser
 import yaml
-import re
 import requests
 import os
+from pathlib import Path
+
+
+STATE_FILE = Path("state/posted_urls.txt")
 
 
 def load_yaml(path):
@@ -10,16 +13,22 @@ def load_yaml(path):
         return yaml.safe_load(f)
 
 
-def text_contains_any(text, words):
-    """テキストに指定ワードのどれかが含まれているか"""
-    if not text:
-        return False
+def load_posted_urls():
+    """投稿済みURL一覧を読み込む"""
+    if not STATE_FILE.exists():
+        return set()
 
-    for word in words:
-        if word in text:
-            return True
+    with open(STATE_FILE, "r", encoding="utf-8") as f:
+        return set(line.strip() for line in f if line.strip())
 
-    return False
+
+def save_posted_urls(urls):
+    """投稿済みURL一覧を保存する"""
+    STATE_FILE.parent.mkdir(exist_ok=True)
+
+    with open(STATE_FILE, "w", encoding="utf-8") as f:
+        for url in sorted(urls):
+            f.write(url + "\n")
 
 
 def find_matched_words(text, words):
@@ -115,6 +124,9 @@ def fetch_articles():
             link = entry.get("link", "")
             summary = entry.get("summary", "")
 
+            if not link:
+                continue
+
             articles.append({
                 "source": name,
                 "title": title,
@@ -165,9 +177,19 @@ def main():
     filters = load_yaml("config/filters.yaml")
     articles = fetch_articles()
 
+    posted_urls = load_posted_urls()
+    new_posted_urls = set(posted_urls)
+
     messages = []
+    posted_count_candidates = []
 
     for article in articles:
+        url = article["link"]
+
+        # すでに投稿済みのURLならスキップ
+        if url in posted_urls:
+            continue
+
         judgement = judge_article(
             article["title"],
             article.get("summary", ""),
@@ -178,13 +200,23 @@ def main():
             continue
 
         messages.append(build_slack_message(article, judgement))
+        posted_count_candidates.append(url)
 
     if not messages:
-        print("該当ニュースなし。Slack通知は行いません。")
+        print("新規該当ニュースなし。Slack通知は行いません。")
         return
 
-    print(f"{len(messages)}件のニュースをSlackへ投稿します。")
+    print(f"{len(messages)}件の新規ニュースをSlackへ投稿します。")
+
     post_to_slack(messages)
+
+    # Slack投稿に成功した後だけ、投稿済みURLとして保存
+    for url in posted_count_candidates:
+        new_posted_urls.add(url)
+
+    save_posted_urls(new_posted_urls)
+
+    print(f"投稿済みURLを {STATE_FILE} に保存しました。")
 
 
 if __name__ == "__main__":

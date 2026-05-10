@@ -16,7 +16,7 @@ sources:
   - name: HOTERES ONLINE
     url: https://www.hoteresonline.com/feed
 
-  # 地域経済ニュース
+  # 地域経済ニュース：第1弾
   - name: シブヤ経済新聞
     url: https://www.shibukei.com/headline/rss.xml
 
@@ -32,3 +32,34 @@ sources:
 
   - name: Breaking Travel News - Hotel
     url: https://feeds.feedburner.com/breakingtravelnews/news/hotel
+
+  # 地域経済ニュース：第2弾
+  - name: 梅田経済新聞
+    url: https://umeda.keizai.biz/headline/rss.xml
+
+  - name: 神戸経済新聞
+    url: https://kobe.keizai.biz/headline/rss.xml
+
+  - name: 烏丸経済新聞
+    url: https://karasuma.keizai.biz/headline/rss.xml
+
+  - name: 天神経済新聞
+    url: https://tenjin.keizai.biz/headline/rss.xml
+
+  - name: 大宮経済新聞
+    url: https://omiya.keizai.biz/headline/rss.xml
+
+  - name: 松本経済新聞
+    url: https://matsumoto.keizai.biz/headline/rss.xml
+
+  - name: 調布経済新聞
+    url: https://chofu.keizai.biz/headline/rss.xml
+
+  - name: アキバ経済新聞
+    url: https://akiba.keizai.biz/headline/rss.xml
+
+  - name: すみだ経済新聞
+    url: https://sumida.keizai.biz/headline/rss.xml
+
+  - name: みんなの経済新聞ネットワーク
+    url: https://minkei.net/headline/rss.xml

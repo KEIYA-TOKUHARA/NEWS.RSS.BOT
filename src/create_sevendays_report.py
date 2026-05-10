@@ -224,20 +224,19 @@ def slide_changes(prs, changes_data):
 
     year = changes_data.get("2026", {})
     # Feb=day0-27, Mar=day28-58, Apr=day59-88
-    feb_total = sum(year.get(i, 0) for i in range(0, 28))
     mar_total = sum(year.get(i, 0) for i in range(28, 59))
     apr_total = sum(year.get(i, 0) for i in range(59, 89))
 
     fig, ax = plt.subplots(figsize=(4.2, 3.8))
-    bars = ax.bar(["2月", "3月", "4月"],
-                  [feb_total, mar_total, apr_total],
+    bars = ax.bar(["3月", "4月"],
+                  [mar_total, apr_total],
                   color=C_2026, width=0.5, zorder=3)
     ax.set_title("月別変動回数合計（全OTA・2026年）", fontsize=10, fontweight="bold")
     ax.yaxis.grid(True, linestyle="--", alpha=0.5, zorder=0)
     ax.set_axisbelow(True)
     ax.spines["top"].set_visible(False)
     ax.spines["right"].set_visible(False)
-    for bar_, total in zip(bars, [feb_total, mar_total, apr_total]):
+    for bar_, total in zip(bars, [mar_total, apr_total]):
         ax.text(bar_.get_x() + bar_.get_width() / 2,
                 bar_.get_height() * 1.03,
                 f"{total:,}", ha="center", fontsize=12, fontweight="bold")

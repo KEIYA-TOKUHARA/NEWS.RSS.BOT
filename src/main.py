@@ -2,6 +2,8 @@ import feedparser
 import yaml
 import requests
 import os
+import re
+import html
 from pathlib import Path
 
 
@@ -14,7 +16,6 @@ def load_yaml(path):
 
 
 def load_posted_urls():
-    """投稿済みURL一覧を読み込む"""
     if not STATE_FILE.exists():
         return set()
 
@@ -23,7 +24,6 @@ def load_posted_urls():
 
 
 def save_posted_urls(urls):
-    """投稿済みURL一覧を保存する"""
     STATE_FILE.parent.mkdir(exist_ok=True)
 
     with open(STATE_FILE, "w", encoding="utf-8") as f:
@@ -31,8 +31,146 @@ def save_posted_urls(urls):
             f.write(url + "\n")
 
 
+def clean_xml_text(text):
+    if not text:
+        return ""
+    return re.sub(r"[\x00-\x08\x0B\x0C\x0E-\x1F]", "", text)
+
+
+def normalize_encoding_name(encoding):
+    if not encoding:
+        return None
+
+    enc = encoding.lower().strip()
+
+    if enc in ["cp51932", "x-euc-jp", "eucjp", "euc-jp"]:
+        return "euc_jp"
+
+    if enc in ["shift_jis", "shift-jis", "sjis", "cp932"]:
+        return "cp932"
+
+    return enc
+
+
+def decode_response_content(response):
+    candidates = []
+
+    if response.encoding:
+        candidates.append(response.encoding)
+
+    if response.apparent_encoding:
+        candidates.append(response.apparent_encoding)
+
+    candidates.extend(["utf-8", "euc_jp", "cp932", "shift_jis"])
+
+    tried = set()
+
+    for enc in candidates:
+        enc = normalize_encoding_name(enc)
+
+        if not enc or enc in tried:
+            continue
+
+        tried.add(enc)
+
+        try:
+            return response.content.decode(enc, errors="ignore")
+        except Exception:
+            continue
+
+    return response.content.decode("utf-8", errors="ignore")
+
+
+def strip_tags(text):
+    if not text:
+        return ""
+
+    text = re.sub(r"<[^>]+>", "", text)
+    text = html.unescape(text)
+    return text.strip()
+
+
+def extract_tag(block, tag):
+    pattern = rf"<{tag}[^>]*>(.*?)</{tag}>"
+    m = re.search(pattern, block, flags=re.I | re.S)
+
+    if not m:
+        return ""
+
+    value = m.group(1)
+    value = re.sub(r"<!\[CDATA\[(.*?)\]\]>", r"\1", value, flags=re.S)
+    return strip_tags(value)
+
+
+def fallback_extract_items(text):
+    items = []
+    blocks = re.findall(r"<item\b.*?</item>", text, flags=re.I | re.S)
+
+    for block in blocks:
+        title = extract_tag(block, "title")
+        link = extract_tag(block, "link")
+        summary = extract_tag(block, "description")
+
+        if not title or not link:
+            continue
+
+        items.append({
+            "title": title,
+            "link": link,
+            "summary": summary
+        })
+
+    return items
+
+
+def parse_feed_items(url):
+    headers = {
+        "User-Agent": "Mozilla/5.0 (compatible; hospitality-news-bot/1.0)"
+    }
+
+    feed = feedparser.parse(url)
+    entries = getattr(feed, "entries", [])
+
+    if entries:
+        parsed_items = []
+        for entry in entries:
+            parsed_items.append({
+                "title": entry.get("title", ""),
+                "link": entry.get("link", ""),
+                "summary": entry.get("summary", "") or entry.get("description", "")
+            })
+
+        return parsed_items, getattr(feed, "bozo", 0), getattr(feed, "bozo_exception", None)
+
+    response = requests.get(url, headers=headers, timeout=20)
+    response.raise_for_status()
+
+    text = decode_response_content(response)
+    text = clean_xml_text(text)
+
+    feed2 = feedparser.parse(text)
+    entries2 = getattr(feed2, "entries", [])
+
+    if entries2:
+        parsed_items = []
+        for entry in entries2:
+            parsed_items.append({
+                "title": entry.get("title", ""),
+                "link": entry.get("link", ""),
+                "summary": entry.get("summary", "") or entry.get("description", "")
+            })
+
+        return parsed_items, getattr(feed2, "bozo", 0), getattr(feed2, "bozo_exception", None)
+
+    fallback_items = fallback_extract_items(text)
+
+    if fallback_items:
+        return fallback_items, 1, "fallback_extract_items"
+
+    return [], getattr(feed2, "bozo", 0), getattr(feed2, "bozo_exception", "entriesなし")
+
+
 def find_matched_words(text, words):
-    """一致したワードを一覧で返す"""
     matched = []
 
     if not text:
@@ -46,27 +184,14 @@ def find_matched_words(text, words):
 
 
 def judge_article(title, summary, filters):
-    """
-    ニュース記事を判定する。
-    条件：
-    1. 宿泊施設ワードが含まれる
-    2. 除外ワードが含まれない
-    3. カテゴリ別案件ワードが含まれる
-    """
-    text = f"{title} {summary}"
+    full_text = f"{title} {summary}"
 
     hospitality_words = filters.get("hospitality_words", [])
     exclude_words = filters.get("exclude_words", [])
     categories = filters.get("categories", {})
 
-    matched_hospitality = find_matched_words(text, hospitality_words)
-    matched_exclude = find_matched_words(text, exclude_words)
+    matched_exclude = find_matched_words(full_text, exclude_words)
 
-    # 宿泊施設ワードがなければ除外
-    if not matched_hospitality:
-        return None
-
-    # 除外ワードがあれば除外
     if matched_exclude:
         return None
 
@@ -74,71 +199,115 @@ def judge_article(title, summary, filters):
 
     for category_key, category_data in categories.items():
         category_keywords = category_data.get("keywords", [])
-        matched_keywords = find_matched_words(text, category_keywords)
+        title_hospitality_required = category_data.get("title_hospitality_required", False)
+
+        if title_hospitality_required:
+            matched_hospitality = find_matched_words(title, hospitality_words)
+
+            if not matched_hospitality:
+                continue
+
+            matched_keywords = find_matched_words(full_text, category_keywords)
+        else:
+            matched_hospitality = find_matched_words(full_text, hospitality_words)
+
+            if not matched_hospitality:
+                continue
+
+            matched_keywords = find_matched_words(full_text, category_keywords)
 
         if matched_keywords:
             matched_categories.append({
                 "key": category_key,
                 "label": category_data.get("label", category_key),
                 "priority": category_data.get("priority", 999),
+                "matched_hospitality": matched_hospitality,
                 "matched_keywords": matched_keywords
             })
 
-    # 案件性ワードがなければ除外
     if not matched_categories:
         return None
 
-    # 優先度が高いカテゴリを採用
     matched_categories.sort(key=lambda x: x["priority"])
     best = matched_categories[0]
 
     return {
         "category": best["label"],
-        "matched_hospitality": matched_hospitality,
+        "matched_hospitality": best["matched_hospitality"],
         "matched_keywords": best["matched_keywords"]
     }
 
 
 def fetch_articles():
-    """RSSから記事を取得する"""
     sources = load_yaml("config/sources.yaml")
     articles = []
 
-    # sources.yaml が sources: の形でも、リスト直書きでも動くようにする
     if isinstance(sources, dict):
         source_list = sources.get("sources", [])
     else:
         source_list = sources
+
+    stats = {
+        "target_sources": len(source_list),
+        "success_sources": 0,
+        "failed_sources": 0,
+        "warning_sources": 0,
+        "total_articles": 0,
+        "failed_source_details": [],
+        "warning_source_details": []
+    }
 
     for source in source_list:
         name = source.get("name", "unknown")
         url = source.get("url")
 
         if not url:
+            stats["failed_sources"] += 1
+            stats["failed_source_details"].append(f"{name}: URLなし")
             continue
 
-        feed = feedparser.parse(url)
+        try:
+            items, bozo, bozo_exception = parse_feed_items(url)
 
-        for entry in feed.entries:
-            title = entry.get("title", "")
-            link = entry.get("link", "")
-            summary = entry.get("summary", "")
-
-            if not link:
+            if not items:
+                stats["failed_sources"] += 1
+                stats["failed_source_details"].append(f"{name}: {bozo_exception or 'entriesなし'}")
                 continue
 
-            articles.append({
-                "source": name,
-                "title": title,
-                "link": link,
-                "summary": summary
-            })
+            if bozo:
+                stats["warning_sources"] += 1
+                stats["warning_source_details"].append(f"{name}: {bozo_exception or 'RSS警告'}")
 
-    return articles
+            entry_count = 0
+
+            for item in items:
+                title = item.get("title", "")
+                link = item.get("link", "")
+                summary = item.get("summary", "")
+
+                if not link:
+                    continue
+
+                articles.append({
+                    "source": name,
+                    "title": title,
+                    "link": link,
+                    "summary": summary
+                })
+
+                entry_count += 1
+
+            stats["success_sources"] += 1
+            stats["total_articles"] += entry_count
+
+        except Exception as e:
+            stats["failed_sources"] += 1
+            stats["failed_source_details"].append(f"{name}: {e}")
+
+    return articles, stats
 
 
 def build_slack_message(article, judgement):
-    """Slack投稿用の本文を作る"""
     title = article["title"]
     link = article["link"]
     source = article["source"]
@@ -158,7 +327,6 @@ def build_slack_message(article, judgement):
 
 
 def post_to_slack(messages):
-    """Slackに投稿する"""
     webhook_url = os.environ.get("SLACK_WEBHOOK_URL")
 
     if not webhook_url:
@@ -173,9 +341,33 @@ def post_to_slack(messages):
         response.raise_for_status()
 
 
+def print_run_summary(stats, duplicate_skip_count, matched_count, slack_post_count):
+    print("========== 実行サマリー ==========")
+    print(f"対象サイト数：{stats['target_sources']}")
+    print(f"取得成功サイト数：{stats['success_sources']}")
+    print(f"取得失敗サイト数：{stats['failed_sources']}")
+    print(f"取得警告サイト数：{stats['warning_sources']}")
+    print(f"取得記事数：{stats['total_articles']}")
+    print(f"重複スキップ数：{duplicate_skip_count}")
+    print(f"条件一致数：{matched_count}")
+    print(f"Slack投稿数：{slack_post_count}")
+
+    if stats["warning_source_details"]:
+        print("---------- 取得警告サイト ----------")
+        for detail in stats["warning_source_details"]:
+            print(detail)
+
+    if stats["failed_source_details"]:
+        print("---------- 取得失敗サイト ----------")
+        for detail in stats["failed_source_details"]:
+            print(detail)
+
+    print("==================================")
+
+
 def main():
     filters = load_yaml("config/filters.yaml")
-    articles = fetch_articles()
+    articles, stats = fetch_articles()
 
     posted_urls = load_posted_urls()
     new_posted_urls = set(posted_urls)
@@ -183,11 +375,14 @@ def main():
     messages = []
     posted_count_candidates = []
 
+    duplicate_skip_count = 0
+    matched_count = 0
+
     for article in articles:
         url = article["link"]
 
-        # すでに投稿済みのURLならスキップ
         if url in posted_urls:
+            duplicate_skip_count += 1
             continue
 
         judgement = judge_article(
@@ -199,10 +394,17 @@ def main():
         if not judgement:
             continue
 
+        matched_count += 1
         messages.append(build_slack_message(article, judgement))
         posted_count_candidates.append(url)
 
     if not messages:
+        print_run_summary(
+            stats=stats,
+            duplicate_skip_count=duplicate_skip_count,
+            matched_count=matched_count,
+            slack_post_count=0
+        )
         print("新規該当ニュースなし。Slack通知は行いません。")
         return
 
@@ -210,13 +412,19 @@ def main():
 
     post_to_slack(messages)
 
-    # Slack投稿に成功した後だけ、投稿済みURLとして保存
     for url in posted_count_candidates:
         new_posted_urls.add(url)
 
     save_posted_urls(new_posted_urls)
 
     print(f"投稿済みURLを {STATE_FILE} に保存しました。")
+
+    print_run_summary(
+        stats=stats,
+        duplicate_skip_count=duplicate_skip_count,
+        matched_count=matched_count,
+        slack_post_count=len(messages)
+    )
 
 
 if __name__ == "__main__":

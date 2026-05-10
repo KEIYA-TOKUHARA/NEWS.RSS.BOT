@@ -4,7 +4,6 @@
 # 「宿泊施設ワード」 AND 「案件性ワード」 AND NOT 「除外ワード」
 # =========================================
 
-# 宿泊施設らしさを判定するワード
 hospitality_words:
   - ホテル
   - 旅館
@@ -24,7 +23,6 @@ hospitality_words:
   - アパートメントホテル
   - オーベルジュ
 
-# 全体で除外したいノイズワード
 exclude_words:
   - 周年
   - 1周年
@@ -42,7 +40,6 @@ exclude_words:
   - ディナー
   - スイーツ
   - グルメ
-  - イベント
   - 採用
   - 求人
   - インターン
@@ -61,13 +58,28 @@ exclude_words:
   - 式典
   - 表彰
 
-# カテゴリ別の案件性ワード
 categories:
 
-  # Sランク：開業予定・開発計画
+  renovation:
+    label: "B：施設リニューアル・改装"
+    priority: 1
+    title_hospitality_required: true
+    keywords:
+      - リニューアル
+      - 改装
+      - 改修
+      - 大規模改修
+      - 客室改装
+      - リノベーション
+      - 刷新
+      - 再整備
+      - 再開
+      - リニューアルオープン
+
   opening_plan:
     label: "S：開業予定・開発計画"
-    priority: 1
+    priority: 2
+    title_hospitality_required: true
     keywords:
       - 開業予定
       - 開業
@@ -101,10 +113,9 @@ categories:
       - 2029年開業
       - 2030年開業
 
-  # Aランク：運営変更・運営受託
   operator_change:
     label: "A：運営変更・運営受託"
-    priority: 2
+    priority: 3
     keywords:
       - 運営会社変更
       - 運営会社
@@ -121,10 +132,9 @@ categories:
       - リブランド
       - ブランド変更
 
-  # Aランク：新規参入・宿泊事業開始
   new_entry:
     label: "A：新規参入・宿泊事業開始"
-    priority: 3
+    priority: 4
     keywords:
       - 参入
       - 新規参入
@@ -138,10 +148,9 @@ categories:
       - 展開開始
       - 事業開始
 
-  # Bランク：倒産・譲渡・再生
   distress:
     label: "B：倒産・譲渡・再生"
-    priority: 4
+    priority: 5
     keywords:
       - 破産
       - 倒産
@@ -156,10 +165,9 @@ categories:
       - 再生支援
       - スポンサー支援
 
-  # Bランク：宿泊DX・システム導入
   dx_system:
     label: "B：宿泊DX・システム導入"
-    priority: 5
+    priority: 6
     keywords:
       - DX
       - 省人化
@@ -182,10 +190,9 @@ categories:
       - キャッシュレス
       - 無人運営
 
-  # Cランク：業界動向・企業戦略
   industry_strategy:
     label: "C：業界動向・企業戦略"
-    priority: 6
+    priority: 7
     keywords:
       - 中期計画
       - 中期経営計画

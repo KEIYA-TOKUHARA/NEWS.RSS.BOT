@@ -10,6 +10,7 @@ google_news:
     hl: ja
     gl: JP
     ceid: JP:ja
+    recent_window: 14d
 
   queries:
     - name: Yahoo ホテル開業
@@ -42,3 +43,59 @@ google_news:
       query: 'site:hoteresonline.com (ホテル OR 旅館 OR 宿泊施設 OR 客室) (開業 OR 改装 OR 運営 OR リニューアル OR DX)'
     - name: 訪日ラボ宿泊補完
       query: 'site:honichi.com/news (ホテル OR 旅館 OR 宿泊施設 OR 観光) (開業 OR 運営 OR インバウンド OR DX)'
+    - name: 温泉旅館再生
+      query: '(温泉旅館 OR 老舗旅館 OR 旅館) (再生 OR 譲渡 OR 買収 OR リニューアル OR 改修 OR 閉館)'
+    - name: 古民家宿
+      query: '(古民家 OR 町家 OR 空き家) (宿 OR ホテル OR 旅館 OR 宿泊施設) (開業 OR 改修 OR 再生 OR オープン)'
+    - name: 廃校ホテル
+      query: '(廃校 OR 旧校舎 OR 旧小学校) (ホテル OR 宿泊施設 OR グランピング) (開業 OR 活用 OR 改修)'
+    - name: グランピング開業
+      query: '(グランピング OR ヴィラ OR 一棟貸し OR 貸別荘) (開業 OR オープン OR 新設 OR 参入 OR 運営開始)'
+    - name: 道の駅宿泊
+      query: '(道の駅 OR 観光拠点) (ホテル OR 宿泊施設 OR グランピング OR RVパーク) (開業 OR 整備 OR 再開発)'
+    - name: 駅前ホテル建設
+      query: '(駅前 OR 駅周辺 OR 駅近く) (ホテル OR 宿泊施設) (建設 OR 開業 OR 再開発 OR 複合施設)'
+    - name: 空港周辺ホテル
+      query: '(空港 OR 空港周辺) (ホテル OR 宿泊施設) (開業 OR 建設 OR リニューアル OR 運営)'
+    - name: 観光地宿泊整備
+      query: '(観光地 OR 温泉街 OR リゾート地) (ホテル OR 旅館 OR 宿泊施設) (整備 OR 開発 OR 再生 OR 改修)'
+    - name: 自治体宿泊施設
+      query: '(自治体 OR 市 OR 町 OR 村) (宿泊施設 OR ホテル OR 旅館) (整備 OR 公募 OR 指定管理 OR 運営事業者)'
+    - name: 指定管理宿泊
+      query: '(宿泊施設 OR 温泉施設 OR 国民宿舎) (指定管理者 OR 指定管理 OR 運営事業者 OR 公募)'
+    - name: 国民宿舎公共宿
+      query: '(国民宿舎 OR 公共の宿 OR 保養所) (再開 OR 閉館 OR 民営化 OR 譲渡 OR 指定管理)'
+    - name: ホテルブランド展開
+      query: '(ホテルブランド OR 新ブランド OR ブランド展開) (開業 OR 出店 OR 展開 OR 進出)'
+    - name: 外資系ホテル
+      query: '(外資系ホテル OR ラグジュアリーホテル OR インターナショナルホテル) (開業 OR 進出 OR 運営 OR 建設)'
+    - name: 不動産ホテル開発
+      query: '(不動産会社 OR デベロッパー OR 投資法人 OR REIT) (ホテル OR 宿泊施設) (取得 OR 開発 OR 売却 OR 運営)'
+    - name: ホテルREIT
+      query: '(ホテル OR 旅館) (REIT OR 投資法人 OR ファンド OR 取得 OR 売却)'
+    - name: 旅館事業承継
+      query: '(旅館 OR ホテル OR 宿泊業) (事業承継 OR 後継者 OR 譲渡 OR M&A OR 再生)'
+    - name: ホテル倒産閉館
+      query: '(ホテル OR 旅館 OR 宿泊施設) (倒産 OR 破産 OR 閉館 OR 営業終了 OR 民事再生)'
+    - name: 宿泊人手不足省人化
+      query: '(ホテル OR 旅館 OR 宿泊業) (人手不足 OR 省人化 OR 無人運営 OR 自動チェックイン OR セルフチェックイン)'
+    - name: PMSサイトコントローラー
+      query: '(宿泊施設 OR ホテル OR 旅館) (PMS OR サイトコントローラー OR サイトコントローラ OR チャネルマネージャー)'
+    - name: 予約エンジンRMS
+      query: '(ホテル OR 旅館 OR 宿泊施設) (予約エンジン OR RMS OR レベニューマネジメント OR ダイナミックプライシング)'
+    - name: インバウンド宿泊投資
+      query: '(インバウンド OR 訪日客 OR 外国人観光客) (ホテル OR 旅館 OR 宿泊施設) (開業 OR 投資 OR 改装 OR 需要)'
+    - name: 地方創生宿泊
+      query: '(地方創生 OR 観光振興 OR まちづくり) (ホテル OR 旅館 OR 宿泊施設) (開業 OR 整備 OR 再生)'
+    - name: スキーリゾート宿泊
+      query: '(スキー場 OR リゾート) (ホテル OR 旅館 OR 宿泊施設) (開業 OR 改修 OR 再開発 OR 外資)'
+    - name: 離島宿泊
+      query: '(離島 OR 島) (ホテル OR 旅館 OR 宿泊施設 OR グランピング) (開業 OR 整備 OR 観光)'
+    - name: 大阪関西万博宿泊
+      query: '(大阪 OR 関西) (ホテル OR 宿泊施設) (開業 OR 建設 OR 改装 OR インバウンド)'
+    - name: IRホテル
+      query: '(IR OR 統合型リゾート OR カジノ) (ホテル OR 宿泊施設) (開業 OR 建設 OR 運営 OR 開発)'
+    - name: PR TIMES宿泊開業
+      query: 'site:prtimes.jp (ホテル OR 旅館 OR 宿泊施設 OR グランピング) (開業 OR オープン OR リニューアル OR 運営開始)'
+    - name: 地方紙ホテル開業
+      query: '(ホテル OR 旅館 OR 宿泊施設) (開業 OR 建設 OR 再開発) (新聞 OR WEB OR ニュース)'

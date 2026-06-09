@@ -18,7 +18,10 @@ def load_yaml(path):
         return yaml.safe_load(f)
 
 
-def build_google_news_rss_url(query, hl="ja", gl="JP", ceid="JP:ja"):
+def build_google_news_rss_url(query, hl="ja", gl="JP", ceid="JP:ja", recent_window=None):
+    if recent_window and "when:" not in query:
+        query = f"{query} when:{recent_window}"
+
     params = {
         "q": query,
         "hl": hl,
@@ -56,11 +59,25 @@ def load_search_sources():
                 query=query,
                 hl=defaults.get("hl", "ja"),
                 gl=defaults.get("gl", "JP"),
-                ceid=defaults.get("ceid", "JP:ja")
-            )
+                ceid=defaults.get("ceid", "JP:ja"),
+                recent_window=defaults.get("recent_window")
+            ),
+            "source_type": "search",
+            "query_name": name
         })
 
     return sources
+
+
+def init_source_stats(name, source_type):
+    return {
+        "name": name,
+        "source_type": source_type,
+        "fetched": 0,
+        "duplicates": 0,
+        "matched": 0,
+        "posted": 0
+    }
 
 
 def load_posted_urls():
@@ -292,10 +309,35 @@ def judge_article(title, summary, filters):
     best = matched_categories[0]
 
     return {
+        "category_key": best["key"],
         "category": best["label"],
+        "priority": best["priority"],
         "matched_hospitality": best["matched_hospitality"],
         "matched_keywords": best["matched_keywords"]
     }
+
+
+def score_article(title, judgement):
+    score = max(40, 105 - judgement["priority"] * 10)
+    title_matches = (
+        find_matched_words(title, judgement["matched_hospitality"])
+        + find_matched_words(title, judgement["matched_keywords"])
+    )
+
+    if title_matches:
+        score += min(10, len(set(title_matches)) * 3)
+
+    return min(score, 100)
+
+
+def importance_label(score):
+    if score >= 90:
+        return "S"
+    if score >= 80:
+        return "A"
+    if score >= 70:
+        return "B"
+    return "C"
 
 
 def fetch_articles():
@@ -315,6 +357,7 @@ def fetch_articles():
         "failed_sources": 0,
         "warning_sources": 0,
         "total_articles": 0,
+        "source_stats": {},
         "failed_source_details": [],
         "warning_source_details": []
     }
@@ -322,6 +365,8 @@ def fetch_articles():
     for source in source_list:
         name = source.get("name", "unknown")
         url = source.get("url")
+        source_type = source.get("source_type", "rss")
+        stats["source_stats"][name] = init_source_stats(name, source_type)
 
         if not url:
             stats["failed_sources"] += 1
@@ -352,6 +397,7 @@ def fetch_articles():
 
                 articles.append({
                     "source": name,
+                    "source_type": source_type,
                     "title": title,
                     "link": link,
                     "summary": summary
@@ -361,6 +407,7 @@ def fetch_articles():
 
             stats["success_sources"] += 1
             stats["total_articles"] += entry_count
+            stats["source_stats"][name]["fetched"] = entry_count
 
         except Exception as e:
             stats["failed_sources"] += 1
@@ -376,11 +423,14 @@ def build_slack_message(article, judgement):
     summary = make_summary(article.get("summary", ""))
 
     category = judgement["category"]
+    score = judgement["score"]
+    importance = judgement["importance"]
     matched_hospitality = "、".join(judgement["matched_hospitality"])
     matched_keywords = "、".join(judgement["matched_keywords"])
 
     message = (
         f"■{category}\n"
+        f"■ 重要度 {importance}（{score}点）\n"
         f"■ 記事タイトル {title}\n"
         f"■ URL {link}\n"
         f"■ 媒体 {source}\n"
@@ -406,6 +456,27 @@ def post_to_slack(messages):
         response.raise_for_status()
 
 
+def print_source_performance(stats):
+    source_stats = stats.get("source_stats", {})
+    rows = [
+        row for row in source_stats.values()
+        if row["fetched"] or row["duplicates"] or row["matched"] or row["posted"]
+    ]
+
+    if not rows:
+        return
+
+    rows.sort(key=lambda row: (row["posted"], row["matched"], row["fetched"]), reverse=True)
+
+    print("---------- 取得元別パフォーマンス TOP20 ----------")
+    for row in rows[:20]:
+        print(
+            f"{row['name']} [{row['source_type']}]: "
+            f"取得{row['fetched']} / 重複{row['duplicates']} / "
+            f"一致{row['matched']} / 投稿{row['posted']}"
+        )
+
+
 def print_run_summary(stats, duplicate_skip_count, matched_count, slack_post_count):
     print("========== 実行サマリー ==========")
     print(f"対象サイト数：{stats['target_sources']}")
@@ -416,6 +487,8 @@ def print_run_summary(stats, duplicate_skip_count, matched_count, slack_post_cou
     print(f"重複スキップ数：{duplicate_skip_count}")
     print(f"条件一致数：{matched_count}")
     print(f"Slack投稿数：{slack_post_count}")
+
+    print_source_performance(stats)
 
     if stats["warning_source_details"]:
         print("---------- 取得警告サイト ----------")
@@ -439,6 +512,7 @@ def main():
 
     messages = []
     posted_count_candidates = []
+    matched_items = []
     seen_run_urls = set()
 
     duplicate_skip_count = 0
@@ -446,9 +520,13 @@ def main():
 
     for article in articles:
         url = article["link"]
+        source_name = article["source"]
+        source_stats = stats["source_stats"].get(source_name)
 
         if url in posted_urls or url in seen_run_urls:
             duplicate_skip_count += 1
+            if source_stats:
+                source_stats["duplicates"] += 1
             continue
 
         seen_run_urls.add(url)
@@ -462,9 +540,31 @@ def main():
         if not judgement:
             continue
 
+        judgement["score"] = score_article(article["title"], judgement)
+        judgement["importance"] = importance_label(judgement["score"])
+
         matched_count += 1
-        messages.append(build_slack_message(article, judgement))
-        posted_count_candidates.append(url)
+        if source_stats:
+            source_stats["matched"] += 1
+            source_stats["posted"] += 1
+
+        matched_items.append({
+            "article": article,
+            "judgement": judgement,
+            "url": url
+        })
+
+    matched_items.sort(
+        key=lambda item: (
+            item["judgement"]["score"],
+            -item["judgement"]["priority"]
+        ),
+        reverse=True
+    )
+
+    for item in matched_items:
+        messages.append(build_slack_message(item["article"], item["judgement"]))
+        posted_count_candidates.append(item["url"])
 
     if not messages:
         print_run_summary(

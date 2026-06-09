@@ -4,18 +4,29 @@ import requests
 import os
 import re
 import html
+import json
 from pathlib import Path
 from urllib.parse import urlencode
 
 
 STATE_FILE = Path("state/posted_urls.txt")
 SEARCH_CONFIG_FILE = Path("config/search_queries.yaml")
+AI_CONFIG_FILE = Path("config/ai_judgement.yaml")
 GOOGLE_NEWS_RSS_BASE = "https://news.google.com/rss/search"
+OPENAI_CHAT_COMPLETIONS_URL = "https://api.openai.com/v1/chat/completions"
 
 
 def load_yaml(path):
     with open(path, "r", encoding="utf-8") as f:
         return yaml.safe_load(f)
+
+
+def load_ai_config():
+    if not AI_CONFIG_FILE.exists():
+        return {"enabled": False}
+
+    config = load_yaml(AI_CONFIG_FILE) or {}
+    return config.get("ai_judgement", {"enabled": False})
 
 
 def build_google_news_rss_url(query, hl="ja", gl="JP", ceid="JP:ja", recent_window=None):
@@ -76,6 +87,8 @@ def init_source_stats(name, source_type):
         "fetched": 0,
         "duplicates": 0,
         "matched": 0,
+        "ai_screened": 0,
+        "ai_rejected": 0,
         "posted": 0
     }
 
@@ -340,6 +353,127 @@ def importance_label(score):
     return "C"
 
 
+def get_ai_enabled(ai_config):
+    return bool(ai_config.get("enabled")) and bool(os.environ.get("OPENAI_API_KEY"))
+
+
+def build_ai_prompt(article, judgement, ai_config):
+    criteria = ai_config.get("criteria", {})
+    title = clean_display_text(article.get("title", ""))
+    summary = make_summary(article.get("summary", ""), max_chars=700)
+
+    return (
+        "あなたは宿泊業界向けニュースBotの二次判定担当です。\n"
+        "以下の記事候補が、宿泊施設向けの営業・業界把握に有用か判定してください。\n"
+        "必ずJSONだけを返してください。\n\n"
+        f"対象: {criteria.get('target', '')}\n"
+        f"除外: {criteria.get('reject', '')}\n\n"
+        f"媒体: {article.get('source', '')}\n"
+        f"タイトル: {title}\n"
+        f"概要: {summary}\n"
+        f"キーワード分類: {judgement.get('category', '')}\n"
+        f"キーワード判定理由: "
+        f"{'、'.join(judgement.get('matched_hospitality', []))} × "
+        f"{'、'.join(judgement.get('matched_keywords', []))}\n\n"
+        "返すJSON形式:\n"
+        "{\n"
+        '  "relevant": true,\n'
+        '  "score": 0,\n'
+        '  "importance": "S",\n'
+        '  "reason": "30文字以内の理由",\n'
+        '  "summary": "60文字以内の要約"\n'
+        "}\n"
+        "scoreは0-100、importanceはS/A/B/Cのいずれか。"
+    )
+
+
+def call_openai_json(prompt, ai_config):
+    api_key = os.environ.get("OPENAI_API_KEY")
+
+    if not api_key:
+        return None
+
+    model = os.environ.get("OPENAI_MODEL") or ai_config.get("model", "gpt-4.1-mini")
+
+    payload = {
+        "model": model,
+        "messages": [
+            {
+                "role": "system",
+                "content": "You return strict JSON only. No markdown."
+            },
+            {
+                "role": "user",
+                "content": prompt
+            }
+        ],
+        "temperature": 0,
+        "response_format": {"type": "json_object"}
+    }
+
+    response = requests.post(
+        OPENAI_CHAT_COMPLETIONS_URL,
+        headers={
+            "Authorization": f"Bearer {api_key}",
+            "Content-Type": "application/json"
+        },
+        json=payload,
+        timeout=ai_config.get("timeout_seconds", 20)
+    )
+    response.raise_for_status()
+
+    content = response.json()["choices"][0]["message"]["content"]
+    return json.loads(content)
+
+
+def normalize_ai_result(result):
+    if not isinstance(result, dict):
+        return None
+
+    raw_relevant = result.get("relevant")
+    if isinstance(raw_relevant, str):
+        relevant = raw_relevant.strip().lower() in {"true", "yes", "1", "relevant"}
+    else:
+        relevant = bool(raw_relevant)
+
+    try:
+        score = int(result.get("score", 0))
+    except (TypeError, ValueError):
+        score = 0
+
+    score = max(0, min(score, 100))
+    importance = str(result.get("importance") or importance_label(score)).upper()
+
+    if importance not in {"S", "A", "B", "C"}:
+        importance = importance_label(score)
+
+    return {
+        "relevant": relevant,
+        "score": score,
+        "importance": importance,
+        "reason": clean_display_text(str(result.get("reason", "")))[:60],
+        "summary": clean_display_text(str(result.get("summary", "")))[:100]
+    }
+
+
+def ai_judge_article(article, judgement, ai_config):
+    prompt = build_ai_prompt(article, judgement, ai_config)
+    result = call_openai_json(prompt, ai_config)
+    return normalize_ai_result(result)
+
+
+def apply_ai_result(judgement, ai_result):
+    judgement["ai"] = ai_result
+    judgement["score"] = ai_result["score"]
+    judgement["importance"] = ai_result["importance"]
+
+    if ai_result.get("summary"):
+        judgement["ai_summary"] = ai_result["summary"]
+
+    if ai_result.get("reason"):
+        judgement["ai_reason"] = ai_result["reason"]
+
+
 def fetch_articles():
     sources = load_yaml("config/sources.yaml")
     articles = []
@@ -357,6 +491,10 @@ def fetch_articles():
         "failed_sources": 0,
         "warning_sources": 0,
         "total_articles": 0,
+        "ai_enabled": False,
+        "ai_screened": 0,
+        "ai_rejected": 0,
+        "ai_errors": 0,
         "source_stats": {},
         "failed_source_details": [],
         "warning_source_details": []
@@ -420,13 +558,14 @@ def build_slack_message(article, judgement):
     title = clean_display_text(article["title"])
     link = article["link"]
     source = article["source"]
-    summary = make_summary(article.get("summary", ""))
+    summary = judgement.get("ai_summary") or make_summary(article.get("summary", ""))
 
     category = judgement["category"]
     score = judgement["score"]
     importance = judgement["importance"]
     matched_hospitality = "、".join(judgement["matched_hospitality"])
     matched_keywords = "、".join(judgement["matched_keywords"])
+    ai_reason = judgement.get("ai_reason")
 
     message = (
         f"■{category}\n"
@@ -434,7 +573,9 @@ def build_slack_message(article, judgement):
         f"■ 記事タイトル {title}\n"
         f"■ URL {link}\n"
         f"■ 媒体 {source}\n"
-        f"■ 判定理由 {matched_hospitality} × {matched_keywords}\n"
+        f"■ 判定理由 {matched_hospitality} × {matched_keywords}"
+        + (f" / AI: {ai_reason}" if ai_reason else "")
+        + "\n"
         f"【概要】 {summary}"
     )
 
@@ -460,7 +601,14 @@ def print_source_performance(stats):
     source_stats = stats.get("source_stats", {})
     rows = [
         row for row in source_stats.values()
-        if row["fetched"] or row["duplicates"] or row["matched"] or row["posted"]
+        if (
+            row["fetched"]
+            or row["duplicates"]
+            or row["matched"]
+            or row["ai_screened"]
+            or row["ai_rejected"]
+            or row["posted"]
+        )
     ]
 
     if not rows:
@@ -473,7 +621,8 @@ def print_source_performance(stats):
         print(
             f"{row['name']} [{row['source_type']}]: "
             f"取得{row['fetched']} / 重複{row['duplicates']} / "
-            f"一致{row['matched']} / 投稿{row['posted']}"
+            f"一致{row['matched']} / AI判定{row['ai_screened']} / "
+            f"AI除外{row['ai_rejected']} / 投稿{row['posted']}"
         )
 
 
@@ -486,6 +635,10 @@ def print_run_summary(stats, duplicate_skip_count, matched_count, slack_post_cou
     print(f"取得記事数：{stats['total_articles']}")
     print(f"重複スキップ数：{duplicate_skip_count}")
     print(f"条件一致数：{matched_count}")
+    print(f"AI判定：{'有効' if stats.get('ai_enabled') else '無効'}")
+    print(f"AI判定数：{stats.get('ai_screened', 0)}")
+    print(f"AI除外数：{stats.get('ai_rejected', 0)}")
+    print(f"AIエラー数：{stats.get('ai_errors', 0)}")
     print(f"Slack投稿数：{slack_post_count}")
 
     print_source_performance(stats)
@@ -505,7 +658,12 @@ def print_run_summary(stats, duplicate_skip_count, matched_count, slack_post_cou
 
 def main():
     filters = load_yaml("config/filters.yaml")
+    ai_config = load_ai_config()
+    ai_enabled = get_ai_enabled(ai_config)
+    ai_limit = int(ai_config.get("max_items_per_run", 0) or 0)
+    min_ai_score_to_post = int(ai_config.get("min_score_to_post", 0) or 0)
     articles, stats = fetch_articles()
+    stats["ai_enabled"] = ai_enabled
 
     posted_urls = load_posted_urls()
     new_posted_urls = set(posted_urls)
@@ -517,6 +675,7 @@ def main():
 
     duplicate_skip_count = 0
     matched_count = 0
+    ai_used_count = 0
 
     for article in articles:
         url = article["link"]
@@ -546,6 +705,34 @@ def main():
         matched_count += 1
         if source_stats:
             source_stats["matched"] += 1
+
+        if ai_enabled and (ai_limit <= 0 or ai_used_count < ai_limit):
+            ai_used_count += 1
+            stats["ai_screened"] += 1
+            if source_stats:
+                source_stats["ai_screened"] += 1
+
+            try:
+                ai_result = ai_judge_article(article, judgement, ai_config)
+
+                if ai_result:
+                    apply_ai_result(judgement, ai_result)
+
+                    if (
+                        not ai_result["relevant"]
+                        or ai_result["score"] < min_ai_score_to_post
+                    ):
+                        stats["ai_rejected"] += 1
+                        if source_stats:
+                            source_stats["ai_rejected"] += 1
+                        continue
+            except Exception as e:
+                stats["ai_errors"] += 1
+                stats["warning_source_details"].append(
+                    f"{source_name}: AI判定失敗 {e}"
+                )
+
+        if source_stats:
             source_stats["posted"] += 1
 
         matched_items.append({

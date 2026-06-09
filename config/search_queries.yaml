@@ -1,0 +1,44 @@
+# =========================================
+# 検索RSS設定
+# =========================================
+# 個別メディアのRSSだけでは拾いづらい記事を、Google News RSSの
+# キーワード検索で補完する。Yahoo!ニュースの取りこぼし対策として、
+# site:news.yahoo.co.jp の検索も含める。
+
+google_news:
+  defaults:
+    hl: ja
+    gl: JP
+    ceid: JP:ja
+
+  queries:
+    - name: Yahoo ホテル開業
+      query: 'site:news.yahoo.co.jp (ホテル OR 旅館 OR 宿泊施設) (開業 OR オープン OR 新設 OR 建設 OR 再開発)'
+    - name: Yahoo ホテル改装
+      query: 'site:news.yahoo.co.jp (ホテル OR 旅館 OR 宿泊施設) (リニューアル OR 改装 OR 改修 OR リブランド)'
+    - name: Yahoo ホテル運営変更
+      query: 'site:news.yahoo.co.jp (ホテル OR 旅館 OR 宿泊施設) (運営受託 OR 運営開始 OR 買収 OR 取得 OR 事業譲渡)'
+    - name: Yahoo 宿泊DX
+      query: 'site:news.yahoo.co.jp (ホテル OR 旅館 OR 宿泊施設) (PMS OR サイトコントローラー OR 予約エンジン OR スマートロック OR 省人化)'
+    - name: ホテル開業計画
+      query: '(ホテル OR 旅館 OR 宿泊施設) (開業予定 OR 新規開業 OR 建設計画 OR 開発計画 OR 2026年開業 OR 2027年開業)'
+    - name: ホテル再開発
+      query: '(ホテル OR 旅館 OR 宿泊施設) (再開発 OR 複合施設 OR 着工 OR 起工 OR 竣工)'
+    - name: ホテルリニューアル
+      query: '(ホテル OR 旅館 OR 宿泊施設) (リニューアル OR リニューアルオープン OR 改装 OR 客室改装 OR リブランド)'
+    - name: ホテル運営受託
+      query: '(ホテル OR 旅館 OR 宿泊施設) (運営受託 OR 運営開始 OR 指定管理者 OR 管理運営 OR 業務委託)'
+    - name: ホテルM&A
+      query: '(ホテル OR 旅館 OR 宿泊施設) (買収 OR 取得 OR 事業譲渡 OR 民事再生 OR 破産 OR 閉館)'
+    - name: 宿泊事業参入
+      query: '(宿泊事業 OR ホテル事業 OR 旅館事業) (参入 OR 新規参入 OR 新ブランド OR 事業開始 OR 展開開始)'
+    - name: 民泊簡易宿所
+      query: '(民泊 OR 簡易宿所 OR ゲストハウス OR グランピング) (開業 OR 参入 OR リニューアル OR 運営開始)'
+    - name: 宿泊DX
+      query: '(ホテル OR 旅館 OR 宿泊施設) (PMS OR サイトコントローラー OR サイトコントローラ OR 予約エンジン OR RMS OR レベニューマネジメント)'
+    - name: HotelBank補完
+      query: 'site:hotelbank.jp (ホテル OR 旅館 OR 宿泊施設 OR 民泊 OR 客室)'
+    - name: HOTERES補完
+      query: 'site:hoteresonline.com (ホテル OR 旅館 OR 宿泊施設 OR 客室) (開業 OR 改装 OR 運営 OR リニューアル OR DX)'
+    - name: 訪日ラボ宿泊補完
+      query: 'site:honichi.com/news (ホテル OR 旅館 OR 宿泊施設 OR 観光) (開業 OR 運営 OR インバウンド OR DX)'

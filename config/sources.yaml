@@ -327,3 +327,9 @@ sources:
   url: https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml
 - name: ASCII.jp
   url: https://ascii.jp/rss.xml
+- name: Travel Watch
+  url: https://travel.watch.impress.co.jp/data/rss/1.0/trw/feed.rdf
+- name: TRAICY
+  url: https://www.traicy.com/feed
+- name: 旅行ニュース
+  url: https://www.travelnews.co.jp/feed/

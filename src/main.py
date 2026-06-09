@@ -5,14 +5,62 @@ import os
 import re
 import html
 from pathlib import Path
+from urllib.parse import urlencode
 
 
 STATE_FILE = Path("state/posted_urls.txt")
+SEARCH_CONFIG_FILE = Path("config/search_queries.yaml")
+GOOGLE_NEWS_RSS_BASE = "https://news.google.com/rss/search"
 
 
 def load_yaml(path):
     with open(path, "r", encoding="utf-8") as f:
         return yaml.safe_load(f)
+
+
+def build_google_news_rss_url(query, hl="ja", gl="JP", ceid="JP:ja"):
+    params = {
+        "q": query,
+        "hl": hl,
+        "gl": gl,
+        "ceid": ceid
+    }
+    return f"{GOOGLE_NEWS_RSS_BASE}?{urlencode(params)}"
+
+
+def load_search_sources():
+    if not SEARCH_CONFIG_FILE.exists():
+        return []
+
+    config = load_yaml(SEARCH_CONFIG_FILE) or {}
+    google_news = config.get("google_news", {})
+    defaults = google_news.get("defaults", {})
+    queries = google_news.get("queries", [])
+
+    sources = []
+
+    for item in queries:
+        if isinstance(item, str):
+            name = item
+            query = item
+        else:
+            name = item.get("name") or item.get("query")
+            query = item.get("query")
+
+        if not query:
+            continue
+
+        sources.append({
+            "name": f"Google News検索: {name}",
+            "url": build_google_news_rss_url(
+                query=query,
+                hl=defaults.get("hl", "ja"),
+                gl=defaults.get("gl", "JP"),
+                ceid=defaults.get("ceid", "JP:ja")
+            )
+        })
+
+    return sources
 
 
 def load_posted_urls():
@@ -154,7 +202,13 @@ def parse_feed_items(url):
         "User-Agent": "Mozilla/5.0 (compatible; hospitality-news-bot/1.0)"
     }
 
-    feed = feedparser.parse(url)
+    response = requests.get(url, headers=headers, timeout=12)
+    response.raise_for_status()
+
+    text = decode_response_content(response)
+    text = clean_xml_text(text)
+
+    feed = feedparser.parse(text)
     entries = getattr(feed, "entries", [])
 
     if entries:
@@ -168,32 +222,12 @@ def parse_feed_items(url):
 
         return parsed_items, getattr(feed, "bozo", 0), getattr(feed, "bozo_exception", None)
 
-    response = requests.get(url, headers=headers, timeout=20)
-    response.raise_for_status()
-
-    text = decode_response_content(response)
-    text = clean_xml_text(text)
-
-    feed2 = feedparser.parse(text)
-    entries2 = getattr(feed2, "entries", [])
-
-    if entries2:
-        parsed_items = []
-        for entry in entries2:
-            parsed_items.append({
-                "title": entry.get("title", ""),
-                "link": entry.get("link", ""),
-                "summary": entry.get("summary", "") or entry.get("description", "")
-            })
-
-        return parsed_items, getattr(feed2, "bozo", 0), getattr(feed2, "bozo_exception", None)
-
     fallback_items = fallback_extract_items(text)
 
     if fallback_items:
         return fallback_items, 1, "fallback_extract_items"
 
-    return [], getattr(feed2, "bozo", 0), getattr(feed2, "bozo_exception", "entriesなし")
+    return [], getattr(feed, "bozo", 0), getattr(feed, "bozo_exception", "entriesなし")
 
 
 def find_matched_words(text, words):
@@ -272,6 +306,8 @@ def fetch_articles():
         source_list = sources.get("sources", [])
     else:
         source_list = sources
+
+    source_list = source_list + load_search_sources()
 
     stats = {
         "target_sources": len(source_list),
@@ -403,6 +439,7 @@ def main():
 
     messages = []
     posted_count_candidates = []
+    seen_run_urls = set()
 
     duplicate_skip_count = 0
     matched_count = 0
@@ -410,9 +447,11 @@ def main():
     for article in articles:
         url = article["link"]
 
-        if url in posted_urls:
+        if url in posted_urls or url in seen_run_urls:
             duplicate_skip_count += 1
             continue
+
+        seen_run_urls.add(url)
 
         judgement = judge_article(
             article["title"],

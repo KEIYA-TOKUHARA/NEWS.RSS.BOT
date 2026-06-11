@@ -5,15 +5,39 @@ import os
 import re
 import html
 import json
+import hashlib
 from pathlib import Path
-from urllib.parse import urlencode
+from urllib.parse import urlencode, urlsplit, urlunsplit, parse_qsl
 
 
 STATE_FILE = Path("state/posted_urls.txt")
+STATE_KEYS_FILE = Path("state/posted_keys.txt")
 SEARCH_CONFIG_FILE = Path("config/search_queries.yaml")
 AI_CONFIG_FILE = Path("config/ai_judgement.yaml")
 GOOGLE_NEWS_RSS_BASE = "https://news.google.com/rss/search"
 OPENAI_CHAT_COMPLETIONS_URL = "https://api.openai.com/v1/chat/completions"
+TRACKING_QUERY_PREFIXES = ("utm_",)
+TRACKING_QUERY_PARAMS = {
+    "fbclid",
+    "gclid",
+    "yclid",
+    "mc_cid",
+    "mc_eid",
+    "igshid",
+    "ref",
+    "ref_src",
+    "feature",
+}
+MEDIA_EXTENSIONS = (
+    ".jpg",
+    ".jpeg",
+    ".png",
+    ".gif",
+    ".webp",
+    ".avif",
+    ".svg",
+    ".bmp",
+)
 
 
 def load_yaml(path):
@@ -85,6 +109,7 @@ def init_source_stats(name, source_type):
         "name": name,
         "source_type": source_type,
         "fetched": 0,
+        "media_skipped": 0,
         "duplicates": 0,
         "matched": 0,
         "ai_screened": 0,
@@ -101,12 +126,112 @@ def load_posted_urls():
         return set(line.strip() for line in f if line.strip())
 
 
+def load_posted_keys():
+    keys = set()
+
+    if STATE_KEYS_FILE.exists():
+        with open(STATE_KEYS_FILE, "r", encoding="utf-8") as f:
+            keys.update(line.strip() for line in f if line.strip())
+
+    for url in load_posted_urls():
+        keys.add(url_dedupe_key(url))
+
+    return keys
+
+
 def save_posted_urls(urls):
     STATE_FILE.parent.mkdir(exist_ok=True)
 
     with open(STATE_FILE, "w", encoding="utf-8") as f:
         for url in sorted(urls):
             f.write(url + "\n")
+
+
+def save_posted_keys(keys):
+    STATE_KEYS_FILE.parent.mkdir(exist_ok=True)
+
+    with open(STATE_KEYS_FILE, "w", encoding="utf-8") as f:
+        for key in sorted(keys):
+            f.write(key + "\n")
+
+
+def canonicalize_url(url):
+    if not url:
+        return ""
+
+    parts = urlsplit(url.strip())
+    path = re.sub(r"/+", "/", parts.path)
+    path = re.sub(r"^/articles/([^/]+)/images/.*$", r"/articles/\1", path)
+
+    query_items = []
+    for key, value in parse_qsl(parts.query, keep_blank_values=True):
+        key_lower = key.lower()
+        if key_lower in TRACKING_QUERY_PARAMS:
+            continue
+        if any(key_lower.startswith(prefix) for prefix in TRACKING_QUERY_PREFIXES):
+            continue
+        query_items.append((key, value))
+
+    query = urlencode(query_items)
+    return urlunsplit((parts.scheme.lower(), parts.netloc.lower(), path, query, ""))
+
+
+def is_media_url(url):
+    if not url:
+        return False
+
+    path = urlsplit(url).path.lower()
+
+    if path.endswith(MEDIA_EXTENSIONS):
+        return True
+
+    media_path_patterns = (
+        r"/images?/",
+        r"/photos?/",
+        r"/photo-gallery/",
+        r"/photogallery/",
+        r"/gallery/",
+    )
+
+    return any(re.search(pattern, path) for pattern in media_path_patterns)
+
+
+def normalize_title_for_key(title):
+    title = clean_display_text(title)
+    title = re.sub(r"\s*[-|｜]\s*(Yahoo!ニュース|PR TIMES|日本経済新聞|Impress Watch).*$", "", title)
+    title = re.sub(r"\s+", " ", title)
+    return title.strip().lower()
+
+
+def title_dedupe_key(title):
+    normalized = normalize_title_for_key(title)
+
+    if not normalized:
+        return ""
+
+    digest = hashlib.sha256(normalized.encode("utf-8")).hexdigest()[:20]
+    return f"title:{digest}"
+
+
+def url_dedupe_key(url):
+    canonical = canonicalize_url(url)
+    parts = urlsplit(canonical)
+    key = f"{parts.netloc}{parts.path}"
+
+    if parts.query:
+        key = f"{key}?{parts.query}"
+
+    return f"url:{key}"
+
+
+def article_dedupe_keys(article):
+    keys = {url_dedupe_key(article.get("link", ""))}
+    title_key = title_dedupe_key(article.get("title", ""))
+
+    if title_key:
+        keys.add(title_key)
+
+    return keys
 
 
 def clean_xml_text(text):
@@ -527,10 +652,14 @@ def fetch_articles():
 
             for item in items:
                 title = clean_display_text(item.get("title", ""))
-                link = item.get("link", "")
+                link = canonicalize_url(item.get("link", ""))
                 summary = item.get("summary", "")
 
                 if not link:
+                    continue
+
+                if is_media_url(link):
+                    stats["source_stats"][name]["media_skipped"] += 1
                     continue
 
                 articles.append({
@@ -603,6 +732,7 @@ def print_source_performance(stats):
         row for row in source_stats.values()
         if (
             row["fetched"]
+            or row["media_skipped"]
             or row["duplicates"]
             or row["matched"]
             or row["ai_screened"]
@@ -620,19 +750,25 @@ def print_source_performance(stats):
     for row in rows[:20]:
         print(
             f"{row['name']} [{row['source_type']}]: "
-            f"取得{row['fetched']} / 重複{row['duplicates']} / "
+            f"取得{row['fetched']} / 画像除外{row['media_skipped']} / "
+            f"重複{row['duplicates']} / "
             f"一致{row['matched']} / AI判定{row['ai_screened']} / "
             f"AI除外{row['ai_rejected']} / 投稿{row['posted']}"
         )
 
 
 def print_run_summary(stats, duplicate_skip_count, matched_count, slack_post_count):
+    media_skip_count = sum(
+        row["media_skipped"] for row in stats.get("source_stats", {}).values()
+    )
+
     print("========== 実行サマリー ==========")
     print(f"対象サイト数：{stats['target_sources']}")
     print(f"取得成功サイト数：{stats['success_sources']}")
     print(f"取得失敗サイト数：{stats['failed_sources']}")
     print(f"取得警告サイト数：{stats['warning_sources']}")
     print(f"取得記事数：{stats['total_articles']}")
+    print(f"画像URL除外数：{media_skip_count}")
     print(f"重複スキップ数：{duplicate_skip_count}")
     print(f"条件一致数：{matched_count}")
     print(f"AI判定：{'有効' if stats.get('ai_enabled') else '無効'}")
@@ -667,11 +803,14 @@ def main():
 
     posted_urls = load_posted_urls()
     new_posted_urls = set(posted_urls)
+    posted_keys = load_posted_keys()
+    new_posted_keys = set(posted_keys)
 
     messages = []
     posted_count_candidates = []
+    posted_key_candidates = []
     matched_items = []
-    seen_run_urls = set()
+    seen_run_keys = set()
 
     duplicate_skip_count = 0
     matched_count = 0
@@ -679,16 +818,21 @@ def main():
 
     for article in articles:
         url = article["link"]
+        dedupe_keys = article_dedupe_keys(article)
         source_name = article["source"]
         source_stats = stats["source_stats"].get(source_name)
 
-        if url in posted_urls or url in seen_run_urls:
+        if (
+            url in posted_urls
+            or dedupe_keys & posted_keys
+            or dedupe_keys & seen_run_keys
+        ):
             duplicate_skip_count += 1
             if source_stats:
                 source_stats["duplicates"] += 1
             continue
 
-        seen_run_urls.add(url)
+        seen_run_keys.update(dedupe_keys)
 
         judgement = judge_article(
             article["title"],
@@ -738,7 +882,8 @@ def main():
         matched_items.append({
             "article": article,
             "judgement": judgement,
-            "url": url
+            "url": url,
+            "dedupe_keys": dedupe_keys
         })
 
     matched_items.sort(
@@ -752,8 +897,10 @@ def main():
     for item in matched_items:
         messages.append(build_slack_message(item["article"], item["judgement"]))
         posted_count_candidates.append(item["url"])
+        posted_key_candidates.extend(item["dedupe_keys"])
 
     if not messages:
+        save_posted_keys(new_posted_keys)
         print_run_summary(
             stats=stats,
             duplicate_skip_count=duplicate_skip_count,
@@ -770,9 +917,14 @@ def main():
     for url in posted_count_candidates:
         new_posted_urls.add(url)
 
+    for key in posted_key_candidates:
+        new_posted_keys.add(key)
+
     save_posted_urls(new_posted_urls)
+    save_posted_keys(new_posted_keys)
 
     print(f"投稿済みURLを {STATE_FILE} に保存しました。")
+    print(f"投稿済み判定キーを {STATE_KEYS_FILE} に保存しました。")
 
     print_run_summary(
         stats=stats,

@@ -6,6 +6,7 @@ import re
 import html
 import json
 import hashlib
+import time
 from pathlib import Path
 from urllib.parse import urlencode, urlsplit, urlunsplit, parse_qsl
 
@@ -16,6 +17,8 @@ SEARCH_CONFIG_FILE = Path("config/search_queries.yaml")
 AI_CONFIG_FILE = Path("config/ai_judgement.yaml")
 GOOGLE_NEWS_RSS_BASE = "https://news.google.com/rss/search"
 OPENAI_CHAT_COMPLETIONS_URL = "https://api.openai.com/v1/chat/completions"
+MAX_SLACK_POSTS_PER_RUN = int(os.environ.get("MAX_SLACK_POSTS_PER_RUN", "30"))
+SLACK_POST_INTERVAL_SECONDS = float(os.environ.get("SLACK_POST_INTERVAL_SECONDS", "1.0"))
 TRACKING_QUERY_PREFIXES = ("utm_",)
 TRACKING_QUERY_PARAMS = {
     "fbclid",
@@ -717,13 +720,26 @@ def post_to_slack(messages):
     if not webhook_url:
         raise RuntimeError("SLACK_WEBHOOK_URL が設定されていません。")
 
-    for message in messages:
+    for index, message in enumerate(messages):
         response = requests.post(
             webhook_url,
             json={"text": message},
             timeout=15
         )
+
+        if response.status_code == 429:
+            retry_after = int(response.headers.get("Retry-After", "3"))
+            time.sleep(retry_after)
+            response = requests.post(
+                webhook_url,
+                json={"text": message},
+                timeout=15
+            )
+
         response.raise_for_status()
+
+        if index < len(messages) - 1:
+            time.sleep(SLACK_POST_INTERVAL_SECONDS)
 
 
 def print_source_performance(stats):
@@ -894,7 +910,15 @@ def main():
         reverse=True
     )
 
-    for item in matched_items:
+    selected_items = matched_items[:MAX_SLACK_POSTS_PER_RUN]
+
+    if len(matched_items) > len(selected_items):
+        print(
+            f"Slack投稿上限により "
+            f"{len(matched_items)}件中{len(selected_items)}件を投稿します。"
+        )
+
+    for item in selected_items:
         messages.append(build_slack_message(item["article"], item["judgement"]))
         posted_count_candidates.append(item["url"])
         posted_key_candidates.extend(item["dedupe_keys"])

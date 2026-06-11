@@ -41,6 +41,7 @@ MEDIA_EXTENSIONS = (
     ".svg",
     ".bmp",
 )
+GOOGLE_NEWS_RESOLVE_CACHE = {}
 
 
 def load_yaml(path):
@@ -179,6 +180,83 @@ def canonicalize_url(url):
     return urlunsplit((parts.scheme.lower(), parts.netloc.lower(), path, query, ""))
 
 
+def is_google_news_url(url):
+    parts = urlsplit(url)
+    return parts.netloc.lower() == "news.google.com" and "/rss/articles/" in parts.path
+
+
+def decode_google_news_url(url):
+    if url in GOOGLE_NEWS_RESOLVE_CACHE:
+        return GOOGLE_NEWS_RESOLVE_CACHE[url]
+
+    headers = {"User-Agent": "Mozilla/5.0 (compatible; hospitality-news-bot/1.0)"}
+    response = requests.get(url, headers=headers, timeout=12)
+    response.raise_for_status()
+    text = response.text
+
+    article_id_match = re.search(r'data-n-a-id="([^"]+)"', text)
+    timestamp_match = re.search(r'data-n-a-ts="([^"]+)"', text)
+    signature_match = re.search(r'data-n-a-sg="([^"]+)"', text)
+
+    if not (article_id_match and timestamp_match and signature_match):
+        GOOGLE_NEWS_RESOLVE_CACHE[url] = url
+        return url
+
+    article_id = article_id_match.group(1)
+    timestamp = int(timestamp_match.group(1))
+    signature = signature_match.group(1)
+    request_payload = [[
+        "Fbv4je",
+        json.dumps([
+            "garturlreq",
+            [
+                [
+                    "ja", "JP",
+                    ["FINANCE_TOP_INDICES", "WEB_TEST_1_0_0"],
+                    None, None, 1, 1, "JP:ja", None, 180,
+                    None, None, None, None, None, 0, None, None,
+                    [timestamp, 0]
+                ],
+                "ja", "JP", 1, [2, 3, 4, 8], 1, 0,
+                "655000234", 0, 0, None, 0
+            ],
+            article_id,
+            timestamp,
+            signature
+        ]),
+        None,
+        "generic"
+    ]]
+    body = "f.req=" + urlencode({"": json.dumps([request_payload])})[1:]
+
+    resolved_response = requests.post(
+        "https://news.google.com/_/DotsSplashUi/data/batchexecute?rpcids=Fbv4je",
+        headers={
+            "Content-Type": "application/x-www-form-urlencoded;charset=UTF-8",
+            "User-Agent": headers["User-Agent"]
+        },
+        data=body,
+        timeout=12
+    )
+    resolved_response.raise_for_status()
+    urls = re.findall(r'https?://[^"\\\]]+', resolved_response.text)
+    resolved_url = urls[0] if urls else url
+    GOOGLE_NEWS_RESOLVE_CACHE[url] = resolved_url
+    return resolved_url
+
+
+def resolve_article_url(url):
+    canonical_url = canonicalize_url(url)
+
+    if not is_google_news_url(canonical_url):
+        return canonical_url
+
+    try:
+        return canonicalize_url(decode_google_news_url(canonical_url))
+    except Exception:
+        return canonical_url
+
+
 def is_media_url(url):
     if not url:
         return False
@@ -197,6 +275,31 @@ def is_media_url(url):
     )
 
     return any(re.search(pattern, path) for pattern in media_path_patterns)
+
+
+def is_photo_title(title):
+    title = clean_display_text(title)
+    photo_patterns = (
+        r"^写真\d+/\d+",
+        r"^画像\d+/\d+",
+        r"^写真：",
+        r"^画像：",
+        r"写真一覧",
+        r"画像一覧",
+        r"フォトギャラリー",
+    )
+    return any(re.search(pattern, title) for pattern in photo_patterns)
+
+
+def is_media_article(title, url):
+    return is_photo_title(title) or is_media_url(url)
+
+
+def clean_article_title(title):
+    title = clean_display_text(title)
+    title = re.sub(r"^写真\d+/\d+[｜|:：]\s*", "", title)
+    title = re.sub(r"^画像\d+/\d+[｜|:：]\s*", "", title)
+    return title.strip()
 
 
 def normalize_title_for_key(title):
@@ -654,14 +757,14 @@ def fetch_articles():
             entry_count = 0
 
             for item in items:
-                title = clean_display_text(item.get("title", ""))
+                title = clean_article_title(item.get("title", ""))
                 link = canonicalize_url(item.get("link", ""))
                 summary = item.get("summary", "")
 
                 if not link:
                     continue
 
-                if is_media_url(link):
+                if is_media_article(title, link):
                     stats["source_stats"][name]["media_skipped"] += 1
                     continue
 
@@ -919,9 +1022,22 @@ def main():
         )
 
     for item in selected_items:
-        messages.append(build_slack_message(item["article"], item["judgement"]))
-        posted_count_candidates.append(item["url"])
-        posted_key_candidates.extend(item["dedupe_keys"])
+        article = item["article"]
+        resolved_url = resolve_article_url(item["url"])
+        article["link"] = resolved_url
+
+        if is_media_article(article["title"], resolved_url):
+            continue
+
+        resolved_keys = article_dedupe_keys(article)
+
+        if resolved_keys & new_posted_keys:
+            continue
+
+        messages.append(build_slack_message(article, item["judgement"]))
+        posted_count_candidates.append(resolved_url)
+        posted_key_candidates.extend(resolved_keys)
+        new_posted_keys.update(resolved_keys)
 
     if not messages:
         save_posted_keys(new_posted_keys)

@@ -99,3 +99,29 @@ google_news:
       query: 'site:prtimes.jp (ホテル OR 旅館 OR 宿泊施設 OR グランピング) (開業 OR オープン OR リニューアル OR 運営開始)'
     - name: 地方紙ホテル開業
       query: '(ホテル OR 旅館 OR 宿泊施設) (開業 OR 建設 OR 再開発) (新聞 OR WEB OR ニュース)'
+    - name: 国内宿泊市場
+      query: '(宿泊業界 OR ホテル業界 OR 旅館業界) (市場 OR 動向 OR 需要 OR 稼働率 OR 客室単価 OR RevPAR OR ADR)'
+    - name: 国内旅行需要
+      query: '(国内旅行 OR 旅行需要 OR 観光需要) (宿泊 OR ホテル OR 旅館 OR インバウンド OR 消費)'
+    - name: インバウンド宿泊動向
+      query: '(インバウンド OR 訪日客 OR 訪日外国人) (宿泊 OR ホテル OR 旅館 OR 客室稼働率 OR 地方誘客)'
+    - name: 宿泊統計
+      query: '(宿泊統計 OR 延べ宿泊者数 OR 客室稼働率 OR ADR OR RevPAR) (ホテル OR 旅館 OR 宿泊業)'
+    - name: オーバーツーリズム宿泊
+      query: '(オーバーツーリズム OR 観光公害 OR 地方誘客) (宿泊 OR ホテル OR 旅館 OR インバウンド)'
+    - name: 旅行消費宿泊
+      query: '(観光消費 OR 旅行消費 OR 訪日消費) (宿泊 OR ホテル OR 旅館 OR インバウンド)'
+    - name: 宿泊予約OTA
+      query: '(OTA OR 予約サイト OR 宿泊予約 OR メタサーチ) (ホテル OR 旅館 OR 宿泊施設 OR 直販)'
+    - name: ホテル直販予約
+      query: '(ホテル OR 旅館 OR 宿泊施設) (直販 OR 公式サイト予約 OR 予約エンジン OR Googleホテル検索)'
+    - name: 宿泊レベニューマネジメント
+      query: '(ホテル OR 旅館 OR 宿泊施設) (レベニューマネジメント OR ダイナミックプライシング OR ADR OR RevPAR)'
+    - name: 宿泊テック海外
+      query: '(hotel technology OR hospitality technology OR PMS OR channel manager OR booking engine) (Japan OR APAC OR hotel)'
+    - name: 海外ホテルチェーン動向
+      query: '(Marriott OR Hilton OR Hyatt OR IHG OR Accor) (Japan OR hotel opening OR expansion OR partnership)'
+    - name: 海外OTA動向
+      query: '(Booking.com OR Expedia OR Airbnb) (hotel OR accommodation OR travel demand OR Japan)'
+    - name: STRホテル市場
+      query: '(STR OR CoStar) (hotel occupancy OR ADR OR RevPAR OR Japan OR APAC)'

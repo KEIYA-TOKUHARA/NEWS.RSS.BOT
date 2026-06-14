@@ -584,6 +584,55 @@ def importance_label(score):
     return "C"
 
 
+def attribute_label(judgement):
+    category = judgement.get("category", "")
+    prefix = category.split("：", 1)[0]
+
+    if prefix in {"S", "A", "B", "C"}:
+        return f"{prefix}案件"
+
+    importance = judgement.get("importance", "C")
+    return f"{importance}案件"
+
+
+def attribute_rank(judgement):
+    return attribute_label(judgement).replace("案件", "")
+
+
+def select_items_for_posting(items, max_items):
+    quotas = {
+        "S": 12,
+        "A": 7,
+        "B": 6,
+        "C": 5
+    }
+    selected = []
+    selected_ids = set()
+
+    for rank, quota in quotas.items():
+        rank_items = [
+            item for item in items
+            if attribute_rank(item["judgement"]) == rank
+        ]
+
+        for item in rank_items[:quota]:
+            selected.append(item)
+            selected_ids.add(id(item))
+
+    if len(selected) < max_items:
+        for item in items:
+            if id(item) in selected_ids:
+                continue
+
+            selected.append(item)
+            selected_ids.add(id(item))
+
+            if len(selected) >= max_items:
+                break
+
+    return selected[:max_items]
+
+
 def get_ai_enabled(ai_config):
     return bool(ai_config.get("enabled")) and bool(os.environ.get("OPENAI_API_KEY"))
 
@@ -697,6 +746,7 @@ def apply_ai_result(judgement, ai_result):
     judgement["ai"] = ai_result
     judgement["score"] = ai_result["score"]
     judgement["importance"] = ai_result["importance"]
+    judgement["attribute"] = attribute_label(judgement)
 
     if ai_result.get("summary"):
         judgement["ai_summary"] = ai_result["summary"]
@@ -796,15 +846,14 @@ def build_slack_message(article, judgement):
     summary = judgement.get("ai_summary") or make_summary(article.get("summary", ""))
 
     category = judgement["category"]
-    score = judgement["score"]
-    importance = judgement["importance"]
+    attribute = judgement.get("attribute") or attribute_label(judgement)
     matched_hospitality = "、".join(judgement["matched_hospitality"])
     matched_keywords = "、".join(judgement["matched_keywords"])
     ai_reason = judgement.get("ai_reason")
 
     message = (
         f"■{category}\n"
-        f"■ 重要度 {importance}（{score}点）\n"
+        f"■ 案件属性 {attribute}\n"
         f"■ 記事タイトル {title}\n"
         f"■ URL {link}\n"
         f"■ 媒体 {source}\n"
@@ -964,6 +1013,7 @@ def main():
 
         judgement["score"] = score_article(article["title"], judgement)
         judgement["importance"] = importance_label(judgement["score"])
+        judgement["attribute"] = attribute_label(judgement)
 
         matched_count += 1
         if source_stats:
@@ -1013,7 +1063,7 @@ def main():
         reverse=True
     )
 
-    selected_items = matched_items[:MAX_SLACK_POSTS_PER_RUN]
+    selected_items = select_items_for_posting(matched_items, MAX_SLACK_POSTS_PER_RUN)
 
     if len(matched_items) > len(selected_items):
         print(

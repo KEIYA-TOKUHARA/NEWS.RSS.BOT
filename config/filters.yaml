@@ -33,6 +33,18 @@ hospitality_words:
   - コンドミニアムホテル
   - アパートメントホテル
   - オーベルジュ
+  - インバウンド
+  - 訪日客
+  - 訪日外国人
+  - 国内旅行
+  - 旅行需要
+  - 宿泊需要
+  - 宿泊統計
+  - 客室稼働率
+  - ADR
+  - RevPAR
+  - OTA
+  - 予約サイト
 
 exclude_words:
   # 販促・飲食・イベント系
@@ -265,9 +277,32 @@ categories:
       - キャッシュレス
       - 無人運営
 
+  distribution_system:
+    label: "B：販路・予約/宿泊システム動向"
+    priority: 7
+    keywords:
+      - OTA
+      - 予約サイト
+      - 宿泊予約
+      - 直販
+      - 公式サイト予約
+      - メタサーチ
+      - Google ホテル検索
+      - Googleホテル検索
+      - トリップアドバイザー
+      - Booking.com
+      - Expedia
+      - 楽天トラベル
+      - じゃらん
+      - ダイナミックプライシング
+      - レベニュー
+      - 客室単価
+      - ADR
+      - RevPAR
+
   industry_strategy:
     label: "C：業界動向・企業戦略"
-    priority: 7
+    priority: 8
     keywords:
       - 中期計画
       - 中期経営計画
@@ -291,3 +326,48 @@ categories:
       - 開校
       - 経営目標
       - 成長目標
+
+  inbound_demand:
+    label: "C：インバウンド・旅行需要"
+    priority: 9
+    keywords:
+      - インバウンド
+      - 訪日客
+      - 訪日外国人
+      - 外国人宿泊
+      - 国内旅行
+      - 旅行需要
+      - 宿泊需要
+      - 観光需要
+      - 延べ宿泊者数
+      - 宿泊者数
+      - 宿泊統計
+      - 客室稼働率
+      - 稼働率
+      - ADR
+      - RevPAR
+      - 観光消費
+      - オーバーツーリズム
+      - 地方誘客
+
+  overseas_trend:
+    label: "C：海外宿泊業界動向"
+    priority: 10
+    keywords:
+      - 海外ホテル
+      - グローバルホテル
+      - ホテルチェーン
+      - マリオット
+      - ヒルトン
+      - ハイアット
+      - IHG
+      - アコー
+      - OTA
+      - Booking.com
+      - Expedia
+      - STR
+      - CoStar
+      - 海外旅行
+      - 世界の宿泊
+      - APAC
+      - アジア太平洋

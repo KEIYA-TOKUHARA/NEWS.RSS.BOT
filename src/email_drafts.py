@@ -145,8 +145,7 @@ def build_draft_body(article, judgement, config=None, extracted=None):
         operator_company = extract_operator_company(article)
 
     lines = [
-        "■分類",
-        judgement.get("category", ""),
+        f"■分類：{judgement.get('category', '')}",
         "",
         "■記事タイトル",
         clean_display_text(article.get("title", "")),
@@ -155,24 +154,19 @@ def build_draft_body(article, judgement, config=None, extracted=None):
 
     if style.get("include_facility_name", True):
         lines.extend([
-            "■施設名",
-            facility_name or "",
+            f"■施設名：{facility_name or ''}",
             "",
         ])
 
     if style.get("include_operator_company", True):
         lines.extend([
-            "■運営会社",
-            operator_company or "",
+            f"■運営会社：{operator_company or ''}",
             "",
         ])
 
     lines.extend([
         "■URL",
         article.get("link", ""),
-        "",
-        "■媒体",
-        article.get("source", ""),
         "",
         "【概要】",
         normalize_summary(extracted.get("summary") or article.get("summary", "")),

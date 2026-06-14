@@ -45,6 +45,12 @@ hospitality_words:
   - RevPAR
   - OTA
   - 予約サイト
+  - 航空便
+  - 国際線
+  - 航空券
+  - 燃油サーチャージ
+  - 円安
+  - 為替
 
 exclude_words:
   # 販促・飲食・イベント系
@@ -302,7 +308,7 @@ categories:
 
   industry_strategy:
     label: "C：業界動向・企業戦略"
-    priority: 8
+    priority: 9
     keywords:
       - 中期計画
       - 中期経営計画
@@ -329,7 +335,7 @@ categories:
 
   inbound_demand:
     label: "C：インバウンド・旅行需要"
-    priority: 9
+    priority: 10
     keywords:
       - インバウンド
       - 訪日客
@@ -352,7 +358,7 @@ categories:
 
   overseas_trend:
     label: "C：海外宿泊業界動向"
-    priority: 10
+    priority: 11
     keywords:
       - 海外ホテル
       - グローバルホテル
@@ -371,3 +377,38 @@ categories:
       - 世界の宿泊
       - APAC
       - アジア太平洋
+
+  global_macro_impact:
+    label: "C：海外情勢・訪日影響"
+    priority: 8
+    keywords:
+      - 原油価格
+      - 燃油サーチャージ
+      - 航空券
+      - 航空運賃
+      - 国際線
+      - 航空便
+      - 増便
+      - 減便
+      - 運休
+      - 円安
+      - 円高
+      - 為替
+      - ドル円
+      - 地政学リスク
+      - 戦争
+      - 紛争
+      - 中東情勢
+      - ウクライナ
+      - 台湾有事
+      - 米中対立
+      - 中国経済
+      - 景気減速
+      - 消費低迷
+      - 出国需要
+      - 訪日需要
+      - 海外旅行需要
+      - ビザ緩和
+      - 入国規制
+      - 感染症
+      - パンデミック

@@ -125,3 +125,19 @@ google_news:
       query: '(Booking.com OR Expedia OR Airbnb) (hotel OR accommodation OR travel demand OR Japan)'
     - name: STRホテル市場
       query: '(STR OR CoStar) (hotel occupancy OR ADR OR RevPAR OR Japan OR APAC)'
+    - name: 原油燃油サーチャージ訪日影響
+      query: '(原油価格 OR 燃油サーチャージ OR 航空運賃 OR 航空券) (訪日 OR インバウンド OR 海外旅行 OR 国内旅行 OR 日本旅行)'
+    - name: 為替円安旅行影響
+      query: '(円安 OR 円高 OR 為替 OR ドル円) (訪日 OR インバウンド OR 海外旅行 OR 国内旅行 OR 宿泊需要 OR 観光消費)'
+    - name: 地政学リスク旅行影響
+      query: '(戦争 OR 紛争 OR 地政学リスク OR 中東情勢 OR ウクライナ OR 台湾有事) (旅行需要 OR 訪日 OR インバウンド OR 航空便 OR 国際線)'
+    - name: 国際線航空便訪日
+      query: '(国際線 OR 航空便 OR 増便 OR 減便 OR 運休 OR 新規就航) (訪日 OR インバウンド OR 日本路線 OR 観光需要)'
+    - name: 中国経済訪日影響
+      query: '(中国経済 OR 景気減速 OR 消費低迷 OR 中国人旅行者) (訪日 OR インバウンド OR 日本旅行 OR 観光消費)'
+    - name: 韓国台湾東南アジア訪日
+      query: '(韓国 OR 台湾 OR 香港 OR タイ OR シンガポール OR 東南アジア) (訪日 OR 日本旅行 OR インバウンド OR 航空便)'
+    - name: ビザ入国規制旅行
+      query: '(ビザ緩和 OR ビザ免除 OR 入国規制 OR 渡航制限) (訪日 OR インバウンド OR 日本旅行 OR 旅行需要)'
+    - name: 感染症旅行影響
+      query: '(感染症 OR パンデミック OR 水際対策) (旅行需要 OR 訪日 OR インバウンド OR 航空便 OR 宿泊)'

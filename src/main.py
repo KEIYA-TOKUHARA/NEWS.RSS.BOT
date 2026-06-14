@@ -894,6 +894,69 @@ def post_to_slack(messages):
             time.sleep(SLACK_POST_INTERVAL_SECONDS)
 
 
+def create_email_drafts(selected_items):
+    try:
+        from email_drafts import (
+            build_draft,
+            load_drafted_keys,
+            load_email_draft_config,
+            save_drafted_keys,
+        )
+        from gmail_api import create_draft, has_runtime_token
+    except ModuleNotFoundError:
+        from src.email_drafts import (
+            build_draft,
+            load_drafted_keys,
+            load_email_draft_config,
+            save_drafted_keys,
+        )
+        from src.gmail_api import create_draft, has_runtime_token
+
+    config = load_email_draft_config()
+
+    if not config.get("enabled"):
+        return 0, 0
+
+    if not has_runtime_token():
+        print("Gmail token 未設定のため、下書き作成はスキップします。")
+        return 0, 0
+
+    drafted_keys = load_drafted_keys()
+    new_drafted_keys = set(drafted_keys)
+    max_drafts = int(config.get("max_drafts_per_run", 10) or 0)
+    created_count = 0
+    error_count = 0
+
+    for item in selected_items:
+        if max_drafts > 0 and created_count >= max_drafts:
+            break
+
+        article = item["article"]
+        draft = build_draft(article, item["judgement"], config=config)
+        draft_keys = set(draft.get("dedupe_keys", []))
+
+        if draft_keys & drafted_keys or draft_keys & new_drafted_keys:
+            continue
+
+        try:
+            create_draft(
+                to=draft["to"],
+                subject=draft["subject"],
+                body=draft["body"],
+                label_name=draft.get("label"),
+            )
+            created_count += 1
+            new_drafted_keys.update(draft_keys)
+        except Exception as e:
+            error_count += 1
+            print(f"Gmail下書き作成失敗: {article.get('title', '')} / {e}")
+
+    if new_drafted_keys != drafted_keys:
+        save_drafted_keys(new_drafted_keys)
+
+    return created_count, error_count
+
+
 def print_source_performance(stats):
     source_stats = stats.get("source_stats", {})
     rows = [
@@ -977,6 +1040,7 @@ def main():
     messages = []
     posted_count_candidates = []
     posted_key_candidates = []
+    email_draft_candidates = []
     matched_items = []
     seen_run_keys = set()
 
@@ -1088,6 +1152,10 @@ def main():
         posted_count_candidates.append(resolved_url)
         posted_key_candidates.extend(resolved_keys)
         new_posted_keys.update(resolved_keys)
+        email_draft_candidates.append({
+            "article": article,
+            "judgement": item["judgement"],
+        })
 
     if not messages:
         save_posted_keys(new_posted_keys)
@@ -1103,6 +1171,14 @@ def main():
     print(f"{len(messages)}件の新規ニュースをSlackへ投稿します。")
 
     post_to_slack(messages)
+
+    email_draft_count, email_draft_error_count = create_email_drafts(email_draft_candidates)
+
+    if email_draft_count or email_draft_error_count:
+        print(
+            f"Gmail下書き作成: {email_draft_count}件"
+            f" / 失敗{email_draft_error_count}件"
+        )
 
     for url in posted_count_candidates:
         new_posted_urls.add(url)

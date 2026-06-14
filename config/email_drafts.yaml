@@ -1,0 +1,25 @@
+# =========================================
+# Gmail下書き設定
+# =========================================
+# 1ニュース = 1下書き。送信はしない。
+
+email_drafts:
+  enabled: true
+  to: biz@temairazu.com
+  label: 下書き/ニュース
+  subject_prefix: "【ニュース】"
+  max_drafts_per_run: 10
+
+  body_style:
+    include_facility_name: true
+    include_operator_company: true
+    include_evidence_url: false
+    include_confidence: false
+    include_ai_reason: false
+    include_judgement_reason: false
+    avoid_phrases:
+      - 該当します
+      - と考えられます
+      - 可能性があります
+      - 判定しました
+      - 営業機会

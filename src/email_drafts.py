@@ -19,6 +19,27 @@ except ModuleNotFoundError:
 
 CONFIG_FILE = Path("config/email_drafts.yaml")
 DRAFTED_KEYS_FILE = Path("state/drafted_keys.txt")
+GENERIC_FACILITY_NAMES = {
+    "ホテル",
+    "旅館",
+    "宿泊施設",
+    "ホテル取得",
+    "ホテル運営",
+    "ホテルなど整備へ",
+    "ホテルの開発",
+    "ホテルの開発がスタート",
+    "グランピング空間",
+}
+GENERIC_FACILITY_FRAGMENTS = (
+    "など",
+    "取得",
+    "運営",
+    "整備",
+    "知見",
+    "空間",
+    "開発がスタート",
+    "大チャンス",
+)
 
 
 def load_email_draft_config():
@@ -73,22 +94,48 @@ def extract_quoted_facility(title):
     return ""
 
 
+def clean_facility_candidate(name):
+    name = clean_display_text(name)
+    name = re.sub(r"\s*[-|｜].*$", "", name)
+    name = re.sub(r"[（）()「」『』【】]", "", name)
+    name = re.sub(r"\s+", "", name)
+    name = name.strip("、。・:：")
+
+    if name in GENERIC_FACILITY_NAMES:
+        return ""
+
+    if any(fragment in name for fragment in GENERIC_FACILITY_FRAGMENTS):
+        return ""
+
+    if len(name) < 4 or len(name) > 40:
+        return ""
+
+    if not any(word in name for word in ["ホテル", "旅館", "宿", "ヴィラ", "グランピング", "温泉"]):
+        return ""
+
+    return name
+
+
 def extract_facility_name(article):
     title = clean_display_text(article.get("title", ""))
+    summary = clean_display_text(article.get("summary", ""))
+    text = f"{title} {summary}"
     quoted = extract_quoted_facility(title)
 
     if quoted:
         return quoted
 
     patterns = [
-        r"(アパホテル[^、\s]+)",
-        r"((?:ホテル|旅館|宿|ヴィラ|グランピング)[^、。　\s]+)",
+        r"((?:アパホテル|東横イン|ドーミーイン|ホテルマイステイズ|コンフォートホテル|スーパーホテル)[^、。　\s]*)",
+        r"((?:ホテル|旅館|宿|ヴィラ|グランピング|温泉)[ァ-ヶー一-龥A-Za-z0-9・&＆'’\- ]{2,30})",
+        r"([ァ-ヶー一-龥A-Za-z0-9・&＆'’\- ]{2,30}(?:ホテル|旅館|宿|ヴィラ|グランピング|温泉))",
     ]
 
     for pattern in patterns:
-        match = re.search(pattern, title)
-        if match:
-            return match.group(1).strip()
+        for match in re.finditer(pattern, text):
+            candidate = clean_facility_candidate(match.group(1))
+            if candidate:
+                return candidate
 
     return ""
 
@@ -146,28 +193,19 @@ def build_draft_body(article, judgement, config=None, extracted=None):
 
     lines = [
         f"■分類：{judgement.get('category', '')}",
-        "",
         "■記事タイトル",
         clean_display_text(article.get("title", "")),
-        "",
     ]
 
     if style.get("include_facility_name", True):
-        lines.extend([
-            f"■施設名：{facility_name or ''}",
-            "",
-        ])
+        lines.append(f"■施設名：{facility_name or ''}")
 
     if style.get("include_operator_company", True):
-        lines.extend([
-            f"■運営会社：{operator_company or ''}",
-            "",
-        ])
+        lines.append(f"■運営会社：{operator_company or ''}")
 
     lines.extend([
         "■URL",
         article.get("link", ""),
-        "",
         "【概要】",
         normalize_summary(extracted.get("summary") or article.get("summary", "")),
     ])

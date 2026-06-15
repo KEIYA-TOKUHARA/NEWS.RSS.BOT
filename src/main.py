@@ -7,6 +7,7 @@ import html
 import json
 import hashlib
 import time
+import calendar
 from pathlib import Path
 from urllib.parse import urlencode, urlsplit, urlunsplit, parse_qsl
 
@@ -19,6 +20,7 @@ GOOGLE_NEWS_RSS_BASE = "https://news.google.com/rss/search"
 OPENAI_CHAT_COMPLETIONS_URL = "https://api.openai.com/v1/chat/completions"
 MAX_SLACK_POSTS_PER_RUN = int(os.environ.get("MAX_SLACK_POSTS_PER_RUN", "30"))
 SLACK_POST_INTERVAL_SECONDS = float(os.environ.get("SLACK_POST_INTERVAL_SECONDS", "1.0"))
+MAX_ARTICLE_AGE_DAYS = int(os.environ.get("MAX_ARTICLE_AGE_DAYS", "3"))
 TRACKING_QUERY_PREFIXES = ("utm_",)
 TRACKING_QUERY_PARAMS = {
     "fbclid",
@@ -42,6 +44,27 @@ MEDIA_EXTENSIONS = (
     ".bmp",
 )
 GOOGLE_NEWS_RESOLVE_CACHE = {}
+GENERIC_FACILITY_NAMES = {
+    "ホテル",
+    "旅館",
+    "宿泊施設",
+    "ホテル取得",
+    "ホテル運営",
+    "ホテルなど整備へ",
+    "ホテルの開発",
+    "ホテルの開発がスタート",
+    "グランピング空間",
+}
+GENERIC_FACILITY_FRAGMENTS = (
+    "など",
+    "取得",
+    "運営",
+    "整備",
+    "知見",
+    "空間",
+    "開発がスタート",
+    "大チャンス",
+)
 
 
 def load_yaml(path):
@@ -114,6 +137,7 @@ def init_source_stats(name, source_type):
         "source_type": source_type,
         "fetched": 0,
         "media_skipped": 0,
+        "stale_skipped": 0,
         "duplicates": 0,
         "matched": 0,
         "ai_screened": 0,
@@ -319,6 +343,64 @@ def title_dedupe_key(title):
     return f"title:{digest}"
 
 
+def normalize_facility_name(name):
+    name = clean_display_text(name)
+    name = re.sub(r"\s*[-|｜].*$", "", name)
+    name = re.sub(r"[（）()「」『』【】]", "", name)
+    name = re.sub(r"\s+", "", name)
+    name = name.strip("、。・:：")
+
+    if name in GENERIC_FACILITY_NAMES:
+        return ""
+
+    if any(fragment in name for fragment in GENERIC_FACILITY_FRAGMENTS):
+        return ""
+
+    if len(name) < 4 or len(name) > 40:
+        return ""
+
+    if not any(word in name for word in ["ホテル", "旅館", "宿", "ヴィラ", "グランピング", "温泉"]):
+        return ""
+
+    return name.lower()
+
+
+def extract_facility_name_for_key(article):
+    title = clean_display_text(article.get("title", ""))
+    summary = clean_display_text(article.get("summary", ""))
+    text = f"{title} {summary}"
+
+    quoted_names = re.findall(r"[「『]([^」』]+)[」』]", text)
+    for name in quoted_names:
+        normalized = normalize_facility_name(name)
+        if normalized:
+            return normalized
+
+    patterns = [
+        r"((?:アパホテル|東横イン|ドーミーイン|ホテルマイステイズ|コンフォートホテル|スーパーホテル)[^、。　\s]*)",
+        r"((?:ホテル|旅館|宿|ヴィラ|グランピング|温泉)[ァ-ヶー一-龥A-Za-z0-9・&＆'’\- ]{2,30})",
+        r"([ァ-ヶー一-龥A-Za-z0-9・&＆'’\- ]{2,30}(?:ホテル|旅館|宿|ヴィラ|グランピング|温泉))",
+    ]
+
+    for pattern in patterns:
+        for match in re.finditer(pattern, text):
+            normalized = normalize_facility_name(match.group(1))
+            if normalized:
+                return normalized
+
+    return ""
+
+
+def facility_dedupe_key(article):
+    facility_name = extract_facility_name_for_key(article)
+
+    if not facility_name:
+        return ""
+
+    digest = hashlib.sha256(facility_name.encode("utf-8")).hexdigest()[:20]
+    return f"facility:{digest}"
+
+
 def url_dedupe_key(url):
     canonical = canonicalize_url(url)
     parts = urlsplit(canonical)
@@ -333,9 +415,13 @@ def url_dedupe_key(url):
 def article_dedupe_keys(article):
     keys = {url_dedupe_key(article.get("link", ""))}
     title_key = title_dedupe_key(article.get("title", ""))
+    facility_key = facility_dedupe_key(article)
 
     if title_key:
         keys.add(title_key)
+
+    if facility_key:
+        keys.add(facility_key)
 
     return keys
 
@@ -458,6 +544,29 @@ def fallback_extract_items(text):
     return items
 
 
+def parsed_time_to_timestamp(parsed_time):
+    if not parsed_time:
+        return None
+
+    try:
+        return calendar.timegm(parsed_time)
+    except (OverflowError, TypeError, ValueError):
+        return None
+
+
+def is_stale_article(article, max_age_days=MAX_ARTICLE_AGE_DAYS):
+    if max_age_days <= 0:
+        return False
+
+    published_ts = article.get("published_ts")
+
+    if not published_ts:
+        return False
+
+    max_age_seconds = max_age_days * 24 * 60 * 60
+    return published_ts < time.time() - max_age_seconds
+
+
 def parse_feed_items(url):
     headers = {
         "User-Agent": "Mozilla/5.0 (compatible; hospitality-news-bot/1.0)"
@@ -475,10 +584,15 @@ def parse_feed_items(url):
     if entries:
         parsed_items = []
         for entry in entries:
+            published_parsed = (
+                entry.get("published_parsed")
+                or entry.get("updated_parsed")
+            )
             parsed_items.append({
                 "title": entry.get("title", ""),
                 "link": entry.get("link", ""),
-                "summary": entry.get("summary", "") or entry.get("description", "")
+                "summary": entry.get("summary", "") or entry.get("description", ""),
+                "published_ts": parsed_time_to_timestamp(published_parsed),
             })
 
         return parsed_items, getattr(feed, "bozo", 0), getattr(feed, "bozo_exception", None)
@@ -814,6 +928,10 @@ def fetch_articles():
                 if not link:
                     continue
 
+                if is_stale_article(item):
+                    stats["source_stats"][name]["stale_skipped"] += 1
+                    continue
+
                 if is_media_article(title, link):
                     stats["source_stats"][name]["media_skipped"] += 1
                     continue
@@ -823,7 +941,8 @@ def fetch_articles():
                     "source_type": source_type,
                     "title": title,
                     "link": link,
-                    "summary": summary
+                    "summary": summary,
+                    "published_ts": item.get("published_ts"),
                 })
 
                 entry_count += 1
@@ -964,6 +1083,7 @@ def print_source_performance(stats):
         if (
             row["fetched"]
             or row["media_skipped"]
+            or row["stale_skipped"]
             or row["duplicates"]
             or row["matched"]
             or row["ai_screened"]
@@ -982,6 +1102,7 @@ def print_source_performance(stats):
         print(
             f"{row['name']} [{row['source_type']}]: "
             f"取得{row['fetched']} / 画像除外{row['media_skipped']} / "
+            f"古い記事除外{row['stale_skipped']} / "
             f"重複{row['duplicates']} / "
             f"一致{row['matched']} / AI判定{row['ai_screened']} / "
             f"AI除外{row['ai_rejected']} / 投稿{row['posted']}"
@@ -992,6 +1113,9 @@ def print_run_summary(stats, duplicate_skip_count, matched_count, slack_post_cou
     media_skip_count = sum(
         row["media_skipped"] for row in stats.get("source_stats", {}).values()
     )
+    stale_skip_count = sum(
+        row["stale_skipped"] for row in stats.get("source_stats", {}).values()
+    )
 
     print("========== 実行サマリー ==========")
     print(f"対象サイト数：{stats['target_sources']}")
@@ -1000,6 +1124,7 @@ def print_run_summary(stats, duplicate_skip_count, matched_count, slack_post_cou
     print(f"取得警告サイト数：{stats['warning_sources']}")
     print(f"取得記事数：{stats['total_articles']}")
     print(f"画像URL除外数：{media_skip_count}")
+    print(f"古い記事除外数：{stale_skip_count}")
     print(f"重複スキップ数：{duplicate_skip_count}")
     print(f"条件一致数：{matched_count}")
     print(f"AI判定：{'有効' if stats.get('ai_enabled') else '無効'}")

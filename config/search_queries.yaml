@@ -10,7 +10,7 @@ google_news:
     hl: ja
     gl: JP
     ceid: JP:ja
-    recent_window: 14d
+    recent_window: 3d
 
   queries:
     - name: Yahoo ホテル開業

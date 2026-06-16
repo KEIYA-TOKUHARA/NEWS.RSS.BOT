@@ -1119,6 +1119,19 @@ def create_email_drafts(selected_items):
     return created_count, error_count
 
 
+def append_news_sheet_rows(selected_items):
+    try:
+        from news_sheet import append_news_rows
+    except ModuleNotFoundError:
+        from src.news_sheet import append_news_rows
+
+    try:
+        return append_news_rows(selected_items)
+    except Exception as e:
+        print(f"スプレッドシート追記失敗: {e}")
+        return 0, 0
+
+
 def print_source_performance(stats):
     source_stats = stats.get("source_stats", {})
     rows = [
@@ -1346,6 +1359,14 @@ def main():
         print(
             f"Gmail下書き作成: {email_draft_count}件"
             f" / 失敗{email_draft_error_count}件"
+        )
+
+    sheet_append_count, sheet_skip_count = append_news_sheet_rows(email_draft_candidates)
+
+    if sheet_append_count or sheet_skip_count:
+        print(
+            f"スプレッドシート追記: {sheet_append_count}件"
+            f" / 重複スキップ{sheet_skip_count}件"
         )
 
     for url in posted_count_candidates:

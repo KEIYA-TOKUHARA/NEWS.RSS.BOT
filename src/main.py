@@ -65,6 +65,27 @@ GENERIC_FACILITY_FRAGMENTS = (
     "開発がスタート",
     "大チャンス",
 )
+TOPIC_ENTITY_WORDS = (
+    "ホテル",
+    "旅館",
+    "宿",
+    "ヴィラ",
+    "グランピング",
+    "温泉",
+    "ランド",
+    "パーク",
+    "リゾート",
+    "テーマパーク",
+    "水族館",
+)
+LODGING_ENTITY_WORDS = (
+    "ホテル",
+    "旅館",
+    "宿",
+    "ヴィラ",
+    "グランピング",
+    "温泉",
+)
 
 
 def load_yaml(path):
@@ -343,10 +364,14 @@ def title_dedupe_key(title):
     return f"title:{digest}"
 
 
-def normalize_facility_name(name):
+def normalize_topic_entity(name):
     name = clean_display_text(name)
     name = re.sub(r"\s*[-|｜].*$", "", name)
     name = re.sub(r"[（）()「」『』【】]", "", name)
+    name = re.sub(r"(?:の)?リゾート(?:化|構想|計画)$", "", name)
+    name = re.sub(r"(?:の)?(?:大改装|土地取得|新取得|取得)$", "", name)
+    if "ランド" in name and name.endswith("リゾート"):
+        name = name[:-4]
     name = re.sub(r"\s+", "", name)
     name = name.strip("、。・:：")
 
@@ -359,20 +384,20 @@ def normalize_facility_name(name):
     if len(name) < 4 or len(name) > 40:
         return ""
 
-    if not any(word in name for word in ["ホテル", "旅館", "宿", "ヴィラ", "グランピング", "温泉"]):
+    if not any(word in name for word in TOPIC_ENTITY_WORDS):
         return ""
 
     return name.lower()
 
 
-def extract_facility_name_for_key(article):
+def extract_topic_entity_for_key(article):
     title = clean_display_text(article.get("title", ""))
     summary = clean_display_text(article.get("summary", ""))
     text = f"{title} {summary}"
 
     quoted_names = re.findall(r"[「『]([^」』]+)[」』]", text)
     for name in quoted_names:
-        normalized = normalize_facility_name(name)
+        normalized = normalize_topic_entity(name)
         if normalized:
             return normalized
 
@@ -380,24 +405,38 @@ def extract_facility_name_for_key(article):
         r"((?:アパホテル|東横イン|ドーミーイン|ホテルマイステイズ|コンフォートホテル|スーパーホテル)[^、。　\s]*)",
         r"((?:ホテル|旅館|宿|ヴィラ|グランピング|温泉)[ァ-ヶー一-龥A-Za-z0-9・&＆'’\- ]{2,30})",
         r"([ァ-ヶー一-龥A-Za-z0-9・&＆'’\- ]{2,30}(?:ホテル|旅館|宿|ヴィラ|グランピング|温泉))",
+        r"([ァ-ヶー一-龥A-Za-z0-9・&＆'’\- ]{2,30}(?:ランド|パーク|リゾート|テーマパーク|水族館))",
     ]
 
     for pattern in patterns:
         for match in re.finditer(pattern, text):
-            normalized = normalize_facility_name(match.group(1))
+            normalized = normalize_topic_entity(match.group(1))
             if normalized:
                 return normalized
 
     return ""
 
 
-def facility_dedupe_key(article):
-    facility_name = extract_facility_name_for_key(article)
+def topic_entity_dedupe_key(article):
+    topic_entity = extract_topic_entity_for_key(article)
 
-    if not facility_name:
+    if not topic_entity:
         return ""
 
-    digest = hashlib.sha256(facility_name.encode("utf-8")).hexdigest()[:20]
+    digest = hashlib.sha256(topic_entity.encode("utf-8")).hexdigest()[:20]
+    return f"topic:{digest}"
+
+
+def legacy_facility_dedupe_key(article):
+    topic_entity = extract_topic_entity_for_key(article)
+
+    if not topic_entity:
+        return ""
+
+    if not any(word in topic_entity for word in LODGING_ENTITY_WORDS):
+        return ""
+
+    digest = hashlib.sha256(topic_entity.encode("utf-8")).hexdigest()[:20]
     return f"facility:{digest}"
 
 
@@ -415,13 +454,17 @@ def url_dedupe_key(url):
 def article_dedupe_keys(article):
     keys = {url_dedupe_key(article.get("link", ""))}
     title_key = title_dedupe_key(article.get("title", ""))
-    facility_key = facility_dedupe_key(article)
+    topic_entity_key = topic_entity_dedupe_key(article)
+    legacy_facility_key = legacy_facility_dedupe_key(article)
 
     if title_key:
         keys.add(title_key)
 
-    if facility_key:
-        keys.add(facility_key)
+    if topic_entity_key:
+        keys.add(topic_entity_key)
+
+    if legacy_facility_key:
+        keys.add(legacy_facility_key)
 
     return keys
 

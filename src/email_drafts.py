@@ -40,6 +40,19 @@ GENERIC_FACILITY_FRAGMENTS = (
     "開発がスタート",
     "大チャンス",
 )
+TOPIC_ENTITY_WORDS = (
+    "ホテル",
+    "旅館",
+    "宿",
+    "ヴィラ",
+    "グランピング",
+    "温泉",
+    "ランド",
+    "パーク",
+    "リゾート",
+    "テーマパーク",
+    "水族館",
+)
 
 
 def load_email_draft_config():
@@ -88,8 +101,9 @@ def extract_quoted_facility(title):
     quoted_names = re.findall(r"[「『]([^」』]+)[」』]", title)
 
     for name in quoted_names:
-        if any(word in name for word in ["ホテル", "旅館", "宿", "ヴィラ", "グランピング"]):
-            return name
+        candidate = clean_facility_candidate(name)
+        if candidate:
+            return candidate
 
     return ""
 
@@ -98,6 +112,10 @@ def clean_facility_candidate(name):
     name = clean_display_text(name)
     name = re.sub(r"\s*[-|｜].*$", "", name)
     name = re.sub(r"[（）()「」『』【】]", "", name)
+    name = re.sub(r"(?:の)?リゾート(?:化|構想|計画)$", "", name)
+    name = re.sub(r"(?:の)?(?:大改装|土地取得|新取得|取得)$", "", name)
+    if "ランド" in name and name.endswith("リゾート"):
+        name = name[:-4]
     name = re.sub(r"\s+", "", name)
     name = name.strip("、。・:：")
 
@@ -110,7 +128,7 @@ def clean_facility_candidate(name):
     if len(name) < 4 or len(name) > 40:
         return ""
 
-    if not any(word in name for word in ["ホテル", "旅館", "宿", "ヴィラ", "グランピング", "温泉"]):
+    if not any(word in name for word in TOPIC_ENTITY_WORDS):
         return ""
 
     return name
@@ -129,6 +147,7 @@ def extract_facility_name(article):
         r"((?:アパホテル|東横イン|ドーミーイン|ホテルマイステイズ|コンフォートホテル|スーパーホテル)[^、。　\s]*)",
         r"((?:ホテル|旅館|宿|ヴィラ|グランピング|温泉)[ァ-ヶー一-龥A-Za-z0-9・&＆'’\- ]{2,30})",
         r"([ァ-ヶー一-龥A-Za-z0-9・&＆'’\- ]{2,30}(?:ホテル|旅館|宿|ヴィラ|グランピング|温泉))",
+        r"([ァ-ヶー一-龥A-Za-z0-9・&＆'’\- ]{2,30}(?:ランド|パーク|リゾート|テーマパーク|水族館))",
     ]
 
     for pattern in patterns:

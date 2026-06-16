@@ -48,11 +48,22 @@ GENERIC_FACILITY_NAMES = {
     "ホテル",
     "旅館",
     "宿泊施設",
+    "大型リゾート",
+    "高級ホテル",
+    "ブランドホテル",
     "ホテル取得",
     "ホテル運営",
+    "ホテル開業予定",
+    "ホテル開発",
+    "ホテル開発計画",
+    "ホテル旧",
+    "ペブルブルック・ホテル",
     "ホテルなど整備へ",
     "ホテルの開発",
     "ホテルの開発がスタート",
+    "ホテル沖縄初進出",
+    "誕生ホテル",
+    "ニュースホテル",
     "グランピング空間",
 }
 GENERIC_FACILITY_FRAGMENTS = (
@@ -64,6 +75,18 @@ GENERIC_FACILITY_FRAGMENTS = (
     "空間",
     "開発がスタート",
     "大チャンス",
+    "ニュース",
+    "開業予定",
+    "開発計画",
+    "高級",
+    "大型",
+    "ブランド",
+    "初進出",
+    "CEO",
+    "トラスト",
+    "レストラン",
+    "スポーツ",
+    "球技",
 )
 TOPIC_ENTITY_WORDS = (
     "ホテル",
@@ -77,6 +100,8 @@ TOPIC_ENTITY_WORDS = (
     "リゾート",
     "テーマパーク",
     "水族館",
+    "ビル",
+    "ビーチ",
 )
 LODGING_ENTITY_WORDS = (
     "ホテル",
@@ -364,7 +389,7 @@ def title_dedupe_key(title):
     return f"title:{digest}"
 
 
-def normalize_topic_entity(name):
+def normalize_topic_entity(name, require_topic_word=True):
     name = clean_display_text(name)
     name = re.sub(r"\s*[-|｜].*$", "", name)
     name = re.sub(r"[（）()「」『』【】]", "", name)
@@ -372,6 +397,7 @@ def normalize_topic_entity(name):
     name = re.sub(r"(?:の)?(?:大改装|土地取得|新取得|取得)$", "", name)
     if "ランド" in name and name.endswith("リゾート"):
         name = name[:-4]
+    name = re.sub(r"本社ビル$", "ビル", name)
     name = re.sub(r"\s+", "", name)
     name = name.strip("、。・:：")
 
@@ -381,10 +407,11 @@ def normalize_topic_entity(name):
     if any(fragment in name for fragment in GENERIC_FACILITY_FRAGMENTS):
         return ""
 
-    if len(name) < 4 or len(name) > 40:
+    min_length = 4 if require_topic_word else 3
+    if len(name) < min_length or len(name) > 40:
         return ""
 
-    if not any(word in name for word in TOPIC_ENTITY_WORDS):
+    if require_topic_word and not any(word in name for word in TOPIC_ENTITY_WORDS):
         return ""
 
     return name.lower()
@@ -397,12 +424,13 @@ def extract_topic_entity_for_key(article):
 
     quoted_names = re.findall(r"[「『]([^」』]+)[」』]", text)
     for name in quoted_names:
-        normalized = normalize_topic_entity(name)
+        normalized = normalize_topic_entity(name, require_topic_word=False)
         if normalized:
             return normalized
 
     patterns = [
         r"((?:アパホテル|東横イン|ドーミーイン|ホテルマイステイズ|コンフォートホテル|スーパーホテル)[^、。　\s]*)",
+        r"(旧[ァ-ヶー一-龥A-Za-z0-9・&＆'’\- ]{2,30}ビル)",
         r"((?:ホテル|旅館|宿|ヴィラ|グランピング|温泉)[ァ-ヶー一-龥A-Za-z0-9・&＆'’\- ]{2,30})",
         r"([ァ-ヶー一-龥A-Za-z0-9・&＆'’\- ]{2,30}(?:ホテル|旅館|宿|ヴィラ|グランピング|温泉))",
         r"([ァ-ヶー一-龥A-Za-z0-9・&＆'’\- ]{2,30}(?:ランド|パーク|リゾート|テーマパーク|水族館))",

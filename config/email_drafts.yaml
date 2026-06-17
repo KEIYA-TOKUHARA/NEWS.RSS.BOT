@@ -9,6 +9,7 @@ email_drafts:
   label: 下書き/ニュース
   subject_prefix: "【ニュース】"
   max_drafts_per_run: 10
+  signature: ""
 
   body_style:
     include_facility_name: true

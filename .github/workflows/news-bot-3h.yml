@@ -22,6 +22,7 @@ jobs:
       OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
       OPENAI_MODEL: ${{ vars.OPENAI_MODEL }}
       GMAIL_TOKEN_JSON: ${{ secrets.GMAIL_TOKEN_JSON }}
+      EMAIL_SIGNATURE: ${{ secrets.EMAIL_SIGNATURE }}
 
     steps:
       - uses: actions/checkout@v4

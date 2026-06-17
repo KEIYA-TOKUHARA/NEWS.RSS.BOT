@@ -1,3 +1,4 @@
+import os
 import re
 from pathlib import Path
 
@@ -224,6 +225,18 @@ def normalize_summary(summary):
     return summary.strip()
 
 
+def normalize_signature(signature):
+    if not signature:
+        return ""
+
+    lines = [line.rstrip() for line in str(signature).splitlines()]
+    return "\n".join(lines).strip()
+
+
+def get_signature(config):
+    return os.environ.get("EMAIL_SIGNATURE") or config.get("signature", "")
+
+
 def build_draft_body(article, judgement, config=None, extracted=None):
     config = config or load_email_draft_config()
     extracted = extracted or {}
@@ -257,7 +270,13 @@ def build_draft_body(article, judgement, config=None, extracted=None):
         normalize_summary(extracted.get("summary") or article.get("summary", "")),
     ])
 
-    return "\n".join(lines).strip()
+    body = "\n".join(lines).strip()
+    signature = normalize_signature(get_signature(config))
+
+    if signature:
+        body = f"{body}\n\n{signature}"
+
+    return body
 
 
 def build_draft(article, judgement, config=None, extracted=None):

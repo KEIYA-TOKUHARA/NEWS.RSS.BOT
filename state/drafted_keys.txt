@@ -12,6 +12,8 @@ facility:3f84ea95d5fd5f182c8f
 facility:4304d23108ee8b7706e6
 facility:4610d97bdab42fc242a1
 facility:4d9d86583205373a6d14
+facility:52576657ac501de62b14
+facility:5dc6e7953626399d34b5
 facility:60bddc564fa54a29439e
 facility:66ab99e22fc9b0bab9f3
 facility:68ebc81c7cdfcad723db
@@ -23,6 +25,7 @@ facility:841cf6f6608bb19eab27
 facility:985c89219daa5767942d
 facility:98cd77ac8e074ccf4ed0
 facility:98f92a42929c569f2717
+facility:9e9d6319761ee3c53f9a
 facility:a2d60d47e614d223d38c
 facility:a6d6fc74e9ad144bdca9
 facility:afe2690e149bf6eb357c
@@ -34,14 +37,19 @@ facility:ce3e5c198a62dcadec07
 facility:d515d24002f652ef82ad
 facility:d756e9f63eea8cae5690
 facility:df8cad85b2840b2192a5
+facility:e752b38a4623bcfeb672
 facility:e83edc080c0e078c9735
 title:050e4d3fac85e007aa74
 title:0747d2ee56b0a1261596
+title:081b12950f22d5b4038c
+title:0a4f3d5d3b79545671db
 title:0c327285d603521e645c
+title:105c969c3d91badec7bb
 title:11dcfe918b088b096363
 title:12050f27c755ba48b138
 title:1219e7b4911477d0678e
 title:133244e7c7772d3c5d8f
+title:17ed1d882abe883a0560
 title:19d5fcc460e40a4e34e5
 title:1a37a375f38c2dfe11a0
 title:1a41819d18601d0a7c42
@@ -50,7 +58,9 @@ title:1fa169efe8644618d8af
 title:202bf4c08fcc2ee436fc
 title:20469b51f52dbd2031ee
 title:256bcba63bd56f4b12df
+title:27a4720abde4d3229bfc
 title:27be9597be18809f0212
+title:27fac399d073266478d6
 title:29b8c256f57dbad60ee9
 title:2a94780802d6587e39da
 title:3017e131277f4dfa3f30
@@ -58,6 +68,7 @@ title:30181cd378e15ebeeb57
 title:3051b5a1154c34dacf18
 title:32090f4d6c8ca8277f0c
 title:3281b98fcc64b9a8fd72
+title:32de2ffab2b82f19be9c
 title:375e73991ba9c1366c12
 title:3902af5c116f4c55b50b
 title:3a5094e0ec9d4d6123b3
@@ -71,6 +82,7 @@ title:4314f839200fd31def7b
 title:449865c0ec90b8b838c7
 title:4823b3d6dd0f62b03fa1
 title:49369ea8ebb1432d76ff
+title:4a24df2eb3f702377f46
 title:4c734bdfd7acc03dc0b1
 title:4cdd585afe4649f472a8
 title:4cfb16c35d20f65e4bac
@@ -82,6 +94,7 @@ title:522f9a207e6a9ba142b7
 title:552f68a3cfebf2582186
 title:55d9f816a7dfee6f3506
 title:57bfa6d0065c1b20ca85
+title:57f08726b0e114f17775
 title:5906df2dc4f8c6b9ff24
 title:596dcdb4cb77b2aa3153
 title:5a34493e2b5a2ad694d9
@@ -122,6 +135,7 @@ title:85b2f16d4b87fd617e2a
 title:87a877823b55350ef8b0
 title:89a4430cddb8a10e481a
 title:8c5bb1d0f310b971f211
+title:8c8031077c1935996b6d
 title:8da4ab96561f62dbe192
 title:8dd6e4de031c14ca2777
 title:8e0a5429f4a999f74509
@@ -206,6 +220,7 @@ title:fc7d065d06bd137a8f57
 title:fcecda8dfd21fe40bb40
 title:fff30b5218181bc9cb4b
 topic:025b7daeb5250e1181ca
+topic:16bbe45a92ab3a91a00c
 topic:25bd1031084b1d286dbc
 topic:30823de6ad12dfa8c87c
 topic:34f0052275ed304471c4
@@ -213,7 +228,10 @@ topic:39a3bafa67f140bc80d8
 topic:3bf07371cb32708f33d0
 topic:3e7122632bb066c307b0
 topic:4d9d86583205373a6d14
+topic:52576657ac501de62b14
+topic:5dc6e7953626399d34b5
 topic:60bddc564fa54a29439e
+topic:60fc8719af84c2e2296f
 topic:66ab99e22fc9b0bab9f3
 topic:68ebc81c7cdfcad723db
 topic:69e6c05b95b84c103b35
@@ -226,6 +244,7 @@ topic:824c4c56949f4ec96d36
 topic:841cf6f6608bb19eab27
 topic:985c89219daa5767942d
 topic:98cd77ac8e074ccf4ed0
+topic:9e9d6319761ee3c53f9a
 topic:a2ac135fa43c21493dc7
 topic:bce37d978ccfcf3323b5
 topic:be891007ebb598113277
@@ -242,6 +261,7 @@ topic:d9cb26e883c619d636ef
 topic:deefff2519681453a08d
 topic:defca7576126f4286f25
 topic:df8cad85b2840b2192a5
+topic:e752b38a4623bcfeb672
 topic:ee9fd8fd0e410dd9bcd3
 topic:fb6e12d8547edf4d642d
 url:abeno.keizai.biz/release/588333/
@@ -252,6 +272,7 @@ url:article.auone.jp/detail/1/2/5/550_5_r_20260605_1780651981994015
 url:e-kensin.net/n/n300ca1df3d7c
 url:foods-ch.infomart.co.jp/news/296300
 url:foods-ch.infomart.co.jp/news/297217
+url:honichi.com/news/2026/06/18/iata-middleeast/
 url:hotelbank.jp/area-analysis/naha-shuri-hotel-supply-2026/
 url:hotelbank.jp/investment/hida-takayama-circuit-hotel-investment/
 url:hotelbank.jp/investment/hotel-vs-condo-land-rivalry-adr-feasibility/
@@ -274,6 +295,7 @@ url:news.livedoor.com/article/detail/31438143/
 url:news.livedoor.com/article/image_detail/31468279/?img_id=
 url:news.livedoor.com/article/image_detail/31479406/?img_id=
 url:news.livedoor.com/article/image_detail/31481100/?img_id=
+url:news.livedoor.com/article/image_detail/31556837/?img_id=
 url:news.livedoor.com/pr_topics/detail/31557751/
 url:news.livedoor.com/topics/detail/31438143/
 url:news.nicovideo.jp/watch/nw19407255
@@ -317,6 +339,7 @@ url:news.yahoo.co.jp/articles/d03add873fada26ad53e9fa0f74bdcf5ea7eab8b?source=rs
 url:news.yahoo.co.jp/articles/ec44584e6c45243c41681899fe6d84167bbf2de8
 url:news.yahoo.co.jp/articles/efa84c73741739202f3ba2d75198f8a87daf68c6
 url:news.yahoo.co.jp/articles/efa84c73741739202f3ba2d75198f8a87daf68c6?source=rss
+url:news.yahoo.co.jp/articles/f1995ca8ad817b14afae93c5da9aa4c54c90a8a2?source=rss
 url:news.yahoo.co.jp/articles/fc6fef5c8434f990f2967e6d57337901e9cd97e1
 url:news.yahoo.co.jp/articles/fe7e0db7bef1fdb637853d0b786f931212ed0ba3
 url:news.yahoo.co.jp/expert/articles/97f590e2d5c7b612b7f175a402307d2b5ae08b4a
@@ -331,6 +354,7 @@ url:nfm.nikkeibp.co.jp/atcl/news/21/00001/07999/
 url:nfm.nikkeibp.co.jp/atcl/news/21/00001/08061/
 url:nfm.nikkeibp.co.jp/atcl/news/21/00001/08082/
 url:nfm.nikkeibp.co.jp/atcl/news/21/00001/08138/
+url:nfm.nikkeibp.co.jp/atcl/news/21/00001/08315/
 url:prtimes.jp/main/html/rd/p/000000014.000153309.html
 url:prtimes.jp/main/html/rd/p/000000018.000081827.html
 url:prtimes.jp/main/html/rd/p/000000023.000102977.html
@@ -352,12 +376,16 @@ url:prtimes.jp/main/html/rd/p/000002730.000011305.html
 url:simplywall.st/ja/stocks/us/consumer-services/nyse-hlt/hilton-worldwide-holdings/news/how-investors-may-respond-to-hilton-worldwide-holdings-hlt-e
 url:smart.shimotsuke.co.jp/articles/-/1365966
 url:straightpress.jp/20260617/1636375
+url:straightpress.jp/company_news/detail?pr=
+url:t.co/usD3yL2F17
 url:topics.smt.docomo.ne.jp/amp/article/hokkaido/region/hokkaido-1325693
 url:topics.smt.docomo.ne.jp/article/minkei/region/minkei-shibukei19954
 url:voix.jp/mobile/hacomono-expands-vacant-houses/
+url:webun.jp/articles/-/1039776
 url:www.47news.jp/14439482.html
 url:www.47news.jp/14446806.html
 url:www.agara.co.jp/article/648323?rct=
+url:www.asahi.co.jp/webnews/pages/ann_000512854.html
 url:www.asahi.com/and/pressrelease/16630780
 url:www.asahi.com/and/pressrelease/16637518
 url:www.breakingtravelnews.com/news/article/sharjah-hotel-guests-surge-22-to-reach-2.1-million-as-annual-revenues-hit-a/
@@ -376,8 +404,10 @@ url:www.hokkaido-np.co.jp/article/1325693/
 url:www.hokkaido-np.co.jp/article_photo/list/?article_id=
 url:www.hospitalitynet.org/news/4133028/robosizeme-webinar-shows-how-automation-helps-hotels-tackle-ota-revenue-leakage-following-100000-recovery-at-four-star-hotel
 url:www.instagram.com/p/DZmsMUVH1D3/
+url:www.jomo-news.co.jp/articles/-/958649
 url:www.kankokeizai.com/2606151130kks/
 url:www.kankokeizai.com/2606161130kks/
+url:www.kenbiya.com/ar/ns/for_rent/minpaku/10241.html
 url:www.kensetsunews.com/archives/1244484
 url:www.kyoto-np.co.jp/articles/-/1733175
 url:www.mixvale.com.br/2026/06/16/%E3%82%B5%E3%83%B3%E3%83%88%E3%82%B9%E3%81%AE%E5%84%84%E4%B8%87%E9%95%B7%E8%80%85%E8%A4%87%E5%90%88%E6%96%BD%E8%A8%AD%E3%81%AB%E3%81%AF%E3%80%81%E3%83%8D%E3%82%A4%E3%83%9E%E3%83%BC%E3%83%AB%E3%81%AE-j/

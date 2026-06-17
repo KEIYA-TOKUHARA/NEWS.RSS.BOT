@@ -87,6 +87,16 @@ GENERIC_FACILITY_FRAGMENTS = (
     "レストラン",
     "スポーツ",
     "球技",
+    "完成",
+    "施設",
+    "楽しめる",
+    "味わう",
+    "どんな施設",
+    "拠点",
+    "相乗効果",
+    "観光活性化",
+    "株式",
+    "相当",
 )
 TOPIC_ENTITY_WORDS = (
     "ホテル",
@@ -102,6 +112,13 @@ TOPIC_ENTITY_WORDS = (
     "水族館",
     "ビル",
     "ビーチ",
+)
+LOOSE_QUOTED_PREFIXES = (
+    "界",
+    "星のや",
+    "OMO",
+    "BEB",
+    "ふふ",
 )
 LODGING_ENTITY_WORDS = (
     "ホテル",
@@ -417,14 +434,32 @@ def normalize_topic_entity(name, require_topic_word=True):
     return name.lower()
 
 
+def is_loose_quoted_entity(name):
+    name = clean_display_text(name).strip()
+
+    if any(name.startswith(prefix) for prefix in LOOSE_QUOTED_PREFIXES):
+        return True
+
+    if re.search(r"[A-Z]{2,}", name):
+        return True
+
+    if name.endswith("の杜"):
+        return True
+
+    return False
+
+
 def extract_topic_entity_for_key(article):
     title = clean_display_text(article.get("title", ""))
     summary = clean_display_text(article.get("summary", ""))
-    text = f"{title} {summary}"
+    text = f"{title}。{summary}"
 
     quoted_names = re.findall(r"[「『]([^」』]+)[」』]", text)
     for name in quoted_names:
-        normalized = normalize_topic_entity(name, require_topic_word=False)
+        normalized = normalize_topic_entity(
+            name,
+            require_topic_word=not is_loose_quoted_entity(name),
+        )
         if normalized:
             return normalized
 

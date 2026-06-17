@@ -63,6 +63,16 @@ GENERIC_FACILITY_FRAGMENTS = (
     "レストラン",
     "スポーツ",
     "球技",
+    "完成",
+    "施設",
+    "楽しめる",
+    "味わう",
+    "どんな施設",
+    "拠点",
+    "相乗効果",
+    "観光活性化",
+    "株式",
+    "相当",
 )
 TOPIC_ENTITY_WORDS = (
     "ホテル",
@@ -78,6 +88,13 @@ TOPIC_ENTITY_WORDS = (
     "水族館",
     "ビル",
     "ビーチ",
+)
+LOOSE_QUOTED_PREFIXES = (
+    "界",
+    "星のや",
+    "OMO",
+    "BEB",
+    "ふふ",
 )
 
 
@@ -127,11 +144,29 @@ def extract_quoted_facility(title):
     quoted_names = re.findall(r"[「『]([^」』]+)[」』]", title)
 
     for name in quoted_names:
-        candidate = clean_facility_candidate(name, require_topic_word=False)
+        candidate = clean_facility_candidate(
+            name,
+            require_topic_word=not is_loose_quoted_entity(name),
+        )
         if candidate:
             return candidate
 
     return ""
+
+
+def is_loose_quoted_entity(name):
+    name = clean_display_text(name).strip()
+
+    if any(name.startswith(prefix) for prefix in LOOSE_QUOTED_PREFIXES):
+        return True
+
+    if re.search(r"[A-Z]{2,}", name):
+        return True
+
+    if name.endswith("の杜"):
+        return True
+
+    return False
 
 
 def clean_facility_candidate(name, require_topic_word=True):
@@ -165,7 +200,7 @@ def clean_facility_candidate(name, require_topic_word=True):
 def extract_facility_name(article):
     title = clean_display_text(article.get("title", ""))
     summary = clean_display_text(article.get("summary", ""))
-    text = f"{title} {summary}"
+    text = f"{title}。{summary}"
     quoted = extract_quoted_facility(title)
 
     if quoted:
@@ -203,10 +238,31 @@ def extract_operator_company(article):
         match = re.search(pattern, title)
         if match:
             company = match.group(1).strip()
-            if len(company) <= 30:
+            if is_valid_operator_company(company):
                 return company
 
     return ""
+
+
+def is_valid_operator_company(company):
+    company = clean_display_text(company)
+
+    if not company or len(company) > 30:
+        return False
+
+    if any(mark in company for mark in ["「", "」", "『", "』"]):
+        return False
+
+    if company in GENERIC_FACILITY_NAMES:
+        return False
+
+    if any(fragment in company for fragment in GENERIC_FACILITY_FRAGMENTS):
+        return False
+
+    if any(word in company for word in ["ホテル", "旅館", "宿", "ヴィラ", "グランピング", "ビーチ", "ビル"]):
+        return company in {"アパホテル", "東横イン", "星野リゾート"}
+
+    return True
 
 
 def normalize_summary(summary):
@@ -257,10 +313,10 @@ def build_draft_body(article, judgement, config=None, extracted=None):
         clean_display_text(article.get("title", "")),
     ]
 
-    if style.get("include_facility_name", True):
+    if style.get("include_facility_name", True) and facility_name:
         lines.append(f"■施設名：{facility_name or ''}")
 
-    if style.get("include_operator_company", True):
+    if style.get("include_operator_company", True) and operator_company:
         lines.append(f"■運営会社：{operator_company or ''}")
 
     lines.extend([

@@ -9,10 +9,8 @@ from google.oauth2.credentials import Credentials
 from googleapiclient.discovery import build
 
 
-SCOPES = [
-    "https://www.googleapis.com/auth/gmail.modify",
-    "https://www.googleapis.com/auth/spreadsheets",
-]
+SCOPES = ["https://www.googleapis.com/auth/gmail.modify"]
+SHEETS_SCOPES = ["https://www.googleapis.com/auth/spreadsheets"]
 CREDENTIALS_FILE = Path("credentials.json")
 TOKEN_FILE = Path("token.json")
 
@@ -34,13 +32,14 @@ def load_json_from_env_or_file(env_name, path):
     return None
 
 
-def get_credentials():
+def get_credentials(scopes=None):
+    scopes = scopes or SCOPES
     token_info = load_json_from_env_or_file("GMAIL_TOKEN_JSON", TOKEN_FILE)
 
     if not token_info:
         raise RuntimeError("Gmail token がありません。先に token.json を作成してください。")
 
-    creds = Credentials.from_authorized_user_info(token_info, SCOPES)
+    creds = Credentials.from_authorized_user_info(token_info, scopes)
 
     if creds.expired and creds.refresh_token:
         creds.refresh(Request())

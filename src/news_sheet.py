@@ -5,11 +5,11 @@ from googleapiclient.discovery import build
 
 try:
     from email_drafts import extract_facility_name, extract_operator_company
-    from gmail_api import get_credentials, has_runtime_token
+    from gmail_api import SCOPES, SHEETS_SCOPES, get_credentials, has_runtime_token
     from main import article_dedupe_keys, clean_display_text, load_yaml
 except ModuleNotFoundError:
     from src.email_drafts import extract_facility_name, extract_operator_company
-    from src.gmail_api import get_credentials, has_runtime_token
+    from src.gmail_api import SCOPES, SHEETS_SCOPES, get_credentials, has_runtime_token
     from src.main import article_dedupe_keys, clean_display_text, load_yaml
 
 
@@ -46,7 +46,7 @@ def load_news_sheet_config():
 
 
 def get_sheets_service():
-    return build("sheets", "v4", credentials=get_credentials())
+    return build("sheets", "v4", credentials=get_credentials(SCOPES + SHEETS_SCOPES))
 
 
 def quote_sheet_name(name):

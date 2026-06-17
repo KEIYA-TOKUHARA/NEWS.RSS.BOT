@@ -1,9 +1,6 @@
 name: news-bot (every 3h) v2
 
 on:
-  push:
-    branches:
-      - main
   schedule:
     - cron: "0 */3 * * *"      # 3時間おき（UTC）
   workflow_dispatch:

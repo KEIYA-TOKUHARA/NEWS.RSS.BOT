@@ -1,8 +1,10 @@
 facility:0c03300507e91877d1a9
+facility:13f1a69262ed87833d21
 facility:202c690f91b1982ff294
 facility:2390eda68bd5482b3527
 facility:25bd1031084b1d286dbc
 facility:2abdfbf50d09128e1dea
+facility:2e632bcc77c52c819602
 facility:30823de6ad12dfa8c87c
 facility:39a3bafa67f140bc80d8
 facility:3c1084a540269817195d
@@ -19,6 +21,7 @@ facility:66ab99e22fc9b0bab9f3
 facility:68ebc81c7cdfcad723db
 facility:697f5e56f87042477917
 facility:69afae5d5032fd756f8d
+facility:7443382bee799cc97407
 facility:7608837098c243629375
 facility:7d6dcd7cdc4abe348fac
 facility:841cf6f6608bb19eab27
@@ -39,11 +42,13 @@ facility:d756e9f63eea8cae5690
 facility:df8cad85b2840b2192a5
 facility:e752b38a4623bcfeb672
 facility:e83edc080c0e078c9735
+facility:eb6b3e70ba72be3cdcc0
 title:050e4d3fac85e007aa74
 title:0747d2ee56b0a1261596
 title:081b12950f22d5b4038c
 title:0a4f3d5d3b79545671db
 title:0c327285d603521e645c
+title:0db7badc73a3483868af
 title:105c969c3d91badec7bb
 title:11dcfe918b088b096363
 title:12050f27c755ba48b138
@@ -78,6 +83,7 @@ title:3f13ee0c4b5c90f39c01
 title:3f8916270ac81fb81977
 title:401597adfa76c92ddd20
 title:40f4876d2578c87f33f7
+title:41bf1c002aba4b9e0ecc
 title:4314f839200fd31def7b
 title:449865c0ec90b8b838c7
 title:4823b3d6dd0f62b03fa1
@@ -132,6 +138,7 @@ title:80c46c5da03e3571396b
 title:82c421b4b0cbeac85403
 title:83af033cf77a5b88d248
 title:85b2f16d4b87fd617e2a
+title:8706527659a38b1cc9ee
 title:87a877823b55350ef8b0
 title:89a4430cddb8a10e481a
 title:8c5bb1d0f310b971f211
@@ -152,10 +159,12 @@ title:9a7a600b91967a57bca2
 title:9b5a3c6e4928a52fe17d
 title:9cd07a31cc1c0bef6ec9
 title:9ddcd3a9849c0f8ee80c
+title:9e5da8e45bf0612f4810
 title:9f57dee65762a4c46197
 title:9fde0a899a12da2675cd
 title:a0551fd7b6a75bb91dc8
 title:a0da4bd423fe13c71cea
+title:a2c3c092ea57aba13b6e
 title:a6f783b64b2fc0f59905
 title:a72bf6a4bb0c84cffea5
 title:a85e9059badaec0e0708
@@ -172,7 +181,9 @@ title:b20eab61a307643b239d
 title:b35d0145396827e887c5
 title:b56c7771cef357dbd022
 title:b8cc4225013bc588e52d
+title:ba0f6858b7d8a50a4d70
 title:bc0ff3353d5253a988ae
+title:bc245e9c3a5d8c1eeaef
 title:bcd4843b2690ca422a21
 title:be83745c336ab31216c3
 title:bed5e53eaa8234da5681
@@ -184,6 +195,7 @@ title:c9efca2068628e63ec75
 title:cd874d4516455cd559ee
 title:ce0ccb146b8617e1408d
 title:cf346cec9bd9de8f47f6
+title:cff1e8d394932efc941e
 title:d0b6dcbfc0e24bf3aafd
 title:d1004a6956b3aad0188c
 title:d10bfa154e9940b53eaa
@@ -201,6 +213,7 @@ title:e17f88bc41dbb25f53ca
 title:e2ea2668a417262f3e52
 title:e3630132657389b690bd
 title:e376aefd2ba9c1d355dc
+title:e510f2dca1d73cf997bd
 title:e550ba21317eb83edc4b
 title:e8f7f379569ad6fa4ec9
 title:eab3426e4ca5345150e4
@@ -217,11 +230,16 @@ title:f90fdc6d556527a0ad76
 title:f936e800f0a525728288
 title:fb4807493ee379c66554
 title:fc7d065d06bd137a8f57
+title:fcc79c19bb4934c90601
 title:fcecda8dfd21fe40bb40
 title:fff30b5218181bc9cb4b
 topic:025b7daeb5250e1181ca
+topic:053545482880c4f12934
+topic:0768d16d0f5aa9246550
+topic:13f1a69262ed87833d21
 topic:16bbe45a92ab3a91a00c
 topic:25bd1031084b1d286dbc
+topic:2e632bcc77c52c819602
 topic:30823de6ad12dfa8c87c
 topic:34f0052275ed304471c4
 topic:39a3bafa67f140bc80d8
@@ -238,6 +256,7 @@ topic:69e6c05b95b84c103b35
 topic:69f08a9cbcb12fd43c90
 topic:7280dc872a1a17f40225
 topic:739841c9cbe8109a0f1d
+topic:7443382bee799cc97407
 topic:7608837098c243629375
 topic:7d6dcd7cdc4abe348fac
 topic:824c4c56949f4ec96d36
@@ -262,6 +281,7 @@ topic:deefff2519681453a08d
 topic:defca7576126f4286f25
 topic:df8cad85b2840b2192a5
 topic:e752b38a4623bcfeb672
+topic:eb6b3e70ba72be3cdcc0
 topic:ee9fd8fd0e410dd9bcd3
 topic:fb6e12d8547edf4d642d
 url:abeno.keizai.biz/release/588333/
@@ -272,7 +292,10 @@ url:article.auone.jp/detail/1/2/5/550_5_r_20260605_1780651981994015
 url:e-kensin.net/n/n300ca1df3d7c
 url:foods-ch.infomart.co.jp/news/296300
 url:foods-ch.infomart.co.jp/news/297217
+url:hamamatsu.keizai.biz/release/595706/
+url:honichi.com/news/2026/06/18/flightnewroute2026summer/
 url:honichi.com/news/2026/06/18/iata-middleeast/
+url:honichi.com/news/2026/06/18/mastercard-ai/
 url:hotelbank.jp/area-analysis/naha-shuri-hotel-supply-2026/
 url:hotelbank.jp/investment/hida-takayama-circuit-hotel-investment/
 url:hotelbank.jp/investment/hotel-vs-condo-land-rivalry-adr-feasibility/
@@ -319,6 +342,7 @@ url:news.yahoo.co.jp/articles/4461fdeb32d08dc39a300f54df5ea070c31dde8a
 url:news.yahoo.co.jp/articles/57bd82f0708bc2700af557a005891ce41246c341
 url:news.yahoo.co.jp/articles/621e7cf7e4dd99dea717ae88ee8c1cb8f46a2f17
 url:news.yahoo.co.jp/articles/657c4973cbbd38c3149fdc6179ff33befd9738f5
+url:news.yahoo.co.jp/articles/79f72e3b7a47ebd09ac2b005119eeb5021ac0819
 url:news.yahoo.co.jp/articles/7a4670d4dbe0ce85619b43ee2906a9ebcdf8829d
 url:news.yahoo.co.jp/articles/938af74ce75e8e2e552cfef1cb4001b19a793ad0?source=rss
 url:news.yahoo.co.jp/articles/9d1818ee32d4396f1ff98fb22cf700c290c86a10?source=rss
@@ -407,6 +431,7 @@ url:www.instagram.com/p/DZmsMUVH1D3/
 url:www.jomo-news.co.jp/articles/-/958649
 url:www.kankokeizai.com/2606151130kks/
 url:www.kankokeizai.com/2606161130kks/
+url:www.kankokeizai.com/2606180800kks/
 url:www.kenbiya.com/ar/ns/for_rent/minpaku/10241.html
 url:www.kensetsunews.com/archives/1244484
 url:www.kyoto-np.co.jp/articles/-/1733175
@@ -420,9 +445,11 @@ url:www.nikkei.com/article/DGXZQOJC161JJ0W6A610C2000000/
 url:www.nikkei.com/nkd/disclosure/tdnr/20260612568999/
 url:www.nna.jp/news/2936433
 url:www.rakumachi.jp/news/column/399899
+url:www.re-port.net/amp/article/news/0000082106/
 url:www.richessemag.jp/travel/domestictravel/a71419928/daily-news-260602/
 url:www.ryoko-net.co.jp/?p=167919
 url:www.sanin-chuo.co.jp/articles/-/1018712
+url:www.sankei.com/pressrelease/prtimes/RMTFNCZQJZNXBLG3GELKC2JVQI/
 url:www.sanspo.com/article/20260615-TZOKYLVUZBJ2HLL5YX3VR3NR3Q/
 url:www.sanyonews.jp/article/1878751
 url:www.sanyonews.jp/article/1895505
@@ -437,9 +464,12 @@ url:www.traicy.com/posts/20260615373640/
 url:www.traicy.com/posts/20260616368955/
 url:www.traicy.com/posts/20260616370733/
 url:www.travelnews.co.jp/news/yado/2026061609302349597.html
+url:www.travelvoice.jp/20260618-159981
+url:www.travelvoice.jp/20260618-159994
 url:www.travelvoice.jp/tenders/1420
 url:www.umk.co.jp/news/?date=
 url:www.vietnam.vn/ja/du-an-can-ho-khach-san-khu-trung-tam-duoc-nhieu-nguoi-nuoc-ngoai-thue-sap-ket-thuc-vi-sao
+url:www.walkerplus.com/article/1100479/image11066236.html
 url:www.watch.impress.co.jp/docs/news/2117249.html
 url:www.yomiuri.co.jp/local/wakayama/news/20260617-GYTNT00192/
 url:yutosoken.com/wp/2026/06/01/crowneplaza-chiryu/

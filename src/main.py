@@ -254,6 +254,8 @@ def canonicalize_url(url):
     parts = urlsplit(url.strip())
     path = re.sub(r"/+", "/", parts.path)
     path = re.sub(r"^/articles/([^/]+)/images/.*$", r"/articles/\1", path)
+    path = re.sub(r"^/article/([^/]+)/image[^/]+\.html$", r"/article/\1/", path)
+    path = re.sub(r"^/trend/matome/article/([^/]+)/image[^/]+\.html$", r"/trend/matome/article/\1/", path)
 
     query_items = []
     for key, value in parse_qsl(parts.query, keep_blank_values=True):
@@ -356,6 +358,7 @@ def is_media_url(url):
 
     media_path_patterns = (
         r"/images?/",
+        r"/image[^/]+\.html$",
         r"/photos?/",
         r"/photo-gallery/",
         r"/photogallery/",
@@ -368,8 +371,8 @@ def is_media_url(url):
 def is_photo_title(title):
     title = clean_display_text(title)
     photo_patterns = (
-        r"^写真\d+/\d+",
-        r"^画像\d+/\d+",
+        r"^写真\d+\s*/\s*\d+",
+        r"^画像\d+\s*/\s*\d+",
         r"^写真：",
         r"^画像：",
         r"写真一覧",
@@ -385,8 +388,8 @@ def is_media_article(title, url):
 
 def clean_article_title(title):
     title = clean_display_text(title)
-    title = re.sub(r"^写真\d+/\d+[｜|:：]\s*", "", title)
-    title = re.sub(r"^画像\d+/\d+[｜|:：]\s*", "", title)
+    title = re.sub(r"^写真\d+\s*/\s*\d+[＞｜|:：]\s*", "", title)
+    title = re.sub(r"^画像\d+\s*/\s*\d+[＞｜|:：]\s*", "", title)
     return title.strip()
 
 

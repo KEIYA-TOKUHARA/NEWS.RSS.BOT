@@ -8,6 +8,8 @@ import json
 import hashlib
 import time
 import calendar
+from datetime import datetime
+from email.utils import parsedate_to_datetime
 from pathlib import Path
 from urllib.parse import urlencode, urlsplit, urlunsplit, parse_qsl
 
@@ -21,6 +23,7 @@ OPENAI_CHAT_COMPLETIONS_URL = "https://api.openai.com/v1/chat/completions"
 MAX_SLACK_POSTS_PER_RUN = int(os.environ.get("MAX_SLACK_POSTS_PER_RUN", "30"))
 SLACK_POST_INTERVAL_SECONDS = float(os.environ.get("SLACK_POST_INTERVAL_SECONDS", "1.0"))
 MAX_ARTICLE_AGE_DAYS = int(os.environ.get("MAX_ARTICLE_AGE_DAYS", "3"))
+ARTICLE_DATE_CHECK_TIMEOUT = float(os.environ.get("ARTICLE_DATE_CHECK_TIMEOUT", "6"))
 TRACKING_QUERY_PREFIXES = ("utm_",)
 TRACKING_QUERY_PARAMS = {
     "fbclid",
@@ -44,6 +47,7 @@ MEDIA_EXTENSIONS = (
     ".bmp",
 )
 GOOGLE_NEWS_RESOLVE_CACHE = {}
+ARTICLE_DATE_CACHE = {}
 GENERIC_FACILITY_NAMES = {
     "ホテル",
     "旅館",
@@ -662,6 +666,114 @@ def parsed_time_to_timestamp(parsed_time):
         return calendar.timegm(parsed_time)
     except (OverflowError, TypeError, ValueError):
         return None
+
+
+def parse_article_date_to_timestamp(value):
+    if not value:
+        return None
+
+    value = html.unescape(str(value)).strip()
+    value = re.sub(r"\s+", " ", value)
+    value = value.strip(" '\"")
+
+    if not value:
+        return None
+
+    japanese_date_match = re.search(r"(\d{4})年\s*(\d{1,2})月\s*(\d{1,2})日", value)
+    if japanese_date_match:
+        year, month, day = [int(part) for part in japanese_date_match.groups()]
+        return datetime(year, month, day).timestamp()
+
+    normalized = value
+    normalized = re.sub(
+        r"^(\d{4}):(\d{2}):(\d{2})T",
+        r"\1-\2-\3T",
+        normalized
+    )
+    normalized = normalized.replace("Z", "+00:00")
+
+    try:
+        return datetime.fromisoformat(normalized).timestamp()
+    except ValueError:
+        pass
+
+    try:
+        return parsedate_to_datetime(value).timestamp()
+    except (TypeError, ValueError, IndexError):
+        return None
+
+
+def extract_article_published_ts_from_html(text):
+    if not text:
+        return None
+
+    json_ld_blocks = re.findall(
+        r'<script[^>]+type=["\']application/ld\+json["\'][^>]*>(.*?)</script>',
+        text,
+        flags=re.IGNORECASE | re.DOTALL
+    )
+    for block in json_ld_blocks:
+        match = re.search(r'"datePublished"\s*:\s*"([^"]+)"', block)
+        if match:
+            published_ts = parse_article_date_to_timestamp(match.group(1))
+            if published_ts:
+                return published_ts
+
+    meta_patterns = [
+        r'<meta[^>]+(?:property|name|itemprop)=["\'](?:article:published_time|datePublished|pubdate|publishdate|published_time|date)["\'][^>]+content=["\']([^"\']+)["\']',
+        r'<meta[^>]+content=["\']([^"\']+)["\'][^>]+(?:property|name|itemprop)=["\'](?:article:published_time|datePublished|pubdate|publishdate|published_time|date)["\']',
+    ]
+    for pattern in meta_patterns:
+        for match in re.finditer(pattern, text, flags=re.IGNORECASE | re.DOTALL):
+            published_ts = parse_article_date_to_timestamp(match.group(1))
+            if published_ts:
+                return published_ts
+
+    time_patterns = [
+        r'<time[^>]+datetime=["\']([^"\']+)["\']',
+        r"<time[^>]*>([^<]+)</time>",
+    ]
+    for pattern in time_patterns:
+        for match in re.finditer(pattern, text, flags=re.IGNORECASE | re.DOTALL):
+            published_ts = parse_article_date_to_timestamp(match.group(1))
+            if published_ts:
+                return published_ts
+
+    return None
+
+
+def fetch_article_published_ts(url):
+    canonical_url = canonicalize_url(url)
+    if not canonical_url:
+        return None
+
+    if canonical_url in ARTICLE_DATE_CACHE:
+        return ARTICLE_DATE_CACHE[canonical_url]
+
+    headers = {
+        "User-Agent": "Mozilla/5.0 (compatible; hospitality-news-bot/1.0)"
+    }
+
+    try:
+        response = requests.get(
+            canonical_url,
+            headers=headers,
+            timeout=ARTICLE_DATE_CHECK_TIMEOUT,
+        )
+        response.raise_for_status()
+    except requests.RequestException:
+        ARTICLE_DATE_CACHE[canonical_url] = None
+        return None
+
+    content_type = response.headers.get("content-type", "").lower()
+    if content_type and "html" not in content_type:
+        ARTICLE_DATE_CACHE[canonical_url] = None
+        return None
+
+    text = decode_response_content(response)
+    published_ts = extract_article_published_ts_from_html(text)
+    ARTICLE_DATE_CACHE[canonical_url] = published_ts
+    return published_ts
 
 
 def is_stale_article(article, max_age_days=MAX_ARTICLE_AGE_DAYS):
@@ -1387,8 +1499,18 @@ def main():
         article = item["article"]
         resolved_url = resolve_article_url(item["url"])
         article["link"] = resolved_url
+        source_stats = stats["source_stats"].get(article.get("source", ""))
 
         if is_media_article(article["title"], resolved_url):
+            if source_stats:
+                source_stats["media_skipped"] += 1
+            continue
+
+        article_published_ts = fetch_article_published_ts(resolved_url)
+        if article_published_ts and is_stale_article({"published_ts": article_published_ts}):
+            if source_stats:
+                source_stats["stale_skipped"] += 1
+            print(f"記事本文日付が古いため除外: {article['title']} / {resolved_url}")
             continue
 
         resolved_keys = article_dedupe_keys(article)

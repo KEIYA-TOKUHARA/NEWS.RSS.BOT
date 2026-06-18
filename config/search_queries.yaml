@@ -25,6 +25,10 @@ google_news:
       query: '(ホテル OR 旅館 OR 宿泊施設) (開業予定 OR 新規開業 OR 建設計画 OR 開発計画 OR 2026年開業 OR 2027年開業)'
     - name: ホテル再開発
       query: '(ホテル OR 旅館 OR 宿泊施設) (再開発 OR 複合施設 OR 着工 OR 起工 OR 竣工)'
+    - name: 建設ニュース ホテル計画
+      query: 'site:constnews.com (ホテル OR 旅館 OR 宿泊施設 OR 客室) (建設 OR 建築 OR 着工 OR 起工 OR 竣工 OR 開発 OR 計画 OR 新築 OR 改築)'
+    - name: 建設ニュース ホテル開発
+      query: 'site:constnews.com (ホテル OR 旅館 OR 宿泊施設 OR 客室) (開業 OR 開発 OR 再開発 OR 複合施設 OR 用途変更 OR 建設工事)'
     - name: ホテルリニューアル
       query: '(ホテル OR 旅館 OR 宿泊施設) (リニューアル OR リニューアルオープン OR 改装 OR 客室改装 OR リブランド)'
     - name: ホテル運営受託

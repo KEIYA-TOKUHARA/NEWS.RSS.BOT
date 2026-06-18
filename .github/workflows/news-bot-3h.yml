@@ -58,6 +58,14 @@ jobs:
           fi
           echo "ENV PRESENT (masked)."
 
+      - name: Check email signature secret
+        run: |
+          if [ -z "$EMAIL_SIGNATURE" ]; then
+            echo "WARNING: EMAIL_SIGNATURE secret is empty. Gmail drafts will not include the signature."
+          else
+            echo "EMAIL_SIGNATURE PRESENT (masked)."
+          fi
+
       - name: Run collector and post to Slack
         run: python src/main.py
 

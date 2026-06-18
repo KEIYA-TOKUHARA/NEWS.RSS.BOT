@@ -52,6 +52,7 @@ GENERIC_FACILITY_FRAGMENTS = (
     "開発がスタート",
     "大チャンス",
     "ニュース",
+    "開業",
     "開業予定",
     "開発計画",
     "高級",
@@ -285,7 +286,8 @@ def normalize_signature(signature):
     if not signature:
         return ""
 
-    lines = [line.rstrip() for line in str(signature).splitlines()]
+    signature = str(signature).replace("\\n", "\n").replace("\r\n", "\n")
+    lines = [line.rstrip() for line in signature.splitlines()]
     return "\n".join(lines).strip()
 
 

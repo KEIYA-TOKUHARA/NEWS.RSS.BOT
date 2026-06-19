@@ -1,4 +1,5 @@
 facility:04d0f0a4a85eb0d9efe9
+facility:051d6359dc78fbcc8b3f
 facility:05ff24b5d58b6c342fe8
 facility:0c03300507e91877d1a9
 facility:111d3ff26fd361b3f9d7
@@ -59,6 +60,7 @@ facility:c198a73644a499316ebd
 facility:c39ffc9eca8cacbf2e7a
 facility:c5fc2299a37b4cd5d651
 facility:c6348887333bb8f7c5f4
+facility:c6a9a569f095f485d991
 facility:c7ac98dbcffc338e8aee
 facility:c9ea140942bdef3bc6ce
 facility:ce3e5c198a62dcadec07
@@ -98,6 +100,7 @@ title:1a37a375f38c2dfe11a0
 title:1a41819d18601d0a7c42
 title:1d78cdc00709c64a4aaa
 title:1ddeba1a51d6ebb6e41b
+title:1e6b925eaf46833f0b43
 title:1f402b6e21d8703dd34c
 title:1fa169efe8644618d8af
 title:202bf4c08fcc2ee436fc
@@ -109,6 +112,7 @@ title:256bcba63bd56f4b12df
 title:27a4720abde4d3229bfc
 title:27be9597be18809f0212
 title:27fac399d073266478d6
+title:284a8d0c4b3b73e9bf09
 title:29b8c256f57dbad60ee9
 title:2a94780802d6587e39da
 title:2e8991c7a1c4541ab3dd
@@ -191,11 +195,13 @@ title:759e7a1674f44d1c3219
 title:778f190a76b3acb08612
 title:79eb5abefa0d2cebd1c9
 title:7a4a193183207c01dab8
+title:7a8b54aed89d26de38ac
 title:7b62344550d18416e660
 title:7c88a5037285df646f70
 title:7cf3623706cc1dc4f740
 title:7cf3c864f1ea5efb39f9
 title:7ece9a5547c3d2d0a154
+title:7ee3515ea597fb9e40de
 title:7efe52aebd150b5fe350
 title:7f2ee81b09bc36cf6216
 title:7fe6ddc55e1a37233428
@@ -208,6 +214,7 @@ title:8706527659a38b1cc9ee
 title:87a877823b55350ef8b0
 title:881a1e62e78a9c472670
 title:89a4430cddb8a10e481a
+title:8c24d3da282d8b12e997
 title:8c5bb1d0f310b971f211
 title:8c8031077c1935996b6d
 title:8da4ab96561f62dbe192
@@ -237,6 +244,7 @@ title:a0551fd7b6a75bb91dc8
 title:a0da4bd423fe13c71cea
 title:a131299af2c5992c0f3a
 title:a2c3c092ea57aba13b6e
+title:a2db18bad30a1f40cfff
 title:a3022962efce28956bbf
 title:a3280b431b5b71bf7e8d
 title:a500b119f6d75ab23939
@@ -272,9 +280,11 @@ title:bed5e53eaa8234da5681
 title:c09f315751747bb9c4e5
 title:c4806f4b0ff518efabaf
 title:c51a2f5f79a4c5349972
+title:c53f091ee5227e586129
 title:c6a6d1145903f9801355
 title:c7d71073070923313378
 title:c9203612f6116eeef812
+title:c9265075f67cd561aac8
 title:c9efca2068628e63ec75
 title:cb726360f2cb2f680c60
 title:cd874d4516455cd559ee
@@ -292,6 +302,7 @@ title:d464f3c24d5bc20586d8
 title:d5b0b81274dde1fe2553
 title:d669f26107d714e20bad
 title:d7381b9f87dbff2be9b5
+title:d78140c934b562a3bdcd
 title:d7f9117f204c5b899264
 title:d9218907474cb76f0d10
 title:dad7d365c3ddeee56fcc
@@ -301,6 +312,7 @@ title:deb025e30c0bc2ccb158
 title:df95378232de33206ef5
 title:e14484e44191383ec562
 title:e17f88bc41dbb25f53ca
+title:e200a01a6a38cf72483f
 title:e26c28370a0aaae21450
 title:e2ea2668a417262f3e52
 title:e3630132657389b690bd
@@ -334,6 +346,7 @@ title:fe77a63a658797a9cfee
 title:fff30b5218181bc9cb4b
 topic:025b7daeb5250e1181ca
 topic:04d0f0a4a85eb0d9efe9
+topic:051d6359dc78fbcc8b3f
 topic:053545482880c4f12934
 topic:05ff24b5d58b6c342fe8
 topic:0768d16d0f5aa9246550
@@ -399,6 +412,7 @@ topic:c10f8f53c91b2249cf6f
 topic:c198a73644a499316ebd
 topic:c39ffc9eca8cacbf2e7a
 topic:c6348887333bb8f7c5f4
+topic:c6a9a569f095f485d991
 topic:c7ac98dbcffc338e8aee
 topic:c9ea140942bdef3bc6ce
 topic:ce3e5c198a62dcadec07
@@ -473,7 +487,9 @@ url:news.nicovideo.jp/watch/nw19432268?news_ref=
 url:news.nicovideo.jp/watch/nw19437587?news_ref=
 url:news.nicovideo.jp/watch/nw19437609?news_ref=
 url:news.nicovideo.jp/watch/nw19443249?news_ref=
+url:news.nicovideo.jp/watch/nw19446308?news_ref=
 url:news.ntv.co.jp/category/life/um6c90cd7f2255439a9fa037d1d3c05738
+url:news.ntv.co.jp/n/fbc/category/society/fbe0554b3c7e8c448fb78b423809b71379
 url:news.web.nhk/newsweb/na/nb-3060023527
 url:news.yahoo.co.jp/articles/05076e55d5f8d1c63e9db6e1e16191c512c051e7
 url:news.yahoo.co.jp/articles/085ed143198fc5aad66f30a4fabec51d612e20f8
@@ -486,11 +502,13 @@ url:news.yahoo.co.jp/articles/2e06a0a123112449e82b899352b2cf190e6ced29
 url:news.yahoo.co.jp/articles/31046a8c70992865db17aee5eedde6b25f4a2972
 url:news.yahoo.co.jp/articles/31046a8c70992865db17aee5eedde6b25f4a2972?source=rss
 url:news.yahoo.co.jp/articles/38399f8de29a2eb9de78229fa37f0dc2b9f29692
+url:news.yahoo.co.jp/articles/389d67c7e89960b8945d17aecdf603946dee3607
 url:news.yahoo.co.jp/articles/3be424c73e98d1a1e47c477f4df15a9f96ed36f2
 url:news.yahoo.co.jp/articles/3d12d67cb90aea0c43ac0f0e75c6d654ede2c6fb
 url:news.yahoo.co.jp/articles/41c97441e17c5f76e968c80f94697a3fe39d1717
 url:news.yahoo.co.jp/articles/438d8efd9260c876d600257732c1131bcb2837d8
 url:news.yahoo.co.jp/articles/4461fdeb32d08dc39a300f54df5ea070c31dde8a
+url:news.yahoo.co.jp/articles/496b96d25530f367acbf2e8a7caa935c6d7dbcc9
 url:news.yahoo.co.jp/articles/4af92e49d2416f8e3eb234a1c1fec28ef81e1215?source=rss
 url:news.yahoo.co.jp/articles/4e02c362e888c9a82b28693466f51b90ba89929b
 url:news.yahoo.co.jp/articles/57bd82f0708bc2700af557a005891ce41246c341
@@ -574,12 +592,15 @@ url:straightpress.jp/20260617/1636375
 url:straightpress.jp/company_news/detail?pr=
 url:t.co/usD3yL2F17
 url:togetter.com/li/2710940
+url:tohkaishimpo.com/2026/06/19/520463/
 url:topics.smt.docomo.ne.jp/amp/article/fisco/business/fisco-0009340020260617031
 url:topics.smt.docomo.ne.jp/amp/article/hokkaido/region/hokkaido-1325693
 url:topics.smt.docomo.ne.jp/amp/article/maonline/business/maonline-sh-s100ye79
+url:topics.smt.docomo.ne.jp/amp/article/maonline/business/maonline-sh-s100yen0
 url:topics.smt.docomo.ne.jp/amp/article/uxtv/region/uxtv-2954695
 url:topics.smt.docomo.ne.jp/article/minkei/region/minkei-shibukei19954
 url:topics.smt.docomo.ne.jp/article/nbs/region/nbs-28622
+url:tver.jp/episodes/epkmfayans
 url:voix.jp/mobile/hacomono-expands-vacant-houses/
 url:wakayamashimpo.co.jp/2026/06/20260618_138604.html
 url:webun.jp/articles/-/1039776
@@ -598,6 +619,7 @@ url:www.chiba-tv.com/plus/detail/amp/2026061751967
 url:www.excite.co.jp/news/article/Hounichi_flightnewroute2026summer/
 url:www.excite.co.jp/news/article/ebc_1439917810254233753/
 url:www.excite.co.jp/news/article/rnb_1439890223542452260/
+url:www.excite.co.jp/news/article/uhb_1440655267397927182/
 url:www.fnn.jp/articles/-/1059932
 url:www.fnn.jp/articles/-/1061696
 url:www.fukui-tv.co.jp/?fukui_news=
@@ -676,6 +698,8 @@ url:www.vietnam.vn/ja/khu-du-lich-quat-lam-duoc-doi-ten-thanh-khu-du-lich-giao-n
 url:www.walkerplus.com/article/1100479/image11066236.html
 url:www.watch.impress.co.jp/docs/news/2117249.html
 url:www.yogonet.com/ja/%E7%B1%B3%E5%9B%BD%E5%A4%96%E3%81%AE%E4%B8%96%E7%95%8C%E5%90%84%E5%9B%BD/%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9-a/2026/06/17/124211-new-york-39s-turning-stone-resort-casino-to-open-luxury-hotel-and-finedining-restaurant-in-july
+url:www.yomiuri.co.jp/economy/20260617-GYT1T00141/
+url:www.yomiuri.co.jp/local/kyushu/news/20260619-GYS1T00032/
 url:www.yomiuri.co.jp/local/wakayama/news/20260617-GYTNT00192/
 url:yutosoken.com/wp/2026/06/01/crowneplaza-chiryu/
 url:yutosoken.com/wp/2026/06/16/heiwa-net-7/

@@ -1,4 +1,5 @@
 facility:04d0f0a4a85eb0d9efe9
+facility:051d6359dc78fbcc8b3f
 facility:05ff24b5d58b6c342fe8
 facility:0c03300507e91877d1a9
 facility:111d3ff26fd361b3f9d7
@@ -104,6 +105,7 @@ facility:c39ffc9eca8cacbf2e7a
 facility:c40e6f7b367fc6303c67
 facility:c5fc2299a37b4cd5d651
 facility:c6348887333bb8f7c5f4
+facility:c6a9a569f095f485d991
 facility:c7ac98dbcffc338e8aee
 facility:c9ea140942bdef3bc6ce
 facility:cd3f98a0406e81f14846
@@ -236,6 +238,7 @@ title:1d61c007cc199b9c31f4
 title:1d78cdc00709c64a4aaa
 title:1d8dd6b7905e52e5def0
 title:1ddeba1a51d6ebb6e41b
+title:1e6b925eaf46833f0b43
 title:1ecbb9d41c1ef248b8a6
 title:1ed95115f89cabc5bd89
 title:1efaea472b0be81b37b1
@@ -271,6 +274,7 @@ title:27ae97ec8ad2ac3543a7
 title:27be9597be18809f0212
 title:27fac399d073266478d6
 title:283f4d82d3d60a49ddd5
+title:284a8d0c4b3b73e9bf09
 title:28567755f6d39aa4ecb1
 title:286f9397889bcd5f2cc0
 title:287ac0c676dd43110606
@@ -545,6 +549,7 @@ title:78bbacde817e5e92db30
 title:79eb5abefa0d2cebd1c9
 title:7a4a193183207c01dab8
 title:7a514ff4cd30f1f23d3e
+title:7a8b54aed89d26de38ac
 title:7a9ab588c05045ed243e
 title:7b5c74f7bdb7b60bdf14
 title:7b62344550d18416e660
@@ -557,6 +562,7 @@ title:7d6b28ee87ca22db826f
 title:7e3061049b7b345089d6
 title:7ea20935ed11f3271b2d
 title:7ece9a5547c3d2d0a154
+title:7ee3515ea597fb9e40de
 title:7efe52aebd150b5fe350
 title:7f2ee81b09bc36cf6216
 title:7fab911cb83ad3c534ed
@@ -599,6 +605,7 @@ title:8b0d2190d792c0cf00e6
 title:8b3c84d4df7ca5cdceae
 title:8bcc8a9060139f1cdcd7
 title:8bdbfe05ee494c0dfa9e
+title:8c24d3da282d8b12e997
 title:8c5bb1d0f310b971f211
 title:8c8031077c1935996b6d
 title:8c835897c2b7e646d7f7
@@ -679,6 +686,7 @@ title:a1e34e607e4b0987c390
 title:a20d05b14a6b814ed4c6
 title:a24c661693efb44ca334
 title:a2c3c092ea57aba13b6e
+title:a2db18bad30a1f40cfff
 title:a3022962efce28956bbf
 title:a31c0a50f01dfca52286
 title:a3280b431b5b71bf7e8d
@@ -789,7 +797,9 @@ title:c38560f426985264d41e
 title:c42a5b8609a436df3abf
 title:c45a17826d77914ff313
 title:c4806f4b0ff518efabaf
+title:c487db72e801ef884027
 title:c51a2f5f79a4c5349972
+title:c53f091ee5227e586129
 title:c54785c0f9ac18f04753
 title:c5e3c5945fb60948c292
 title:c5fecdaf4f884b1fd229
@@ -801,6 +811,7 @@ title:c7b358139f52b09bb77e
 title:c7d71073070923313378
 title:c88e8cf495b3ae656fa2
 title:c9203612f6116eeef812
+title:c9265075f67cd561aac8
 title:c9efca2068628e63ec75
 title:ca89e7a29b2e492629c0
 title:cb3f91c5a45e0e2ee43b
@@ -850,6 +861,7 @@ title:d65f4224617e6d5959f2
 title:d669f26107d714e20bad
 title:d6eaf74bc69177eb99dd
 title:d7381b9f87dbff2be9b5
+title:d78140c934b562a3bdcd
 title:d782da275277d235afed
 title:d7f9117f204c5b899264
 title:d839dd9329435b880686
@@ -883,6 +895,7 @@ title:e16be0d704b178c4c7c9
 title:e17f88bc41dbb25f53ca
 title:e181f747be03098cf419
 title:e19c3f380222784c3667
+title:e200a01a6a38cf72483f
 title:e20e8c7d0495b986b673
 title:e24f4f7111338514edfc
 title:e26c28370a0aaae21450
@@ -963,6 +976,7 @@ title:faed4f6895d287b629e1
 title:fb0e1af7fc396f4c8f44
 title:fb397e77da76e3e1a9ab
 title:fb4807493ee379c66554
+title:fb6c036c04495162d0b0
 title:fbb5d5c2ae46878cfcc9
 title:fc18e131fd5f7c40aee7
 title:fc7772465970a9d6a027
@@ -983,6 +997,7 @@ title:ff6ae109d444fb7efec4
 title:fff30b5218181bc9cb4b
 topic:025b7daeb5250e1181ca
 topic:04d0f0a4a85eb0d9efe9
+topic:051d6359dc78fbcc8b3f
 topic:053545482880c4f12934
 topic:05ff24b5d58b6c342fe8
 topic:063b20292c90de2f255d
@@ -995,6 +1010,7 @@ topic:13f1a69262ed87833d21
 topic:16bbe45a92ab3a91a00c
 topic:17aa09b04984be3f1926
 topic:1de2e665e860bd778d16
+topic:1fff3289b631cb351e25
 topic:20ee46371d536b3ce175
 topic:21a6e9ab831043bfb907
 topic:244ced436d4c9cac39ed
@@ -1113,6 +1129,7 @@ topic:c198a73644a499316ebd
 topic:c39ffc9eca8cacbf2e7a
 topic:c40e6f7b367fc6303c67
 topic:c6348887333bb8f7c5f4
+topic:c6a9a569f095f485d991
 topic:c7ac98dbcffc338e8aee
 topic:c9ea140942bdef3bc6ce
 topic:cd3f98a0406e81f14846
@@ -1197,6 +1214,7 @@ url:foods-ch.infomart.co.jp/news/292086
 url:foods-ch.infomart.co.jp/news/296300
 url:foods-ch.infomart.co.jp/news/296634
 url:foods-ch.infomart.co.jp/news/297217
+url:foods-ch.infomart.co.jp/news/298941
 url:forbesjapan.com/articles/detail/98841
 url:fukushima.keizai.biz/headline/1248/
 url:furosauna.com/2026/06/01/191137540/
@@ -1432,8 +1450,10 @@ url:news.nicovideo.jp/watch/nw19435322
 url:news.nicovideo.jp/watch/nw19437587?news_ref=
 url:news.nicovideo.jp/watch/nw19437609?news_ref=
 url:news.nicovideo.jp/watch/nw19443249?news_ref=
+url:news.nicovideo.jp/watch/nw19446308?news_ref=
 url:news.ntv.co.jp/category/economy/747d8b8e84ac42e79591407e19a65274
 url:news.ntv.co.jp/category/life/um6c90cd7f2255439a9fa037d1d3c05738
+url:news.ntv.co.jp/n/fbc/category/society/fbe0554b3c7e8c448fb78b423809b71379
 url:news.ntv.co.jp/n/ktk/category/politics/ktd6a40c5c5265480ea690b5eb197ec421
 url:news.ntv.co.jp/n/rab/category/society/ra31c6533e71cc4bdb81dfb27011c07dc4
 url:news.ntv.co.jp/n/rnb/category/society/rbc0f50fa224984ee59ff2303f2ec33e77
@@ -1486,6 +1506,7 @@ url:news.yahoo.co.jp/articles/337f565190f8580a30fa76b8479d6fa4bd16e4c6
 url:news.yahoo.co.jp/articles/34a7d737878e3d610f2942eff00ad6d58c38bda9?source=rss
 url:news.yahoo.co.jp/articles/3574842c1d79622fddcbd3d5f3e12066ed1b043b?source=rss
 url:news.yahoo.co.jp/articles/38399f8de29a2eb9de78229fa37f0dc2b9f29692
+url:news.yahoo.co.jp/articles/389d67c7e89960b8945d17aecdf603946dee3607
 url:news.yahoo.co.jp/articles/3be424c73e98d1a1e47c477f4df15a9f96ed36f2
 url:news.yahoo.co.jp/articles/3d12d67cb90aea0c43ac0f0e75c6d654ede2c6fb
 url:news.yahoo.co.jp/articles/3d2ec5aa597b2359d6a7d96555addf08b41ca55f?source=rss
@@ -1500,6 +1521,7 @@ url:news.yahoo.co.jp/articles/4461fdeb32d08dc39a300f54df5ea070c31dde8a
 url:news.yahoo.co.jp/articles/44af3b36b8c518a51554a02ad00044d74a7fcb82?source=rss
 url:news.yahoo.co.jp/articles/46449c7574ea3a869c08e338ff4f763b9b0bff46
 url:news.yahoo.co.jp/articles/491da36f19fae01821972bb14c84373df3c6280d
+url:news.yahoo.co.jp/articles/496b96d25530f367acbf2e8a7caa935c6d7dbcc9
 url:news.yahoo.co.jp/articles/4af92e49d2416f8e3eb234a1c1fec28ef81e1215?source=rss
 url:news.yahoo.co.jp/articles/4e02c362e888c9a82b28693466f51b90ba89929b
 url:news.yahoo.co.jp/articles/52c9e1bde7eb391ac8163fc06cbc4c1f35156c2e?source=rss
@@ -1793,11 +1815,13 @@ url:tetsudo-ch.com/13030278.html
 url:tetsudo-ch.com/13030403.html
 url:tjournal.co.jp/local/ueda/post-37761/
 url:togetter.com/li/2710940
+url:tohkaishimpo.com/2026/06/19/520463/
 url:tokushima.goguynet.jp/2026/06/11/glampremier-naruto-hotel-o-naruto-o-punyotei/
 url:topics.smt.docomo.ne.jp/amp/article/fisco/business/fisco-0009340020260617031
 url:topics.smt.docomo.ne.jp/amp/article/hokkaido/region/hokkaido-1322645
 url:topics.smt.docomo.ne.jp/amp/article/hokkaido/region/hokkaido-1325693
 url:topics.smt.docomo.ne.jp/amp/article/maonline/business/maonline-sh-s100ye79
+url:topics.smt.docomo.ne.jp/amp/article/maonline/business/maonline-sh-s100yen0
 url:topics.smt.docomo.ne.jp/amp/article/menkoi_tv/region/menkoi_tv-27467
 url:topics.smt.docomo.ne.jp/amp/article/oita/region/oita-C9D22E09-F775-490F-BD68-6FE371A9B732
 url:topics.smt.docomo.ne.jp/amp/article/tss/region/tss-34069
@@ -1821,6 +1845,7 @@ url:trilltrill.jp/articles/4754976
 url:tver.jp/episodes/ep3seeme8g
 url:tver.jp/episodes/epe5vxlhjq
 url:tver.jp/episodes/epeq130ioe
+url:tver.jp/episodes/epkmfayans
 url:urayasu.keizai.biz/headline/429/
 url:voix.jp/mobile/hacomono-expands-vacant-houses/
 url:wakayamashimpo.co.jp/2026/06/20260618_138604.html
@@ -1895,6 +1920,7 @@ url:www.excite.co.jp/news/article/nsp_1437288716914491900/
 url:www.excite.co.jp/news/article/rnb_1439890223542452260/
 url:www.excite.co.jp/news/article/tss_1437356453314659249/
 url:www.excite.co.jp/news/article/uhb_1439235848763048342/
+url:www.excite.co.jp/news/article/uhb_1440655267397927182/
 url:www.excite.co.jp/news/article/uty_1439570513562009723/
 url:www.excite.co.jp/news/article/ytv_1438216690862014726/
 url:www.fashion-press.net/news/136153
@@ -2107,6 +2133,7 @@ url:www.topics.or.jp/articles/-/1441626
 url:www.topics.or.jp/articles/-/1441846
 url:www.topics.or.jp/articles/-/1442757
 url:www.topics.or.jp/articles/-/1446301
+url:www.topics.or.jp/articles/-/1449682
 url:www.traicy.com/?p=
 url:www.traicy.com/posts/20260531370649/
 url:www.traicy.com/posts/20260531371956/
@@ -2207,8 +2234,10 @@ url:www.watch.impress.co.jp/docs/news/2117791.html
 url:www.yamagata-np.jp/news_core/index_pr.php?kate=
 url:www.yogonet.com/ja/%E7%B1%B3%E5%9B%BD%E5%A4%96%E3%81%AE%E4%B8%96%E7%95%8C%E5%90%84%E5%9B%BD/%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9-a/2026/06/15/123943-%E3%82%AB%E3%83%AA%E3%83%95%E3%82%A9%E3%83%AB%E3%83%8B%E3%82%A2%E5%B7%9E%E3%82%B8%E3%83%A3%E3%83%A0%E3%83%AB%E3%82%AB%E3%82%B8%E3%83%8E%E3%83%AA%E3%82%BE%E3%83%BC%E3%83%88%E3%81%AF%E3%80%81%E3%82%AB%E3%82%B8%E3%83%8E%E9%81%8B%E5%96%B6%E6%8B%85%E5%BD%93%E5%89%AF%E7%A4%BE%E9%95%B7%E3%81%A8%E3%81%97%E3%81%A6%E3%83%9E%E3%83%BC%E3%82%AB%E3%82%B9%E3%83%BB%E3%83%AB%E3%82%BB%E3%83%AD%E6%B0%8F%E3%82%92%E8%BF%8E%E3%81%88%E5%85%A5%E3%82%8C%E3%81%9F%E3%80%82
 url:www.yogonet.com/ja/%E7%B1%B3%E5%9B%BD%E5%A4%96%E3%81%AE%E4%B8%96%E7%95%8C%E5%90%84%E5%9B%BD/%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9-a/2026/06/17/124211-new-york-39s-turning-stone-resort-casino-to-open-luxury-hotel-and-finedining-restaurant-in-july
+url:www.yomiuri.co.jp/economy/20260617-GYT1T00141/
 url:www.yomiuri.co.jp/local/hokkaido/news/20260611-GYTNT00442/
 url:www.yomiuri.co.jp/local/kumamoto/news/20260603-GYTNT00144/
+url:www.yomiuri.co.jp/local/kyushu/news/20260619-GYS1T00032/
 url:www.yomiuri.co.jp/local/wakayama/news/20260617-GYTNT00192/
 url:www.zakzak.co.jp/pressrelease/atpress/JS6NHVNN3BI7FEIT4M37K6DKD4/
 url:www.zenchin.com/news/content-5634.php

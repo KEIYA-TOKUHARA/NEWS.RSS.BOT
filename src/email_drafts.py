@@ -28,6 +28,8 @@ GENERIC_FACILITY_NAMES = {
     "高級ホテル",
     "ブランドホテル",
     "ホテル取得",
+    "ホテル参入",
+    "ホテル事業",
     "ホテル運営",
     "ホテル開業予定",
     "ホテル開発",
@@ -87,9 +89,17 @@ GENERIC_FACILITY_FRAGMENTS = (
     "税率",
     "事業者向け",
     "事業者",
+    "事業",
     "宿泊事業者",
     "団体",
     "機構",
+    "参入",
+    "建設",
+    "予定地",
+    "用地",
+    "需要",
+    "駅近",
+    "近く",
 )
 TOPIC_ENTITY_WORDS = (
     "ホテル",
@@ -204,6 +214,9 @@ def clean_facility_candidate(name, require_topic_word=True):
     if any(fragment in name for fragment in GENERIC_FACILITY_FRAGMENTS):
         return ""
 
+    if re.search(r"(?:ホテル|旅館|宿)\d+(?:棟|室)", name):
+        return ""
+
     min_length = 4 if require_topic_word else 3
     if len(name) < min_length or len(name) > 40:
         return ""
@@ -248,7 +261,7 @@ def extract_operator_company(article):
         r"^(東横イン)",
         r"^(ルートイン)",
         r"^(共立メンテナンス)",
-        r"^([^、。]+?)(?:、|は).{0,30}(?:取得|開業|運営|リブランド|プレオープン)",
+        r"^([^、。]+?)(?:、|は|が).{0,30}(?:取得|開業|運営|リブランド|プレオープン|参入|建設)",
     ]
 
     for pattern in patterns:

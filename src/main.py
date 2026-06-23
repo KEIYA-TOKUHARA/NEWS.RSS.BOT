@@ -833,8 +833,10 @@ def find_matched_words(text, words):
     if not text:
         return matched
 
+    normalized_text = text.lower()
+
     for word in words:
-        if word in text:
+        if str(word).lower() in normalized_text:
             matched.append(word)
 
     return matched

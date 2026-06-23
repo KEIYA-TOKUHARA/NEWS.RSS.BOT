@@ -51,6 +51,26 @@ hospitality_words:
   - 燃油サーチャージ
   - 円安
   - 為替
+  - hotel
+  - hotels
+  - hospitality
+  - lodging
+  - resort
+  - resorts
+  - travel demand
+  - occupancy
+  - booking engine
+  - channel manager
+  - PMS
+  - Marriott
+  - Hilton
+  - Hyatt
+  - IHG
+  - Accor
+  - Wyndham
+  - Sonesta
+  - Embassy Suites
+  - Holiday Inn
 
 exclude_words:
   # 販促・飲食・イベント系
@@ -179,6 +199,17 @@ categories:
       - 2028年開業
       - 2029年開業
       - 2030年開業
+      - opening
+      - opens
+      - launch
+      - launches
+      - development
+      - pipeline
+      - construction
+      - new hotel
+      - new resort
+      - breaks ground
+      - groundbreaking
 
   renovation:
     label: "B：施設リニューアル・改装"
@@ -198,6 +229,12 @@ categories:
       - 再整備
       - 再開
       - リニューアルオープン
+      - renovation
+      - renovated
+      - remodel
+      - refurbishment
+      - rebrand
+      - repositioning
 
   operator_change:
     label: "A：運営変更・運営受託"
@@ -221,6 +258,15 @@ categories:
       - 買収
       - リブランド
       - ブランド変更
+      - acquisition
+      - acquires
+      - sale
+      - sold
+      - management agreement
+      - franchise agreement
+      - operator
+      - ownership
+      - rebrand
 
   new_entry:
     label: "A：新規参入・宿泊事業開始"
@@ -238,6 +284,12 @@ categories:
       - 多角化
       - 展開開始
       - 事業開始
+      - enters
+      - expansion
+      - expands
+      - new brand
+      - brand launch
+      - portfolio expansion
 
   distress:
     label: "B：倒産・譲渡・再生"
@@ -257,6 +309,11 @@ categories:
       - 休館
       - 再生支援
       - スポンサー支援
+      - bankruptcy
+      - foreclosure
+      - restructuring
+      - closes
+      - closure
 
   dx_system:
     label: "B：宿泊DX・システム導入"
@@ -282,6 +339,15 @@ categories:
       - システム連携
       - キャッシュレス
       - 無人運営
+      - hotel technology
+      - hospitality technology
+      - property management system
+      - channel manager
+      - booking engine
+      - revenue management system
+      - self check-in
+      - mobile key
+      - digital check-in
 
   distribution_system:
     label: "B：販路・予約/宿泊システム動向"
@@ -305,6 +371,13 @@ categories:
       - 客室単価
       - ADR
       - RevPAR
+      - OTA
+      - booking engine
+      - direct booking
+      - metasearch
+      - revenue management
+      - dynamic pricing
+      - first-click
 
   industry_strategy:
     label: "C：業界動向・企業戦略"
@@ -332,6 +405,11 @@ categories:
       - 開校
       - 経営目標
       - 成長目標
+      - strategy
+      - growth plan
+      - portfolio
+      - investment
+      - brand strategy
 
   inbound_demand:
     label: "C：インバウンド・旅行需要"
@@ -355,6 +433,12 @@ categories:
       - 観光消費
       - オーバーツーリズム
       - 地方誘客
+      - travel demand
+      - occupancy
+      - hotel revenue
+      - room rates
+      - ADR
+      - RevPAR
 
   overseas_trend:
     label: "C：海外宿泊業界動向"
@@ -377,6 +461,15 @@ categories:
       - 世界の宿泊
       - APAC
       - アジア太平洋
+      - hotel chain
+      - hotel chains
+      - Marriott
+      - Hilton
+      - Hyatt
+      - Accor
+      - Wyndham
+      - Choice Hotels
+      - APAC
 
   global_macro_impact:
     label: "C：海外情勢・訪日影響"

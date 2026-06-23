@@ -17,6 +17,10 @@ sources:
   url: https://www.hospitalitynet.org/rss/news.xml
 - name: Breaking Travel News - Hotel
   url: https://feeds.feedburner.com/breakingtravelnews/news/hotel
+- name: Skift
+  url: https://skift.com/feed/
+- name: Lodging Magazine
+  url: https://lodgingmagazine.com/feed/
 - name: 梅田経済新聞
   url: https://umeda.keizai.biz/rss.xml
 - name: 神戸経済新聞

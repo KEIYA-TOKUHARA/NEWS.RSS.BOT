@@ -47,6 +47,7 @@ facility:45bccbeef6dc5cb95468
 facility:45db3e7193eeb1c93bc7
 facility:4610d97bdab42fc242a1
 facility:4a061fc934d82a2263b9
+facility:4aa0bdf17a58b5864aee
 facility:4d1c3a8cb8fa3890536a
 facility:4d9d86583205373a6d14
 facility:4e6c0311938f71c7c813
@@ -102,6 +103,7 @@ facility:a4a06a54de2573169044
 facility:a6d6fc74e9ad144bdca9
 facility:a94c569f410cb5163498
 facility:aabe398dc8ccbe19fd79
+facility:ac18e9124ecade6b3ac2
 facility:aca56681ea4a9a809622
 facility:afe2690e149bf6eb357c
 facility:b2895324fc8911aecd9e
@@ -125,6 +127,7 @@ facility:d4af681656bc22b41947
 facility:d515d24002f652ef82ad
 facility:d7090332e3d691c2195b
 facility:d756e9f63eea8cae5690
+facility:d8524fb98527356fb4cf
 facility:d94beb9493c3b27f3013
 facility:da77ec1fdfd544188433
 facility:db3348ae420847d04903
@@ -155,6 +158,7 @@ title:081b12950f22d5b4038c
 title:08561032f0d1775134b1
 title:0922e907c95e4c770531
 title:09de676dfe1947833831
+title:0a1abab21868f5e1503d
 title:0a4f3d5d3b79545671db
 title:0ab927017f8796fb6d17
 title:0c327285d603521e645c
@@ -223,6 +227,7 @@ title:32090f4d6c8ca8277f0c
 title:323ba16041267bebad6d
 title:3281b98fcc64b9a8fd72
 title:32de2ffab2b82f19be9c
+title:3530630bd6ed539dfe8d
 title:36be41b1e8ded719513d
 title:37099725a8f421e3224a
 title:375e73991ba9c1366c12
@@ -303,6 +308,7 @@ title:5f52479be7d6eaca64c7
 title:5fd914ff756161525867
 title:60280dacbd203c40a951
 title:603c66096b5b23766f1e
+title:6071f0f33cebd176d2b8
 title:6086ae4ece5b07bf8e2c
 title:614a51696c5523770a90
 title:614ea5344d8dd8bfe476
@@ -346,6 +352,7 @@ title:759e7a1674f44d1c3219
 title:76b43c93399c70aa7de1
 title:778f190a76b3acb08612
 title:781a6f26facabd60a546
+title:78947fdfff3659e8d733
 title:79eb5abefa0d2cebd1c9
 title:7a4a193183207c01dab8
 title:7a8b54aed89d26de38ac
@@ -390,9 +397,11 @@ title:9047ee0b34362d7b2463
 title:904f78a1599ca6b56c06
 title:909a35d3bddec16cd12c
 title:909d5202c8f1a58872ff
+title:90da5521fbc17b2ade2e
 title:9120d00b36760ebec5fd
 title:913cf2eaa7b00a0f36a0
 title:91a1e4cd125740d183a0
+title:91da9ece85530ad33535
 title:9269886189c89bf145c5
 title:937350f97b078342a326
 title:938950295478503c57e5
@@ -484,6 +493,7 @@ title:b9ade31ead6d8b8edeaa
 title:ba0f6858b7d8a50a4d70
 title:ba2543181fc972884ce5
 title:bb08f9cae37a17100fad
+title:bbed04295865ed6f3184
 title:bc0ff3353d5253a988ae
 title:bc245e9c3a5d8c1eeaef
 title:bc6feae0ceb4360d4477
@@ -512,6 +522,7 @@ title:c98413755bbeb59c5022
 title:c9efca2068628e63ec75
 title:cb726360f2cb2f680c60
 title:ccaa061bf2eec2dc825c
+title:ccfe20cea1ab0178e2b1
 title:cd05b2e4bb74ad6920fb
 title:cd2a7485c7deb715c9ec
 title:cd874d4516455cd559ee
@@ -529,6 +540,7 @@ title:d1004a6956b3aad0188c
 title:d10bfa154e9940b53eaa
 title:d17f0c4445c2042d43dc
 title:d2822e8f92946c33c774
+title:d3eb4e6fd5684bfc7702
 title:d418ca4c744b48399c0f
 title:d464f3c24d5bc20586d8
 title:d51fe37a6a320d0e1de9
@@ -548,6 +560,7 @@ title:dad7d365c3ddeee56fcc
 title:db12101602727b46dab5
 title:dc143829867859c0f8ef
 title:dd0b349d3378b0d28fbc
+title:dd138cf79e69d225e273
 title:deb025e30c0bc2ccb158
 title:df8cda614e8f9528fdfd
 title:df95378232de33206ef5
@@ -664,6 +677,7 @@ topic:3eec17b04248cf0a7d60
 topic:45bccbeef6dc5cb95468
 topic:45db3e7193eeb1c93bc7
 topic:4a061fc934d82a2263b9
+topic:4aa0bdf17a58b5864aee
 topic:4cd67ffdb325c851d17c
 topic:4d1c3a8cb8fa3890536a
 topic:4d9d86583205373a6d14
@@ -738,6 +752,7 @@ topic:a4a06a54de2573169044
 topic:a6e60a9507ee9133afe8
 topic:a94c569f410cb5163498
 topic:aabe398dc8ccbe19fd79
+topic:ac18e9124ecade6b3ac2
 topic:aca56681ea4a9a809622
 topic:b2895324fc8911aecd9e
 topic:b5a161a4ae383707d54a
@@ -765,6 +780,7 @@ topic:d4af681656bc22b41947
 topic:d515d24002f652ef82ad
 topic:d7090332e3d691c2195b
 topic:d756e9f63eea8cae5690
+topic:d8524fb98527356fb4cf
 topic:d8af8ae96bdbe66980c7
 topic:d94beb9493c3b27f3013
 topic:d94f0d3d86ca4551f81f
@@ -861,6 +877,7 @@ url:mainichi.jp/articles/20260622/ddl/k01/020/040000c
 url:mainichi.jp/articles/20260622/ddl/k44/010/204000c
 url:mantan-web.jp/prtimes/article/20260616prt00m200000554a/photopage/001.html
 url:mantan-web.jp/prtimes/article/20260622prt00m200000023a/photopage/001.html
+url:mantan-web.jp/prtimes/article/20260623prt00m200000691a.html
 url:maonline.jp/news/20260601d
 url:minkabu.jp/news/4544401
 url:naigaitimes.com/society/404041/
@@ -926,6 +943,7 @@ url:news.yahoo.co.jp/articles/496b96d25530f367acbf2e8a7caa935c6d7dbcc9
 url:news.yahoo.co.jp/articles/4af92e49d2416f8e3eb234a1c1fec28ef81e1215?source=rss
 url:news.yahoo.co.jp/articles/4e02c362e888c9a82b28693466f51b90ba89929b
 url:news.yahoo.co.jp/articles/4f4d7a7aceeac11ee31edd9e690f43dccc82859d
+url:news.yahoo.co.jp/articles/556c7634868f717b573df77b51f61e94d75c2d69?page=
 url:news.yahoo.co.jp/articles/57bd82f0708bc2700af557a005891ce41246c341
 url:news.yahoo.co.jp/articles/58766857013a16e1759c46539a85c0051685a51f
 url:news.yahoo.co.jp/articles/5b0544b324073307035ee6dabd496387e5735dac
@@ -950,6 +968,7 @@ url:news.yahoo.co.jp/articles/a2d10369dcb8961f85dfe8c1cb3b28133bfae543
 url:news.yahoo.co.jp/articles/a44373a3bebeaf92c435ed4ec1f2ff07f455d677
 url:news.yahoo.co.jp/articles/a4fde8d7570c86755a1934f88ab4ec503909bdf8
 url:news.yahoo.co.jp/articles/a8040995d5f78f49c8e3734da27a159fe73a46dc?source=rss
+url:news.yahoo.co.jp/articles/a9b5125ba603df0280b1e56823c0bf53808cc8e2
 url:news.yahoo.co.jp/articles/ab4d2934baed45c16d564ededd8862ae32d0b844
 url:news.yahoo.co.jp/articles/ac71ed71e3bf4fd0e1a10f97d107e9f5b6c9e5bc
 url:news.yahoo.co.jp/articles/aed552ac60d3d85371549032edbed3b53bdfd858
@@ -987,6 +1006,7 @@ url:news.yahoo.co.jp/articles/fe7e0db7bef1fdb637853d0b786f931212ed0ba3
 url:news.yahoo.co.jp/expert/articles/6cd177bfc9d362cf2dcbfd275dc83bf151ae304b
 url:news.yahoo.co.jp/expert/articles/97f590e2d5c7b612b7f175a402307d2b5ae08b4a
 url:news.yahoo.co.jp/expert/articles/b3601b604cb130eecdd2141fd9b51a045129321a
+url:news.yahoo.co.jp/expert/articles/c793a7783ccfae862b73e9ccb815b0bb3751eaa0
 url:newsdig.tbs.co.jp/articles/cbc/2739935
 url:newsdig.tbs.co.jp/articles/obs/2733520?display=
 url:newswitch.jp/p/49528
@@ -1139,6 +1159,11 @@ url:www.hospitalitynet.org/news/4133123/marriott-international-signs-agreement-w
 url:www.hospitalitynet.org/news/4133124/edition-hotels-unveils-original-mini-drama-series-an-invitation-from-e
 url:www.hospitalitynet.org/news/4133126/hvs-europe-hotel-transactions-bulletin-week-ending-19-june-2026
 url:www.hospitalitynet.org/news/4133143/future-hospitality-summit-saudi-arabia-officially-opens-in-riyadh
+url:www.hospitalitynet.org/news/4133144/hilton-announces-the-debut-of-spark-by-hilton-in-asia-pacific-with-the-opening-of-the-first-two-hotels-in-bengaluru-and-goa-india
+url:www.hospitalitynet.org/news/4133146/ihg-hotels-resorts-recognised-as-a-top-employer-across-the-middle-east
+url:www.hospitalitynet.org/news/4133148/duetto-and-triptease-launch-integration-to-automate-marketing-activity-based-on-occupancy
+url:www.hospitalitynet.org/news/4133149/expedia-group-research-finds-fully-connected-hotels-eliminate-friction-and-improve-revenue-performance
+url:www.hospitalitynet.org/opinion/4132680/why-the-best-hospitality-vendors-may-never-even-get-considered
 url:www.hospitalitynet.org/opinion/4132837/why-direct-booking-strategy-fails-when-hotels-dont-control-demand
 url:www.hospitalitynet.org/opinion/4133075/why-the-hotel-industry-has-been-optimizing-the-wrong-metric
 url:www.hospitalitynet.org/opinion/4133106/why-hotels-are-focusing-on-perceived-value-rather-than-price-cuts
@@ -1249,6 +1274,7 @@ url:www.travelvoice.jp/20260623-160028
 url:www.travelvoice.jp/tenders/1420
 url:www.umk.co.jp/news/?date=
 url:www.vietnam.vn/ja/cu-bat-tay-lich-su-50-000-combo-bay-nghi-duong-phu-quoc-4-sao-giam-sap-san-con-5-trieu
+url:www.vietnam.vn/ja/doanh-nghiep-trung-dau-gia-dat-vang-xay-khach-san-5-sao-o-hn-bo-coc
 url:www.vietnam.vn/ja/du-an-can-ho-khach-san-khu-trung-tam-duoc-nhieu-nguoi-nuoc-ngoai-thue-sap-ket-thuc-vi-sao
 url:www.vietnam.vn/ja/khu-du-lich-quat-lam-duoc-doi-ten-thanh-khu-du-lich-giao-ninh
 url:www.walkerplus.com/article/1100479/image11066236.html

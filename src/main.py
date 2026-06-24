@@ -56,6 +56,8 @@ GENERIC_FACILITY_NAMES = {
     "高級ホテル",
     "ブランドホテル",
     "ホテル取得",
+    "ホテル参入",
+    "ホテル事業",
     "ホテル運営",
     "ホテル開業予定",
     "ホテル開発",
@@ -115,9 +117,17 @@ GENERIC_FACILITY_FRAGMENTS = (
     "税率",
     "事業者向け",
     "事業者",
+    "事業",
     "宿泊事業者",
     "団体",
     "機構",
+    "参入",
+    "建設",
+    "予定地",
+    "用地",
+    "需要",
+    "駅近",
+    "近く",
 )
 TOPIC_ENTITY_WORDS = (
     "ホテル",
@@ -434,6 +444,8 @@ def normalize_topic_entity(name, require_topic_word=True):
     name = clean_display_text(name)
     name = re.sub(r"\s*[-|｜].*$", "", name)
     name = re.sub(r"[（）()「」『』【】]", "", name)
+    if "奈良監獄" in name:
+        return "奈良監獄"
     name = re.sub(r"(?:の)?リゾート(?:化|構想|計画)$", "", name)
     name = re.sub(r"(?:の)?(?:大改装|土地取得|新取得|取得)$", "", name)
     if "ランド" in name and name.endswith("リゾート"):
@@ -446,6 +458,9 @@ def normalize_topic_entity(name, require_topic_word=True):
         return ""
 
     if any(fragment in name for fragment in GENERIC_FACILITY_FRAGMENTS):
+        return ""
+
+    if re.search(r"(?:ホテル|旅館|宿)\d+(?:棟|室)", name):
         return ""
 
     min_length = 4 if require_topic_word else 3
@@ -477,6 +492,9 @@ def extract_topic_entity_for_key(article):
     title = clean_display_text(article.get("title", ""))
     summary = clean_display_text(article.get("summary", ""))
     text = f"{title}。{summary}"
+
+    if "奈良監獄" in text:
+        return "奈良監獄"
 
     quoted_names = re.findall(r"[「『]([^」』]+)[」』]", text)
     for name in quoted_names:

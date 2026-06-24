@@ -53,6 +53,7 @@ facility:4d1c3a8cb8fa3890536a
 facility:4d9d86583205373a6d14
 facility:4e6c0311938f71c7c813
 facility:4ec37019ca197262778b
+facility:4ef0cfa5ca657958db9f
 facility:4f885e66c959969273a4
 facility:504afc78b36da95a6345
 facility:505676cd8a3d0586c1cf
@@ -78,12 +79,14 @@ facility:6ad4ef4dd12417c9195b
 facility:6c00023d2d22e1dc2c8b
 facility:6c6e4ce47d917e7e4a48
 facility:7156238268edd6eb5505
+facility:7198e570939f44d5ee70
 facility:7443382bee799cc97407
 facility:75a4958a56a99f27099e
 facility:7608837098c243629375
 facility:79c5e00090b0ebf4eb34
 facility:7b31516c6243f1b6c802
 facility:7b549aaf690c2b396cd9
+facility:7bfc86d1b3530015ebaf
 facility:7c0101a6d7a769edab88
 facility:7cdb923b6cebc545f450
 facility:7d6dcd7cdc4abe348fac
@@ -223,6 +226,7 @@ title:253b523c8aff141dd6c9
 title:255045060a2557a7b609
 title:2551b105e4fc4d5e8594
 title:256bcba63bd56f4b12df
+title:26726c12f7bfebdff752
 title:26effb59678827440f36
 title:27a350b0537f3a77b551
 title:27a4720abde4d3229bfc
@@ -230,6 +234,7 @@ title:27be9597be18809f0212
 title:27fac399d073266478d6
 title:284a8d0c4b3b73e9bf09
 title:29b8c256f57dbad60ee9
+title:2a3e4fa280c9c0379ddc
 title:2a94780802d6587e39da
 title:2c2792398f60d5a4ae99
 title:2c9eeeb090ddc5c7a921
@@ -304,6 +309,7 @@ title:4f337a6e02f64211fcf5
 title:4ff8b64653d5d33c4629
 title:5026a63b3fb7cfd6d9e3
 title:50d707c9ccd61d0a8920
+title:512d76e77695c9df762d
 title:5138806f99c32a3a9efd
 title:51a99f0d00338187e25b
 title:52037d19f17e0c0dd849
@@ -323,6 +329,7 @@ title:596dcdb4cb77b2aa3153
 title:5a34493e2b5a2ad694d9
 title:5a792903490d87937b42
 title:5c5d7f8d0733f5bf283b
+title:5cf7df96dbafe7a8b4f0
 title:5e10a5ed8de1390568c6
 title:5e2bd343dcc817617c4c
 title:5e7133f97345f88dfc0a
@@ -367,6 +374,7 @@ title:6e427bfc3a86cbf1cdc2
 title:6ede5c8017a7bf3902e3
 title:6f4934b0e8b7bc832b10
 title:6f563c95ebea1330a704
+title:6ffc7d95615c377783e3
 title:70e9831a62262e60210b
 title:711045fa9518a82189c0
 title:7114ca99ecbdd42dee9b
@@ -390,6 +398,7 @@ title:7c88a5037285df646f70
 title:7cf3623706cc1dc4f740
 title:7cf3c864f1ea5efb39f9
 title:7d6b981563bde1137dfe
+title:7e490947af3865945539
 title:7e49adda359ffaf1eb24
 title:7ece9a5547c3d2d0a154
 title:7ee3515ea597fb9e40de
@@ -412,6 +421,7 @@ title:85b2f16d4b87fd617e2a
 title:8706527659a38b1cc9ee
 title:87a877823b55350ef8b0
 title:881a1e62e78a9c472670
+title:8868cd7fb5505b1d4cc1
 title:89a4430cddb8a10e481a
 title:8ad3dcc39749f2a48019
 title:8c24d3da282d8b12e997
@@ -424,6 +434,7 @@ title:8dd6e4de031c14ca2777
 title:8dee392202fab24e8649
 title:8e0a5429f4a999f74509
 title:8ee8405fed01732a6fa5
+title:8eff33cf4ddff354ee52
 title:9047ee0b34362d7b2463
 title:904f78a1599ca6b56c06
 title:909a35d3bddec16cd12c
@@ -619,6 +630,7 @@ title:e1d7eeba52edf29d5cfc
 title:e200a01a6a38cf72483f
 title:e26c28370a0aaae21450
 title:e2ea2668a417262f3e52
+title:e3421f08efde767ada0e
 title:e3630132657389b690bd
 title:e376aefd2ba9c1d355dc
 title:e4639c6664e8f2a21bcb
@@ -643,6 +655,7 @@ title:ea1497fd8f95070b77bd
 title:ea28a21650a370642f56
 title:eab3426e4ca5345150e4
 title:eada352f17b7365b6a27
+title:eae526535a28395c23ce
 title:eb02d72b681e92d53d5e
 title:eb34d25563cbe5aad370
 title:eb61bdd6f8da14e8a431
@@ -740,6 +753,7 @@ topic:4d1c3a8cb8fa3890536a
 topic:4d9d86583205373a6d14
 topic:4e6c0311938f71c7c813
 topic:4ec37019ca197262778b
+topic:4ef0cfa5ca657958db9f
 topic:4f885e66c959969273a4
 topic:504afc78b36da95a6345
 topic:505676cd8a3d0586c1cf
@@ -774,6 +788,7 @@ topic:6c00023d2d22e1dc2c8b
 topic:6c09bd612a0f07855768
 topic:6c6e4ce47d917e7e4a48
 topic:7156238268edd6eb5505
+topic:7198e570939f44d5ee70
 topic:7280dc872a1a17f40225
 topic:739841c9cbe8109a0f1d
 topic:739a080cfae3e33678cc
@@ -784,6 +799,7 @@ topic:7608837098c243629375
 topic:79c5e00090b0ebf4eb34
 topic:7b31516c6243f1b6c802
 topic:7b549aaf690c2b396cd9
+topic:7bfc86d1b3530015ebaf
 topic:7c0101a6d7a769edab88
 topic:7cdb923b6cebc545f450
 topic:7d6dcd7cdc4abe348fac
@@ -888,6 +904,7 @@ url:ai.watch.impress.co.jp/docs/news/2119249.html
 url:ampmedia.jp/2026/06/17/yoki-matsushima/
 url:article.auone.jp/detail/1/2/5/338_5_r_20260623_1782177587392242
 url:article.auone.jp/detail/1/2/5/476_5_r_20260616_1781559173691576
+url:article.auone.jp/detail/1/2/5/487_5_r_20260623_1782210276779042
 url:article.auone.jp/detail/1/2/5/511_5_r_20260620_1781922031665345
 url:article.auone.jp/detail/1/2/5/548_5_r_20260603_1780456847999113
 url:article.auone.jp/detail/1/2/5/550_5_r_20260602_1780388326600182
@@ -932,6 +949,8 @@ url:ibarakinews.jp/news/newsdetail.php?f_jun=
 url:iida.keizai.biz/headline/1845/
 url:itlifehack.jp/archives/11014507.html
 url:j-times.jp/archives/141227
+url:ja.laodong.vn/bat-dong-san/chuan-bi-ha-tang-le-khoi-cong-nha-luu-tru-cong-nhan-kcn-dai-an-mo-rong-hai-phong-1724356.ldo
+url:jp.investing.com/news/company-news/article-93CH-1580322
 url:jp.investing.com/news/insider-trading-news/article-93CH-1573589
 url:jp.investing.com/news/sec-filings/article-93CH-1571497
 url:jp.investing.com/news/sec-filings/article-93CH-1581373
@@ -958,6 +977,7 @@ url:mantan-web.jp/prtimes/article/20260623prt00m200000691a.html
 url:maonline.jp/news/20260601d
 url:minkabu.jp/news/4544401
 url:mshale.com/869979b9/cfb8b4e7guQQzMhpXG4
+url:mtfuji.keizai.biz/headline/2971/
 url:naigaitimes.com/society/404041/
 url:namba.keizai.biz/headline/5874/
 url:news.ksb.co.jp/article/16621353
@@ -1147,6 +1167,7 @@ url:prtimes.jp/main/html/rd/p/000000189.000076648.html
 url:prtimes.jp/main/html/rd/p/000000190.000051315.html
 url:prtimes.jp/main/html/rd/p/000000196.000028141.html
 url:prtimes.jp/main/html/rd/p/000000281.000037991.html
+url:prtimes.jp/main/html/rd/p/000000282.000037991.html
 url:prtimes.jp/main/html/rd/p/000000283.000088570.html
 url:prtimes.jp/main/html/rd/p/000000299.000017658.html
 url:prtimes.jp/main/html/rd/p/000000342.000018649.html
@@ -1187,6 +1208,7 @@ url:tohkaishimpo.com/2026/06/19/520463/
 url:topics.smt.docomo.ne.jp/amp/article/fisco/business/fisco-0009340020260617031
 url:topics.smt.docomo.ne.jp/amp/article/hicbc/nation/hicbc-2739935
 url:topics.smt.docomo.ne.jp/amp/article/hokkaido/region/hokkaido-1325693
+url:topics.smt.docomo.ne.jp/amp/article/hokkaido/region/hokkaido-1329158
 url:topics.smt.docomo.ne.jp/amp/article/kobe/business/kobe-20260613015
 url:topics.smt.docomo.ne.jp/amp/article/maonline/business/maonline-sh-s100ye79
 url:topics.smt.docomo.ne.jp/amp/article/maonline/business/maonline-sh-s100yen0
@@ -1212,6 +1234,7 @@ url:www.47news.jp/14439482.html
 url:www.47news.jp/14446806.html
 url:www.47news.jp/14495673.html
 url:www.47news.jp/14512986.html
+url:www.47news.jp/14514008.html
 url:www.agara.co.jp/article/648323?rct=
 url:www.agara.co.jp/article/651517
 url:www.asahi.co.jp/webnews/pages/ann_000512854.html
@@ -1225,6 +1248,7 @@ url:www.breakingtravelnews.com/news/article/minor-hotels-names-tamer-khedr-manag
 url:www.breakingtravelnews.com/news/article/new-luxury-hotel-the-yacht-opens-at-herzliya-marina-expanding-israels-coast/
 url:www.breakingtravelnews.com/news/article/preferred-hotels-resorts-celebrates-15-years-of-preferred-pride-with-expand/
 url:www.breakingtravelnews.com/news/article/sharjah-hotel-guests-surge-22-to-reach-2.1-million-as-annual-revenues-hit-a/
+url:www.breakingtravelnews.com/news/article/shaza-hotels-expands-saudi-arabia-portfolio-with-signing-of-shaza-riyadh-st/
 url:www.businesswire.com/news/home/20260605256463/ja
 url:www.chiba-tv.com/plus/detail/2026061725925
 url:www.chiba-tv.com/plus/detail/2026061755675
@@ -1234,6 +1258,7 @@ url:www.chiba-tv.com/plus/detail/amp/2026061751967
 url:www.chiba-tv.com/plus/detail/amp/2026061756285
 url:www.chiba-tv.com/plus/detail/amp/2026061766285
 url:www.chiba-tv.com/plus/detail/amp/2026061770396
+url:www.chiba-tv.com/plus/detail/amp/2026061778766
 url:www.chunichi.co.jp/article/1271103
 url:www.excite.co.jp/news/article/Global_news_asia_11264/
 url:www.excite.co.jp/news/article/Hounichi_chokankaiken202606/
@@ -1266,6 +1291,7 @@ url:www.hospitalitynet.org/news/4133125/us-news-unveils-inaugural-2026-2027-best
 url:www.hospitalitynet.org/news/4133126/hvs-europe-hotel-transactions-bulletin-week-ending-19-june-2026
 url:www.hospitalitynet.org/news/4133143/future-hospitality-summit-saudi-arabia-officially-opens-in-riyadh
 url:www.hospitalitynet.org/news/4133144/hilton-announces-the-debut-of-spark-by-hilton-in-asia-pacific-with-the-opening-of-the-first-two-hotels-in-bengaluru-and-goa-india
+url:www.hospitalitynet.org/news/4133145/southern-aluminum-announces-acquisition-of-ramler-international
 url:www.hospitalitynet.org/news/4133146/ihg-hotels-resorts-recognised-as-a-top-employer-across-the-middle-east
 url:www.hospitalitynet.org/news/4133148/duetto-and-triptease-launch-integration-to-automate-marketing-activity-based-on-occupancy
 url:www.hospitalitynet.org/news/4133149/expedia-group-research-finds-fully-connected-hotels-eliminate-friction-and-improve-revenue-performance

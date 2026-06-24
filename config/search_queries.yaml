@@ -97,6 +97,30 @@ google_news:
       query: '(離島 OR 島) (ホテル OR 旅館 OR 宿泊施設 OR グランピング) (開業 OR 整備 OR 観光)'
     - name: 大阪関西万博宿泊
       query: '(大阪 OR 関西) (ホテル OR 宿泊施設) (開業 OR 建設 OR 改装 OR インバウンド)'
+    - name: 西日本ホテル開業建設
+      query: '(大阪 OR 京都 OR 兵庫 OR 奈良 OR 和歌山 OR 滋賀 OR 岡山 OR 広島 OR 山口 OR 鳥取 OR 島根 OR 徳島 OR 香川 OR 愛媛 OR 高知 OR 福岡 OR 佐賀 OR 長崎 OR 熊本 OR 大分 OR 宮崎 OR 鹿児島 OR 沖縄) (ホテル OR 旅館 OR 宿泊施設 OR 客室) (開業 OR オープン OR 新設 OR 建設 OR 着工 OR 竣工 OR 再開発)'
+    - name: 西日本ホテル運営リブランド
+      query: '(大阪 OR 京都 OR 兵庫 OR 奈良 OR 和歌山 OR 滋賀 OR 岡山 OR 広島 OR 山口 OR 鳥取 OR 島根 OR 徳島 OR 香川 OR 愛媛 OR 高知 OR 福岡 OR 佐賀 OR 長崎 OR 熊本 OR 大分 OR 宮崎 OR 鹿児島 OR 沖縄) (ホテル OR 旅館 OR 宿泊施設 OR 温泉) (リブランド OR リニューアル OR 改装 OR 運営開始 OR 運営受託 OR 指定管理)'
+    - name: 西日本旅館再生承継
+      query: '(京都 OR 兵庫 OR 奈良 OR 和歌山 OR 岡山 OR 広島 OR 山口 OR 島根 OR 鳥取 OR 四国 OR 九州 OR 沖縄) (旅館 OR 温泉旅館 OR 老舗旅館 OR 宿泊施設) (再生 OR 事業承継 OR 譲渡 OR 買収 OR 閉館 OR 民事再生 OR 改修)'
+    - name: 京都新聞ホテル
+      query: 'site:kyoto-np.co.jp (ホテル OR 旅館 OR 宿泊施設 OR グランピング) (開業 OR 建設 OR 再開発 OR リニューアル OR 運営 OR 参入)'
+    - name: 神戸新聞ホテル
+      query: 'site:kobe-np.co.jp (ホテル OR 旅館 OR 宿泊施設 OR グランピング) (開業 OR 建設 OR 再開発 OR リニューアル OR 運営 OR 参入)'
+    - name: 山陽新聞ホテル
+      query: 'site:sanyonews.jp (ホテル OR 旅館 OR 宿泊施設 OR グランピング) (開業 OR 建設 OR 再開発 OR リニューアル OR 運営 OR 参入)'
+    - name: 中国新聞ホテル
+      query: 'site:chugoku-np.co.jp (ホテル OR 旅館 OR 宿泊施設 OR グランピング) (開業 OR 建設 OR 再開発 OR リニューアル OR 運営 OR 参入)'
+    - name: 西日本新聞ホテル
+      query: 'site:nishinippon.co.jp (ホテル OR 旅館 OR 宿泊施設 OR グランピング) (開業 OR 建設 OR 再開発 OR リニューアル OR 運営 OR 参入)'
+    - name: 大分合同新聞ホテル
+      query: 'site:oita-press.co.jp (ホテル OR 旅館 OR 宿泊施設 OR グランピング) (開業 OR 建設 OR 再開発 OR リニューアル OR 運営 OR 参入)'
+    - name: 宮崎日日新聞ホテル
+      query: 'site:the-miyanichi.co.jp (ホテル OR 旅館 OR 宿泊施設 OR グランピング) (開業 OR 建設 OR 再開発 OR リニューアル OR 運営 OR 参入)'
+    - name: 沖縄地方紙ホテル
+      query: '(site:okinawatimes.co.jp OR site:ryukyushimpo.jp) (ホテル OR 旅館 OR 宿泊施設 OR グランピング) (開業 OR 建設 OR 再開発 OR リニューアル OR 運営 OR 参入)'
+    - name: 西日本建設紙ホテル
+      query: '(site:kentsu.co.jp OR site:constnews.com) (大阪 OR 京都 OR 兵庫 OR 奈良 OR 和歌山 OR 岡山 OR 広島 OR 山口 OR 四国 OR 九州 OR 沖縄) (ホテル OR 旅館 OR 宿泊施設 OR 客室) (建設 OR 着工 OR 竣工 OR 開発 OR 計画 OR 新築)'
     - name: IRホテル
       query: '(IR OR 統合型リゾート OR カジノ) (ホテル OR 宿泊施設) (開業 OR 建設 OR 運営 OR 開発)'
     - name: PR TIMES宿泊開業

@@ -96,6 +96,7 @@ facility:654443389e5cc6dd38ea
 facility:66ab99e22fc9b0bab9f3
 facility:68ebc81c7cdfcad723db
 facility:697f5e56f87042477917
+facility:69a78d43ed1fb276fff3
 facility:69afae5d5032fd756f8d
 facility:6ad4ef4dd12417c9195b
 facility:6c00023d2d22e1dc2c8b
@@ -200,6 +201,7 @@ facility:efd5bb5810d371ebcafe
 facility:eff7deb99a8204ee4c07
 facility:f02b51eb1c381b6dc401
 facility:f0c9d741a34ab9ef834d
+facility:f0d0c226269ad648c01d
 facility:f3744f340ea6bb284e81
 facility:f59120aa700b7c7bebde
 facility:f789512ac2d9ca4d391f
@@ -345,6 +347,7 @@ title:3ab49904a1c9d60a3bf0
 title:3af58b81d11630ef3780
 title:3b6bd0bc1cff18278237
 title:3b96dbe61aa01c3864ba
+title:3c19af767bf9ba079736
 title:3d8b95a24ee2c4d20a1e
 title:3e665b0e51086c28a2d8
 title:3e66d2ee98a83d716d81
@@ -384,6 +387,7 @@ title:4a24df2eb3f702377f46
 title:4a3bf355218dd09bad22
 title:4ae126225f270650acbf
 title:4b07168a05b885c2f404
+title:4b646ca1d9a2e69ec3ca
 title:4c734bdfd7acc03dc0b1
 title:4cdd585afe4649f472a8
 title:4cfb16c35d20f65e4bac
@@ -416,6 +420,7 @@ title:5775b78ada44e111d61f
 title:57bfa6d0065c1b20ca85
 title:57f08726b0e114f17775
 title:58601120f6679f026a33
+title:58ee26891a55fc4e3ca2
 title:5906df2dc4f8c6b9ff24
 title:596dcdb4cb77b2aa3153
 title:59ec91268783428de11d
@@ -442,6 +447,7 @@ title:603087358bdee40e2488
 title:603c66096b5b23766f1e
 title:6071f0f33cebd176d2b8
 title:6086ae4ece5b07bf8e2c
+title:61391770ad77c2d12958
 title:614a51696c5523770a90
 title:614ea5344d8dd8bfe476
 title:6236f1527e1b623f9ab4
@@ -491,6 +497,7 @@ title:7146863c8c8ae9955b20
 title:72166807aa99dbc51473
 title:722844ca2d3c8f79df04
 title:73920f52b63f32ccde96
+title:749bee2011c0d3e9f85b
 title:74e60f2804d1b165f0f2
 title:757859637d977deb96e3
 title:75811b9883185c9a1be8
@@ -510,6 +517,7 @@ title:7c88a5037285df646f70
 title:7cf3623706cc1dc4f740
 title:7cf3c864f1ea5efb39f9
 title:7d6b981563bde1137dfe
+title:7dffc4b4f610da1ad4d6
 title:7e490947af3865945539
 title:7e49adda359ffaf1eb24
 title:7eb9e168dea18c522c21
@@ -551,6 +559,7 @@ title:8ad3dcc39749f2a48019
 title:8ae5068d243959e95a72
 title:8af17857090aeda71013
 title:8c24d3da282d8b12e997
+title:8c2ce7a198a73fefaf6d
 title:8c5bb1d0f310b971f211
 title:8c78c1192ff9ef8d2916
 title:8c8031077c1935996b6d
@@ -668,6 +677,7 @@ title:af78226ac7a34fd93f60
 title:afac0df3c5915fafa2b7
 title:afe7f9bae811e102ff0b
 title:b026195d10c458612589
+title:b03529c56c555e9b0ec7
 title:b0bf5c9826434eca84f1
 title:b16898ccdec6b4024cc0
 title:b1fad5e27b18fc6e8701
@@ -831,6 +841,7 @@ title:eb90eb9d0bd8f855f829
 title:eba74e99ac21083e18f6
 title:ec142fc13a8e6ebb7e85
 title:ecbc89310843f05387e0
+title:ed00f62a99b228b0611d
 title:edb8dc5d8a6c43396cad
 title:ee0859c6cc2e0a83959e
 title:eeea168d9d2285076c92
@@ -866,6 +877,7 @@ title:fcecda8dfd21fe40bb40
 title:fd232a58b386d9834331
 title:fe13ee6020b2d799178a
 title:fe77a63a658797a9cfee
+title:ff1802e89fd54cda8eb8
 title:ff3d80055168af3904a3
 title:fff30b5218181bc9cb4b
 topic:025530a70bf3eeb90cff
@@ -910,6 +922,7 @@ topic:254b16e495cfd1054c8f
 topic:25ad7c799e78a0121eb5
 topic:25bd1031084b1d286dbc
 topic:26fd3b1e64f232fd991b
+topic:272233503bfc6294a1ea
 topic:27f76b3bce27042f346f
 topic:2888d71ba9029f38ed0a
 topic:297662c781a706a65102
@@ -982,6 +995,7 @@ topic:65a0190c3842b50d04e2
 topic:66ab99e22fc9b0bab9f3
 topic:680af61e8f6298f365d5
 topic:68ebc81c7cdfcad723db
+topic:69a78d43ed1fb276fff3
 topic:69e6c05b95b84c103b35
 topic:69f08a9cbcb12fd43c90
 topic:6ad4ef4dd12417c9195b
@@ -1118,6 +1132,7 @@ topic:efd5bb5810d371ebcafe
 topic:eff7deb99a8204ee4c07
 topic:f02b51eb1c381b6dc401
 topic:f0c9d741a34ab9ef834d
+topic:f0d0c226269ad648c01d
 topic:f162a37d1bbf9215a953
 topic:f3744f340ea6bb284e81
 topic:f59120aa700b7c7bebde
@@ -1316,6 +1331,7 @@ url:news.yahoo.co.jp/articles/4af92e49d2416f8e3eb234a1c1fec28ef81e1215?source=rs
 url:news.yahoo.co.jp/articles/4e02c362e888c9a82b28693466f51b90ba89929b
 url:news.yahoo.co.jp/articles/4e731d0db44ac4bbb537b2fd4568ac53aef9b51d?source=rss
 url:news.yahoo.co.jp/articles/4f4d7a7aceeac11ee31edd9e690f43dccc82859d
+url:news.yahoo.co.jp/articles/53e48a865c2b37dbe0ca0dee4a91fe9d0ed0f773
 url:news.yahoo.co.jp/articles/556c7634868f717b573df77b51f61e94d75c2d69?page=
 url:news.yahoo.co.jp/articles/57bd82f0708bc2700af557a005891ce41246c341
 url:news.yahoo.co.jp/articles/580c4f751d25307906de22eefc969e6fe1ac3089
@@ -1333,6 +1349,7 @@ url:news.yahoo.co.jp/articles/79f72e3b7a47ebd09ac2b005119eeb5021ac0819
 url:news.yahoo.co.jp/articles/7a4670d4dbe0ce85619b43ee2906a9ebcdf8829d
 url:news.yahoo.co.jp/articles/7bbf14d96ee075068dc50e9d275639264214cf2f
 url:news.yahoo.co.jp/articles/7bd035fbf8da7e4c6414c110ff05423015c5ec64
+url:news.yahoo.co.jp/articles/834383e105d3ca581446cdc2e52fbfa504727acb
 url:news.yahoo.co.jp/articles/938af74ce75e8e2e552cfef1cb4001b19a793ad0?source=rss
 url:news.yahoo.co.jp/articles/95b7633bcb1cadba73803a9a2f05808c86c155f9?source=rss
 url:news.yahoo.co.jp/articles/96561d6218305ae96dbc84d00af4135aa26fe542
@@ -1425,6 +1442,7 @@ url:precious.jp/articles/-/61419
 url:prtimes.jp/main/html/newarrival?pagination_cursor=
 url:prtimes.jp/main/html/rd/p/000000001.000185400.html
 url:prtimes.jp/main/html/rd/p/000000002.000183539.html
+url:prtimes.jp/main/html/rd/p/000000005.000155696.html
 url:prtimes.jp/main/html/rd/p/000000005.000160244.html
 url:prtimes.jp/main/html/rd/p/000000007.000036399.html
 url:prtimes.jp/main/html/rd/p/000000011.000140779.html
@@ -1444,6 +1462,7 @@ url:prtimes.jp/main/html/rd/p/000000056.000017314.html
 url:prtimes.jp/main/html/rd/p/000000057.000103982.html
 url:prtimes.jp/main/html/rd/p/000000069.000088956.html
 url:prtimes.jp/main/html/rd/p/000000071.000040217.html
+url:prtimes.jp/main/html/rd/p/000000105.000093374.html
 url:prtimes.jp/main/html/rd/p/000000114.000162689.html
 url:prtimes.jp/main/html/rd/p/000000132.000021997.html
 url:prtimes.jp/main/html/rd/p/000000134.000055952.html
@@ -1556,6 +1575,7 @@ url:www.breakingtravelnews.com/news/article/how-five-myconian-resorts-are-rewrit
 url:www.breakingtravelnews.com/news/article/keep-cool-this-summer-with-marriott-resort-palm-jumeirah/
 url:www.breakingtravelnews.com/news/article/minor-hotels-appoints-kanruethai-roongruang-as-general-manager-of-avani-hua/
 url:www.breakingtravelnews.com/news/article/minor-hotels-names-tamer-khedr-managing-director-for-egypt-expansion/
+url:www.breakingtravelnews.com/news/article/minos-palace-resort-crete-unveils-new-infinity-lagoon-suites/
 url:www.breakingtravelnews.com/news/article/new-luxury-hotel-the-yacht-opens-at-herzliya-marina-expanding-israels-coast/
 url:www.breakingtravelnews.com/news/article/preferred-hotels-resorts-celebrates-15-years-of-preferred-pride-with-expand/
 url:www.breakingtravelnews.com/news/article/sharjah-hotel-guests-surge-22-to-reach-2.1-million-as-annual-revenues-hit-a/
@@ -1621,12 +1641,15 @@ url:www.hospitalitynet.org/news/4133195/newport-hospitality-group-offers-first-l
 url:www.hospitalitynet.org/news/4133198/two-years-on-hospas-tips-and-troncs-guide-sets-out-clear-advice-for-hospitality-businesses-in-the-uk
 url:www.hospitalitynet.org/news/4133204/elegant-hotels-of-the-world-unveiled-as-global-luxury-soft-brand-with-expanding-portfolio-and-evolving-value-proposition
 url:www.hospitalitynet.org/news/4133206/tko-hospitality-accelerates-mid-atlantic-growth-with-new-boutique-hotel-additions-and-development-projects
+url:www.hospitalitynet.org/news/4133213/itc-hotels-signs-welcomhotel-karai-gandhinagar-strengthens-presence-in-gujarat
+url:www.hospitalitynet.org/news/4133221/aimbridge-launches-global-sales-office-to-pursue-cross-region-revenue-opportunities-for-owners
 url:www.hospitalitynet.org/opinion/4132680/why-the-best-hospitality-vendors-may-never-even-get-considered
 url:www.hospitalitynet.org/opinion/4132837/why-direct-booking-strategy-fails-when-hotels-dont-control-demand
 url:www.hospitalitynet.org/opinion/4133075/why-the-hotel-industry-has-been-optimizing-the-wrong-metric
 url:www.hospitalitynet.org/opinion/4133106/why-hotels-are-focusing-on-perceived-value-rather-than-price-cuts
 url:www.hospitalitynet.org/opinion/4133155/you-think-a-hotel-franchise-agreement-has-just-a-few-things-worth-negotiating-you-are-wrong-it-has-136-negotiable-provisions
 url:www.hospitalitynet.org/opinion/4133158/from-strategy-to-execution-what-hsmai-and-hitec-revealed-about-hospitalitys-next-chapter
+url:www.hospitalitynet.org/opinion/4133210/hotel-tech-needs-to-move-past-mousetraps
 url:www.instagram.com/p/DZmsMUVH1D3/
 url:www.iza.ne.jp/pressrelease/prtimes/SVFB3RB2KBIM7FZJCCRCRYSDRM/
 url:www.iza.ne.jp/pressrelease/prtimes/UBFVKILPARMEFNJLPNU7NRE3UA/
@@ -1678,6 +1701,7 @@ url:www.nikkei.com/article/DGXZQOJC161JJ0W6A610C2000000/
 url:www.nikkei.com/article/DGXZQOUC189UB0Y6A610C2000000/
 url:www.nikkei.com/article/DGXZQOUF1280M0S6A610C2000000/
 url:www.nikkei.com/nkd/disclosure/tdnr/20260612568999/
+url:www.nikkei.com/nkd/disclosure/tdnr/20260626581123/
 url:www.nikkei.com/nkd/industry/article/?DisplayType=
 url:www.nishinippon.co.jp/item/1507213/
 url:www.nna.jp/news/2936433
@@ -1773,6 +1797,7 @@ url:www.vietnam.vn/ja/cu-bat-tay-lich-su-50-000-combo-bay-nghi-duong-phu-quoc-4-
 url:www.vietnam.vn/ja/doanh-nghiep-trung-dau-gia-dat-vang-xay-khach-san-5-sao-o-hn-bo-coc
 url:www.vietnam.vn/ja/doanh-nghiep-trung-dau-gia-khu-dat-vang-xay-khach-san-5-sao-o-ha-noi-bat-ngo-bo-coc
 url:www.vietnam.vn/ja/du-an-can-ho-khach-san-khu-trung-tam-duoc-nhieu-nguoi-nuoc-ngoai-thue-sap-ket-thuc-vi-sao
+url:www.vietnam.vn/ja/hai-phong-khoi-cong-xay-dung-nha-luu-tru-cho-cong-nhan-chuyen-gia
 url:www.vietnam.vn/ja/khu-du-lich-quat-lam-duoc-doi-ten-thanh-khu-du-lich-giao-ninh
 url:www.vietnam.vn/ja/sun-group-rot-them-gan-91-600-ty-dong-kien-tao-khoang-17-400-buong-phong-luu-tru-cao-cap-phat-trien-ha-tang-du-lich-va-phuc-vu-apec-2027-tai-phu-quoc
 url:www.walkerplus.com/article/1100479/image11066236.html

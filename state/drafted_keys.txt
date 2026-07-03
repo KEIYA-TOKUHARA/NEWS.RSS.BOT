@@ -1,6 +1,7 @@
 facility:025530a70bf3eeb90cff
 facility:02579f0c97e64bf7be02
 facility:026c1d7b462427b90ac5
+facility:03128fe24e3c31aca472
 facility:03261a0186f72dfa24cb
 facility:03261cc8812da4392352
 facility:04b82d14ea9f660e0aad
@@ -69,6 +70,7 @@ facility:302b5de88b2f0ce44627
 facility:3045e019beda79040a7f
 facility:30823de6ad12dfa8c87c
 facility:3089da7d77832ec2777b
+facility:30939fef053abcf1f086
 facility:30e0fc09725c12e0e8dd
 facility:31e03590e8104d11200e
 facility:33a4492fab82ba56e9b4
@@ -315,6 +317,7 @@ facility:eff7deb99a8204ee4c07
 facility:f02b51eb1c381b6dc401
 facility:f0c9d741a34ab9ef834d
 facility:f0d0c226269ad648c01d
+facility:f29a62eb1c92658985c0
 facility:f3744f340ea6bb284e81
 facility:f3c5be8cffa3929ebfa1
 facility:f59120aa700b7c7bebde
@@ -367,6 +370,7 @@ title:0db7badc73a3483868af
 title:0dcf2865fa0e5f19c51d
 title:0ecdd05cba9ec1a92b68
 title:0f6b34afaec35d5b66f0
+title:0fe35844dcb6de029c6e
 title:0fed43616eaa958ee02e
 title:105c969c3d91badec7bb
 title:1096eaa15085a164b464
@@ -400,6 +404,7 @@ title:16b075a0128a6bfbbea8
 title:16b5dfe9b60a6a018b04
 title:16cd4b42a6a049601be2
 title:17ed1d882abe883a0560
+title:181083d76d791fc46851
 title:181db08fd3eb1621e744
 title:185e6d0e7c892d3aeb6d
 title:187090de86c17aeb6291
@@ -551,6 +556,7 @@ title:399c155c864e979c2b12
 title:3a172f3c574c300512a3
 title:3a1a44edc6e4c5ba1131
 title:3a5094e0ec9d4d6123b3
+title:3a6b5809f9c060e918f4
 title:3ab49904a1c9d60a3bf0
 title:3af58b81d11630ef3780
 title:3b6bd0bc1cff18278237
@@ -615,6 +621,7 @@ title:4a24df2eb3f702377f46
 title:4a3bf355218dd09bad22
 title:4ae126225f270650acbf
 title:4b07168a05b885c2f404
+title:4b0e1638448cba78b3b2
 title:4b646ca1d9a2e69ec3ca
 title:4c275519b1dbcd560b21
 title:4c734bdfd7acc03dc0b1
@@ -713,6 +720,7 @@ title:614a51696c5523770a90
 title:614ea5344d8dd8bfe476
 title:6236f1527e1b623f9ab4
 title:62667f22128894cc750f
+title:62813f8120136f4fca13
 title:629dd6650f4a5fce5cd8
 title:62bd67324b246bbdc06b
 title:62cd4e326f44931680db
@@ -788,6 +796,7 @@ title:720d1f1e56a80ba243f8
 title:72166807aa99dbc51473
 title:722844ca2d3c8f79df04
 title:725ac3c013c3bc9aea21
+title:72692b79d375eba10fd6
 title:72d83f0b688519ac9094
 title:7347a527cda13953b43c
 title:73920f52b63f32ccde96
@@ -1066,6 +1075,7 @@ title:b28e6faf22887f506172
 title:b3429d4d5ea13a0d6baa
 title:b35d0145396827e887c5
 title:b36847b184a62cf10358
+title:b377f96c483cbfc2256e
 title:b3b8139262b7aae015e2
 title:b40f6c3d73cb78d827ef
 title:b435fdeb47d471669253
@@ -1122,6 +1132,7 @@ title:bed5e53eaa8234da5681
 title:bf0e6948c0744b48d2b4
 title:bf194a53ccfe11dff072
 title:bf8c988b516dbee1afa7
+title:bfc194548aa45947d6f6
 title:bfe177fb5bffc86565d2
 title:c03ec48efa7562ba5a51
 title:c06ab936668e27049c21
@@ -1173,6 +1184,7 @@ title:cd2a7485c7deb715c9ec
 title:cd874d4516455cd559ee
 title:cdb387a92c535b39bb14
 title:ce0ccb146b8617e1408d
+title:ce270357bb720be81245
 title:ce71510a6b73139e4137
 title:cea442f2e3b98ebc4fde
 title:cedbbadbc076d156e710
@@ -1309,6 +1321,7 @@ title:eada352f17b7365b6a27
 title:eae526535a28395c23ce
 title:eafde82c18dbe51208f6
 title:eb02d72b681e92d53d5e
+title:eb2e8b7c4000649505f1
 title:eb34d25563cbe5aad370
 title:eb47a7723cebf0fbc4fc
 title:eb55055dfd2fc0b13819
@@ -1394,6 +1407,7 @@ topic:02579f0c97e64bf7be02
 topic:025b7daeb5250e1181ca
 topic:026c1d7b462427b90ac5
 topic:029c47d0bb3ae2116923
+topic:03128fe24e3c31aca472
 topic:03261a0186f72dfa24cb
 topic:03261cc8812da4392352
 topic:04b82d14ea9f660e0aad
@@ -1458,6 +1472,7 @@ topic:272233503bfc6294a1ea
 topic:27f76b3bce27042f346f
 topic:28556a1acf20b2ae10c2
 topic:2888d71ba9029f38ed0a
+topic:28f09a71d481b277ea70
 topic:297662c781a706a65102
 topic:29fdcf29960fa24d4c51
 topic:2bb6900463ee7eb6eb86
@@ -1471,6 +1486,7 @@ topic:302b5de88b2f0ce44627
 topic:3045e019beda79040a7f
 topic:30823de6ad12dfa8c87c
 topic:3089da7d77832ec2777b
+topic:30939fef053abcf1f086
 topic:30e0fc09725c12e0e8dd
 topic:31e03590e8104d11200e
 topic:32283a09b8f5c82a3b36
@@ -1516,6 +1532,7 @@ topic:4dc90a4e9afcd1ed8b88
 topic:4e6c0311938f71c7c813
 topic:4ec37019ca197262778b
 topic:4ef0cfa5ca657958db9f
+topic:4f5847717ebf98073cb5
 topic:4f885e66c959969273a4
 topic:500534c4621fad0ebff8
 topic:503a3cacc75e13a97e11
@@ -1787,6 +1804,7 @@ topic:f0c9d741a34ab9ef834d
 topic:f0d0c226269ad648c01d
 topic:f162a37d1bbf9215a953
 topic:f1ab97ff65661d84c835
+topic:f29a62eb1c92658985c0
 topic:f3744f340ea6bb284e81
 topic:f3c5be8cffa3929ebfa1
 topic:f4518f6e33e002fa497e
@@ -1987,6 +2005,7 @@ url:news.livedoor.com/article/image_detail/31654701/?img_id=
 url:news.livedoor.com/pr_article/detail/31668631/
 url:news.livedoor.com/pr_topics/detail/31557751/
 url:news.livedoor.com/pr_topics/detail/31663670/
+url:news.livedoor.com/pr_topics/detail/31715670/
 url:news.livedoor.com/pr_topics/detail/31725494/
 url:news.livedoor.com/topics/detail/31438143/
 url:news.livedoor.com/topics/detail/31594109/
@@ -2088,6 +2107,7 @@ url:news.yahoo.co.jp/articles/38399f8de29a2eb9de78229fa37f0dc2b9f29692
 url:news.yahoo.co.jp/articles/389d67c7e89960b8945d17aecdf603946dee3607
 url:news.yahoo.co.jp/articles/3be424c73e98d1a1e47c477f4df15a9f96ed36f2
 url:news.yahoo.co.jp/articles/3d12d67cb90aea0c43ac0f0e75c6d654ede2c6fb
+url:news.yahoo.co.jp/articles/3e1bb9fe35535e844e80cb0462e0b58e48f87b0d
 url:news.yahoo.co.jp/articles/3ecdc9b15bb792b025c0fd2d4d93fa2522b326ad
 url:news.yahoo.co.jp/articles/3fe24eb6e7a4f7db82a3a2e4064e5ea4a04fbdda
 url:news.yahoo.co.jp/articles/41c97441e17c5f76e968c80f94697a3fe39d1717
@@ -2168,6 +2188,7 @@ url:news.yahoo.co.jp/articles/af03581f4942caf0c8cfc1b1bbcfbdb067d4e88f
 url:news.yahoo.co.jp/articles/af94b4cb8dec0e537655dfe8b059d6fdd524d64c?page=
 url:news.yahoo.co.jp/articles/b040d62b5993c165e455bb8b609cbea298ed113c
 url:news.yahoo.co.jp/articles/b3cc2f851fbd7d7bd166e6931d0f7b4f06f4e1b5
+url:news.yahoo.co.jp/articles/b3e6b30e1a31387881064d48437e8e5e05418110
 url:news.yahoo.co.jp/articles/b4aa14a3b246eeee235217805b38806477067674?source=rss
 url:news.yahoo.co.jp/articles/b5a1f956d00f0d1ae974ba893d7fdc5921bf6eaa?source=rss
 url:news.yahoo.co.jp/articles/b685e8196da04dbf54a4bfaf9226161459fd209a
@@ -2186,6 +2207,7 @@ url:news.yahoo.co.jp/articles/c507b9969514a21ec327a9a5d556b92d6d3fe875
 url:news.yahoo.co.jp/articles/c5f5862d03910e4b4790f9dc130b694666e0ea5b
 url:news.yahoo.co.jp/articles/c602673811d5388b989d0bfa6555b204d90cc23c?source=rss
 url:news.yahoo.co.jp/articles/c656fe5a3c7f4ae5e96375f6e272bba5f4d9073d
+url:news.yahoo.co.jp/articles/c90e887ccd5f519d5b40a4971614c48866e960a7
 url:news.yahoo.co.jp/articles/ca0befd06995c31e9b8d5f4d710922694849d630
 url:news.yahoo.co.jp/articles/cb414f964c80cf1c265f15c7bc234d77f142f65a
 url:news.yahoo.co.jp/articles/cf5f6612625e864f77c4fde6e9cf5aa0652e69dc
@@ -2461,6 +2483,7 @@ url:www.47news.jp/14535443.html
 url:www.afpbb.com/articles/-/3641173?act=
 url:www.agara.co.jp/article/648323?rct=
 url:www.agara.co.jp/article/651517
+url:www.agara.co.jp/article/656680?rct=
 url:www.anemo.co.jp/topics/lifestyle/leisure/429808-20260624/
 url:www.asahi.co.jp/webnews/pages/ann_000512854.html
 url:www.asahi.com/and/pressrelease/16630780
@@ -2490,6 +2513,7 @@ url:www.breakingtravelnews.com/news/article/sharjah-hotel-guests-surge-22-to-rea
 url:www.breakingtravelnews.com/news/article/shaza-hotels-expands-saudi-arabia-portfolio-with-signing-of-shaza-riyadh-st/
 url:www.breakingtravelnews.com/news/article/stradom-house-hotel-spa-autograph-collection-launches-new-and-advanced-well/
 url:www.breakingtravelnews.com/news/article/swiss-belhotel-international-announces-the-opening-of-swiss-belhotel-nizwa/
+url:www.breakingtravelnews.com/news/article/uga-resorts-announces-brand-evolution-of-its-east-coast-properties/
 url:www.breakingtravelnews.com/news/article/ytl-hotels-unveils-the-all-inclusive-holiday-across-three-malaysian-resorts/
 url:www.businesswire.com/news/home/20260605256463/ja
 url:www.chiba-tv.com/plus/detail/2026061725925
@@ -2597,6 +2621,7 @@ url:www.hospitalitynet.org/news/4133300/choice-hotels-international-appoints-art
 url:www.hospitalitynet.org/news/4133302/doug-kennedys-next-staff-training-webcast-proactive-polite-and-productive-hotel-sales-prospecting
 url:www.hospitalitynet.org/news/4133306/rbh-hospitality-expands-presence-in-london-through-first-hyatt-hotels-signing
 url:www.hospitalitynet.org/news/4133320/radisson-hotel-group-launches-hospitality-industry-leading-ai-powered-real-time-price-matching-technology
+url:www.hospitalitynet.org/news/4133332/196-forum-munich-launch-of-the-hospitality-upgrade-award-2026-spotlight-on-the-best-start-ups
 url:www.hospitalitynet.org/opinion/4132494/five-trends-every-hotel-leader-needs-to-watch-in-2026
 url:www.hospitalitynet.org/opinion/4132680/why-the-best-hospitality-vendors-may-never-even-get-considered
 url:www.hospitalitynet.org/opinion/4132837/why-direct-booking-strategy-fails-when-hotels-dont-control-demand
@@ -2734,6 +2759,8 @@ url:www.ryoko-net.co.jp/?p=167919
 url:www.ryoko-net.co.jp/?p=168122
 url:www.ryoko-net.co.jp/?p=168253
 url:www.ryoko-net.co.jp/?p=168815
+url:www.ryoko-net.co.jp/?p=168882
+url:www.ryoko-net.co.jp/?p=168893
 url:www.saga-s.co.jp/articles/-/1736982
 url:www.sakigake.jp/news/article/20260624AK0007/?nv=
 url:www.sangyo-rodo.metro.tokyo.lg.jp/tourism/kakusyu/shoryokuka
@@ -2845,6 +2872,7 @@ url:www.vietnam.vn/ja/iran-khoi-phuc-duong-bay-toi-uae-trong-boi-canh-cang-thang
 url:www.vietnam.vn/ja/khu-du-lich-quat-lam-duoc-doi-ten-thanh-khu-du-lich-giao-ninh
 url:www.vietnam.vn/ja/san-bay-dien-bien-de-xuat-mo-duong-bay-quoc-te-dau-tien-toi-trung-quoc
 url:www.vietnam.vn/ja/sun-group-rot-them-gan-91-600-ty-dong-kien-tao-khoang-17-400-buong-phong-luu-tru-cao-cap-phat-trien-ha-tang-du-lich-va-phuc-vu-apec-2027-tai-phu-quoc
+url:www.vietnam.vn/ja/trieu-tien-nang-cap-sieu-resort-ven-bien
 url:www.walkerplus.com/article/1100479/image11066236.html
 url:www.walkerplus.com/article/1333593/
 url:www.watch.impress.co.jp/docs/news/2117249.html

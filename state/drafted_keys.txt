@@ -66,6 +66,7 @@ facility:2abdfbf50d09128e1dea
 facility:2bb6900463ee7eb6eb86
 facility:2c8113c8dc8ada4e6456
 facility:2cb9de2690bffff4a963
+facility:2ceec2f01554e353bb46
 facility:2e3b4c8780dc0b117729
 facility:2e632bcc77c52c819602
 facility:302b5de88b2f0ce44627
@@ -332,6 +333,7 @@ facility:ef7976aedfd6304c5f5c
 facility:efd5bb5810d371ebcafe
 facility:eff7deb99a8204ee4c07
 facility:f02b51eb1c381b6dc401
+facility:f0b267785f1a0d8b69df
 facility:f0c9d741a34ab9ef834d
 facility:f0d0c226269ad648c01d
 facility:f29a62eb1c92658985c0
@@ -467,6 +469,7 @@ title:20469b51f52dbd2031ee
 title:20924c820a34a0f71eeb
 title:20ef5c28726aa50ebc82
 title:20fe3fc3f0a6d3131d40
+title:2106a15746d5e87c02c3
 title:216c00b10542c16c1e5f
 title:21d20a659287d1f46efc
 title:226688726b5c2d476a31
@@ -475,6 +478,7 @@ title:22d084281426f60aa661
 title:22fa447f340e9cd11e6a
 title:2313a6b4afe20ea9eb68
 title:23422d8afc3b8bbab5e8
+title:23dab13f80470eff583d
 title:2457e0076bfd8821f077
 title:248805eb13550bb73c94
 title:2494fbe94b80c03be188
@@ -600,6 +604,7 @@ title:3d02e3e2e72e4b7ae521
 title:3d68643f15c5eed605b5
 title:3d8b95a24ee2c4d20a1e
 title:3d961fa9ee3beec830a4
+title:3dfccb4786597293c9d9
 title:3e28af9b2d2d98529143
 title:3e665b0e51086c28a2d8
 title:3e66d2ee98a83d716d81
@@ -710,6 +715,7 @@ title:54fe3c7b073d14935198
 title:552f68a3cfebf2582186
 title:55d9f816a7dfee6f3506
 title:560f3bda3b3fc13d3d58
+title:5618ddceef3da6c3b3c9
 title:56aa5c1483ac5fb8bc76
 title:570285181169d89e3d9e
 title:5757588da02fddc22644
@@ -905,6 +911,7 @@ title:817ef47015525ed00c24
 title:81b09570b7c8bf63aa13
 title:81c77e80fb0282779617
 title:81ec70bfb785f7df56b9
+title:82227fa66bc9a78298bb
 title:82bcfc30bf4673ac5ab8
 title:82c421b4b0cbeac85403
 title:82fbb05544101c27c579
@@ -988,10 +995,12 @@ title:938950295478503c57e5
 title:939fab78d407ba4b987a
 title:93c1bcc41e8031f3277a
 title:93d7e6223f67366db439
+title:94655082dc75b01960bf
 title:958a9700059801eb3080
 title:95ba01bcd457d4adcaaf
 title:95dfb340cd1d6429bea2
 title:9679130820e2e80b6050
+title:970a24268b16411954d4
 title:974d464202692d4b2720
 title:97775ce6290b77a90884
 title:97a02b33e5f7fd0d32aa
@@ -1002,6 +1011,7 @@ title:982befa6907824d492a9
 title:9856c8a48638144f7a43
 title:98872809febb253ec47a
 title:99379f32ceaaadd47393
+title:99719137351dc295b67e
 title:9982465dde0ba10efd72
 title:9a07ca8511817ecb9717
 title:9a31a40bdb8d335f9e99
@@ -1013,6 +1023,7 @@ title:9b5a3c6e4928a52fe17d
 title:9b9624fb92decc20f769
 title:9bd19c35261e0fb70280
 title:9bd7a8d634fb74860ed1
+title:9be1ab66a78830f5d132
 title:9c293f7cab2631de5321
 title:9ca2643fa22c91d6524a
 title:9cd07a31cc1c0bef6ec9
@@ -1092,6 +1103,7 @@ title:a9f85831653c703a4f5b
 title:aa01f91e0a3a93567a2f
 title:aa100a06645f8b3c2782
 title:aa1da7f18cb54d89f94d
+title:aa609f66ccd15f1b2aff
 title:aa7edd02968deb193e44
 title:aaa7e1fbcffea36ffa7c
 title:aaadaa5c85c0064e7103
@@ -1567,6 +1579,7 @@ topic:29fdcf29960fa24d4c51
 topic:2bb6900463ee7eb6eb86
 topic:2c8113c8dc8ada4e6456
 topic:2cb9de2690bffff4a963
+topic:2ceec2f01554e353bb46
 topic:2df91e50a6446b561fb9
 topic:2e3b4c8780dc0b117729
 topic:2e632bcc77c52c819602
@@ -1906,6 +1919,7 @@ topic:ef7976aedfd6304c5f5c
 topic:efd5bb5810d371ebcafe
 topic:eff7deb99a8204ee4c07
 topic:f02b51eb1c381b6dc401
+topic:f0b267785f1a0d8b69df
 topic:f0c9d741a34ab9ef834d
 topic:f0d0c226269ad648c01d
 topic:f162a37d1bbf9215a953
@@ -1983,6 +1997,7 @@ url:e-kensin.net/n/nf0b9d46958a6
 url:finance.biggo.jp/news/311c6f97-24d5-4f55-9f34-678b5effac8f
 url:finance.biggo.jp/news/4aab4f64-e66a-4a35-9f52-aefae4bb25d5
 url:finance.biggo.jp/news/c7620f70-ed61-4a4e-b551-b70cc4f5780a
+url:finance.biggo.jp/news/ddea847f-2ee8-4c45-894d-90deca2348c1
 url:finance.yahoo.co.jp/news/detail/22bce626abf6e39b75c5f47fcab387ee3f6592f6
 url:finance.yahoo.co.jp/news/detail/919f7f7f64dae23272534f487607d3e470a7cab4
 url:finance.yahoo.co.jp/news/detail/c8ef9b143fe8f0da3d06415894cd3457a37361fe
@@ -2101,6 +2116,7 @@ url:naigaitimes.com/society/404041/
 url:namba.keizai.biz/headline/5874/
 url:news.allabout.co.jp/articles/o/122725/
 url:news.at-s.com/article/2001400
+url:news.at-s.com/article/2007775
 url:news.careerconnection.jp/lifestyle/254462/
 url:news.ksb.co.jp/article/16621353
 url:news.ksb.co.jp/article/16682343
@@ -2211,6 +2227,7 @@ url:news.yahoo.co.jp/articles/15358c3273a259505cbbd85db9cdf2f51f58bb49
 url:news.yahoo.co.jp/articles/17f5b584df22926c73e91f8c610ee25a6809b69e
 url:news.yahoo.co.jp/articles/17f5b584df22926c73e91f8c610ee25a6809b69e?source=rss
 url:news.yahoo.co.jp/articles/183d72c8730103060ce3d1bc2709802eaddbe955
+url:news.yahoo.co.jp/articles/18d94c08f16bec8380c16609dfedc8a1c9b64f8b
 url:news.yahoo.co.jp/articles/1c7bb91a9d92729644754bcc47eeca7cd7a5a415
 url:news.yahoo.co.jp/articles/1d80a3972140d2135944263e630be5015798490e
 url:news.yahoo.co.jp/articles/1db71a5d12c608921c39fdaed27bf755e44203a6?source=rss
@@ -2330,6 +2347,7 @@ url:news.yahoo.co.jp/articles/b040d62b5993c165e455bb8b609cbea298ed113c
 url:news.yahoo.co.jp/articles/b3cc2f851fbd7d7bd166e6931d0f7b4f06f4e1b5
 url:news.yahoo.co.jp/articles/b3e6b30e1a31387881064d48437e8e5e05418110
 url:news.yahoo.co.jp/articles/b4aa14a3b246eeee235217805b38806477067674?source=rss
+url:news.yahoo.co.jp/articles/b591859b250fb2faebe9691315d887df4737be30?source=rss
 url:news.yahoo.co.jp/articles/b5a1f956d00f0d1ae974ba893d7fdc5921bf6eaa?source=rss
 url:news.yahoo.co.jp/articles/b685e8196da04dbf54a4bfaf9226161459fd209a
 url:news.yahoo.co.jp/articles/b86eab7864c5bf9a1e94e0c9805acb4d4ae13904
@@ -2386,6 +2404,7 @@ url:news.yahoo.co.jp/articles/fc6fef5c8434f990f2967e6d57337901e9cd97e1
 url:news.yahoo.co.jp/articles/fc7171eeb857fe9be004c776ba8faf9bec56c70c?source=rss
 url:news.yahoo.co.jp/articles/fd171ef951650717ef667b3f5d55623e7dfa12be
 url:news.yahoo.co.jp/articles/fe7e0db7bef1fdb637853d0b786f931212ed0ba3
+url:news.yahoo.co.jp/expert/articles/0272fcfee4c6e5d090b02824b89060127df63303
 url:news.yahoo.co.jp/expert/articles/6cd177bfc9d362cf2dcbfd275dc83bf151ae304b
 url:news.yahoo.co.jp/expert/articles/83b0d7b85e43cd560bd8f2270d8515482b42b2ce
 url:news.yahoo.co.jp/expert/articles/97f590e2d5c7b612b7f175a402307d2b5ae08b4a
@@ -2402,6 +2421,7 @@ url:newsdig.tbs.co.jp/articles/-/2762324
 url:newsdig.tbs.co.jp/articles/bss/2775981
 url:newsdig.tbs.co.jp/articles/bss/2775981?display=
 url:newsdig.tbs.co.jp/articles/cbc/2739935
+url:newsdig.tbs.co.jp/articles/cbc/2775988?page=
 url:newsdig.tbs.co.jp/articles/obs/2733520?display=
 url:newsdig.tbs.co.jp/articles/sbc/2772222?display=
 url:newswitch.jp/p/49528
@@ -2657,6 +2677,7 @@ url:www.breakingtravelnews.com/news/article/blacksand-and-marriott-international
 url:www.breakingtravelnews.com/news/article/elegant-hotels-of-the-world-unveiled-as-global-luxury-soft-brand-with-expan/
 url:www.breakingtravelnews.com/news/article/forsthofgut-nature-hotel-unveils-new-family-offerings-this-summer/
 url:www.breakingtravelnews.com/news/article/frankfurts-new-florentin-hotel-awarded-two-michelin-stars-for-the-dune-rest/
+url:www.breakingtravelnews.com/news/article/grovy-developers-and-usquare-luxe-properties-unveil-show-apartment-for-rama/
 url:www.breakingtravelnews.com/news/article/gunter-hotel-officially-joins-marriott-bonvoys-tribute-portfolio/
 url:www.breakingtravelnews.com/news/article/hilton-hotels-resorts-debuts-a-new-beachfront-resort-in-malaysia/
 url:www.breakingtravelnews.com/news/article/hotel-leadership-conference-announces-2027-theme-and-conference-chair/
@@ -2829,6 +2850,7 @@ url:www.kankokeizai.com/2606291900kks-2-2/
 url:www.kankokeizai.com/2606291900kks-2/
 url:www.kankokeizai.com/2606291900kks/
 url:www.kankokeizai.com/2607031130kks/
+url:www.kankokeizai.com/2607040830kks/
 url:www.kankokeizai.com/2607041010kkd/
 url:www.kenbiya.com/ar/ns/for_rent/minpaku/10241.html
 url:www.kenbiya.com/ar/ns/region/chushi/10178.html
@@ -2885,6 +2907,7 @@ url:www.nikkei.com/article/DGXZQOFC2951B0Z20C26A6000000/
 url:www.nikkei.com/article/DGXZQOFD265WV0W6A320C2000000/
 url:www.nikkei.com/article/DGXZQOJC161JJ0W6A610C2000000/
 url:www.nikkei.com/article/DGXZQOJC301TS0Q6A630C2000000/
+url:www.nikkei.com/article/DGXZQOUA02CM60S6A700C2000000/
 url:www.nikkei.com/article/DGXZQOUC150JU0V10C26A6000000/
 url:www.nikkei.com/article/DGXZQOUC189UB0Y6A610C2000000/
 url:www.nikkei.com/article/DGXZQOUF111G30R10C26A5000000/
@@ -2902,6 +2925,7 @@ url:www.nishinippon.co.jp/item/1508664/
 url:www.nishinippon.co.jp/item/1509008/
 url:www.nishinippon.co.jp/item/1509986/
 url:www.nishinippon.co.jp/item/1511387/
+url:www.nishinippon.co.jp/item/1511744/
 url:www.nna.jp/news/2936433
 url:www.nnn.co.jp/articles/-/758375
 url:www.nnn.co.jp/articles/-/759661

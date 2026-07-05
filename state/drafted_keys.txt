@@ -278,6 +278,7 @@ facility:c6348887333bb8f7c5f4
 facility:c63bf19c3f8dc66e6831
 facility:c6a9a569f095f485d991
 facility:c6c05fa5b32af807d0b2
+facility:c6d00af623c45f691c12
 facility:c7ac98dbcffc338e8aee
 facility:c959bdbbc8073f50baa5
 facility:c9ea140942bdef3bc6ce
@@ -347,6 +348,7 @@ facility:f3744f340ea6bb284e81
 facility:f3c5be8cffa3929ebfa1
 facility:f59120aa700b7c7bebde
 facility:f6c0aa931a587467680a
+facility:f7041f9d8a984c718225
 facility:f7753149bf171664a44d
 facility:f789512ac2d9ca4d391f
 facility:fa4efb0fa23a50a3eb18
@@ -430,6 +432,7 @@ title:14b8c78e58e17ccecff9
 title:158d149f6a10fc50a891
 title:15998981997a38ab934e
 title:15a6fb45628ad1ac49af
+title:15f3ce0443696fd42405
 title:168a4a69121b77c81cbf
 title:16b075a0128a6bfbbea8
 title:16b5dfe9b60a6a018b04
@@ -659,6 +662,7 @@ title:445d9ebaf58702a08495
 title:449865c0ec90b8b838c7
 title:44f8f50948b4d144d736
 title:4510d4452f856a30c0c5
+title:45545ec0fa8b1df151e6
 title:457158cc21ee201782d1
 title:45a6acd330ce80b9cd02
 title:45c26775994fb9c09820
@@ -999,6 +1003,7 @@ title:8fa74d14e2ef88590004
 title:8fc45bc5c2607469d08a
 title:9047ee0b34362d7b2463
 title:904f78a1599ca6b56c06
+title:907e326e7a7b87fada72
 title:909a35d3bddec16cd12c
 title:909d5202c8f1a58872ff
 title:90b98313f9f6f42fbf80
@@ -1025,6 +1030,7 @@ title:946c642849de4e5299a0
 title:94a57378f8943a9e00c1
 title:958a9700059801eb3080
 title:95ba01bcd457d4adcaaf
+title:95db4b5f464837f0d2d0
 title:95dfb340cd1d6429bea2
 title:9679130820e2e80b6050
 title:970a24268b16411954d4
@@ -1216,6 +1222,7 @@ title:b9ade31ead6d8b8edeaa
 title:ba0f6858b7d8a50a4d70
 title:ba167f35ded98b6e38d6
 title:ba2543181fc972884ce5
+title:ba4facba919301d6bc92
 title:ba56f1c08d7f36e5a818
 title:ba8cc541fdf2271bcff3
 title:bb08f9cae37a17100fad
@@ -1293,6 +1300,7 @@ title:ca6079161985e4432aa3
 title:cb726360f2cb2f680c60
 title:cbb19165608ccf57bd86
 title:cc608063162da4aafbe9
+title:cca3e6836a5d12a6b406
 title:ccaa061bf2eec2dc825c
 title:ccda0abd581a85017bd7
 title:ccfe20cea1ab0178e2b1
@@ -1302,6 +1310,7 @@ title:cd2a7485c7deb715c9ec
 title:cd787aff30e4ada1a38c
 title:cd874d4516455cd559ee
 title:cdb387a92c535b39bb14
+title:cdbc5f146ff904512e18
 title:ce0ccb146b8617e1408d
 title:ce270357bb720be81245
 title:ce71510a6b73139e4137
@@ -1312,6 +1321,7 @@ title:cf19289aef491d0866b7
 title:cf346cec9bd9de8f47f6
 title:cf46357dab009d47610e
 title:cf5c17ee0e7091fcd82b
+title:cfce537c7b226161efde
 title:cff1e8d394932efc941e
 title:d00ab5e4ce09efed1f0c
 title:d02cbeea46780fa3d163
@@ -1475,6 +1485,7 @@ title:ee0859c6cc2e0a83959e
 title:ee167067664f3cec3306
 title:ee66aa44d19215ce8154
 title:ee85970817c05e0b8906
+title:eedbc7538373581cb3a2
 title:eeea168d9d2285076c92
 title:eef7333446699a5f3eee
 title:ef8a70bddbb647de1fd6
@@ -1491,6 +1502,7 @@ title:f21b5574062bc267604e
 title:f25948db7d06f0a89412
 title:f294abd2d8ed1380bddc
 title:f2e86167105c90d2d075
+title:f3c9242280b509b5ee51
 title:f3ec851e200a5d6ea34a
 title:f42d956b54db739e701b
 title:f4625ea44a63288d9efd
@@ -1893,6 +1905,7 @@ topic:c6348887333bb8f7c5f4
 topic:c63bf19c3f8dc66e6831
 topic:c6a9a569f095f485d991
 topic:c6c05fa5b32af807d0b2
+topic:c6d00af623c45f691c12
 topic:c7ac98dbcffc338e8aee
 topic:c959bdbbc8073f50baa5
 topic:c9ea140942bdef3bc6ce
@@ -1903,6 +1916,7 @@ topic:cb832fc444e62c07f633
 topic:ccc035c70aab47309409
 topic:ce3e5c198a62dcadec07
 topic:ce654cbdf6290e8692b7
+topic:ceeac433eb390fee881f
 topic:cf2061fd970830b9103d
 topic:cf51ae8fe2e80342ac0a
 topic:cfc379d00c9e441a8df6
@@ -1981,6 +1995,7 @@ topic:f4518f6e33e002fa497e
 topic:f59120aa700b7c7bebde
 topic:f690c8ff38c96c1dfa5f
 topic:f6c0aa931a587467680a
+topic:f7041f9d8a984c718225
 topic:f7753149bf171664a44d
 topic:f789512ac2d9ca4d391f
 topic:fa12a9e1790fbfa8782e
@@ -2138,8 +2153,10 @@ url:kushironews.jp/2026/06/23/679395/
 url:kyobashi.keizai.biz/gpnews/1732751/
 url:london3.jp/2026/06/kyougouhotel/
 url:love-spo.com/article/%E3%80%90%E6%9C%80%E5%A4%A710%E5%90%8D%E5%AE%BF%E6%B3%8Aok%E3%80%91%E3%82%BF%E3%82%A4%E3%82%AC%E3%83%BC%E3%83%93%E3%83%BC%E3%83%81%E5%BE%92%E6%AD%A93%E5%88%86%EF%BC%81%E6%81%A9%E7%B4%8D%E6%9D%91/
+url:love-spo.com/article/%E3%80%90%E7%A6%8F%E5%B2%A1%E3%83%BB%E7%A6%8F%E6%B4%A5%E5%88%9D%E3%80%91%E7%9B%AE%E3%81%AE%E5%89%8D%E3%81%AF%E3%80%8C%E3%81%8B%E3%81%8C%E3%81%BF%E3%81%AE%E6%B5%B7%E3%80%8D%EF%BC%81%E7%A6%8F%E6%B4%A5/
 url:m.jp.investing.com/news/analyst-ratings/article-93CH-1586986?ampMode=
 url:m.jp.investing.com/news/stock-market-news/article-1577885?ampMode=
+url:machiraku.net/hotel-route-inn-matsuyamakita-open/
 url:mainichi.jp/articles/20260604/ddl/k40/020/158000c
 url:mainichi.jp/articles/20260615/k00/00m/020/301000c
 url:mainichi.jp/articles/20260617/pr2/00m/020/220000c
@@ -2210,6 +2227,7 @@ url:news.livedoor.com/topics/detail/31654701/
 url:news.livedoor.com/topics/detail/31657044/
 url:news.livedoor.com/topics/detail/31679562/
 url:news.livedoor.com/topics/detail/31712378/
+url:news.livedoor.com/topics/detail/31743753/
 url:news.nicovideo.jp/watch/nw19407255
 url:news.nicovideo.jp/watch/nw19430362
 url:news.nicovideo.jp/watch/nw19431614
@@ -2261,6 +2279,7 @@ url:news.ntv.co.jp/n/ytv/category/society/yt7e4b1e2d41914775a2f069f169e3af1b
 url:news.ntv.co.jp/n/ytv/category/society/yt8545bf6990904f7a856e69112e68f31b
 url:news.p-world.co.jp/articles/33917/greenbelt
 url:news.tv-asahi.co.jp/news_economy/articles/000516539.html
+url:news.web.nhk/newsweb/na/na-k10015167241000
 url:news.web.nhk/newsweb/na/nb-2010025139
 url:news.web.nhk/newsweb/na/nb-2050020369
 url:news.web.nhk/newsweb/na/nb-3060023527
@@ -2350,6 +2369,7 @@ url:news.yahoo.co.jp/articles/5d55a6119a5694ffbdc0a1b5c733f663bac9362a
 url:news.yahoo.co.jp/articles/5d659d4f5d506de0e07cc3b78c49ffb63642dfdb
 url:news.yahoo.co.jp/articles/611f42c29fe1dff9f3d13bf485dd0024cadbcdda?source=rss
 url:news.yahoo.co.jp/articles/6146ab4da7f64823eef7ed21e4698196a5bb0049?source=rss
+url:news.yahoo.co.jp/articles/61c7c1a74cab485bd2acc3d9b125efd4405b37f9?source=rss
 url:news.yahoo.co.jp/articles/621e7cf7e4dd99dea717ae88ee8c1cb8f46a2f17
 url:news.yahoo.co.jp/articles/6255fbc5cffa7d166be22cca47bebbd084186aa0?source=rss
 url:news.yahoo.co.jp/articles/63329a409045e45b9398696d96409f77b8ef75dd?source=rss
@@ -2640,6 +2660,7 @@ url:shikiho.toyokeizai.net/news/0/949387
 url:shin-yoko.net/2026/06/29/new_open2026-2/
 url:shonanjin.com/news/yugawara-hotel-sway-yugawara-open/
 url:simplywall.st/ja/stocks/us/consumer-services/nyse-hlt/hilton-worldwide-holdings/news/how-investors-may-respond-to-hilton-worldwide-holdings-hlt-e
+url:simplywall.st/ja/stocks/us/food-beverage-tobacco/nyse-ko/coca-cola/news/b93cfd0f1325e459/amp
 url:simplywall.st/ja/stocks/us/real-estate/nasdaq-hst/host-hotels-resorts/news/928396b51cf0a3b9/amp
 url:skift.com/2026/06/20/world-cup-hotel-revenue-occupancy/
 url:skift.com/2026/06/22/ai-search-economy-hospitality-white-paper/
@@ -2700,6 +2721,7 @@ url:topics.smt.docomo.ne.jp/article/tabizine/trend/tabizine-685728
 url:topics.smt.docomo.ne.jp/article/tss/region/tss-34201?page=
 url:topics.smt.docomo.ne.jp/article/vague/trend/vague-435143?page=
 url:topics.smt.docomo.ne.jp/article/www_watch/trend/www_watch-2121957
+url:topics.smt.docomo.ne.jp/article/yomiuri/business/20260704-567-GYT1T00002?page=
 url:travel.watch.impress.co.jp/docs/news/2120349.html
 url:travel.watch.impress.co.jp/docs/news/2120963.html
 url:trilltrill.jp/articles/4799678
@@ -2744,6 +2766,7 @@ url:www.breakingtravelnews.com/news/article/ani-private-resorts-expands-global-p
 url:www.breakingtravelnews.com/news/article/avani-lanexang-vientiane-hotel-opens-in-the-heart-of-the-lao-capital/
 url:www.breakingtravelnews.com/news/article/belmo-group-moves-into-north-queensland-with-aquarius-on-the-beach-townsvil/
 url:www.breakingtravelnews.com/news/article/blacksand-and-marriott-international-announce-landmark-deal-to-open-10-hote/
+url:www.breakingtravelnews.com/news/article/choice-hotels-international-appoints-artificial-intelligence-leader-ali-kes/
 url:www.breakingtravelnews.com/news/article/elegant-hotels-of-the-world-unveiled-as-global-luxury-soft-brand-with-expan/
 url:www.breakingtravelnews.com/news/article/forsthofgut-nature-hotel-unveils-new-family-offerings-this-summer/
 url:www.breakingtravelnews.com/news/article/frankfurts-new-florentin-hotel-awarded-two-michelin-stars-for-the-dune-rest/
@@ -2804,6 +2827,7 @@ url:www.excite.co.jp/news/article/Global_news_asia_11264/
 url:www.excite.co.jp/news/article/Hounichi_chokankaiken202606/
 url:www.excite.co.jp/news/article/Hounichi_flightnewroute2026summer/
 url:www.excite.co.jp/news/article/Hounichi_travelagent2025/
+url:www.excite.co.jp/news/article/Jiji_3814197/
 url:www.excite.co.jp/news/article/TBSNews_1443186902871441628/
 url:www.excite.co.jp/news/article/bbt_1442831079122486259/
 url:www.excite.co.jp/news/article/bss_1445312105758212823/
@@ -3074,6 +3098,7 @@ url:www.sanyonews.jp/article/1940155
 url:www.sanyonews.jp/article/1940155?kw=
 url:www.sanyonews.jp/article/1942394
 url:www.sanyonews.jp/article/1944326?kw=
+url:www.sanyonews.jp/article/1948884?rct=
 url:www.shikoku-np.co.jp/dg/amp/article.aspx?id=
 url:www.shimotsuke.co.jp/articles/-/1378448
 url:www.shinmai.co.jp/news/article/gf01d8emiv6c8ao70u2597v0

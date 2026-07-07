@@ -66,6 +66,7 @@ facility:27043ff4ce213f675763
 facility:27f76b3bce27042f346f
 facility:28556a1acf20b2ae10c2
 facility:2888d71ba9029f38ed0a
+facility:28ee37ab15f371c3f405
 facility:297662c781a706a65102
 facility:29be3422249a73222e46
 facility:29fdcf29960fa24d4c51
@@ -222,6 +223,7 @@ facility:89f560cb37392da98801
 facility:8a2651a38d7dda4860a1
 facility:8b3972f8402f75dfb11c
 facility:8b78dec71e0f19ef8310
+facility:8b92d04845a82bb7f091
 facility:8c541c11aa5f35afd17b
 facility:8da1a311b124196bf6de
 facility:8e0c55c85b470fa27091
@@ -489,6 +491,7 @@ title:181db08fd3eb1621e744
 title:185e6d0e7c892d3aeb6d
 title:187090de86c17aeb6291
 title:1875e48d4f8179fe1cc5
+title:18824572f0e708e016a3
 title:193750ccb97c8efb75c5
 title:19c0dedf399741c6ab24
 title:19d34a6d0fb9bd67a456
@@ -555,6 +558,7 @@ title:255045060a2557a7b609
 title:2550619cc2d6d2e12666
 title:2551b105e4fc4d5e8594
 title:256bcba63bd56f4b12df
+title:257ac53bc88606762355
 title:259c53d16ce35ba8b5c7
 title:25a7dbbedca224be7726
 title:2607f76fafe4ab1b83fb
@@ -658,6 +662,7 @@ title:37099725a8f421e3224a
 title:37270f9d4f6f174f66d1
 title:37433cd7edd5dfce4aef
 title:375e73991ba9c1366c12
+title:37c05e3072be1f1e7fa3
 title:38136c68744ac8559aae
 title:383e6fe151d58d4620b7
 title:3861f0d056d6c3f2e19a
@@ -681,6 +686,7 @@ title:3b6bd0bc1cff18278237
 title:3b96dbe61aa01c3864ba
 title:3c19af767bf9ba079736
 title:3c2ac6f00cae140ce35c
+title:3c5cc4b684d813ee1102
 title:3ce4ade1e353f5d8adab
 title:3d02e3e2e72e4b7ae521
 title:3d68643f15c5eed605b5
@@ -783,6 +789,7 @@ title:50b0656b6647ccad8572
 title:50d707c9ccd61d0a8920
 title:512d76e77695c9df762d
 title:5138806f99c32a3a9efd
+title:514a9d170800b86f7ec8
 title:51a5c38c1ef36525a69c
 title:51a5cbbbc0865025e72f
 title:51a99f0d00338187e25b
@@ -839,6 +846,7 @@ title:5cf7df96dbafe7a8b4f0
 title:5dacd97ca227f9a3c149
 title:5dc329bba161194089ea
 title:5dc8acc4451d9f98df27
+title:5e06b1a1d0cde31cd1b3
 title:5e10a5ed8de1390568c6
 title:5e2bd343dcc817617c4c
 title:5e39b582b4dc28573361
@@ -989,6 +997,7 @@ title:79eb5abefa0d2cebd1c9
 title:7a21b52254e3b7c59af1
 title:7a4a193183207c01dab8
 title:7a8b54aed89d26de38ac
+title:7a9085d14dbd6262166e
 title:7ad7a59c352de187439b
 title:7b438b2741323d1f0119
 title:7b62344550d18416e660
@@ -1157,6 +1166,7 @@ title:9aea05ea6b0fecec7e66
 title:9b3e2877777f9c911fa7
 title:9b5a3c6e4928a52fe17d
 title:9b9624fb92decc20f769
+title:9bbfd4016aa5e2cc4899
 title:9bd19c35261e0fb70280
 title:9bd7a8d634fb74860ed1
 title:9be1ab66a78830f5d132
@@ -1486,6 +1496,7 @@ title:d71a93d42a132a65b6aa
 title:d72e8a4f5cde70816664
 title:d7381b9f87dbff2be9b5
 title:d78140c934b562a3bdcd
+title:d790837f069d08c1653a
 title:d79cfa711e71d44322f3
 title:d7d5336d392e98b67556
 title:d7f9117f204c5b899264
@@ -1653,6 +1664,7 @@ title:f5e1c57e90c2fa7271f3
 title:f6362c4554c26fd6c96b
 title:f6505012323700ecff32
 title:f660623f6f0e5168ac79
+title:f6a55b0db317acfc1fad
 title:f739dcb83d0d0c9a33db
 title:f768a378e562fba56d44
 title:f7f6600b572c0bf89673
@@ -1774,6 +1786,7 @@ topic:272233503bfc6294a1ea
 topic:27f76b3bce27042f346f
 topic:28556a1acf20b2ae10c2
 topic:2888d71ba9029f38ed0a
+topic:28ee37ab15f371c3f405
 topic:28f09a71d481b277ea70
 topic:297662c781a706a65102
 topic:29be3422249a73222e46
@@ -1930,6 +1943,7 @@ topic:73da7fc09c5a6f3c2f03
 topic:73e0ef19eec61c662c88
 topic:7443382bee799cc97407
 topic:747eea5cb1826ba78aa9
+topic:752c7307f59587e61577
 topic:7570685644d184afdb48
 topic:75a060fbda2870fe4e16
 topic:75a4958a56a99f27099e
@@ -1973,6 +1987,7 @@ topic:89f560cb37392da98801
 topic:8a2651a38d7dda4860a1
 topic:8b3972f8402f75dfb11c
 topic:8b78dec71e0f19ef8310
+topic:8b92d04845a82bb7f091
 topic:8c541c11aa5f35afd17b
 topic:8da1a311b124196bf6de
 topic:8dfe0d8d4e0bfd3cde60
@@ -1986,6 +2001,7 @@ topic:91d831ee7131682e5b3b
 topic:9223600c00d452b822e8
 topic:924419fdc1645bb79ce3
 topic:92f396e31164504b0927
+topic:92f473809e5979a7da2b
 topic:93203f7de2f1aaf7faf3
 topic:93b919949a3186ce10e8
 topic:94a57b438c96733d715e
@@ -2238,6 +2254,7 @@ url:carview.yahoo.co.jp/news/detail/156017ee85d07d17ee58df986c2c1e2d14ba792a/?mo
 url:crea.bunshun.jp/ud/pressrelease/6a4753917079c88da6000004
 url:crea.bunshun.jp/ud/pressrelease/6a4897097079c84e7800000a
 url:diamond.jp/articles/-/392499
+url:digital.kentsu.co.jp/articles/artcl_rglr/01KSKX2N3NH7J86AKG6T76YZNA
 url:digital.kentsu.co.jp/articles/artcl_rglr/01KV55X04FJN53SAJH7RM7CREM
 url:digital.kentsu.co.jp/articles/artcl_rglr/01KVCXNWS0EX6CF25B593RKTX8
 url:digital.kentsu.co.jp/articles/artcl_rglr/01KVPTRSVFNTQA4DYGJG8ETNZX
@@ -2264,6 +2281,7 @@ url:finders.me/kqFQxAjlm420dbkCFA
 url:foods-ch.infomart.co.jp/news/296300
 url:foods-ch.infomart.co.jp/news/297217
 url:foods-ch.infomart.co.jp/news/304161
+url:fukushima.keizai.biz/headline/1283/
 url:furosauna.com/2026/06/23/111138019/
 url:furosauna.com/2026/07/02/180038255/
 url:furosauna.com/2026/07/06/105638464/
@@ -2343,6 +2361,7 @@ url:koubo.jp/article/84274
 url:koubo.jp/article/92684
 url:koubo.jp/article/92741
 url:koubo.jp/contest/325217
+url:koubo.jp/contest/337460
 url:koubo.jp/press-release/prtimes/c55787_r1020
 url:kumamoto.keizai.biz/headline/1236/
 url:kumanichi.com/articles/2002796
@@ -2522,6 +2541,7 @@ url:news.yahoo.co.jp/articles/183d72c8730103060ce3d1bc2709802eaddbe955
 url:news.yahoo.co.jp/articles/18d94c08f16bec8380c16609dfedc8a1c9b64f8b
 url:news.yahoo.co.jp/articles/1a40a219667e95bec48813a9f588b593838f8d74
 url:news.yahoo.co.jp/articles/1b08eafc06ab3bfb469447190868a7fab0dbbaf8?source=rss
+url:news.yahoo.co.jp/articles/1b79292013c92110f14ffaa01df8e643c17f3c51?page=
 url:news.yahoo.co.jp/articles/1b79292013c92110f14ffaa01df8e643c17f3c51?source=rss
 url:news.yahoo.co.jp/articles/1c7bb91a9d92729644754bcc47eeca7cd7a5a415
 url:news.yahoo.co.jp/articles/1d80a3972140d2135944263e630be5015798490e
@@ -2623,6 +2643,7 @@ url:news.yahoo.co.jp/articles/907f2dbca7c14725bd9f9a74a471bbccd3747e6c
 url:news.yahoo.co.jp/articles/91d153104d516923f1f8e44bd21d314290a72685
 url:news.yahoo.co.jp/articles/938af74ce75e8e2e552cfef1cb4001b19a793ad0?source=rss
 url:news.yahoo.co.jp/articles/93d88b67b4328d2d200fe4018fc269df24595a82
+url:news.yahoo.co.jp/articles/946239800c8504fc85adb62572d8405e5f5c518f
 url:news.yahoo.co.jp/articles/9520efb78b2f26a4473f2388bd2a9f63f0650787?source=rss
 url:news.yahoo.co.jp/articles/95b7633bcb1cadba73803a9a2f05808c86c155f9?source=rss
 url:news.yahoo.co.jp/articles/96561d6218305ae96dbc84d00af4135aa26fe542
@@ -2675,6 +2696,7 @@ url:news.yahoo.co.jp/articles/c602673811d5388b989d0bfa6555b204d90cc23c?source=rs
 url:news.yahoo.co.jp/articles/c656fe5a3c7f4ae5e96375f6e272bba5f4d9073d
 url:news.yahoo.co.jp/articles/c90e887ccd5f519d5b40a4971614c48866e960a7
 url:news.yahoo.co.jp/articles/ca0befd06995c31e9b8d5f4d710922694849d630
+url:news.yahoo.co.jp/articles/ca9f3a280f52ebd4387a4a41d4ee9b272cfca910?source=rss
 url:news.yahoo.co.jp/articles/cb414f964c80cf1c265f15c7bc234d77f142f65a
 url:news.yahoo.co.jp/articles/cf5f6612625e864f77c4fde6e9cf5aa0652e69dc
 url:news.yahoo.co.jp/articles/cfab323a2140ce0f22e212d65c2e172968117a78?source=rss
@@ -2737,6 +2759,7 @@ url:newsdig.tbs.co.jp/articles/cbc/2739935
 url:newsdig.tbs.co.jp/articles/cbc/2775988?page=
 url:newsdig.tbs.co.jp/articles/mbs/2780578?display=
 url:newsdig.tbs.co.jp/articles/obs/2733520?display=
+url:newsdig.tbs.co.jp/articles/rcc/2783829
 url:newsdig.tbs.co.jp/articles/sbc/2772222?display=
 url:newswitch.jp/p/49528
 url:nfm.nikkeibp.co.jp/atcl/fa/free/news/20041105/119421/
@@ -2842,6 +2865,7 @@ url:prtimes.jp/main/html/rd/p/000000289.000027824.html
 url:prtimes.jp/main/html/rd/p/000000299.000017658.html
 url:prtimes.jp/main/html/rd/p/000000308.000005122.html
 url:prtimes.jp/main/html/rd/p/000000311.000027681.html
+url:prtimes.jp/main/html/rd/p/000000340.000033909.html
 url:prtimes.jp/main/html/rd/p/000000342.000018649.html
 url:prtimes.jp/main/html/rd/p/000000344.000018649.html
 url:prtimes.jp/main/html/rd/p/000000346.000067873.html
@@ -3165,6 +3189,7 @@ url:www.hospitalitynet.org/news/4133302/doug-kennedys-next-staff-training-webcas
 url:www.hospitalitynet.org/news/4133306/rbh-hospitality-expands-presence-in-london-through-first-hyatt-hotels-signing
 url:www.hospitalitynet.org/news/4133320/radisson-hotel-group-launches-hospitality-industry-leading-ai-powered-real-time-price-matching-technology
 url:www.hospitalitynet.org/news/4133332/196-forum-munich-launch-of-the-hospitality-upgrade-award-2026-spotlight-on-the-best-start-ups
+url:www.hospitalitynet.org/news/4133344/central-real-capital-appoints-trilogy-hotels-as-operator-of-the-sands-torquay-resort
 url:www.hospitalitynet.org/opinion/4132482/azuma-brand-launch-signals-larger-hotel-category-trends
 url:www.hospitalitynet.org/opinion/4132494/five-trends-every-hotel-leader-needs-to-watch-in-2026
 url:www.hospitalitynet.org/opinion/4132680/why-the-best-hospitality-vendors-may-never-even-get-considered
@@ -3480,6 +3505,7 @@ url:www.yogonet.com/ja/%E7%B1%B3%E5%9B%BD%E5%A4%96%E3%81%AE%E4%B8%96%E7%95%8C%E5
 url:www.yogonet.com/ja/%E7%B1%B3%E5%9B%BD%E5%A4%96%E3%81%AE%E4%B8%96%E7%95%8C%E5%90%84%E5%9B%BD/%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9-a/2026/06/22/124739-%E3%83%90%E3%83%AA%E3%83%BC39%E3%81%AF%E3%80%81%E3%83%A9%E3%82%B9%E3%83%99%E3%82%AC%E3%82%B9%E3%81%AE%E3%82%AB%E3%82%B8%E3%83%8E%E3%83%AA%E3%82%BE%E3%83%BC%E3%83%88%E3%81%8C2028%E5%B9%B4%E3%81%AE%E9%99%B8%E4%B8%8A%E7%AB%B6%E6%8A%80%E3%83%87%E3%83%93%E3%83%A5%E3%83%BC%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AB%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%81%99%E3%82%8B%E5%8F%AF%E8%83%BD%E6%80%A7%E3%81%AF%E4%BD%8E%E3%81%84%E3%81%A8%E8%BF%B0%E3%81%B9%E3%81%A6%E3%81%84%E3%82%8B%E3%80%82
 url:www.yogonet.com/ja/%E7%B1%B3%E5%9B%BD%E5%A4%96%E3%81%AE%E4%B8%96%E7%95%8C%E5%90%84%E5%9B%BD/%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9-a/2026/06/24/125000-%E3%82%B7%E3%83%97%E3%83%AA%E3%82%A2%E3%83%BC%E3%83%8B%E3%83%BB%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E3%81%AF%E3%80%81%E5%BE%85%E6%9C%9B%E3%81%AE%E3%83%97%E3%83%B3%E3%82%BF%E3%83%BB%E3%83%87%E3%83%AB%E3%83%BB%E3%82%A8%E3%82%B9%E3%83%86%E3%83%BB%E3%83%9B%E3%83%86%E3%83%AB%E3%83%BB%E3%82%AB%E3%82%B8%E3%83%8E%E3%81%AE12%E6%9C%88%E9%96%8B%E6%A5%AD%E3%82%92%E7%A2%BA%E5%AE%9A%E3%81%97%E3%81%9F%E3%80%82
 url:www.yomiuri.co.jp/economy/20260617-GYT1T00141/
+url:www.yomiuri.co.jp/economy/20260630-GYT1T00489/
 url:www.yomiuri.co.jp/economy/20260704-GYT1T00002/
 url:www.yomiuri.co.jp/local/hokkaido/news/20260618-GYTNT00024/
 url:www.yomiuri.co.jp/local/hokkaido/news/20260703-GYTNT00327/

@@ -60,6 +60,7 @@ facility:240f42427e43a9594ac7
 facility:245d110d251faa2ad663
 facility:24a47ae1b1923148e0e5
 facility:254b16e495cfd1054c8f
+facility:255c9b1cce50896bbe46
 facility:25ad7c799e78a0121eb5
 facility:25bd1031084b1d286dbc
 facility:26513a085077c986148d
@@ -218,6 +219,7 @@ facility:7d6dcd7cdc4abe348fac
 facility:7ffbde805558a4d16717
 facility:803e548abbac4cebb814
 facility:81a321b5f36e5ddbb233
+facility:81cceb038bde18d26a30
 facility:81e56c60d7bb2539cd87
 facility:83bbe0b6f48708e76898
 facility:841cf6f6608bb19eab27
@@ -470,11 +472,13 @@ title:10b9cee361cb8dfc86af
 title:10bd09d28606798c5d56
 title:10e48d0d29f40dc3a49a
 title:1133210604e78cc2ee69
+title:113b930b61fc4e9b03b4
 title:11daf5d3bbaf6faacf74
 title:11dcfe918b088b096363
 title:12050f27c755ba48b138
 title:1219e7b4911477d0678e
 title:12719093696a4cf460ad
+title:12a3d471295382cd2520
 title:12a9caefbee1d5310137
 title:12b5e337e41c548f0942
 title:1318266cd1fc4e88885b
@@ -569,6 +573,7 @@ title:242c090db798970f66c5
 title:2457e0076bfd8821f077
 title:248805eb13550bb73c94
 title:2494fbe94b80c03be188
+title:24a1e633696c2e14250e
 title:24c52e44ad3535657544
 title:25256d6f6752d0800468
 title:253b523c8aff141dd6c9
@@ -763,6 +768,7 @@ title:45a6acd330ce80b9cd02
 title:45c26775994fb9c09820
 title:45ee0b6a917ebe26e0cc
 title:4642c731837cdba5ef68
+title:46e165028dd5a54d48e0
 title:470a38d9cf75c27da7d9
 title:471889374bb9c1f1e94c
 title:4730bc849024e09e986a
@@ -1124,6 +1130,7 @@ title:8c2ce7a198a73fefaf6d
 title:8c5bb1d0f310b971f211
 title:8c78c1192ff9ef8d2916
 title:8c8031077c1935996b6d
+title:8cb02933ef13c94e1ecb
 title:8cf8439386959cc45757
 title:8cfdd9f00b7b826ed9d5
 title:8d11e8cd41bfeefbdfe2
@@ -1393,6 +1400,7 @@ title:b9ade31ead6d8b8edeaa
 title:ba0f6858b7d8a50a4d70
 title:ba167f35ded98b6e38d6
 title:ba2543181fc972884ce5
+title:ba4ebaf235e996ca7fed
 title:ba4facba919301d6bc92
 title:ba56f1c08d7f36e5a818
 title:ba8cc541fdf2271bcff3
@@ -1553,11 +1561,13 @@ title:d790837f069d08c1653a
 title:d79cfa711e71d44322f3
 title:d7d5336d392e98b67556
 title:d7f9117f204c5b899264
+title:d7fdcbacb87d8f1c4e85
 title:d840a77fe4e3cee62610
 title:d85baa5ca085dc8ff4da
 title:d86c33ebaa32f456687a
 title:d9218907474cb76f0d10
 title:d941186b2177dbe51959
+title:d944d6a18e7366377506
 title:d9461d9b6763f3d22087
 title:d9c9980fabfbcc162142
 title:d9cbd243bf3d0bb7aaf7
@@ -1679,6 +1689,7 @@ title:ec142fc13a8e6ebb7e85
 title:ec55f3b40dcb09d2e531
 title:ecbc89310843f05387e0
 title:ecc21208b2ac4e402f0d
+title:ecd484d01f68153c4d88
 title:ed00f62a99b228b0611d
 title:ed1d0fa927462a558bc9
 title:ed1e98c17cfadaaba007
@@ -1706,6 +1717,7 @@ title:f0f2349313d915073b8b
 title:f1077bf7f5090d2f1159
 title:f163eb5ef236f6badf83
 title:f16e57cad3dc667978cd
+title:f198a159274580898c36
 title:f21b5574062bc267604e
 title:f25948db7d06f0a89412
 title:f294abd2d8ed1380bddc
@@ -1842,6 +1854,7 @@ topic:240f42427e43a9594ac7
 topic:245d110d251faa2ad663
 topic:24a47ae1b1923148e0e5
 topic:254b16e495cfd1054c8f
+topic:255c9b1cce50896bbe46
 topic:25ad7c799e78a0121eb5
 topic:25bd1031084b1d286dbc
 topic:2623a3805dd8857ca825
@@ -1993,6 +2006,7 @@ topic:69a78d43ed1fb276fff3
 topic:69e6c05b95b84c103b35
 topic:69f08a9cbcb12fd43c90
 topic:6a44e595f749593f4eb5
+topic:6a601f28128752ca43a1
 topic:6ad4ef4dd12417c9195b
 topic:6c00023d2d22e1dc2c8b
 topic:6c09bd612a0f07855768
@@ -2040,9 +2054,11 @@ topic:7cdb923b6cebc545f450
 topic:7d20059e81e7ae667bd0
 topic:7d6dcd7cdc4abe348fac
 topic:7df8e085d9f272a0614c
+topic:7f1ed4a596607b4e6b01
 topic:7ffbde805558a4d16717
 topic:803e548abbac4cebb814
 topic:81a321b5f36e5ddbb233
+topic:81cceb038bde18d26a30
 topic:81e56c60d7bb2539cd87
 topic:824c4c56949f4ec96d36
 topic:825f57b0050f8b8e6697
@@ -2397,6 +2413,7 @@ url:hotelbank.jp/inbound/private-onsen-bath-inbound-barrier-analysis/
 url:hotelbank.jp/industry-trends/torikireru-yado-capacity-ceiling-2026/
 url:hotelbank.jp/investigation/breakfast-local-cuisine-regional-ranking/
 url:hotelbank.jp/investigation/plan-name-benchmark-tokyo-business-2026-06-2/
+url:hotelbank.jp/investment/construction-cost-freeze-2027-2029-supply-vacuum/
 url:hotelbank.jp/investment/hida-takayama-circuit-hotel-investment/
 url:hotelbank.jp/investment/hotel-condominium-tax-arbitrage-real-irr/
 url:hotelbank.jp/investment/hotel-vs-condo-land-rivalry-adr-feasibility/
@@ -2585,6 +2602,7 @@ url:news.nicovideo.jp/watch/nw19505048?news_ref=
 url:news.nicovideo.jp/watch/nw19510535?news_ref=
 url:news.nicovideo.jp/watch/nw19514969?news_ref=
 url:news.ntv.co.jp/category/economy/fb34e3ade2704149e08213418a52ed1d31
+url:news.ntv.co.jp/category/economy/nkeb8c6885f157429981abb009ba4cdb8d
 url:news.ntv.co.jp/category/life/um6c90cd7f2255439a9fa037d1d3c05738
 url:news.ntv.co.jp/category/society/nk5f307632a27f4e0d8c10b9c5307e0f2c
 url:news.ntv.co.jp/n/fbc/category/society/fbe0554b3c7e8c448fb78b423809b71379
@@ -2657,6 +2675,7 @@ url:news.yahoo.co.jp/articles/2efcef6ce9944393ed903bba50ddb86b886d375d
 url:news.yahoo.co.jp/articles/306497e681479dd43ab4747ab070d70cdaf90a10
 url:news.yahoo.co.jp/articles/306497e681479dd43ab4747ab070d70cdaf90a10?source=rss
 url:news.yahoo.co.jp/articles/30bb899beaf877834da7ac31524f63e97a1ffd2c?source=
+url:news.yahoo.co.jp/articles/30bf3ea6b82ddd96762c1c90c20e25b0262c056d
 url:news.yahoo.co.jp/articles/31046a8c70992865db17aee5eedde6b25f4a2972
 url:news.yahoo.co.jp/articles/31046a8c70992865db17aee5eedde6b25f4a2972?source=rss
 url:news.yahoo.co.jp/articles/32107e3cab77a591a05fc4e47078b34c49e44837
@@ -2702,6 +2721,7 @@ url:news.yahoo.co.jp/articles/5d4a81e961af3cbb9c20b18cc4ca6700db96803c
 url:news.yahoo.co.jp/articles/5d55a6119a5694ffbdc0a1b5c733f663bac9362a
 url:news.yahoo.co.jp/articles/5d659d4f5d506de0e07cc3b78c49ffb63642dfdb
 url:news.yahoo.co.jp/articles/5e247890d358a2a0f2924413adff525e18076dae
+url:news.yahoo.co.jp/articles/5f5e35d0173c23925c3dcf5f3d0aae7397f20c1f?source=rss
 url:news.yahoo.co.jp/articles/611f42c29fe1dff9f3d13bf485dd0024cadbcdda?source=rss
 url:news.yahoo.co.jp/articles/6146ab4da7f64823eef7ed21e4698196a5bb0049?source=rss
 url:news.yahoo.co.jp/articles/61c7c1a74cab485bd2acc3d9b125efd4405b37f9?source=rss
@@ -3068,6 +3088,7 @@ url:topics.smt.docomo.ne.jp/amp/article/hicbc/nation/hicbc-2739935
 url:topics.smt.docomo.ne.jp/amp/article/hokkaido/region/hokkaido-1325693
 url:topics.smt.docomo.ne.jp/amp/article/hokkaido/region/hokkaido-1329158
 url:topics.smt.docomo.ne.jp/amp/article/kobe/business/kobe-20260613015
+url:topics.smt.docomo.ne.jp/amp/article/ktv_news/region/ktv_news-28183
 url:topics.smt.docomo.ne.jp/amp/article/kyodo_nor/life/kyodo_nor-2026070201001503
 url:topics.smt.docomo.ne.jp/amp/article/maonline/business/maonline-sh-s100ye79
 url:topics.smt.docomo.ne.jp/amp/article/maonline/business/maonline-sh-s100yen0
@@ -3089,6 +3110,7 @@ url:topics.smt.docomo.ne.jp/article/mbs_news/region/mbs_news-2780578
 url:topics.smt.docomo.ne.jp/article/merkmalbiz/business/merkmalbiz-117777?page=
 url:topics.smt.docomo.ne.jp/article/minkei/region/minkei-shibukei19954
 url:topics.smt.docomo.ne.jp/article/miyanichi/region/miyanichi-00055836
+url:topics.smt.docomo.ne.jp/article/nbc/region/nbc-2784629
 url:topics.smt.docomo.ne.jp/article/nbs/region/nbs-28622
 url:topics.smt.docomo.ne.jp/article/nishinippon/region/nishinippon-1001509008
 url:topics.smt.docomo.ne.jp/article/npn/nation/npn-300404041
@@ -3326,6 +3348,7 @@ url:www.hospitalitynet.org/opinion/4133237/cold-calling-in-the-hotel-industry-wh
 url:www.hospitalitynet.org/opinion/4133283/hotel-chains-built-ai-for-the-traveler-who-comes-to-them-first-that-traveler-is-leaving
 url:www.hospitalitynet.org/opinion/4133322/why-governance-is-now-mission-critical-for-hotels
 url:www.hospitalitynet.org/opinion/4133323/how-ai-is-transforming-the-hotel-commercial-engine-group-sales-revenue-management-and-unified-strategy
+url:www.hospitalitynet.org/opinion/4133343/beyond-installation-why-remote-management-and-field-services-are-critical-to-self-service-success-in-hospitality
 url:www.hospitalitynet.org/opinion/4133351/how-to-mentor-in-hotels-in-the-modern-world
 url:www.hospitalitynet.org/opinion/4133361/culture-isnt-a-program-its-a-way-of-leading
 url:www.housenews.jp/house/36516
@@ -3486,6 +3509,7 @@ url:www.re-port.net/amp/article/news/0000082106/
 url:www.re-port.net/amp/article/news/0000082143/
 url:www.re-port.net/amp/article/news/0000082275/
 url:www.recordchina.co.jp/b982625-s39-c30-d0195.html
+url:www.richardajkeys.com/dp/9758653912005
 url:www.richessemag.jp/travel/domestictravel/a71419928/daily-news-260602/
 url:www.ryoko-net.co.jp/?p=167919
 url:www.ryoko-net.co.jp/?p=168122
@@ -3614,6 +3638,7 @@ url:www.umk.co.jp/news/?date=
 url:www.venturesquare.net/jp/1095126/
 url:www.vietnam.vn/ja/bac-ninh-khoi-cong-du-an-co-so-luu-tru-gan-1-177-ty-dong-cua-lens-viet-nam-tai-khu-cong-nghiep-quang-chau
 url:www.vietnam.vn/ja/cac-hang-tinh-bay-quoc-te-tu-long-thanh-cuoi-nam-nay-ra-sao
+url:www.vietnam.vn/ja/chu-khach-san-o-co-to-mo-lon-rung-dai-gan-50-khach-luu-tru-khi-bao-so-1-do-bo
 url:www.vietnam.vn/ja/cu-bat-tay-lich-su-50-000-combo-bay-nghi-duong-phu-quoc-4-sao-giam-sap-san-con-5-trieu
 url:www.vietnam.vn/ja/doanh-nghiep-trung-dau-gia-dat-vang-xay-khach-san-5-sao-o-hn-bo-coc
 url:www.vietnam.vn/ja/doanh-nghiep-trung-dau-gia-khu-dat-vang-xay-khach-san-5-sao-o-ha-noi-bat-ngo-bo-coc
@@ -3635,6 +3660,7 @@ url:www.wws-channel.com/town_spot/633769.html
 url:www.yogonet.com/ja/%E7%B1%B3%E5%9B%BD%E5%A4%96%E3%81%AE%E4%B8%96%E7%95%8C%E5%90%84%E5%9B%BD/%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9-a/2026/06/17/124211-new-york-39s-turning-stone-resort-casino-to-open-luxury-hotel-and-finedining-restaurant-in-july
 url:www.yogonet.com/ja/%E7%B1%B3%E5%9B%BD%E5%A4%96%E3%81%AE%E4%B8%96%E7%95%8C%E5%90%84%E5%9B%BD/%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9-a/2026/06/22/124739-%E3%83%90%E3%83%AA%E3%83%BC39%E3%81%AF%E3%80%81%E3%83%A9%E3%82%B9%E3%83%99%E3%82%AC%E3%82%B9%E3%81%AE%E3%82%AB%E3%82%B8%E3%83%8E%E3%83%AA%E3%82%BE%E3%83%BC%E3%83%88%E3%81%8C2028%E5%B9%B4%E3%81%AE%E9%99%B8%E4%B8%8A%E7%AB%B6%E6%8A%80%E3%83%87%E3%83%93%E3%83%A5%E3%83%BC%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AB%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%81%99%E3%82%8B%E5%8F%AF%E8%83%BD%E6%80%A7%E3%81%AF%E4%BD%8E%E3%81%84%E3%81%A8%E8%BF%B0%E3%81%B9%E3%81%A6%E3%81%84%E3%82%8B%E3%80%82
 url:www.yogonet.com/ja/%E7%B1%B3%E5%9B%BD%E5%A4%96%E3%81%AE%E4%B8%96%E7%95%8C%E5%90%84%E5%9B%BD/%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9-a/2026/06/24/125000-%E3%82%B7%E3%83%97%E3%83%AA%E3%82%A2%E3%83%BC%E3%83%8B%E3%83%BB%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E3%81%AF%E3%80%81%E5%BE%85%E6%9C%9B%E3%81%AE%E3%83%97%E3%83%B3%E3%82%BF%E3%83%BB%E3%83%87%E3%83%AB%E3%83%BB%E3%82%A8%E3%82%B9%E3%83%86%E3%83%BB%E3%83%9B%E3%83%86%E3%83%AB%E3%83%BB%E3%82%AB%E3%82%B8%E3%83%8E%E3%81%AE12%E6%9C%88%E9%96%8B%E6%A5%AD%E3%82%92%E7%A2%BA%E5%AE%9A%E3%81%97%E3%81%9F%E3%80%82
+url:www.yogonet.com/ja/%E7%B1%B3%E5%9B%BD%E5%A4%96%E3%81%AE%E4%B8%96%E7%95%8C%E5%90%84%E5%9B%BD/%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9-a/2026/07/07/125268-%E3%82%B7%E3%83%BC%E3%82%B6%E3%83%BC%E3%82%BA%E3%83%BB%E3%83%AA%E3%83%91%E3%83%96%E3%83%AA%E3%83%83%E3%82%AF%E3%83%BB%E3%83%AC%E3%82%A4%E3%82%AF%E3%82%BF%E3%83%9B%E3%81%8C%E5%A4%A7%E8%A6%8F%E6%A8%A1%E3%81%AA%E3%83%AA%E3%82%BE%E3%83%BC%E3%83%88%E6%94%B9%E4%BF%AE%E3%82%92%E7%B5%8C%E3%81%A6%E6%AD%A3%E5%BC%8F%E3%81%AB%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3
 url:www.yomiuri.co.jp/economy/20260617-GYT1T00141/
 url:www.yomiuri.co.jp/economy/20260630-GYT1T00489/
 url:www.yomiuri.co.jp/economy/20260704-GYT1T00002/

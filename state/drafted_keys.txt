@@ -32,6 +32,7 @@ facility:13bb33e4b7bceddef6f0
 facility:13eb32e66bc4ae3c4469
 facility:13f1a69262ed87833d21
 facility:14d3e8c4a8fdeb120c62
+facility:15d31073be645eab8136
 facility:168102c1a5aefe8e9a45
 facility:1699b0c7195bd5e1ea58
 facility:16c208274585af45a2a9
@@ -241,6 +242,7 @@ facility:8f845239d7972f4b4059
 facility:8fd3e1754033430ec52e
 facility:91d831ee7131682e5b3b
 facility:924419fdc1645bb79ce3
+facility:92bc98f65d451dd8d41a
 facility:92f396e31164504b0927
 facility:93203f7de2f1aaf7faf3
 facility:93b919949a3186ce10e8
@@ -515,6 +517,7 @@ title:1a41819d18601d0a7c42
 title:1a78c833b4251dbe553b
 title:1b023ae9023d162644e6
 title:1b11d4cec1d3ec2c537a
+title:1b387e9da527e7d4a57c
 title:1b7de2c967641efc7098
 title:1bfea26090eb14c0e75c
 title:1c202601cacb9789a074
@@ -668,6 +671,7 @@ title:3530630bd6ed539dfe8d
 title:3542e07df58382c12d01
 title:35cc76d6c68a00c3d090
 title:35e674a69026a72d513c
+title:35f20f13a2ee885824dd
 title:366d0c6df1d3add8a6ae
 title:367d3a8b4a7d733e96f9
 title:36be41b1e8ded719513d
@@ -755,6 +759,7 @@ title:45c26775994fb9c09820
 title:45ee0b6a917ebe26e0cc
 title:4642c731837cdba5ef68
 title:470a38d9cf75c27da7d9
+title:471889374bb9c1f1e94c
 title:4730bc849024e09e986a
 title:4737ec041d0de506f480
 title:4759cdf1ae413cfce823
@@ -785,6 +790,7 @@ title:4cdd585afe4649f472a8
 title:4cf1924138836b1c119a
 title:4cfb16c35d20f65e4bac
 title:4e15b9f29bf6b174d974
+title:4e346dc36107cff512fd
 title:4e62aebe571a2f5906d3
 title:4e6c3e5830f33088ecf3
 title:4e89583a453e7c707d52
@@ -811,6 +817,7 @@ title:51d8a1f1c31232108d0e
 title:52037d19f17e0c0dd849
 title:522f9a207e6a9ba142b7
 title:525f9daccc22a8fc9193
+title:5281d36b6e359dd51076
 title:528eb0b60d80d0e4385a
 title:52b6fedb6ead4c91f9e4
 title:52c84d387b23919daf29
@@ -899,6 +906,7 @@ title:635acc50dc2ea88e0129
 title:6395f608e5bbea79f825
 title:63a8ba9703be596b728b
 title:63f0051c8cdfbb07aa7b
+title:64160886f47a435654b8
 title:643ae064fd3c1843c6f4
 title:6442866839fc9890edf4
 title:644acc1cef8606af2e38
@@ -1037,6 +1045,7 @@ title:7ea8022de45735c0083a
 title:7eb9e168dea18c522c21
 title:7ece9a5547c3d2d0a154
 title:7ee3515ea597fb9e40de
+title:7eecf9b577c92e592f70
 title:7efe52aebd150b5fe350
 title:7f2ee81b09bc36cf6216
 title:7fe6ddc55e1a37233428
@@ -1204,6 +1213,7 @@ title:9e45d95c59e64d1780cf
 title:9e5da8e45bf0612f4810
 title:9ed158027059110edb99
 title:9ed5c66493e3cdbc875b
+title:9ee5031720d500e6258f
 title:9f57dee65762a4c46197
 title:9f5900c17b3711896318
 title:9fde0a899a12da2675cd
@@ -1587,6 +1597,7 @@ title:e3ebd4233bd500ab710c
 title:e405d04c0bd22e0ba703
 title:e42bd7efd0b6ff8ff182
 title:e4639c6664e8f2a21bcb
+title:e4b83674b339a4feb22a
 title:e4fa50881d05071a3fc0
 title:e510f2dca1d73cf997bd
 title:e5473e068224e8765b4a
@@ -1702,6 +1713,7 @@ title:f851a59f16a73d224b9f
 title:f8cef02c36bce7ff1fd4
 title:f90fdc6d556527a0ad76
 title:f936e800f0a525728288
+title:f941f247f9f30981177f
 title:f9d64532a10019692698
 title:fa38fa5945c6c7ffe7d4
 title:fa730e6e744409a688b6
@@ -1778,6 +1790,7 @@ topic:13f1a69262ed87833d21
 topic:1426dc4afed0bd520a90
 topic:14aad56efeb8b9245e75
 topic:14d3e8c4a8fdeb120c62
+topic:15d31073be645eab8136
 topic:168102c1a5aefe8e9a45
 topic:1699b0c7195bd5e1ea58
 topic:16aa91c307a43d211610
@@ -2041,6 +2054,7 @@ topic:90d3c7da14f9fb6b73dc
 topic:91d831ee7131682e5b3b
 topic:9223600c00d452b822e8
 topic:924419fdc1645bb79ce3
+topic:92bc98f65d451dd8d41a
 topic:92f396e31164504b0927
 topic:92f473809e5979a7da2b
 topic:93203f7de2f1aaf7faf3
@@ -2237,6 +2251,7 @@ topic:f59120aa700b7c7bebde
 topic:f690c8ff38c96c1dfa5f
 topic:f6c0aa931a587467680a
 topic:f7041f9d8a984c718225
+topic:f74b3673f95b0b69840e
 topic:f7753149bf171664a44d
 topic:f789512ac2d9ca4d391f
 topic:fa12a9e1790fbfa8782e
@@ -2248,6 +2263,7 @@ topic:fd66d4e7483a7a652ead
 topic:fdb0dccd985f9fa39241
 url:373news.com/lifestyle/info/pr_times/detail/000000032.000121393.html
 url:373news.com/news/local/detail/235629
+url:ab-hiroshima.com/202607hilton_miyajima
 url:abc-magazine.asahi.co.jp/post-82671/
 url:abema.tv/video/episode/89-44_s0_p512854
 url:abema.tv/video/episode/89-44_s0_p516539
@@ -2490,6 +2506,7 @@ url:news.livedoor.com/pr_topics/detail/31557751/
 url:news.livedoor.com/pr_topics/detail/31663670/
 url:news.livedoor.com/pr_topics/detail/31715670/
 url:news.livedoor.com/pr_topics/detail/31725494/
+url:news.livedoor.com/pr_topics/detail/31765396/
 url:news.livedoor.com/topics/detail/31438143/
 url:news.livedoor.com/topics/detail/31594109/
 url:news.livedoor.com/topics/detail/31645182/
@@ -2667,6 +2684,7 @@ url:news.yahoo.co.jp/articles/6374fbc49af06d4cdc3ce667fe8ad3e49e3ab41b
 url:news.yahoo.co.jp/articles/64d5ea60a1e932bbaf2a396ff24840cf9d71cbd8?page=
 url:news.yahoo.co.jp/articles/64d5ea60a1e932bbaf2a396ff24840cf9d71cbd8?source=rss
 url:news.yahoo.co.jp/articles/657c4973cbbd38c3149fdc6179ff33befd9738f5
+url:news.yahoo.co.jp/articles/65b039a65a63d1a08b6a3bb60841f148bb0aae31
 url:news.yahoo.co.jp/articles/661b67fd42380fa56459ce10daeb1c67ae83b6ba
 url:news.yahoo.co.jp/articles/6691c1f4de2225d3229b2f43ae517c870c4274ac
 url:news.yahoo.co.jp/articles/69d9edc7fd53ce3685d87c5afbbc9cea067b6e59
@@ -2969,6 +2987,7 @@ url:ryukyushimpo.jp/economics/entry-5361214.html
 url:ryukyushimpo.jp/kyodo/entry-5366089.html
 url:ryukyushimpo.jp/prtimes/entry-5330973.html
 url:saitoshika-west.com/blog-entry-10132.html
+url:saitoshika-west.com/blog-entry-10168.html
 url:sapporo-sokuho.com/archives/post-105646.html
 url:sapporo.keizai.biz/gpnews/1729075/
 url:sasaru.media/article/weather/20260703_005/
@@ -2987,6 +3006,8 @@ url:skift.com/2026/06/26/dubais-rove-hotels-targets-saudi-arabias-mid-scale-gap-
 url:skift.com/2026/06/28/going-it-alone-why-hotel-owners-are-dropping-the-big-brands/
 url:skift.com/2026/07/02/marriott-outspends-rivals-on-tv-but-airbnb-owns-the-world-cup/
 url:skift.com/2026/07/06/how-an-airline-pilot-built-one-of-portugals-most-distinctive-hotels/
+url:skift.com/2026/07/07/chinas-tongcheng-travel-bids-for-dida-to-bring-ride-sharing-in-house/
+url:skift.com/2026/07/07/hilton-opens-direct-line-to-navan-cutting-out-corporate-travel-middlemen/
 url:smart.shimotsuke.co.jp/articles/-/1365966
 url:south65.jp/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BEnbi%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9%E3%80%81%E6%B2%96%E7%B8%84%E7%9C%8C%E9%82%A3%E8%A6%87%E5%B8%82%E3%81%AE%E3%83%9B/amp/
 url:sp.m.jiji.com/article/show/3814197
@@ -2996,6 +3017,7 @@ url:straightpress.jp/20260617/1636375
 url:straightpress.jp/20260620/1638315
 url:straightpress.jp/20260629/1645068
 url:straightpress.jp/20260706/1650016
+url:straightpress.jp/20260707/1654477
 url:straightpress.jp/company_news/detail?pr=
 url:strainer.jp/notes/9277
 url:t.co/usD3yL2F17
@@ -3247,6 +3269,9 @@ url:www.hospitalitynet.org/news/4133320/radisson-hotel-group-launches-hospitalit
 url:www.hospitalitynet.org/news/4133332/196-forum-munich-launch-of-the-hospitality-upgrade-award-2026-spotlight-on-the-best-start-ups
 url:www.hospitalitynet.org/news/4133344/central-real-capital-appoints-trilogy-hotels-as-operator-of-the-sands-torquay-resort
 url:www.hospitalitynet.org/news/4133360/hvs-europe-hotel-transactions-bulletin-week-ending-03-july-2026
+url:www.hospitalitynet.org/news/4133369/how-are-lighthouses-ai-capabilities-transforming-hotel-commercial-strategy
+url:www.hospitalitynet.org/news/4133370/ihg-hotels-resorts-surpasses-200-open-canadian-hotels-with-plans-for-future-growth
+url:www.hospitalitynet.org/news/4133374/ihcl-clocks-20-signings-and-11-hotel-openings-in-q1-fy2027
 url:www.hospitalitynet.org/opinion/4132482/azuma-brand-launch-signals-larger-hotel-category-trends
 url:www.hospitalitynet.org/opinion/4132494/five-trends-every-hotel-leader-needs-to-watch-in-2026
 url:www.hospitalitynet.org/opinion/4132680/why-the-best-hospitality-vendors-may-never-even-get-considered

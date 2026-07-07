@@ -221,6 +221,7 @@ facility:81e56c60d7bb2539cd87
 facility:83bbe0b6f48708e76898
 facility:841cf6f6608bb19eab27
 facility:86656d826b04cdc3585f
+facility:86f190c2ef0b4bac41bc
 facility:871a8d7b4580e8fea73f
 facility:87aa553de122116d94d8
 facility:8890f8c0e05338633f9b
@@ -682,6 +683,7 @@ title:375e73991ba9c1366c12
 title:37c05e3072be1f1e7fa3
 title:38136c68744ac8559aae
 title:383e6fe151d58d4620b7
+title:385abb6b6d755e074da5
 title:3861f0d056d6c3f2e19a
 title:38a96572662d53333506
 title:38c99399484a43b3e7c2
@@ -704,6 +706,7 @@ title:3b96dbe61aa01c3864ba
 title:3c19af767bf9ba079736
 title:3c2ac6f00cae140ce35c
 title:3c5cc4b684d813ee1102
+title:3c6662a88624ee69a80b
 title:3ce4ade1e353f5d8adab
 title:3d02e3e2e72e4b7ae521
 title:3d68643f15c5eed605b5
@@ -799,12 +802,14 @@ title:4ed8ce7c08701ceaf671
 title:4f16078784b158d5489c
 title:4f248f327a5f3d625479
 title:4f337a6e02f64211fcf5
+title:4f540aefa4c90530f3d4
 title:4fa1227b00d2cc545892
 title:4fe74e5d18e6fbd5a98b
 title:4ff661fd840afaf2c1aa
 title:4ff8b64653d5d33c4629
 title:5026a63b3fb7cfd6d9e3
 title:507dd1271e19b2c85fca
+title:5094ec0184742b389a0f
 title:50b0656b6647ccad8572
 title:50d707c9ccd61d0a8920
 title:512d76e77695c9df762d
@@ -829,6 +834,7 @@ title:5381045599388ec32f0c
 title:5385bc8adee62c23067a
 title:53ede593f23741a1c94e
 title:54080c5b604f66b4f7b9
+title:54399aebe789d1869108
 title:5452911fc37435846f13
 title:545891071210a4a81048
 title:54ce8704a2efb9b20a84
@@ -1085,10 +1091,12 @@ title:857badb478abdce07973
 title:85b2f16d4b87fd617e2a
 title:86a335883c720323e8de
 title:8706527659a38b1cc9ee
+title:8750907b6aebc6f933d3
 title:8788bb07a0a552cd0f8f
 title:87a877823b55350ef8b0
 title:87d5d46ff732be5d189a
 title:87e1ede5d02585d9131f
+title:87ffff630bbff0449814
 title:881a1e62e78a9c472670
 title:8868cd7fb5505b1d4cc1
 title:88898d3ac6b49d85347b
@@ -1120,6 +1128,7 @@ title:8d11e8cd41bfeefbdfe2
 title:8d35644f8211037a519b
 title:8d480b961ead6ffd8006
 title:8d4c2d27c62bd1384d32
+title:8d90c9c2262c01127ab0
 title:8da4ab96561f62dbe192
 title:8dd616b73473e59b950f
 title:8dd6e4de031c14ca2777
@@ -1565,6 +1574,7 @@ title:dd17cef9f982d425fe7c
 title:dd71340aaed4e5de2194
 title:ddfa35c10a0503e2bf40
 title:deb025e30c0bc2ccb158
+title:ded38110160fe2526e25
 title:df01e9f9dc8a00af83a0
 title:df17d7c60ddbe16dd8ff
 title:df76efd05219585da03a
@@ -1745,6 +1755,7 @@ title:fe77a63a658797a9cfee
 title:feb5886898b5553a5c84
 title:ff1802e89fd54cda8eb8
 title:ff3d80055168af3904a3
+title:ff5951e71fa5afb83feb
 title:ffae964b45282381d1b5
 title:fff30b5218181bc9cb4b
 topic:0050fe32fea953b6cb5e
@@ -2028,6 +2039,7 @@ topic:83bbe0b6f48708e76898
 topic:841cf6f6608bb19eab27
 topic:86656d826b04cdc3585f
 topic:86b391cb22fe6e8e6233
+topic:86f190c2ef0b4bac41bc
 topic:871a8d7b4580e8fea73f
 topic:87aa553de122116d94d8
 topic:8890f8c0e05338633f9b
@@ -2491,6 +2503,7 @@ url:news.livedoor.com/article/detail/31675566/
 url:news.livedoor.com/article/detail/31678037/
 url:news.livedoor.com/article/detail/31680269/?from_page=
 url:news.livedoor.com/article/detail/31690930/
+url:news.livedoor.com/article/detail/31743753/
 url:news.livedoor.com/article/detail/31747241/
 url:news.livedoor.com/article/image_detail/31468279/?img_id=
 url:news.livedoor.com/article/image_detail/31479406/?img_id=
@@ -2658,6 +2671,7 @@ url:news.yahoo.co.jp/articles/4af92e49d2416f8e3eb234a1c1fec28ef81e1215?source=rs
 url:news.yahoo.co.jp/articles/4e02c362e888c9a82b28693466f51b90ba89929b
 url:news.yahoo.co.jp/articles/4e731d0db44ac4bbb537b2fd4568ac53aef9b51d?source=rss
 url:news.yahoo.co.jp/articles/4f4d7a7aceeac11ee31edd9e690f43dccc82859d
+url:news.yahoo.co.jp/articles/500efd873166c8aeaf68d8b6afce7702c9247655
 url:news.yahoo.co.jp/articles/509ef9247a10b9e7941c874e63ec2cf5c3e968fe?source=rss
 url:news.yahoo.co.jp/articles/53e48a865c2b37dbe0ca0dee4a91fe9d0ed0f773
 url:news.yahoo.co.jp/articles/549af4ae6c2fe770de5b3cc794accb4121c0b881
@@ -2858,6 +2872,7 @@ url:prtimes.jp/main/html/rd/p/000000001.000184335.html
 url:prtimes.jp/main/html/rd/p/000000001.000185400.html
 url:prtimes.jp/main/html/rd/p/000000001.000186372.html
 url:prtimes.jp/main/html/rd/p/000000002.000138198.html
+url:prtimes.jp/main/html/rd/p/000000002.000183124.html
 url:prtimes.jp/main/html/rd/p/000000002.000183539.html
 url:prtimes.jp/main/html/rd/p/000000003.000148261.html
 url:prtimes.jp/main/html/rd/p/000000005.000148163.html
@@ -2976,6 +2991,7 @@ url:prtimes.jp/main/html/rd/p/000001583.000108051.html
 url:prtimes.jp/main/html/rd/p/000002245.000023303.html
 url:prtimes.jp/main/html/rd/p/000002700.000002296.html
 url:prtimes.jp/main/html/rd/p/000002730.000011305.html
+url:prtimes.jp/main/html/rd/p/000003744.000014571.html
 url:prtimes.jp/main/html/rd/p/000003774.000024668.html
 url:prtimes.jp/main/html/rd/p/000003795.000024668.html
 url:prtimes.jp/main/html/rd/p/000005409.000000136.html
@@ -3008,6 +3024,7 @@ url:skift.com/2026/07/02/marriott-outspends-rivals-on-tv-but-airbnb-owns-the-wor
 url:skift.com/2026/07/06/how-an-airline-pilot-built-one-of-portugals-most-distinctive-hotels/
 url:skift.com/2026/07/07/chinas-tongcheng-travel-bids-for-dida-to-bring-ride-sharing-in-house/
 url:skift.com/2026/07/07/hilton-opens-direct-line-to-navan-cutting-out-corporate-travel-middlemen/
+url:skift.com/2026/07/07/mews-layoffs-restructuring-ai/
 url:smart.shimotsuke.co.jp/articles/-/1365966
 url:south65.jp/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BEnbi%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9%E3%80%81%E6%B2%96%E7%B8%84%E7%9C%8C%E9%82%A3%E8%A6%87%E5%B8%82%E3%81%AE%E3%83%9B/amp/
 url:sp.m.jiji.com/article/show/3814197
@@ -3115,6 +3132,7 @@ url:www.breakingtravelnews.com/news/article/ani-private-resorts-expands-global-p
 url:www.breakingtravelnews.com/news/article/avani-lanexang-vientiane-hotel-opens-in-the-heart-of-the-lao-capital/
 url:www.breakingtravelnews.com/news/article/belmo-group-moves-into-north-queensland-with-aquarius-on-the-beach-townsvil/
 url:www.breakingtravelnews.com/news/article/blacksand-and-marriott-international-announce-landmark-deal-to-open-10-hote/
+url:www.breakingtravelnews.com/news/article/browns-hotel-and-paul-smith-unveil-the-paul-smith-grand-suite/
 url:www.breakingtravelnews.com/news/article/choice-hotels-international-appoints-artificial-intelligence-leader-ali-kes/
 url:www.breakingtravelnews.com/news/article/elegant-hotels-of-the-world-unveiled-as-global-luxury-soft-brand-with-expan/
 url:www.breakingtravelnews.com/news/article/forsthofgut-nature-hotel-unveils-new-family-offerings-this-summer/
@@ -3154,6 +3172,7 @@ url:www.chiba-tv.com/plus/detail/2026071806535
 url:www.chiba-tv.com/plus/detail/2026071816471
 url:www.chiba-tv.com/plus/detail/2026071816882
 url:www.chiba-tv.com/plus/detail/2026071819139
+url:www.chiba-tv.com/plus/detail/2026071819947
 url:www.chiba-tv.com/plus/detail/amp/2026061745568
 url:www.chiba-tv.com/plus/detail/amp/2026061751967
 url:www.chiba-tv.com/plus/detail/amp/2026061756285
@@ -3269,9 +3288,11 @@ url:www.hospitalitynet.org/news/4133320/radisson-hotel-group-launches-hospitalit
 url:www.hospitalitynet.org/news/4133332/196-forum-munich-launch-of-the-hospitality-upgrade-award-2026-spotlight-on-the-best-start-ups
 url:www.hospitalitynet.org/news/4133344/central-real-capital-appoints-trilogy-hotels-as-operator-of-the-sands-torquay-resort
 url:www.hospitalitynet.org/news/4133360/hvs-europe-hotel-transactions-bulletin-week-ending-03-july-2026
+url:www.hospitalitynet.org/news/4133365/asia-pacific-hospitality-newsletter-week-ending-3-july-2026
 url:www.hospitalitynet.org/news/4133369/how-are-lighthouses-ai-capabilities-transforming-hotel-commercial-strategy
 url:www.hospitalitynet.org/news/4133370/ihg-hotels-resorts-surpasses-200-open-canadian-hotels-with-plans-for-future-growth
 url:www.hospitalitynet.org/news/4133374/ihcl-clocks-20-signings-and-11-hotel-openings-in-q1-fy2027
+url:www.hospitalitynet.org/news/4133376/hsmai-europe-to-co-locate-commercial-strategy-forum-paris-with-equiphotel-paris
 url:www.hospitalitynet.org/opinion/4132482/azuma-brand-launch-signals-larger-hotel-category-trends
 url:www.hospitalitynet.org/opinion/4132494/five-trends-every-hotel-leader-needs-to-watch-in-2026
 url:www.hospitalitynet.org/opinion/4132680/why-the-best-hospitality-vendors-may-never-even-get-considered
@@ -3358,6 +3379,7 @@ url:www.moomoo.com/ja/news/post/71924954/audit-review-item-26-03-impairment-of-t
 url:www.moomoo.com/ja/news/post/71995017/oue-tokyo-century-jv-to-acquire-crowne-plaza-changi-airport
 url:www.msn.com/ja-jp/money/other/%E3%82%A2%E3%83%91%E3%83%9B%E3%83%86%E3%83%AB-%E5%B0%8F%E5%B1%B1%E9%A7%85%E5%89%8D-2027%E5%B9%B4%E5%A4%8F%E9%96%8B%E6%A5%AD-%E6%A0%83%E6%9C%A8%E7%9C%8C%E5%86%852%E6%A3%9F%E7%9B%AE/ar-AA25dtxG
 url:www.msn.com/ja-jp/money/other/%E3%82%AF%E3%83%AA%E3%82%A2%E3%83%AB%E3%83%9B%E3%83%86%E3%83%AB%E3%82%BA-%E3%83%AC%E3%82%A4%E3%82%B5%E3%83%BC%E3%82%B9%E3%82%A4%E3%83%BC%E3%83%88%E9%8E%8C%E5%80%89-%E3%82%925%E6%9C%8818%E6%97%A5%E3%83%AA%E3%83%96%E3%83%A9%E3%83%B3%E3%83%89%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3/ar-AA27dZ8u
+url:www.msn.com/ja-jp/money/other/%E3%82%AF%E3%83%AC%E3%82%B8%E3%83%83%E3%83%88%E3%82%AB%E3%83%BC%E3%83%89%E6%B1%BA%E6%B8%88%E4%BB%A3%E8%A1%8C%E3%81%AE-%E6%A0%AA-%E5%85%A8%E6%9D%B1%E4%BF%A1-%E5%A4%A7%E9%98%AA-%E3%81%8C%E7%A0%B4%E7%94%A3%E9%96%8B%E5%A7%8B%E6%B1%BA%E5%AE%9A/ar-AA27ioWK?ocid=
 url:www.msn.com/ja-jp/money/other/%E3%83%9E%E3%83%AA%E3%82%AA%E3%83%83%E3%83%88-%E4%B8%96%E7%95%8C10-000%E8%BB%92%E7%9B%AE%E3%81%AE%E3%83%9B%E3%83%86%E3%83%AB%E9%96%8B%E6%A5%AD-%E5%89%B5%E6%A5%AD99%E5%B9%B4%E3%81%A7146%E3%81%8B%E5%9B%BD%E3%81%AB%E5%B1%95%E9%96%8B/ar-AA2677Qy?ocid=
 url:www.msn.com/ja-jp/money/other/%E3%83%A9%E3%83%BC%E3%83%A1%E3%83%B3%E5%BA%97-%E7%84%BC%E3%81%8D%E8%82%89%E5%BA%97%E3%81%AE%E5%80%92%E7%94%A3%E3%81%8C%E9%81%8E%E5%8E%BB%E6%9C%80%E5%A4%9A-%E5%8E%B3%E3%81%97%E3%81%84%E5%86%86%E5%AE%89%E3%81%A8%E7%89%A9%E4%BE%A1%E9%AB%98%E3%81%A0%E3%81%91%E3%81%98%E3%82%83%E3%81%AA%E3%81%84-%E6%84%8F%E5%A4%96%E3%81%AA%E5%BD%B1%E9%9F%BF-%E3%81%A8%E3%81%AF/ar-AA27a8XF
 url:www.msn.com/ja-jp/money/other/%E4%B8%80%E4%BC%91-%E3%82%B5%E3%83%9E%E5%89%B2-%E6%97%85%E9%A4%A8-%E3%83%AA%E3%82%BE%E3%83%BC%E3%83%88%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB-%E3%82%92%E9%96%8B%E5%82%AC%E4%B8%AD-6%E6%9C%8830%E6%97%A5%E3%81%BE%E3%81%A7/ar-AA267236?apiversion=

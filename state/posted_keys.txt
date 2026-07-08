@@ -198,6 +198,7 @@ facility:504afc78b36da95a6345
 facility:505676cd8a3d0586c1cf
 facility:5083e55c13e2f43ca19e
 facility:50a274a3a7e0c7928074
+facility:50b6ca107474938e9023
 facility:51d087514ca17149b4ea
 facility:52092c1169779814d0fd
 facility:521b59ad40a3fad9892f
@@ -416,6 +417,7 @@ facility:b1edc4e3e7d9d024f10e
 facility:b2368920a8ea2cc595e5
 facility:b261b56f88b06f3874a5
 facility:b2895324fc8911aecd9e
+facility:b29c34cc7de23f87352d
 facility:b2bad5fcb2fb1cf08e44
 facility:b437ba1c061302e8d2e9
 facility:b47d377390d041d77511
@@ -427,6 +429,7 @@ facility:b6edbb32194579888060
 facility:b73fd02cdd255e92fdf7
 facility:b76f2af05ce780dd83e1
 facility:b77a5eb7656aeecd82d6
+facility:b79b7565f1b9c5dfaa92
 facility:b7fbbf688ae526bf8757
 facility:b856c1c5fce5fdf787a2
 facility:b8795eda43932e325548
@@ -1014,6 +1017,7 @@ title:2adbbf0db4e548b0f8e5
 title:2ae0ed8fc8ee8f636cce
 title:2af7824c3600ae488930
 title:2b212fc0276417984f08
+title:2b49b960286c6e19d0bf
 title:2b504b19b3d8ce4589ba
 title:2b675047e8b154969cff
 title:2b7243e317fd6e6ef855
@@ -1097,6 +1101,7 @@ title:32de2ffab2b82f19be9c
 title:32ed9583c5cbe674340e
 title:32f3317b39afb7e4e6c3
 title:330b493aa02e1a1c3369
+title:335cc907fffe80110f68
 title:33784745fc90945cce35
 title:339ccf93f5e0280e1302
 title:33ad67b6e208f61cfb46
@@ -1272,6 +1277,7 @@ title:45545ec0fa8b1df151e6
 title:457158cc21ee201782d1
 title:45a6a1bcb442c4f61876
 title:45a6acd330ce80b9cd02
+title:45b6269b3fa767fad2ee
 title:45b9b9a70f081bc25c91
 title:45c26775994fb9c09820
 title:45e54212a8a03f08bb02
@@ -1577,6 +1583,7 @@ title:655d4ec3610a2e8879f2
 title:65673aaa1a94e4560ea7
 title:6586e9ab02e78f514648
 title:65da4c5acfb55b52b9f6
+title:65f9d0eaae08be50fc15
 title:6608790478739a07ea2f
 title:66229f3e53cb5fc14d4e
 title:66251907ea95386a1cb4
@@ -1587,6 +1594,7 @@ title:6655ab94ee1a940adbca
 title:667521d23c8c201eadd9
 title:66b805133477a95622b1
 title:66ba7ccd48df24986d9e
+title:66e17c5910232c4c5f29
 title:672ca81f32b745794328
 title:674556920bccfa505b53
 title:6750677dac3077c59f41
@@ -1788,6 +1796,7 @@ title:7b1309d80a7a8d3188cf
 title:7b438b2741323d1f0119
 title:7b5c74f7bdb7b60bdf14
 title:7b62344550d18416e660
+title:7b84173593e40a8fef1b
 title:7bca4782b3375624ff10
 title:7c43c655ce5507f7a4cb
 title:7c6339d8b826bdf3a936
@@ -2072,6 +2081,8 @@ title:9856c8a48638144f7a43
 title:98872809febb253ec47a
 title:98b98a8aad1e6b7f551d
 title:98c02b7d14d9790edbd6
+title:98d9b414b26504636569
+title:98df2cfa0b412827b41b
 title:98f1104e0c1206a2ccb4
 title:9919ecebfbc1fbab1dce
 title:99379f32ceaaadd47393
@@ -2354,6 +2365,7 @@ title:b2f621a8c177082248f9
 title:b306c019d8d1e5f63102
 title:b3160850acf164a69092
 title:b334074403ba29935f7e
+title:b33f1fa3944595040ea8
 title:b3429d4d5ea13a0d6baa
 title:b35d0145396827e887c5
 title:b36847b184a62cf10358
@@ -2777,6 +2789,7 @@ title:db42015c3f619d233a78
 title:db4dbfb7a171af4865a4
 title:db6eca56255d6e767103
 title:db7e10b276836428cbc4
+title:db81f5d447410c68e2aa
 title:db937d5dff4e72b47e39
 title:dbc314256ce1f9f01067
 title:dc143829867859c0f8ef
@@ -3050,6 +3063,7 @@ title:f660623f6f0e5168ac79
 title:f68986c8ef97bd48d3b0
 title:f6a55b0db317acfc1fad
 title:f71e747933d19a7e26e8
+title:f71f04b54566a264c3fc
 title:f729e050a34657ac6094
 title:f739dcb83d0d0c9a33db
 title:f74f2a40274ec505c285
@@ -3385,6 +3399,7 @@ topic:504afc78b36da95a6345
 topic:505676cd8a3d0586c1cf
 topic:5083e55c13e2f43ca19e
 topic:50a274a3a7e0c7928074
+topic:50b6ca107474938e9023
 topic:51d087514ca17149b4ea
 topic:52092c1169779814d0fd
 topic:521b59ad40a3fad9892f
@@ -3686,6 +3701,7 @@ topic:b2368920a8ea2cc595e5
 topic:b25f84a31dc1026b36cf
 topic:b261b56f88b06f3874a5
 topic:b2895324fc8911aecd9e
+topic:b29c34cc7de23f87352d
 topic:b2bad5fcb2fb1cf08e44
 topic:b437ba1c061302e8d2e9
 topic:b47d377390d041d77511
@@ -3699,6 +3715,7 @@ topic:b73f0e07c41ae04d86f3
 topic:b73fd02cdd255e92fdf7
 topic:b74a017ac51732cc58cc
 topic:b77a5eb7656aeecd82d6
+topic:b79b7565f1b9c5dfaa92
 topic:b7fbbf688ae526bf8757
 topic:b856c1c5fce5fdf787a2
 topic:b8795eda43932e325548
@@ -4553,8 +4570,10 @@ url:news.nicovideo.jp/watch/nw19514969?news_ref=
 url:news.nicovideo.jp/watch/nw19516782?news_ref=
 url:news.nicovideo.jp/watch/nw19518565?news_ref=
 url:news.nicovideo.jp/watch/nw19519433?news_ref=
+url:news.nicovideo.jp/watch/nw19522717?news_ref=
 url:news.nicovideo.jp/watch/nw19522824?news_ref=
 url:news.nicovideo.jp/watch/nw19522940?news_ref=
+url:news.nicovideo.jp/watch/nw19523225?news_ref=
 url:news.ntv.co.jp/category/economy/747d8b8e84ac42e79591407e19a65274
 url:news.ntv.co.jp/category/economy/fb34e3ade2704149e08213418a52ed1d31
 url:news.ntv.co.jp/category/economy/nkeb8c6885f157429981abb009ba4cdb8d
@@ -4749,6 +4768,7 @@ url:news.yahoo.co.jp/articles/53e48a865c2b37dbe0ca0dee4a91fe9d0ed0f773
 url:news.yahoo.co.jp/articles/54080ec248c49dddf366ce8d39042d6247b1042c
 url:news.yahoo.co.jp/articles/549af4ae6c2fe770de5b3cc794accb4121c0b881
 url:news.yahoo.co.jp/articles/54d86fac3c332c1dd55897058fe4e9825b1d896c?source=rss
+url:news.yahoo.co.jp/articles/54e60463209311b059055e8d53e89d2c1aea0554?source=rss
 url:news.yahoo.co.jp/articles/556c7634868f717b573df77b51f61e94d75c2d69?page=
 url:news.yahoo.co.jp/articles/562cb855d9352e46667c859e252eaba23abd07aa
 url:news.yahoo.co.jp/articles/5662a831ea7735054a167a986277ce173c2e978d?source=rss
@@ -5435,6 +5455,7 @@ url:skift.com/2026/07/06/the-race-to-own-str-distribution-just-got-a-lot-more-co
 url:skift.com/2026/07/07/chinas-tongcheng-travel-bids-for-dida-to-bring-ride-sharing-in-house/
 url:skift.com/2026/07/07/hilton-opens-direct-line-to-navan-cutting-out-corporate-travel-middlemen/
 url:skift.com/2026/07/07/mews-layoffs-restructuring-ai/
+url:skift.com/2026/07/08/accor-and-chinas-h-world-detail-plans-to-link-their-19000-hotels/
 url:skift.com/2026/07/08/indias-biggest-hotel-chain-is-following-its-biggest-travelers/
 url:smart.shimotsuke.co.jp/articles/-/1365966
 url:socialbusiness.aishas.co.jp/socialbusinessnews_aiautomaticallygeneration/27383/
@@ -5538,6 +5559,7 @@ url:topics.smt.docomo.ne.jp/article/rcc/region/rcc-2783829
 url:topics.smt.docomo.ne.jp/article/recordchina/business/recordchina-RC_979280?page=
 url:topics.smt.docomo.ne.jp/article/rnb/region/rnb-2026061704233958?page=
 url:topics.smt.docomo.ne.jp/article/saga_s/region/saga_s-1736982
+url:topics.smt.docomo.ne.jp/article/sbs/region/sbs-2788620?fm=
 url:topics.smt.docomo.ne.jp/article/tabizine/trend/tabizine-685728
 url:topics.smt.docomo.ne.jp/article/tetsudo_ch/trend/tetsudo_ch-13026845?page=
 url:topics.smt.docomo.ne.jp/article/tss/region/tss-34201?page=
@@ -5955,6 +5977,7 @@ url:www.hospitalitynet.org/news/4133369/how-are-lighthouses-ai-capabilities-tran
 url:www.hospitalitynet.org/news/4133370/ihg-hotels-resorts-surpasses-200-open-canadian-hotels-with-plans-for-future-growth
 url:www.hospitalitynet.org/news/4133374/ihcl-clocks-20-signings-and-11-hotel-openings-in-q1-fy2027
 url:www.hospitalitynet.org/news/4133376/hsmai-europe-to-co-locate-commercial-strategy-forum-paris-with-equiphotel-paris
+url:www.hospitalitynet.org/news/4133380/hftp-and-the-hospitality-law-conference-partner-for-immersive-program-on-financial-and-regulatory-trends
 url:www.hospitalitynet.org/news/4133382/windsor-aughtry-completes-26-million-renovation-at-hospitality-america-operated-hampton-by-hilton-roanoke-downtown
 url:www.hospitalitynet.org/news/4133383/navan-and-hilton-to-cocreate-hoteltmc-direct-connect
 url:www.hospitalitynet.org/news/4133384/introducing-nell-hotels-bringing-the-legacy-of-aspens-the-little-nell-to-rockefeller-center-with-the-debut-of-the-nell-new-york
@@ -5962,6 +5985,7 @@ url:www.hospitalitynet.org/news/4133386/royal-grand-resorts-launches-with-a-clea
 url:www.hospitalitynet.org/news/4133394/danubius-expands-its-hotel-portfolio-with-another-international-brand-and-is-the-first-to-bring-radisson-individuals-to-hungary
 url:www.hospitalitynet.org/news/4133396/pests-like-bed-bugs-rank-ahead-of-cleanliness-staff-and-value-as-travellers-1-hotel-booking-concern-phocuswright-research-confirms
 url:www.hospitalitynet.org/news/4133397/amsa-hospitality-artal-hotels-and-hyatt-announce-memorandum-of-understanding-for-three-hotels-in-riyadh
+url:www.hospitalitynet.org/news/4133403/beechwood-hospitality-and-mmi-hotel-group-announce-strategic-alignment
 url:www.hospitalitynet.org/opinion/4132482/azuma-brand-launch-signals-larger-hotel-category-trends
 url:www.hospitalitynet.org/opinion/4132494/five-trends-every-hotel-leader-needs-to-watch-in-2026
 url:www.hospitalitynet.org/opinion/4132680/why-the-best-hospitality-vendors-may-never-even-get-considered
@@ -5988,6 +6012,7 @@ url:www.hospitalitynet.org/opinion/4133343/beyond-installation-why-remote-manage
 url:www.hospitalitynet.org/opinion/4133351/how-to-mentor-in-hotels-in-the-modern-world
 url:www.hospitalitynet.org/opinion/4133361/culture-isnt-a-program-its-a-way-of-leading
 url:www.hospitalitynet.org/opinion/4133390/why-hotel-operational-agility-is-becoming-hospitalitys-greatest-competitive-advantage
+url:www.hospitalitynet.org/opinion/4133402/beyond-tokenomics-the-threat-of-the-invisible-hotel
 url:www.hospitalitynet.org/podcast/4133269/how-hotels-turn-data-overload-into-profit-growth
 url:www.hospitalitynet.org/report/4133261/the-india-hospitality-market-domestic-demand-and-growth-beyond-metros
 url:www.hospitalitynet.org/whitepaper/4133312/2027-global-hotel-industry-white-paperthe-robotics-revolution-and-asset-binary-divergence
@@ -6161,6 +6186,7 @@ url:www.msn.com/ja-jp/money/other/jtb%E4%BA%88%E6%B8%AC-%E6%B5%B7%E5%A4%96%E6%97
 url:www.msn.com/ja-jp/news/money/%E3%82%AF%E3%83%AC%E3%82%AB%E6%B1%BA%E6%B8%88%E4%BB%A3%E8%A1%8C-%E5%85%A8%E6%9D%B1%E4%BF%A1-%E3%81%8C%E7%A0%B4%E7%94%A3%E6%89%8B%E7%B6%9A%E3%81%8D%E9%96%8B%E5%A7%8B%E6%B1%BA%E5%AE%9A-%E9%A3%B2%E9%A3%9F%E5%BA%97%E3%81%AA%E3%81%A9%EF%BC%92%EF%BC%90%E4%B8%87%E5%BA%97%E3%81%A8%E5%A5%91%E7%B4%84%E3%82%82%E6%B1%BA%E6%B8%88%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E4%B8%AD%E6%AD%A2/ar-AA27lEii?ocid=
 url:www.msn.com/ja-jp/news/money/%E3%83%A9%E3%83%94%E3%83%80%E3%82%B9%E9%80%B2%E5%87%BA%E3%81%AE%E5%8C%97%E6%B5%B7%E9%81%93-%E5%8D%83%E6%AD%B3%E3%81%A7%E3%83%9B%E3%83%86%E3%83%AB%E9%96%8B%E6%A5%AD%E3%83%A9%E3%83%83%E3%82%B7%E3%83%A5-%E4%BB%8A%E5%B9%B4%E3%81%A0%E3%81%91%E3%81%A7%EF%BC%98%E6%A3%9F-%E5%87%BA%E5%BC%B5%E3%83%8B%E3%83%BC%E3%82%BA%E5%A2%97%E5%8A%A0%E3%81%AA%E3%81%A9%E8%A6%8B%E6%8D%AE%E3%81%88/ar-AA25Qctd
 url:www.msn.com/ja-jp/news/money/%E6%9D%BE%E6%9C%AC%E3%83%91%E3%83%AB%E3%82%B3%E8%B7%A1%E3%81%AB%E5%95%86%E6%A5%AD%E6%96%BD%E8%A8%AD%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3-%E6%A0%B8%E3%81%AF%E3%82%A4%E3%83%B3%E3%83%90%E3%82%A6%E3%83%B3%E3%83%89%E4%BA%BA%E6%B0%97%E3%81%AE-%E3%83%89%E3%83%B3-%E3%82%AD%E3%83%9B%E3%83%BC%E3%83%86-%E3%83%86%E3%83%8A%E3%83%B3%E3%83%88%E5%87%BA%E8%B6%B3%E3%81%AF%E4%BA%88%E5%AE%9A%E3%82%88%E3%82%8A%E9%81%85%E3%82%81/ar-AA27bxEe
+url:www.msn.com/ja-jp/news/money/%EF%BC%92%EF%BC%96%E5%B9%B4%E4%B8%8A%E5%8D%8A%E6%9C%9F%E3%81%AE%E4%BC%81%E6%A5%AD%E5%80%92%E7%94%A3%EF%BC%95%EF%BC%90%EF%BC%90%EF%BC%90%E4%BB%B6%E8%B6%85-%E7%89%A9%E4%BE%A1%E9%AB%98%E3%82%84%E4%BA%BA%E6%89%8B%E4%B8%8D%E8%B6%B3%E9%9F%BF%E3%81%8F-%E9%A3%B2%E9%A3%9F%E3%82%84%E5%AE%BF%E6%B3%8A%E3%81%AA%E3%81%A9%E3%81%8C%E5%85%A8%E4%BD%93%E3%81%AE%EF%BC%93%E5%89%B2%E8%B6%85/ar-AA27tzU1?ocid=
 url:www.msn.com/ja-jp/news/national/%E5%A4%96%E5%9B%BD%E4%BA%BA%E3%81%AE%E5%85%A5%E5%9B%BD%E3%83%93%E3%82%B6%E6%89%8B%E6%95%B0%E6%96%995%E5%80%8D%E3%81%AB%E5%BC%95%E3%81%8D%E4%B8%8A%E3%81%92%E9%96%A3%E8%AD%B0%E6%B1%BA%E5%AE%9A-%E8%8C%82%E6%9C%A8%E5%A4%96%E5%8B%99%E5%A4%A7%E8%87%A3-%E3%81%99%E3%81%90%E3%82%A4%E3%83%B3%E3%83%90%E3%82%A6%E3%83%B3%E3%83%89%E3%81%AB%E5%BD%B1%E9%9F%BF%E3%81%A8%E3%81%AF%E8%80%83%E3%81%88%E3%81%A6%E3%81%84%E3%81%AA%E3%81%84/ar-AA264BXZ
 url:www.msn.com/ja-jp/news/national/%E5%A5%88%E8%89%AF%E3%81%AE%E7%84%A1%E4%BA%BA%E9%A7%85%E8%88%8E%E6%94%B9%E4%BF%AE-%E3%83%9B%E3%83%86%E3%83%AB%E3%81%AB-%E6%9C%A8%E9%80%A0%E7%AF%89128%E5%B9%B4%E3%81%AEjr%E6%AB%9F%E6%9C%AC%E9%A7%85/ar-AA27c2Cz
 url:www.msn.com/ja-jp/news/national/%E5%B1%B1%E5%B2%B3%E9%81%AD%E9%9B%A3-%E6%98%A8%E5%B9%B4%E3%81%AF%E6%9C%80%E5%A4%9A3623%E4%BA%BA-%E8%A8%AA%E6%97%A5%E5%A4%96%E5%9B%BD%E4%BA%BA%E3%81%AF246%E4%BA%BA/ar-AA25UQhI?apiversion=
@@ -6284,6 +6310,7 @@ url:www.okinawatimes.co.jp/articles/-/1868208
 url:www.okinawatimes.co.jp/articles/-/1870873
 url:www.okinawatimes.co.jp/articles/-/1870899
 url:www.okinawatimes.co.jp/articles/-/1873673
+url:www.okinawatimes.co.jp/articles/-/1876711
 url:www.oricon.co.jp/pressrelease/2863263/
 url:www.poitan.jp/archives/180037
 url:www.poitan.jp/archives/182036
@@ -6494,6 +6521,7 @@ url:www.traicy.com/posts/20260706375614/
 url:www.traicy.com/posts/20260708372822/
 url:www.traicy.com/posts/20260708375721/
 url:www.traicy.com/posts/20260708375722/
+url:www.traicy.com/posts/20260708375773/
 url:www.travelnews.co.jp/news/inbound/2026061912010349639.html
 url:www.travelnews.co.jp/news/kankou/2026062609031549666.html
 url:www.travelnews.co.jp/news/tourist/2026062609023349703.html

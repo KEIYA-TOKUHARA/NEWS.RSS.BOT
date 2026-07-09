@@ -123,6 +123,7 @@ facility:45bccbeef6dc5cb95468
 facility:45db3e7193eeb1c93bc7
 facility:4610d97bdab42fc242a1
 facility:46ecabed2f9dfff9460f
+facility:47a135b068a99914bc60
 facility:48d1bda27e2a6e3f04b3
 facility:4a061fc934d82a2263b9
 facility:4a56cd1ecced7ca8ce12
@@ -164,6 +165,7 @@ facility:5af2e4f0200e07e745fd
 facility:5b9984002761094ef44b
 facility:5d265975214a0591c757
 facility:5dc6e7953626399d34b5
+facility:5e4ea04fb4a505e6109f
 facility:5f1fc7601cb75c6af23a
 facility:5fe5d8b9263177dbf095
 facility:60bddc564fa54a29439e
@@ -381,6 +383,7 @@ facility:e4e49168d75b60efa343
 facility:e52a96eba398a3f542f3
 facility:e5feaa21d6d249060d66
 facility:e62320b8cd21bcd80cc7
+facility:e6f76926cf8f862969f7
 facility:e752b38a4623bcfeb672
 facility:e83edc080c0e078c9735
 facility:e98865d33bd78b078d06
@@ -501,6 +504,7 @@ title:132d64bf31dde5be8b8e
 title:133244e7c7772d3c5d8f
 title:13363ac94ba40a81ff2a
 title:136d9702e860bcf8fd12
+title:1375974ec75c1bff1e50
 title:13781be3a7fc558d5ce7
 title:13919dbc4fbfa678230d
 title:13c201ccb1977768cd99
@@ -514,6 +518,7 @@ title:14b8c78e58e17ccecff9
 title:158d149f6a10fc50a891
 title:15998981997a38ab934e
 title:15a6fb45628ad1ac49af
+title:15ebb324955fe853c441
 title:15f3ce0443696fd42405
 title:161ae2f991fe00988c09
 title:168a4a69121b77c81cbf
@@ -763,6 +768,8 @@ title:40e4c9682d2baa97d1e8
 title:40f4876d2578c87f33f7
 title:412b3fbf7d907910fdaa
 title:4138664e6ac15b5ab1c0
+title:41473751da775ee886ba
+title:4150b0e5008c345339e8
 title:41823712f9ae994a3614
 title:4198bf6e383f1298d1a6
 title:419def5dd97f3043bb37
@@ -784,6 +791,7 @@ title:445d9ebaf58702a08495
 title:449865c0ec90b8b838c7
 title:44f8f50948b4d144d736
 title:4510d4452f856a30c0c5
+title:45303dce9abb7b305aec
 title:45545ec0fa8b1df151e6
 title:457158cc21ee201782d1
 title:45a6acd330ce80b9cd02
@@ -916,6 +924,7 @@ title:5e98032f57b3695aaf15
 title:5ea8eb0a95722f39dcdd
 title:5ee24f8415ada605586b
 title:5f2dbea458fe090ff372
+title:5f464d00a8543ba6e0fb
 title:5f522ef97624057e242c
 title:5f52479be7d6eaca64c7
 title:5f5ac393437177365406
@@ -1076,6 +1085,7 @@ title:7c88a5037285df646f70
 title:7c9a8756f93eed4a8fd4
 title:7cf3623706cc1dc4f740
 title:7cf3c864f1ea5efb39f9
+title:7cf4f6a0a2c6239554b8
 title:7d4721b7ef36099e0889
 title:7d6b981563bde1137dfe
 title:7d74f0fa5604c3ad4b95
@@ -1117,6 +1127,7 @@ title:831c254397a2adc2a5c8
 title:832777f0d606a646906a
 title:834fa3ea62ba06000588
 title:8352db57a25b2f8dd733
+title:837116c5574a0f473076
 title:8379a645e433d34fde21
 title:83addf9cefade003b938
 title:83af033cf77a5b88d248
@@ -1297,6 +1308,7 @@ title:a2db18bad30a1f40cfff
 title:a3022962efce28956bbf
 title:a308a73327b08a0b6566
 title:a3280b431b5b71bf7e8d
+title:a35d12e84a54a69c600b
 title:a375b6e3cfd76552aa03
 title:a3b3c184a6f6c65290f0
 title:a3bb246288884d0144b2
@@ -1450,6 +1462,7 @@ title:bc0ff3353d5253a988ae
 title:bc220a66ac0746ef7683
 title:bc245e9c3a5d8c1eeaef
 title:bc2e892e621f32920744
+title:bc37fb10ea40b0180048
 title:bc6feae0ceb4360d4477
 title:bc794b7cf812b409bb66
 title:bcd4843b2690ca422a21
@@ -1977,6 +1990,7 @@ topic:45bccbeef6dc5cb95468
 topic:45db3e7193eeb1c93bc7
 topic:46ecabed2f9dfff9460f
 topic:47454538f3129b440acf
+topic:47a135b068a99914bc60
 topic:48d1bda27e2a6e3f04b3
 topic:4a061fc934d82a2263b9
 topic:4a56cd1ecced7ca8ce12
@@ -2031,6 +2045,7 @@ topic:5b65f6cc26efea6e3fc6
 topic:5b9984002761094ef44b
 topic:5d265975214a0591c757
 topic:5dc6e7953626399d34b5
+topic:5e4ea04fb4a505e6109f
 topic:5f1fc7601cb75c6af23a
 topic:5fe5d8b9263177dbf095
 topic:6088b5f2fff08f8da8ff
@@ -2320,6 +2335,7 @@ topic:e52a96eba398a3f542f3
 topic:e5c377b8623dd7e8fcb5
 topic:e5feaa21d6d249060d66
 topic:e62320b8cd21bcd80cc7
+topic:e6f76926cf8f862969f7
 topic:e752b38a4623bcfeb672
 topic:e8b760c4ee76aff66640
 topic:e98865d33bd78b078d06
@@ -2678,6 +2694,7 @@ url:news.ntv.co.jp/n/knb/category/society/kn1da19bb2eb35431db94e10c2cb1f4501
 url:news.ntv.co.jp/n/kry/category/society/kr1991c8e0b2cd4ef68f03e195ecddb93e
 url:news.ntv.co.jp/n/nkt/category/economy/nkeb8c6885f157429981abb009ba4cdb8d
 url:news.ntv.co.jp/n/rab/category/society/ra924bda9a5ac1481d9826e44effd5f89a
+url:news.ntv.co.jp/n/stv/category/society/std191f31a637e4a23ac06c7b824d2ced7
 url:news.ntv.co.jp/n/umk/category/life/um5d2f483a4609475fa9faebb35f810555
 url:news.ntv.co.jp/n/ytv/category/society/yt7e4b1e2d41914775a2f069f169e3af1b
 url:news.ntv.co.jp/n/ytv/category/society/yt8545bf6990904f7a856e69112e68f31b
@@ -2739,6 +2756,7 @@ url:news.yahoo.co.jp/articles/2956549a979812aa558cc2d958fa1d557c45518c
 url:news.yahoo.co.jp/articles/2bf194256c78028f9f9af263faad04a65f6c99e4
 url:news.yahoo.co.jp/articles/2ca6d1bac9c35a89be18060e6a67f4fb11fc33b5
 url:news.yahoo.co.jp/articles/2e06a0a123112449e82b899352b2cf190e6ced29
+url:news.yahoo.co.jp/articles/2e7b89aebb713cf5ff28ca48b1b47df92b23c94f?page=
 url:news.yahoo.co.jp/articles/2efcef6ce9944393ed903bba50ddb86b886d375d
 url:news.yahoo.co.jp/articles/306497e681479dd43ab4747ab070d70cdaf90a10
 url:news.yahoo.co.jp/articles/306497e681479dd43ab4747ab070d70cdaf90a10?source=rss
@@ -2748,6 +2766,7 @@ url:news.yahoo.co.jp/articles/31046a8c70992865db17aee5eedde6b25f4a2972
 url:news.yahoo.co.jp/articles/31046a8c70992865db17aee5eedde6b25f4a2972?source=rss
 url:news.yahoo.co.jp/articles/32107e3cab77a591a05fc4e47078b34c49e44837
 url:news.yahoo.co.jp/articles/326d6159f55fb5a81ef8b5f45c7fa9c6fc5fefd6
+url:news.yahoo.co.jp/articles/32c5e664a68b0173da7eb47d8058b12145007456
 url:news.yahoo.co.jp/articles/331f91e1a429e261ce3663f969449c6350952f32?source=
 url:news.yahoo.co.jp/articles/353dc8f79039dcbe5d90b6e083d13cc662f96db0
 url:news.yahoo.co.jp/articles/37d88a95373c6b5c7be471aeda22b719bd8c3ea3
@@ -2822,6 +2841,7 @@ url:news.yahoo.co.jp/articles/7bd035fbf8da7e4c6414c110ff05423015c5ec64
 url:news.yahoo.co.jp/articles/7ccac94efbedff4021257fc350a146c4d976ed94
 url:news.yahoo.co.jp/articles/834383e105d3ca581446cdc2e52fbfa504727acb
 url:news.yahoo.co.jp/articles/84515f3b6e630b71e17cfe38ee0dc4f09b93cfed
+url:news.yahoo.co.jp/articles/8c2c8e683c6f9fae53fc0bbb0bf73d40d89ad152?source=
 url:news.yahoo.co.jp/articles/8d97a701fad5a8b00ad2152fc97d388a1944d801
 url:news.yahoo.co.jp/articles/8e7766af64ddf4d2099f77581cc52e78e10e1cdc
 url:news.yahoo.co.jp/articles/8e7766af64ddf4d2099f77581cc52e78e10e1cdc?source=rss
@@ -3086,6 +3106,7 @@ url:prtimes.jp/main/html/rd/p/000000459.000030012.html
 url:prtimes.jp/main/html/rd/p/000000547.000071323.html
 url:prtimes.jp/main/html/rd/p/000000587.000026884.html
 url:prtimes.jp/main/html/rd/p/000000600.000021564.html
+url:prtimes.jp/main/html/rd/p/000000692.000018863.html
 url:prtimes.jp/main/html/rd/p/000000698.000010207.html
 url:prtimes.jp/main/html/rd/p/000000725.000036445.html
 url:prtimes.jp/main/html/rd/p/000000739.000052784.html
@@ -3147,6 +3168,7 @@ url:skift.com/2026/07/06/the-race-to-own-str-distribution-just-got-a-lot-more-co
 url:skift.com/2026/07/07/chinas-tongcheng-travel-bids-for-dida-to-bring-ride-sharing-in-house/
 url:skift.com/2026/07/07/hilton-opens-direct-line-to-navan-cutting-out-corporate-travel-middlemen/
 url:skift.com/2026/07/07/mews-layoffs-restructuring-ai/
+url:skift.com/2026/07/09/minor-hotels-takes-over-sharjahs-retreat-portfolio-in-push-for-international-visitors/
 url:smart.shimotsuke.co.jp/articles/-/1365966
 url:south65.jp/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BEnbi%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9%E3%80%81%E6%B2%96%E7%B8%84%E7%9C%8C%E9%82%A3%E8%A6%87%E5%B8%82%E3%81%AE%E3%83%9B/amp/
 url:sp.m.jiji.com/article/show/3814197
@@ -3184,6 +3206,7 @@ url:topics.smt.docomo.ne.jp/amp/article/nkt_tv/region/nkt_tv-2026070508263627
 url:topics.smt.docomo.ne.jp/amp/article/rab/region/rab-2026070309454325
 url:topics.smt.docomo.ne.jp/amp/article/recordchina/business/recordchina-RC_982625
 url:topics.smt.docomo.ne.jp/amp/article/sbc21/region/sbc21-2772222
+url:topics.smt.docomo.ne.jp/amp/article/stv/region/stv-2026070902644149
 url:topics.smt.docomo.ne.jp/amp/article/tbs/nation/tbs-2762324
 url:topics.smt.docomo.ne.jp/amp/article/tokyo/region/tokyo-500093
 url:topics.smt.docomo.ne.jp/amp/article/uxtv/region/uxtv-2954695
@@ -3321,6 +3344,7 @@ url:www.chugoku-np.co.jp/articles/-/857213
 url:www.chugoku-np.co.jp/articles/-/858608
 url:www.chugoku-np.co.jp/articles/-/858672
 url:www.chugoku-np.co.jp/articles/-/858936
+url:www.chugoku-np.co.jp/articles/-/860314
 url:www.chukei-news.co.jp/news/2026/06/27/OK0002606270201_01/
 url:www.chukei-news.co.jp/news/2026/07/03/OK0002607030601_01/
 url:www.chukei-news.co.jp/news/2026/07/04/OK0002607040301_03/
@@ -3429,6 +3453,7 @@ url:www.hospitalitynet.org/news/4133374/ihcl-clocks-20-signings-and-11-hotel-ope
 url:www.hospitalitynet.org/news/4133376/hsmai-europe-to-co-locate-commercial-strategy-forum-paris-with-equiphotel-paris
 url:www.hospitalitynet.org/news/4133384/introducing-nell-hotels-bringing-the-legacy-of-aspens-the-little-nell-to-rockefeller-center-with-the-debut-of-the-nell-new-york
 url:www.hospitalitynet.org/news/4133386/royal-grand-resorts-launches-with-a-clear-mission-serving-gay-mens-premium-travel-one-of-the-worlds-fastest-growing-and-highest-spending-hospitality-segments
+url:www.hospitalitynet.org/news/4133405/the-inn-at-little-washington-selects-agilysys-hospitality-software-ecosystem-to-strengthen-its-technology-foundation
 url:www.hospitalitynet.org/opinion/4132482/azuma-brand-launch-signals-larger-hotel-category-trends
 url:www.hospitalitynet.org/opinion/4132494/five-trends-every-hotel-leader-needs-to-watch-in-2026
 url:www.hospitalitynet.org/opinion/4132680/why-the-best-hospitality-vendors-may-never-even-get-considered
@@ -3527,6 +3552,7 @@ url:www.msn.com/ja-jp/money/other/%E5%AE%AE%E5%B3%B6%E3%81%AF%E5%A4%9C%E3%81%8C%
 url:www.msn.com/ja-jp/money/other/%E8%97%A4%E6%B2%A2%E5%B8%82%E8%A6%B3%E5%85%89%E5%AE%A2%E6%95%B0-2149%E4%B8%87%E4%BA%BA%E3%81%A7%E6%9C%80%E5%A4%9A%E6%9B%B4%E6%96%B0-%E3%82%A4%E3%83%B3%E3%83%90%E3%82%A6%E3%83%B3%E3%83%89-%E6%B5%B7%E6%B0%B4%E6%B5%B4%E5%AE%A2%E3%81%8C%E3%81%91%E3%82%93%E5%BC%95-%E8%97%A4%E6%B2%A2%E5%B8%82/ar-AA24ShSe?apiversion=
 url:www.msn.com/ja-jp/money/other/%E9%9F%93%E5%9B%BD%E7%99%BA%E5%9B%BD%E9%9A%9B%E7%B7%9A%E3%81%AE%E7%87%83%E6%B2%B9%E3%82%B5%E3%83%BC%E3%83%81%E3%83%A3%E3%83%BC%E3%82%B8-7%E6%9C%88%E3%81%AF20-%E8%B6%85%E5%BC%95%E3%81%8D%E4%B8%8B%E3%81%92-%E5%A4%8F%E4%BC%91%E3%81%BF%E6%97%85%E8%A1%8C%E3%81%AE%E8%B2%A0%E6%8B%85%E7%B7%A9%E5%92%8C/ar-AA2675b7?apiversion=
 url:www.msn.com/ja-jp/money/other/5%E6%9C%88%E8%A8%AA%E6%97%A5%E5%A4%96%E5%9B%BD%E4%BA%BA%E5%AE%A2%E6%95%B0-36-%E6%B8%9B%E3%81%AE%E7%B4%84356%E4%B8%87%E4%BA%BA-%E8%88%AA%E7%A9%BA%E4%BE%BF%E3%81%AE%E6%B8%9B%E4%BE%BF%E3%81%AA%E3%81%A9%E9%9F%BF%E3%81%8F/ar-AA25R9Wt?apiversion=
+url:www.msn.com/ja-jp/money/other/sk%E3%83%8F%E3%82%A4%E3%83%8B%E3%83%83%E3%82%AF%E3%82%B9%E3%81%AEadr%E5%85%AC%E5%8B%9F%E3%81%AB7%E5%80%8D%E3%81%AE%E9%9C%80%E8%A6%81-%E8%AA%BF%E9%81%94%E8%A6%8F%E6%A8%A1245%E5%84%84%E3%83%89%E3%83%AB%E3%81%AE%E8%A6%8B%E9%80%9A%E3%81%97/ar-AA27w7zU?ocid=
 url:www.msn.com/ja-jp/news/money/%E3%83%A9%E3%83%94%E3%83%80%E3%82%B9%E9%80%B2%E5%87%BA%E3%81%AE%E5%8C%97%E6%B5%B7%E9%81%93-%E5%8D%83%E6%AD%B3%E3%81%A7%E3%83%9B%E3%83%86%E3%83%AB%E9%96%8B%E6%A5%AD%E3%83%A9%E3%83%83%E3%82%B7%E3%83%A5-%E4%BB%8A%E5%B9%B4%E3%81%A0%E3%81%91%E3%81%A7%EF%BC%98%E6%A3%9F-%E5%87%BA%E5%BC%B5%E3%83%8B%E3%83%BC%E3%82%BA%E5%A2%97%E5%8A%A0%E3%81%AA%E3%81%A9%E8%A6%8B%E6%8D%AE%E3%81%88/ar-AA25Qctd
 url:www.msn.com/ja-jp/news/national/%E7%A5%9E%E6%88%B8%E3%81%AB%E7%B1%B3%E9%AB%98%E7%B4%9A%E3%83%9B%E3%83%86%E3%83%AB-%E3%82%B3%E3%83%B3%E3%83%A9%E3%83%83%E3%83%89-%E5%88%9D%E9%80%B2%E5%87%BA-%E5%B8%82%E5%BD%B9%E6%89%80%E6%96%B02%E5%8F%B7%E9%A4%A8%E3%81%AE%E9%AB%98%E5%B1%A4%E9%9A%8E-%E5%A4%96%E8%B3%87%E7%B3%BB%E4%BA%94%E3%81%A4%E6%98%9F-%E5%9B%BD%E9%9A%9B%E4%BC%9A%E8%AD%B0%E8%AA%98%E8%87%B4%E3%81%AB%E6%9C%9F%E5%BE%85/ar-AA266Kph?ocid=
 url:www.msn.com/ja-jp/news/national/%E8%A8%AA%E6%97%A5%E5%AE%A2%E3%81%AF%E9%81%8E%E5%8E%BB%E6%9C%80%E5%A4%9A-%E6%97%A5%E6%9C%AC%E4%BA%BA%E3%81%AF%E6%B5%B7%E5%A4%96%E6%96%AD%E5%BF%B5-%E5%86%86%E5%AE%89%E3%81%8C%E3%81%8A%E7%9B%86%E3%81%AE%E6%97%85%E8%A1%8C%E3%82%92%E5%A4%89%E3%81%88%E3%81%9F-%E6%9C%AC%E5%BD%93%E3%81%AE%E7%90%86%E7%94%B1/ar-AA27iPcF

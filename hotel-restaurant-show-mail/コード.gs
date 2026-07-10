@@ -17,7 +17,6 @@
 // ===== 設定 =====================================================
 var CONFIG = {
   SHEET_NAME: '',            // 対象シート名。空なら「アクティブなシート」を使用
-  HEADER_ROW: 3,             // 見出し行（kintoneフォーム→ の行）
   DATA_START_ROW: 6,         // データ開始行（テストデータ・注釈行の次から）
   CC: 'biz@temairazu.com',   // 全件に付与するCC
   SUBJECT: 'ホテル・レストラン・ショー御礼と打ち合わせのお願い',
@@ -31,13 +30,25 @@ var CONFIG = {
     MOBILE: ''                                     // 携帯番号（M:）。空なら M: 行を出しません
   },
 
-  // 見出し行の列名（HEADER_ROW のセル文字列と一致させる）
-  COL_FACILITY: '施設名',       // B列
-  COL_CORP:     '法人名',       // D列
-  COL_LAST:     '姓',           // I列
-  COL_FIRST:    '名',           // J列
-  COL_EMAIL:    'メールアドレス' // P列
+  // 差し込みに使う列（★このリストの並びに合わせた「列文字」で指定）
+  // ※ヘッダーではなく実データの入っている列を指定します。
+  //   別レイアウトのシートに使う場合は、ここの列文字を変えるだけでOK。
+  COL_FACILITY: 'B',   // 施設名
+  COL_CORP:     'D',   // 法人名
+  COL_LAST:     'H',   // 姓
+  COL_FIRST:    'I',   // 名
+  COL_EMAIL:    'O'    // メールアドレス
 };
+
+/** 列文字（'A','B',...,'AA'）を 0 始まりの列番号に変換します。 */
+function colIndex_(letter) {
+  var s = String(letter).toUpperCase();
+  var n = 0;
+  for (var i = 0; i < s.length; i++) {
+    n = n * 26 + (s.charCodeAt(i) - 64); // 'A'=1
+  }
+  return n - 1;
+}
 
 // 本文テンプレート。{{会社名}}{{名前}}{{挨拶名}}{{署名}} を差し込みます。
 var BODY_TEMPLATE =
@@ -183,17 +194,14 @@ function readContacts_() {
   var lastCol = sheet.getLastColumn();
   if (lastRow < CONFIG.DATA_START_ROW) return [];
 
-  var header = sheet.getRange(CONFIG.HEADER_ROW, 1, 1, lastCol).getValues()[0];
+  // 列文字（B, D, H, I, O …）を 0 始まりの列番号に変換
   var idx = {
-    facility: findCol_(header, CONFIG.COL_FACILITY),
-    corp:     findCol_(header, CONFIG.COL_CORP),
-    last:     findCol_(header, CONFIG.COL_LAST),
-    first:    findCol_(header, CONFIG.COL_FIRST),
-    email:    findCol_(header, CONFIG.COL_EMAIL)
+    facility: colIndex_(CONFIG.COL_FACILITY),
+    corp:     colIndex_(CONFIG.COL_CORP),
+    last:     colIndex_(CONFIG.COL_LAST),
+    first:    colIndex_(CONFIG.COL_FIRST),
+    email:    colIndex_(CONFIG.COL_EMAIL)
   };
-  Object.keys(idx).forEach(function (k) {
-    if (idx[k] < 0) throw new Error('見出し行に列が見つかりません: ' + k + '（' + CONFIG.HEADER_ROW + '行目を確認）');
-  });
 
   var numRows = lastRow - CONFIG.DATA_START_ROW + 1;
   var values = sheet.getRange(CONFIG.DATA_START_ROW, 1, numRows, lastCol).getValues();
@@ -221,12 +229,4 @@ function readContacts_() {
   });
 
   return contacts;
-}
-
-/** 見出し配列から列名の位置（0始まり）を返す。見つからなければ -1。 */
-function findCol_(header, name) {
-  for (var i = 0; i < header.length; i++) {
-    if (String(header[i]).trim() === name) return i;
-  }
-  return -1;
 }

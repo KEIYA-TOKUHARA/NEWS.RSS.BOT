@@ -340,6 +340,7 @@ facility:b03c32ea531de8057bee
 facility:b0ae129248e7f1d8a4e7
 facility:b16f5c663e2c72e43928
 facility:b2895324fc8911aecd9e
+facility:b28c4a2661f59171c12b
 facility:b29c34cc7de23f87352d
 facility:b437ba1c061302e8d2e9
 facility:b47d377390d041d77511
@@ -465,6 +466,7 @@ facility:f0d0c226269ad648c01d
 facility:f244d53eea10bfebbe41
 facility:f29a62eb1c92658985c0
 facility:f3744f340ea6bb284e81
+facility:f3aa24a6c4b954532d1b
 facility:f3c5be8cffa3929ebfa1
 facility:f458436e8f391e1554e2
 facility:f59120aa700b7c7bebde
@@ -568,6 +570,7 @@ title:11daf5d3bbaf6faacf74
 title:11dcfe918b088b096363
 title:11f49bc6ab4379d15390
 title:12050f27c755ba48b138
+title:1216a554603c3de04116
 title:1219e7b4911477d0678e
 title:12719093696a4cf460ad
 title:12a3d471295382cd2520
@@ -1229,6 +1232,7 @@ title:75da01435ac633956ee2
 title:763a24df8ced238fb968
 title:76513d29c81672d2a694
 title:76b43c93399c70aa7de1
+title:76baeffad304943a3ff6
 title:76f34e8ae12720483aff
 title:776c6793e4fdb3d9a3b4
 title:778f190a76b3acb08612
@@ -1266,6 +1270,7 @@ title:7cf3623706cc1dc4f740
 title:7cf3c864f1ea5efb39f9
 title:7cf4f6a0a2c6239554b8
 title:7d4721b7ef36099e0889
+title:7d61cd0c678a855fbd2d
 title:7d6b981563bde1137dfe
 title:7d74f0fa5604c3ad4b95
 title:7db5372ef5ce6c0f3ac7
@@ -1320,10 +1325,12 @@ title:844a56b7ccca1ae6a4b3
 title:8492503989b9f346a1c4
 title:84949324f8698a5ba23a
 title:84aa5c8c71413115f435
+title:84bc77032a863043b85c
 title:84eb8ae976848a7211db
 title:852d3b0c574e3765d83e
 title:854a63ad32fe1a77b4e0
 title:857badb478abdce07973
+title:857dc3a877654dccbbc5
 title:85b2f16d4b87fd617e2a
 title:8673b964ca661880e50a
 title:86a335883c720323e8de
@@ -1332,6 +1339,7 @@ title:8706527659a38b1cc9ee
 title:8750907b6aebc6f933d3
 title:8788bb07a0a552cd0f8f
 title:87a877823b55350ef8b0
+title:87c671c640ec7b265b04
 title:87d5d46ff732be5d189a
 title:87e1ede5d02585d9131f
 title:87ffff630bbff0449814
@@ -1388,6 +1396,7 @@ title:8ec0ce1e3f1e42a0cda4
 title:8ec74791e8af08df9c45
 title:8ed9dbe57f153f1da26d
 title:8ee8405fed01732a6fa5
+title:8efa100b4e470b36837b
 title:8eff33cf4ddff354ee52
 title:8f0ee08a1a92bed42040
 title:8f3ae8cb25145949f6b6
@@ -1503,6 +1512,7 @@ title:9f5900c17b3711896318
 title:9f85afd9a0951d211ac3
 title:9fde0a899a12da2675cd
 title:9fe7c7bb96a8547a095d
+title:9ff7d8982ead95f9d80a
 title:a00c8a0c69502b7d5e4c
 title:a011f3ceab20de2c88ae
 title:a0551fd7b6a75bb91dc8
@@ -2113,6 +2123,7 @@ title:fb4807493ee379c66554
 title:fb7484efc8f10235e53e
 title:fbdcbc8accbce245a7f0
 title:fbf806e9dc5f1d695d87
+title:fbfed361d94bd638da77
 title:fc174221ad2d222d21d6
 title:fc2d17a17507a9da19ef
 title:fc7d065d06bd137a8f57
@@ -2544,6 +2555,7 @@ topic:a225e2f9709185ba26a2
 topic:a2ac135fa43c21493dc7
 topic:a349aabab3055d8754bf
 topic:a3746ef575d4ab98da36
+topic:a3add2e69a89bbd21e13
 topic:a3d8be83849778f7c39b
 topic:a4a06a54de2573169044
 topic:a62a71fc0d3a59aa1f97
@@ -2579,6 +2591,7 @@ topic:b03c32ea531de8057bee
 topic:b0ae129248e7f1d8a4e7
 topic:b16f5c663e2c72e43928
 topic:b2895324fc8911aecd9e
+topic:b28c4a2661f59171c12b
 topic:b29c34cc7de23f87352d
 topic:b437ba1c061302e8d2e9
 topic:b47d377390d041d77511
@@ -2731,6 +2744,7 @@ topic:f244d53eea10bfebbe41
 topic:f29a62eb1c92658985c0
 topic:f3588c4d119ca0413eac
 topic:f3744f340ea6bb284e81
+topic:f3aa24a6c4b954532d1b
 topic:f3c5be8cffa3929ebfa1
 topic:f4518f6e33e002fa497e
 topic:f458436e8f391e1554e2
@@ -2797,6 +2811,7 @@ url:bijutsutecho.com/magazine/news/headline/32665/pictures/2
 url:biz.chosun.com/jp/jp-industry/2026/06/22/GUWEDM437FEIZJCJO3JDBB3FZU/
 url:biz.chosun.com/jp/jp-industry/2026/06/28/2HZURUWBGREL5ACZCLL6RYF4I4/
 url:biz.chosun.com/jp/jp-industry/2026/07/09/FPGZM3JIAFGTXBT4D6XOGECIRI/
+url:biz.chosun.com/jp/jp-international/2026/07/10/6AR3GDSTNZELXHCDUFKNBN5R4A/
 url:biz.chosun.com/jp/jp-realestate/2026/06/24/NU4PZDYTNVDM3JZBAN2KX5464Q/
 url:biz.chosun.com/jp/jp-realestate/2026/07/03/VXANYDOBZRAVNG4NGVQIHY7KYI/
 url:biz.chunichi.co.jp/news/article/10/126153/
@@ -2838,6 +2853,7 @@ url:finance.yahoo.co.jp/news/detail/919f7f7f64dae23272534f487607d3e470a7cab4
 url:finance.yahoo.co.jp/news/detail/c4bad38ebc983a018e62527e377740d9dafb3fc2
 url:finance.yahoo.co.jp/news/detail/c8ef9b143fe8f0da3d06415894cd3457a37361fe
 url:finance.yahoo.co.jp/quote/2098.T
+url:finders.me/kqFQxAgi4-AVTKpnxA
 url:finders.me/kqFQxAjlm420dbkCFA
 url:foods-ch.infomart.co.jp/news/296300
 url:foods-ch.infomart.co.jp/news/297217
@@ -3093,6 +3109,7 @@ url:news.livedoor.com/article/detail/31690930/
 url:news.livedoor.com/article/detail/31743753/
 url:news.livedoor.com/article/detail/31747241/
 url:news.livedoor.com/article/detail/31798977/
+url:news.livedoor.com/article/detail/31799021/
 url:news.livedoor.com/article/image_detail/31468279/?img_id=
 url:news.livedoor.com/article/image_detail/31479406/?img_id=
 url:news.livedoor.com/article/image_detail/31481100/?img_id=
@@ -3579,6 +3596,7 @@ url:prtimes.jp/main/html/rd/p/000000095.000054747.html
 url:prtimes.jp/main/html/rd/p/000000098.000031844.html
 url:prtimes.jp/main/html/rd/p/000000102.000026869.html
 url:prtimes.jp/main/html/rd/p/000000105.000093374.html
+url:prtimes.jp/main/html/rd/p/000000114.000105392.html
 url:prtimes.jp/main/html/rd/p/000000114.000162689.html
 url:prtimes.jp/main/html/rd/p/000000116.000162689.html
 url:prtimes.jp/main/html/rd/p/000000120.000162689.html
@@ -3665,6 +3683,7 @@ url:prtimes.jp/main/html/rd/p/000003774.000024668.html
 url:prtimes.jp/main/html/rd/p/000003795.000024668.html
 url:prtimes.jp/main/html/rd/p/000005409.000000136.html
 url:prtimes.jp/topics/keywords/%E5%A4%A7%E5%9E%8B%E3%83%AA%E3%82%BE%E3%83%BC%E3%83%88%E3%83%9B%E3%83%86%E3%83%AB
+url:readyfor.jp/projects/aratama_ryokan/announcements/434294
 url:realsound.jp/tech/2026/07/post-2446741.html
 url:richardajkeys.com/dp/5cf8149739507
 url:rurubu.jp/andmore/article/24932
@@ -3835,6 +3854,7 @@ url:www.breakingtravelnews.com/news/article/browns-hotel-and-paul-smith-unveil-t
 url:www.breakingtravelnews.com/news/article/choice-hotels-international-appoints-artificial-intelligence-leader-ali-kes/
 url:www.breakingtravelnews.com/news/article/dusit-international-expands-asai-hotels-pipeline-in-thailand-with-new-lifes/
 url:www.breakingtravelnews.com/news/article/elegant-hotels-of-the-world-unveiled-as-global-luxury-soft-brand-with-expan/
+url:www.breakingtravelnews.com/news/article/enriched-escapes-with-ytl-hotels-skillcations-across-malaysia/
 url:www.breakingtravelnews.com/news/article/ensana-hotels-open-first-property-in-georgia/
 url:www.breakingtravelnews.com/news/article/fattal-hotel-groups-first-uk-acquisition-a-strategic-entry-into-the-america/
 url:www.breakingtravelnews.com/news/article/forsthofgut-nature-hotel-unveils-new-family-offerings-this-summer/
@@ -4117,6 +4137,7 @@ url:www.minyu-net.com/index.php/newspack/detail/2026070201001503
 url:www.minyu-net.com/newspack/detail/2026070401001422
 url:www.mixvale.com.br/2026/06/16/%E3%82%B5%E3%83%B3%E3%83%88%E3%82%B9%E3%81%AE%E5%84%84%E4%B8%87%E9%95%B7%E8%80%85%E8%A4%87%E5%90%88%E6%96%BD%E8%A8%AD%E3%81%AB%E3%81%AF%E3%80%81%E3%83%8D%E3%82%A4%E3%83%9E%E3%83%BC%E3%83%AB%E3%81%AE-j/
 url:www.mk.co.kr/jp/business/12084386
+url:www.mk.co.kr/jp/business/12094252
 url:www.mk.co.kr/jp/culture/12095972
 url:www.mk.co.kr/jp/economy/12084928
 url:www.mk.co.kr/jp/economy/12085023
@@ -4133,6 +4154,7 @@ url:www.msn.com/ja-jp/money/other/%E3%82%AF%E3%83%AC%E3%82%B8%E3%83%83%E3%83%88%
 url:www.msn.com/ja-jp/money/other/%E3%83%9E%E3%83%AA%E3%82%AA%E3%83%83%E3%83%88-%E4%B8%96%E7%95%8C10-000%E8%BB%92%E7%9B%AE%E3%81%AE%E3%83%9B%E3%83%86%E3%83%AB%E9%96%8B%E6%A5%AD-%E5%89%B5%E6%A5%AD99%E5%B9%B4%E3%81%A7146%E3%81%8B%E5%9B%BD%E3%81%AB%E5%B1%95%E9%96%8B/ar-AA2677Qy?ocid=
 url:www.msn.com/ja-jp/money/other/%E3%83%A9%E3%83%BC%E3%83%A1%E3%83%B3%E5%BA%97-%E7%84%BC%E3%81%8D%E8%82%89%E5%BA%97%E3%81%AE%E5%80%92%E7%94%A3%E3%81%8C%E9%81%8E%E5%8E%BB%E6%9C%80%E5%A4%9A-%E5%8E%B3%E3%81%97%E3%81%84%E5%86%86%E5%AE%89%E3%81%A8%E7%89%A9%E4%BE%A1%E9%AB%98%E3%81%A0%E3%81%91%E3%81%98%E3%82%83%E3%81%AA%E3%81%84-%E6%84%8F%E5%A4%96%E3%81%AA%E5%BD%B1%E9%9F%BF-%E3%81%A8%E3%81%AF/ar-AA27a8XF
 url:www.msn.com/ja-jp/money/other/%E4%B8%80%E4%BC%91-%E3%82%B5%E3%83%9E%E5%89%B2-%E6%97%85%E9%A4%A8-%E3%83%AA%E3%82%BE%E3%83%BC%E3%83%88%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB-%E3%82%92%E9%96%8B%E5%82%AC%E4%B8%AD-6%E6%9C%8830%E6%97%A5%E3%81%BE%E3%81%A7/ar-AA267236?apiversion=
+url:www.msn.com/ja-jp/money/other/%E5%86%86%E5%AE%89%E3%81%A7-%E5%9B%BD%E6%B0%91%E9%A3%9F-%E3%81%AB%E8%BF%AB%E3%82%8B%E5%8D%B1%E6%A9%9F-%E3%81%99%E3%81%8D%E5%AE%B6%E3%81%AF%E7%89%9B%E4%B8%BC30%E5%86%86%E5%80%A4%E4%B8%8A%E3%81%92-%E3%83%A9%E3%83%BC%E3%83%A1%E3%83%B3%E5%BA%97-%E7%84%BC%E8%82%89%E5%BA%97%E3%81%AE%E5%80%92%E7%94%A3%E4%BB%B6%E6%95%B0%E3%81%AF%E9%81%8E%E5%8E%BB%E6%9C%80%E5%A4%9A%E3%81%AB-%E3%82%B3%E3%82%B9%E3%83%88%E4%B8%8A%E6%98%87%E3%81%AB%E7%8F%BE%E5%A0%B4%E3%81%AF%E8%8B%A6%E8%82%89%E3%81%AE%E7%AD%96/ar-AA27tpQC?apiversion=
 url:www.msn.com/ja-jp/money/other/%E5%86%86%E5%AE%89-%E5%80%92%E7%94%A3-%E4%B8%8A%E5%8D%8A%E6%9C%9F%E3%81%A72022%E5%B9%B4%E4%BB%A5%E9%99%8D%E6%9C%80%E5%A4%9A%E3%81%AB-%E6%9D%B1%E4%BA%AC%E5%95%86%E5%B7%A5%E3%83%AA%E3%82%B5%E3%83%BC%E3%83%81/ar-AA271m1b?apiversion=
 url:www.msn.com/ja-jp/money/other/%E5%AE%AE%E5%B3%B6%E3%81%AF%E5%A4%9C%E3%81%8C%E5%BC%B1%E3%81%84-%E5%9C%B0%E5%85%83%E4%BC%81%E6%A5%AD%E3%81%8C%E5%A4%9C%E5%96%B6%E6%A5%AD%E3%81%AE%E5%92%8C%E9%A3%9F%E5%BA%97%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%81%B8-%E7%B4%A0%E6%B3%8A%E3%81%BE%E3%82%8A%E6%97%85%E9%A4%A8%E3%81%A8%E3%81%AE%E9%80%A3%E6%90%BA%E3%81%A7-%E6%BB%9E%E5%9C%A8%E4%BE%A1%E5%80%A4-%E9%AB%98%E3%82%81%E3%82%8B%E6%88%A6%E7%95%A5-%E5%BA%83%E5%B3%B6%E7%99%BA/ar-AA27lZaa
 url:www.msn.com/ja-jp/money/other/%E6%9D%BE%E6%88%B8%E5%B8%82-%E3%83%9B%E3%83%86%E3%83%AB%E5%BB%BA%E8%A8%AD%E8%A3%9C%E5%8A%A9-2%E4%BE%8B%E7%9B%AE-%E6%9D%B1%E6%A8%AA%E3%82%A4%E3%83%B3-28%E5%B9%B47%E6%9C%88%E9%96%8B%E6%A5%AD/ar-AA27qCpK?apiversion=
@@ -4144,6 +4166,7 @@ url:www.msn.com/ja-jp/money/other/%E9%9F%93%E5%9B%BD%E7%99%BA%E5%9B%BD%E9%9A%9B%
 url:www.msn.com/ja-jp/money/other/20%E5%B9%B4%E5%89%8D%E3%81%8B%E3%82%89%E7%B2%89%E9%A3%BE%E7%B9%B0%E3%82%8A%E8%BF%94%E3%81%97%E3%81%A6%E3%81%84%E3%81%9F%E7%96%91%E6%83%91%E6%B5%AE%E4%B8%8A-%E7%A0%B4%E7%94%A3%E3%81%97%E3%81%9F%E3%82%AF%E3%83%AC%E3%82%AB%E6%B1%BA%E6%B8%88%E4%BB%A3%E8%A1%8C%E3%81%AE%E5%85%A8%E6%9D%B1%E4%BF%A1/ar-AA27BFxB?ocid=
 url:www.msn.com/ja-jp/money/other/5%E6%9C%88%E8%A8%AA%E6%97%A5%E5%A4%96%E5%9B%BD%E4%BA%BA%E5%AE%A2%E6%95%B0-36-%E6%B8%9B%E3%81%AE%E7%B4%84356%E4%B8%87%E4%BA%BA-%E8%88%AA%E7%A9%BA%E4%BE%BF%E3%81%AE%E6%B8%9B%E4%BE%BF%E3%81%AA%E3%81%A9%E9%9F%BF%E3%81%8F/ar-AA25R9Wt?apiversion=
 url:www.msn.com/ja-jp/money/other/sk%E3%83%8F%E3%82%A4%E3%83%8B%E3%83%83%E3%82%AF%E3%82%B9%E3%81%AEadr%E5%85%AC%E5%8B%9F%E3%81%AB7%E5%80%8D%E3%81%AE%E9%9C%80%E8%A6%81-%E8%AA%BF%E9%81%94%E8%A6%8F%E6%A8%A1245%E5%84%84%E3%83%89%E3%83%AB%E3%81%AE%E8%A6%8B%E9%80%9A%E3%81%97/ar-AA27w7zU?ocid=
+url:www.msn.com/ja-jp/money/other/sk%E3%83%8F%E3%82%A4%E3%83%8B%E3%83%83%E3%82%AF%E3%82%B9adr-%E5%85%AC%E5%8B%9F%E4%BE%A1%E6%A0%BC%E3%81%AF1%E6%A0%AA149%E3%83%89%E3%83%AB%E3%81%AB%E6%B1%BA%E5%AE%9A/ar-AA27BLUu?ocid=
 url:www.msn.com/ja-jp/news/money/%E3%83%A9%E3%83%94%E3%83%80%E3%82%B9%E9%80%B2%E5%87%BA%E3%81%AE%E5%8C%97%E6%B5%B7%E9%81%93-%E5%8D%83%E6%AD%B3%E3%81%A7%E3%83%9B%E3%83%86%E3%83%AB%E9%96%8B%E6%A5%AD%E3%83%A9%E3%83%83%E3%82%B7%E3%83%A5-%E4%BB%8A%E5%B9%B4%E3%81%A0%E3%81%91%E3%81%A7%EF%BC%98%E6%A3%9F-%E5%87%BA%E5%BC%B5%E3%83%8B%E3%83%BC%E3%82%BA%E5%A2%97%E5%8A%A0%E3%81%AA%E3%81%A9%E8%A6%8B%E6%8D%AE%E3%81%88/ar-AA25Qctd
 url:www.msn.com/ja-jp/news/national/%E5%AF%8C%E5%B1%B1%E7%A9%BA%E6%B8%AF%E3%81%AE%E6%84%9B%E7%A7%B0%E3%82%92-%E5%AF%8C%E5%B1%B1%E9%AB%98%E5%B1%B1%E3%81%99%E3%81%97%E7%A9%BA%E6%B8%AF-%E3%81%AB%E5%A4%89%E6%9B%B4-%E4%BB%96%E7%9C%8C%E3%81%AE%E5%9C%B0%E5%90%8D-%E9%AB%98%E5%B1%B1-%E3%81%A8-%E3%81%99%E3%81%97%E3%82%A8%E3%82%A2%E3%83%9D%E3%83%BC%E3%83%88-%E3%81%A7%E3%82%A4%E3%83%B3%E3%83%90%E3%82%A6%E3%83%B3%E3%83%89%E3%81%AE%E9%96%A2%E5%BF%83%E6%83%B9%E3%81%8D%E3%81%A4%E3%81%91%E3%82%8B%E7%8B%99%E3%81%84-%E5%88%A9%E7%94%A8%E8%80%856%E5%89%B2%E6%B8%9B%E5%B0%91%E3%81%8B%E3%82%89%E3%81%AE%E5%B7%BB%E3%81%8D%E8%BF%94%E3%81%97%E3%81%B8/ar-AA27smXP
 url:www.msn.com/ja-jp/news/national/%E7%A5%9E%E6%88%B8%E3%81%AB%E7%B1%B3%E9%AB%98%E7%B4%9A%E3%83%9B%E3%83%86%E3%83%AB-%E3%82%B3%E3%83%B3%E3%83%A9%E3%83%83%E3%83%89-%E5%88%9D%E9%80%B2%E5%87%BA-%E5%B8%82%E5%BD%B9%E6%89%80%E6%96%B02%E5%8F%B7%E9%A4%A8%E3%81%AE%E9%AB%98%E5%B1%A4%E9%9A%8E-%E5%A4%96%E8%B3%87%E7%B3%BB%E4%BA%94%E3%81%A4%E6%98%9F-%E5%9B%BD%E9%9A%9B%E4%BC%9A%E8%AD%B0%E8%AA%98%E8%87%B4%E3%81%AB%E6%9C%9F%E5%BE%85/ar-AA266Kph?ocid=

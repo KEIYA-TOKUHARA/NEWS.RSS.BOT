@@ -44,6 +44,7 @@ facility:13bb33e4b7bceddef6f0
 facility:13eb32e66bc4ae3c4469
 facility:13f1a69262ed87833d21
 facility:14d3e8c4a8fdeb120c62
+facility:14e7614dd49fa0fdf432
 facility:15769ef40af4f11b6a65
 facility:15d31073be645eab8136
 facility:168102c1a5aefe8e9a45
@@ -310,6 +311,7 @@ facility:7156238268edd6eb5505
 facility:718cefb26163292c9e2d
 facility:7198e570939f44d5ee70
 facility:7247b41a6ca862d8cd12
+facility:7387e906e139859367e7
 facility:73da7fc09c5a6f3c2f03
 facility:73e0ef19eec61c662c88
 facility:7443382bee799cc97407
@@ -389,6 +391,7 @@ facility:8f767f35a398f18082bb
 facility:8f845239d7972f4b4059
 facility:8fd3e1754033430ec52e
 facility:8fd44c47dddd1693adf9
+facility:908aa62fdb7d134b828c
 facility:90a5b16e5deaed8c5bb5
 facility:911919b45fe4f38ae625
 facility:91d831ee7131682e5b3b
@@ -420,6 +423,7 @@ facility:a0889240f5f4ce660313
 facility:a0e2e2930edeadda8f31
 facility:a0fac64fbac40392d9d7
 facility:a16a4b8e77336749808e
+facility:a1992c07e1ea2b8a4dae
 facility:a2233e5a9b141f8f065a
 facility:a2d60d47e614d223d38c
 facility:a3746ef575d4ab98da36
@@ -894,6 +898,7 @@ title:16ebe6f71c4d0f1f1f8f
 title:17206ae163d7d9ade353
 title:1739789304b914f13665
 title:173a8225514c9686176c
+title:175e4617c5e40779d28f
 title:1767e516ba4f0c648954
 title:177ccf758e5c2ec6823c
 title:17ed1d882abe883a0560
@@ -1140,6 +1145,7 @@ title:2c3ed23b6bdc5feca42d
 title:2c8f3db92f4b3e3e9831
 title:2c9eeeb090ddc5c7a921
 title:2cbb1262f25a526f6ee7
+title:2cccb5d1d7d7fc1d71d3
 title:2cd46a314d27fe228f3c
 title:2d05c8afd1212c2f8deb
 title:2d174867e57cec711fd7
@@ -1798,6 +1804,7 @@ title:6a293364442c0246161e
 title:6a2a00f1d7e1cc93cd10
 title:6a2f6bd5f09c20a336cc
 title:6a7dc73f56b580b9af9e
+title:6a9d518f314956c4a5d5
 title:6ad0011b0f0b3cac9d3f
 title:6ad60a1ad3f81ab6b72d
 title:6aed3d91ba5cea9476b0
@@ -1942,6 +1949,7 @@ title:76f34e8ae12720483aff
 title:76f4212836cce72ef49e
 title:7734a4c775cd4bde77d3
 title:776c6793e4fdb3d9a3b4
+title:777e18aba7bd2f82c543
 title:778f190a76b3acb08612
 title:77bfe6c60a1152179419
 title:780d1cede473e4e5dc6f
@@ -2375,6 +2383,7 @@ title:9e510d4464f4556d37aa
 title:9e5da8e45bf0612f4810
 title:9e662f06f0dcbd790b16
 title:9e725194d981498ac122
+title:9ea7153b3be7e068bdef
 title:9ebfb24931192c5bf3b2
 title:9ed158027059110edb99
 title:9ed5c66493e3cdbc875b
@@ -2541,6 +2550,7 @@ title:ac6b88ad0a791f264142
 title:ac7f1a68123b8f585dab
 title:accdb84d4d80472401ea
 title:acd8a9733b1fbf1a225f
+title:ace141b9d75e5abb62b4
 title:ace22f21d7078383cc03
 title:ace546fb1aaf095f6b6c
 title:acf05eb101a3a583948a
@@ -3271,6 +3281,7 @@ title:edb8dc5d8a6c43396cad
 title:edd8495c7ed997f1ead9
 title:edfc20156511dea4adba
 title:ee0859c6cc2e0a83959e
+title:ee112271f486410f58fa
 title:ee167067664f3cec3306
 title:ee664c935400ce3283c1
 title:ee66aa44d19215ce8154
@@ -3523,6 +3534,7 @@ topic:13f1a69262ed87833d21
 topic:1426dc4afed0bd520a90
 topic:14aad56efeb8b9245e75
 topic:14d3e8c4a8fdeb120c62
+topic:14e7614dd49fa0fdf432
 topic:14f48a5e3f30a142432a
 topic:15769ef40af4f11b6a65
 topic:15d31073be645eab8136
@@ -3855,6 +3867,7 @@ topic:7198e570939f44d5ee70
 topic:7247b41a6ca862d8cd12
 topic:725fba28592a0dde8828
 topic:7280dc872a1a17f40225
+topic:7387e906e139859367e7
 topic:739841c9cbe8109a0f1d
 topic:739a080cfae3e33678cc
 topic:73da7fc09c5a6f3c2f03
@@ -3968,6 +3981,7 @@ topic:8f845239d7972f4b4059
 topic:8fd3e1754033430ec52e
 topic:8fd44c47dddd1693adf9
 topic:8ff48a4ab0c61ed3e8d0
+topic:908aa62fdb7d134b828c
 topic:90a5b16e5deaed8c5bb5
 topic:90d3c7da14f9fb6b73dc
 topic:911919b45fe4f38ae625
@@ -4015,6 +4029,7 @@ topic:a0e2e2930edeadda8f31
 topic:a0fac64fbac40392d9d7
 topic:a132b52adcd2891aeecf
 topic:a16a4b8e77336749808e
+topic:a1992c07e1ea2b8a4dae
 topic:a1b9439ad0fd2af544f9
 topic:a2233e5a9b141f8f065a
 topic:a225e2f9709185ba26a2
@@ -4752,6 +4767,7 @@ url:mshale.com/cace315d/f5d62295AUEEBDZRVCw9ABo
 url:mshale.com/d77d7f75/46b2a89fKxciNR4hSwwCWjw
 url:mshale.com/d979d8d6/98b87298oC7EbxgC0cg
 url:mshale.com/e984bbe1/05c0d41dKeYrdoEsIRU
+url:mshale.com/f459a086/68553367ZEgqN1iVswQ
 url:mtfuji.keizai.biz/headline/2945/
 url:mtfuji.keizai.biz/headline/2971/
 url:mtfuji.keizai.biz/mapnews/2971/
@@ -5011,6 +5027,7 @@ url:news.nicovideo.jp/watch/nw19525201?news_ref=
 url:news.nicovideo.jp/watch/nw19525606?news_ref=
 url:news.nicovideo.jp/watch/nw19525664?news_ref=
 url:news.nicovideo.jp/watch/nw19528125?news_ref=
+url:news.nicovideo.jp/watch/nw19530408?news_ref=
 url:news.nicovideo.jp/watch/nw19531335?news_ref=
 url:news.ntv.co.jp/category/economy/747d8b8e84ac42e79591407e19a65274
 url:news.ntv.co.jp/category/economy/fb34e3ade2704149e08213418a52ed1d31
@@ -6893,6 +6910,7 @@ url:www.nishinippon.co.jp/item/1511021/
 url:www.nishinippon.co.jp/item/1511387/
 url:www.nishinippon.co.jp/item/1511744/
 url:www.nishinippon.co.jp/item/1511842/
+url:www.nishinippon.co.jp/item/1513550/
 url:www.nishinippon.co.jp/item/1514235/
 url:www.nna.jp/news/2936433
 url:www.nna.jp/news/2937682
@@ -6922,6 +6940,7 @@ url:www.okinawatimes.co.jp/articles/-/1870873
 url:www.okinawatimes.co.jp/articles/-/1870899
 url:www.okinawatimes.co.jp/articles/-/1873673
 url:www.okinawatimes.co.jp/articles/-/1876711
+url:www.okinawatimes.co.jp/articles/-/1876882
 url:www.okinawatimes.co.jp/articles/-/1877538
 url:www.okinawatimes.co.jp/articles/-/1877671
 url:www.oricon.co.jp/pressrelease/2863263/
@@ -7048,7 +7067,10 @@ url:www.sanyonews.jp/article/1944326?kw=
 url:www.sanyonews.jp/article/1947519?rct=
 url:www.sanyonews.jp/article/1948483
 url:www.sanyonews.jp/article/1948884?rct=
+url:www.sanyonews.jp/article/1949453?kw=
 url:www.sanyonews.jp/article/1949501?rct=
+url:www.sanyonews.jp/article/1950764
+url:www.sanyonews.jp/article/1951119
 url:www.shibukei.com/headline/19888/
 url:www.shibukei.com/headline/19898/
 url:www.shibukei.com/headline/19899/

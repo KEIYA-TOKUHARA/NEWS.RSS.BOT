@@ -52,6 +52,7 @@ facility:16c208274585af45a2a9
 facility:178588a30f467a5e4230
 facility:17986e2b972407b29d16
 facility:17aa09b04984be3f1926
+facility:181044a820105f172e69
 facility:1996c5abaca41c81645b
 facility:1997b7796e928a8ea1f1
 facility:1afba0488890dc004389
@@ -268,6 +269,7 @@ facility:77d5ecd4c0235077848c
 facility:77eff4717d86d3b6c3e7
 facility:7829d74cf587763b1b3f
 facility:786b4acb73d439b3dc77
+facility:797948ba90534bb4270d
 facility:79c5e00090b0ebf4eb34
 facility:7a9937a3a9a57c4dd5cc
 facility:7b31516c6243f1b6c802
@@ -496,6 +498,7 @@ facility:e62320b8cd21bcd80cc7
 facility:e6f76926cf8f862969f7
 facility:e752b38a4623bcfeb672
 facility:e83edc080c0e078c9735
+facility:e857a4593035bd224163
 facility:e98865d33bd78b078d06
 facility:e9d31ab0233c0b365d9c
 facility:e9fc4ec230269f786253
@@ -704,6 +707,7 @@ title:1a119a73588e1bde578a
 title:1a37a375f38c2dfe11a0
 title:1a41819d18601d0a7c42
 title:1a78c833b4251dbe553b
+title:1aafce463db8abc1801c
 title:1afaf9275417319aee7c
 title:1b023ae9023d162644e6
 title:1b11d4cec1d3ec2c537a
@@ -815,6 +819,7 @@ title:288b906d4c05f575faba
 title:2892bd5343b2d8845123
 title:28c296b6b6ca51ddc1b3
 title:292a5b906f3201101896
+title:29482e339dfefaf348f6
 title:29577e2d146dcb652f5f
 title:29b8c256f57dbad60ee9
 title:2a0565a096c8c653362c
@@ -1033,6 +1038,7 @@ title:45ee0b6a917ebe26e0cc
 title:461bafc2a3dee8692c7a
 title:4642c731837cdba5ef68
 title:46885b41265b7439af8d
+title:46db38fc83fc0ca5f2f2
 title:46e165028dd5a54d48e0
 title:470a38d9cf75c27da7d9
 title:471889374bb9c1f1e94c
@@ -1130,6 +1136,7 @@ title:54ce8704a2efb9b20a84
 title:54fe3c7b073d14935198
 title:552f68a3cfebf2582186
 title:555cc0d594fbb4a57821
+title:55841fffcf1f0081e99e
 title:55a976715a0eaacfea20
 title:55d9f816a7dfee6f3506
 title:55de24a8bb450190efda
@@ -1277,6 +1284,7 @@ title:699563e2dbf4f6afe81a
 title:69c8cf9e956892c7246b
 title:69f38776e7585a6988b2
 title:6a293364442c0246161e
+title:6a65a46efbc1b8566cd0
 title:6a7dc73f56b580b9af9e
 title:6a9d518f314956c4a5d5
 title:6ad0011b0f0b3cac9d3f
@@ -1436,6 +1444,7 @@ title:7f2ee81b09bc36cf6216
 title:7fe6ddc55e1a37233428
 title:8012496f4fce9081e304
 title:8014a0e2209383496608
+title:803a20d78f4db5e3c8d0
 title:80553383c1c5c2f09f3e
 title:8077ff1dd23f5dc03337
 title:80b46ed2daf703ba9bac
@@ -1494,6 +1503,7 @@ title:8750907b6aebc6f933d3
 title:8788bb07a0a552cd0f8f
 title:87a877823b55350ef8b0
 title:87c671c640ec7b265b04
+title:87c9cdbf6a6e5457d577
 title:87d5d46ff732be5d189a
 title:87e1ede5d02585d9131f
 title:87ffff630bbff0449814
@@ -1794,6 +1804,7 @@ title:ace22f21d7078383cc03
 title:ace546fb1aaf095f6b6c
 title:ad00af5caef55628e399
 title:ad16eb7f6eab3eff0ffa
+title:ad17cc4bb4c1e4f1f523
 title:ad32f84614dded04926f
 title:ad47d9a6d848d2acfb6d
 title:adc9f433d74e38650a40
@@ -1807,6 +1818,7 @@ title:aeccc2c542e7155252f7
 title:af1a8e3fcb63299959d5
 title:af1e9f109244d9304978
 title:af35061b7410d65993bd
+title:af55352c1a5b3809f242
 title:af78226ac7a34fd93f60
 title:afac0df3c5915fafa2b7
 title:afe7f9bae811e102ff0b
@@ -2166,6 +2178,7 @@ title:e1d7eeba52edf29d5cfc
 title:e1f21f11496a75518d0b
 title:e200a01a6a38cf72483f
 title:e26c28370a0aaae21450
+title:e2b0631901b1b0b246a0
 title:e2b570ae9375e5af84d3
 title:e2ea2668a417262f3e52
 title:e318b5a0296edcdddb12
@@ -2454,6 +2467,7 @@ topic:16c208274585af45a2a9
 topic:178588a30f467a5e4230
 topic:17986e2b972407b29d16
 topic:17aa09b04984be3f1926
+topic:181044a820105f172e69
 topic:18a2cbad2f45deabb0b7
 topic:1996c5abaca41c81645b
 topic:1997b7796e928a8ea1f1
@@ -2725,8 +2739,10 @@ topic:77eff4717d86d3b6c3e7
 topic:7829d74cf587763b1b3f
 topic:786b4acb73d439b3dc77
 topic:7943695c794a476f8c23
+topic:797948ba90534bb4270d
 topic:79c5e00090b0ebf4eb34
 topic:79f78512a33951a76742
+topic:7a75405d2fb231994ac2
 topic:7a988ed5325fe33f1b97
 topic:7a9937a3a9a57c4dd5cc
 topic:7b31516c6243f1b6c802
@@ -3019,6 +3035,7 @@ topic:e5feaa21d6d249060d66
 topic:e62320b8cd21bcd80cc7
 topic:e6f76926cf8f862969f7
 topic:e752b38a4623bcfeb672
+topic:e857a4593035bd224163
 topic:e8b760c4ee76aff66640
 topic:e98865d33bd78b078d06
 topic:e9d31ab0233c0b365d9c
@@ -3306,6 +3323,7 @@ url:mainichi.jp/articles/20260624/pr2/00m/020/811000c
 url:mainichi.jp/articles/20260625/ddl/k26/020/150000c
 url:mainichi.jp/articles/20260708/pr2/00m/020/743000c
 url:mainichi.jp/articles/20260710/k00/00m/020/198000c
+url:mainichi.jp/articles/20260714/pr2/00m/020/684000c
 url:mainichi.jp/zukai/articles/20260709/zki/00m/010/002000c
 url:mainichikirei.jp/prtimes/article/20260703prt00m100000316a.html
 url:mantan-web.jp/prtimes/article/20260616prt00m200000554a/photopage/001.html
@@ -3963,6 +3981,7 @@ url:prtimes.jp/main/html/rd/p/000000047.000114352.html
 url:prtimes.jp/main/html/rd/p/000000047.000170473.html
 url:prtimes.jp/main/html/rd/p/000000056.000017314.html
 url:prtimes.jp/main/html/rd/p/000000057.000103982.html
+url:prtimes.jp/main/html/rd/p/000000062.000041874.html
 url:prtimes.jp/main/html/rd/p/000000069.000088956.html
 url:prtimes.jp/main/html/rd/p/000000071.000040217.html
 url:prtimes.jp/main/html/rd/p/000000074.000163718.html
@@ -4342,9 +4361,11 @@ url:www.chukei-news.co.jp/news/2026/07/14/OK0002607140301_01/
 url:www.chunichi.co.jp/article/1271103
 url:www.chunichi.co.jp/article/1274144?rct=
 url:www.commercepick.com/archives/95670
+url:www.commercepick.com/archives/97516
 url:www.coolkagawa.jp/news/entry-5691.html
 url:www.ehime-np.co.jp/article/news202606290276
 url:www.excite.co.jp/news/article/AMP_503375/
+url:www.excite.co.jp/news/article/Cobs_3207571/
 url:www.excite.co.jp/news/article/Dreamnews_0000353304/
 url:www.excite.co.jp/news/article/Global_news_asia_11264/
 url:www.excite.co.jp/news/article/Hounichi_chokankaiken202606/
@@ -4473,6 +4494,7 @@ url:www.hospitalitynet.org/news/4133448/bwh-hotels-gb-nears-300-new-bedrooms-at-
 url:www.hospitalitynet.org/news/4133451/shiji-and-fpg-transform-hospitality-dining-with-ai-powered-performance-integration-between-infrasys-pos-and-checkmax
 url:www.hospitalitynet.org/news/4133461/grevon-joins-ai-hospitality-alliance-as-a-founding-partner
 url:www.hospitalitynet.org/news/4133463/apaleo-appoints-connor-neeson-to-lead-growth-across-the-uk-ireland
+url:www.hospitalitynet.org/news/4133469/hvs-europe-hotel-transactions-bulletin-week-ending-10-july-2026
 url:www.hospitalitynet.org/opinion/4132482/azuma-brand-launch-signals-larger-hotel-category-trends
 url:www.hospitalitynet.org/opinion/4132494/five-trends-every-hotel-leader-needs-to-watch-in-2026
 url:www.hospitalitynet.org/opinion/4132680/why-the-best-hospitality-vendors-may-never-even-get-considered
@@ -4509,6 +4531,7 @@ url:www.jomo-news.co.jp/articles/-/976658
 url:www.jomo-news.co.jp/articles/-/976751
 url:www.jutaku-s.com/news/id/0000038639
 url:www.jutaku-s.com/news/id/0000038641
+url:www.jutaku-s.com/news/id/0000038648
 url:www.jutaku-s.com/newsp/id/0000067086
 url:www.jutaku-s.com/newsp/id/0000067247
 url:www.jutaku-s.com/newsp/id/0000067264
@@ -4658,6 +4681,7 @@ url:www.nikkei.com/article/DGXZQOJC161JJ0W6A610C2000000/
 url:www.nikkei.com/article/DGXZQOJC301TS0Q6A630C2000000/
 url:www.nikkei.com/article/DGXZQOUA02CM60S6A700C2000000/
 url:www.nikkei.com/article/DGXZQOUC03BCB0T00C26A7000000/
+url:www.nikkei.com/article/DGXZQOUC1413C0U6A710C2000000/
 url:www.nikkei.com/article/DGXZQOUC150JU0V10C26A6000000/
 url:www.nikkei.com/article/DGXZQOUC189UB0Y6A610C2000000/
 url:www.nikkei.com/article/DGXZQOUF111G30R10C26A5000000/
@@ -4731,6 +4755,7 @@ url:www.ryoko-net.co.jp/?p=168955
 url:www.ryoko-net.co.jp/?p=169010
 url:www.ryoko-net.co.jp/?p=169131
 url:www.ryoko-net.co.jp/?p=169302
+url:www.ryoko-net.co.jp/?p=169422
 url:www.saga-s.co.jp/articles/-/1736982
 url:www.saga-s.co.jp/articles/-/1748878
 url:www.sakigake.jp/news/article/20260624AK0007/?nv=
@@ -4761,6 +4786,7 @@ url:www.sanyonews.jp/article/1911313?kw=
 url:www.sanyonews.jp/article/1919829
 url:www.sanyonews.jp/article/1921484
 url:www.sanyonews.jp/article/1923644
+url:www.sanyonews.jp/article/1925178
 url:www.sanyonews.jp/article/1928325
 url:www.sanyonews.jp/article/1930555?rct=
 url:www.sanyonews.jp/article/1930705
@@ -4905,6 +4931,7 @@ url:www.walkerplus.com/article/1333593/
 url:www.walkerplus.com/article/44011/
 url:www.watch.impress.co.jp/docs/news/2117249.html
 url:www.watch.impress.co.jp/docs/news/2121957.html
+url:www.watch.impress.co.jp/docs/news/2124680.html
 url:www.webuomo.jp/life/news/2026-06-03-sALGDg/
 url:www.wowkorea.jp/news/read/527816.html
 url:www.wowkorea.jp/woman/read/156558.html

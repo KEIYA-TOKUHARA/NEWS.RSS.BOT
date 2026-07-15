@@ -275,6 +275,7 @@ facility:53b0d665e44c0772ed3b
 facility:55670f9a039554995746
 facility:559f38c29b32a4c4f7c1
 facility:55a9fe9bd22b88d7848b
+facility:55b761db4d02d63046e1
 facility:55ee5c347a51538234f2
 facility:5602b7902c8db0a50191
 facility:569c8b91f8e4ec0686ba
@@ -710,6 +711,7 @@ facility:e4488a976d8920e42ba5
 facility:e4e49168d75b60efa343
 facility:e52a96eba398a3f542f3
 facility:e5feaa21d6d249060d66
+facility:e61e9c153e040f5421f6
 facility:e62320b8cd21bcd80cc7
 facility:e663d18c73781df2e2d8
 facility:e6f76926cf8f862969f7
@@ -985,6 +987,7 @@ title:12dbd1f4f7babdeabcbe
 title:12e8afe5763ea23464fe
 title:1318266cd1fc4e88885b
 title:1327e6fc09036d53f158
+title:132a6285a91a06a08738
 title:132d64bf31dde5be8b8e
 title:132f0fe65b59b4166c39
 title:133023163dd6ceb5ca52
@@ -1409,6 +1412,7 @@ title:32ed9583c5cbe674340e
 title:32f3317b39afb7e4e6c3
 title:32f7a4bc4ae4416855bd
 title:330b493aa02e1a1c3369
+title:3354af86e82657a95a98
 title:335c8e33384ecb2fd440
 title:335cc907fffe80110f68
 title:33784745fc90945cce35
@@ -1438,6 +1442,7 @@ title:35274e6be916926c2b55
 title:3530630bd6ed539dfe8d
 title:353ccf10373e0e2b8f3a
 title:353cd9210309f6349a1a
+title:35425920416c29d53d58
 title:3542e07df58382c12d01
 title:356fb3bbd1b618ce11fd
 title:3577aafb4f3e14a2ae80
@@ -1992,6 +1997,7 @@ title:6437b3c6d30d7a06a168
 title:643ae064fd3c1843c6f4
 title:6442866839fc9890edf4
 title:644acc1cef8606af2e38
+title:6451ea2c95fffb647a6d
 title:647d073990c1c6cf7290
 title:64b57b81abe4eca4ae1d
 title:64bdd1591f51e4e0362d
@@ -2492,6 +2498,7 @@ title:8c835897c2b7e646d7f7
 title:8c83d107bcb5031b6eea
 title:8cb02933ef13c94e1ecb
 title:8cb5ca8e7181a2f03c1a
+title:8cef8440d6fa0348911f
 title:8cf8439386959cc45757
 title:8cfdd9f00b7b826ed9d5
 title:8d07d28d8307df73ec94
@@ -3189,6 +3196,7 @@ title:c0df7e2a54720fbc5006
 title:c10c1a0a806ad4f5a73d
 title:c121ad5204772ba44760
 title:c15ceafee23067994346
+title:c1622576c2000de1f6c1
 title:c1778554c3f4cddfdd77
 title:c1981d7eff1236fc191d
 title:c19f7ca8886507c4bd8b
@@ -3561,6 +3569,7 @@ title:debaec2cac48216f2f67
 title:ded1d95ed9046c541619
 title:ded38110160fe2526e25
 title:dee03ca36aaa0eb1c949
+title:deeeb3b5c534c005aa02
 title:df01e9f9dc8a00af83a0
 title:df0da5674bd860af5005
 title:df0ebe347e0f94e97c0c
@@ -3872,6 +3881,7 @@ title:f768a378e562fba56d44
 title:f76f14b1a1bf1f4d6cbe
 title:f7b26ae693867cd9e401
 title:f7c079843a9b3decb66a
+title:f7c9c587fb2741fc9100
 title:f7d1fb4f38f24482dfa1
 title:f7f6600b572c0bf89673
 title:f8025676655c36b3d111
@@ -4307,6 +4317,7 @@ topic:54357e583170f005b762
 topic:55670f9a039554995746
 topic:559f38c29b32a4c4f7c1
 topic:55a9fe9bd22b88d7848b
+topic:55b761db4d02d63046e1
 topic:55ee5c347a51538234f2
 topic:5602b7902c8db0a50191
 topic:56546db8a0f1163db1eb
@@ -4343,6 +4354,7 @@ topic:5f16991c93b94871bd09
 topic:5f1fc7601cb75c6af23a
 topic:5f60b0c02675c0039123
 topic:5fe5d8b9263177dbf095
+topic:600fa8e0350e8f777db8
 topic:607d39688b541b83d5b7
 topic:6088b5f2fff08f8da8ff
 topic:609086bd6f212a489582
@@ -4889,6 +4901,7 @@ topic:e4e49168d75b60efa343
 topic:e52a96eba398a3f542f3
 topic:e5c377b8623dd7e8fcb5
 topic:e5feaa21d6d249060d66
+topic:e61e9c153e040f5421f6
 topic:e62320b8cd21bcd80cc7
 topic:e645dc938ac01bf07a28
 topic:e663d18c73781df2e2d8
@@ -5165,6 +5178,7 @@ url:foods-ch.infomart.co.jp/news/298941
 url:foods-ch.infomart.co.jp/news/299975
 url:foods-ch.infomart.co.jp/news/304161
 url:foods-ch.infomart.co.jp/news/306455
+url:foods-ch.infomart.co.jp/news/307975
 url:forbesjapan.com/articles/detail/98841
 url:fukushima.keizai.biz/headline/1248/
 url:fukushima.keizai.biz/headline/1283/
@@ -5288,11 +5302,13 @@ url:hotelier.jp/inboundnews/ma/mare-blu-0624.html
 url:hoteres.com/blogs/data/2026070101
 url:hoteres.com/blogs/interview/2026070701
 url:hoteres.com/blogs/interview/2026071001
+url:hoteres.com/blogs/interview/2026071501
 url:hoteres.com/blogs/report/2026070701
 url:hoteres.com/zh/blogs/series/2026061901
 url:hre-net.com/keizai/kanko/92457/
 url:hre-net.com/keizai/kanko/92918/
 url:hre-net.com/keizai/kanko/92998/
+url:htonline.sohjusha.co.jp/20260715-4/
 url:htonline.sohjusha.co.jp/726-084/
 url:ibarakinews.jp/news/newsdetail.php?f_jun=
 url:iida.keizai.biz/headline/1753/
@@ -5653,6 +5669,7 @@ url:news.livedoor.com/topics/detail/31810314/?_clicked=
 url:news.livedoor.com/topics/detail/31810466/
 url:news.livedoor.com/topics/detail/31811734/
 url:news.livedoor.com/topics/detail/31814399/?_clicked=
+url:news.livedoor.com/topics/detail/31832272/
 url:news.livedoor.com/topics/detail/31832895/
 url:news.mynavi.jp/article/20260605-4542064/
 url:news.mynavi.jp/premium/article/20260714-4700605/
@@ -6475,6 +6492,7 @@ url:prtimes.jp/main/html/rd/p/000000006.000180684.html
 url:prtimes.jp/main/html/rd/p/000000007.000036399.html
 url:prtimes.jp/main/html/rd/p/000000007.000140778.html
 url:prtimes.jp/main/html/rd/p/000000007.000174368.html
+url:prtimes.jp/main/html/rd/p/000000007.000178663.html
 url:prtimes.jp/main/html/rd/p/000000007.000182413.html
 url:prtimes.jp/main/html/rd/p/000000007.000182657.html
 url:prtimes.jp/main/html/rd/p/000000007.000183887.html
@@ -7368,6 +7386,7 @@ url:www.hospitalitynet.org/editorial/4133400/ai-hotel-rankings-change-45-of-the-
 url:www.hospitalitynet.org/editorial/4133419/ai-citation-share-is-the-new-distribution-battleground-pertlink-maps-12-months-of-ai-engineering-into-hotel-decisions-europe-arrivals-up-5
 url:www.hospitalitynet.org/editorial/4133437/satisfied-guests-dont-come-back-breaking-the-front-desk-costs-less-than-keeping-it-us-revpar-up-109
 url:www.hospitalitynet.org/editorial/4133487/mews-founder-richard-valtr-opens-the-boardroom-reboot-humanless-hotels-spark-a-world-panel-debate-agentic-ai-makes-hotels-ai-bookable-or-irrelevant
+url:www.hospitalitynet.org/editorial/4133511/booking-is-building-a-machine-to-wholesale-your-rooms-at-scale-hotel-satisfaction-hits-30-year-high-urban-cowboy-built-four-hotels-with-zero-marketing
 url:www.hospitalitynet.org/explainer/4133296/ai-terms-for-independent-hoteliers-what-actually-happens-when-a-guest-books-through-ai
 url:www.hospitalitynet.org/explainer/4133336/the-numbers-behind-ais-rise-as-a-booking-channel-for-independent-hotels
 url:www.hospitalitynet.org/interview/4133129/cendyn-wants-hotels-to-get-ahead-of-ota-20
@@ -7913,6 +7932,7 @@ url:www.okinawatimes.co.jp/articles/-/1877538
 url:www.okinawatimes.co.jp/articles/-/1877671
 url:www.okinawatimes.co.jp/articles/-/1879578
 url:www.okinawatimes.co.jp/articles/-/1879982
+url:www.okinawatimes.co.jp/articles/-/1881311
 url:www.oricon.co.jp/news/2468034/
 url:www.oricon.co.jp/pressrelease/2863263/
 url:www.ozmall.co.jp/restaurant/afternoontea/article/46190/
@@ -8338,6 +8358,7 @@ url:www.watch.impress.co.jp/docs/news/2121957.html
 url:www.watch.impress.co.jp/docs/news/2124368.html
 url:www.watch.impress.co.jp/docs/news/2124680.html
 url:www.watch.impress.co.jp/docs/news/2125008.html
+url:www.watch.impress.co.jp/docs/topic/2124462.html
 url:www.webuomo.jp/life/news/2026-06-03-sALGDg/
 url:www.wowkorea.jp/news/read/527816.html
 url:www.wowkorea.jp/woman/read/156558.html

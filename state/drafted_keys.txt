@@ -50,6 +50,7 @@ facility:155cba1437642de9b9bf
 facility:15769ef40af4f11b6a65
 facility:15d31073be645eab8136
 facility:15dfb880d794dc2312e6
+facility:15fde0a0aee3b677b0ab
 facility:168102c1a5aefe8e9a45
 facility:1699b0c7195bd5e1ea58
 facility:16c208274585af45a2a9
@@ -275,6 +276,7 @@ facility:7443382bee799cc97407
 facility:747eea5cb1826ba78aa9
 facility:74c51263dc19350d3caf
 facility:74eb9e608e2a61334a4c
+facility:74f7c82f853c647ffa57
 facility:7529537b454fded89b58
 facility:75a4958a56a99f27099e
 facility:7608837098c243629375
@@ -464,6 +466,7 @@ facility:c8b9bb18011cec6ac905
 facility:c959bdbbc8073f50baa5
 facility:c987603bd32872ad41e7
 facility:c9ea140942bdef3bc6ce
+facility:ca1ea28d64403530316d
 facility:ca40b86fcdea95390704
 facility:cb30d25488e811d76a92
 facility:cb832fc444e62c07f633
@@ -754,6 +757,7 @@ title:19ec96095ef22e3e8a99
 title:1a119a73588e1bde578a
 title:1a37a375f38c2dfe11a0
 title:1a41819d18601d0a7c42
+title:1a76d175e95b14a01158
 title:1a78c833b4251dbe553b
 title:1aafce463db8abc1801c
 title:1ad14d94c645dbeda6c8
@@ -1077,6 +1081,7 @@ title:4236851569aef07a7beb
 title:427f9f7964591cff10bd
 title:42923be54ed8337494d0
 title:4294b78b174708e885be
+title:42ce2baa5d48781d797c
 title:42f66ca2cc3f059241f4
 title:4314f839200fd31def7b
 title:4343a45f57b6c9a4dc52
@@ -1480,6 +1485,7 @@ title:78d82dc5e37e160e3e18
 title:791a38107f0cc704e2fe
 title:7943734209b00f7c96a1
 title:794e425e665ad5669404
+title:7956213875a7c9592b21
 title:79e449cc231c57220f1f
 title:79eb5abefa0d2cebd1c9
 title:7a1b14217e1d13a018a4
@@ -1748,6 +1754,7 @@ title:99719137351dc295b67e
 title:9982465dde0ba10efd72
 title:9995a546c3f2f8dffcca
 title:99eda32805cd232dcc88
+title:99efeb96c0aa18c1f56d
 title:9a07ca8511817ecb9717
 title:9a31a40bdb8d335f9e99
 title:9a4547df506a1369fd45
@@ -2083,6 +2090,7 @@ title:c3cc2a70561ef92ec2bb
 title:c3dcfe01931f6bfad607
 title:c3f507ac7de9d03e63d7
 title:c3fa0756c1263f98072c
+title:c40a66d9e900635c398f
 title:c43ac9c1b3578c15205f
 title:c466c767a8d167fdc056
 title:c469c6c92abda8f78952
@@ -2138,6 +2146,7 @@ title:cb726360f2cb2f680c60
 title:cbb19165608ccf57bd86
 title:cc454d98ace26d47a4cc
 title:cc608063162da4aafbe9
+title:cc8a23f30e77083c3c43
 title:cca3e6836a5d12a6b406
 title:ccaa061bf2eec2dc825c
 title:ccda0abd581a85017bd7
@@ -2150,6 +2159,7 @@ title:cd787aff30e4ada1a38c
 title:cd874d4516455cd559ee
 title:cdb387a92c535b39bb14
 title:cdbc5f146ff904512e18
+title:cdceccd7f72b7cebb557
 title:cdd90f008f295ea36aae
 title:ce0ccb146b8617e1408d
 title:ce270357bb720be81245
@@ -2608,6 +2618,7 @@ topic:155cba1437642de9b9bf
 topic:15769ef40af4f11b6a65
 topic:15d31073be645eab8136
 topic:15dfb880d794dc2312e6
+topic:15fde0a0aee3b677b0ab
 topic:168102c1a5aefe8e9a45
 topic:1699b0c7195bd5e1ea58
 topic:16aa91c307a43d211610
@@ -2886,6 +2897,7 @@ topic:7443382bee799cc97407
 topic:747eea5cb1826ba78aa9
 topic:74c51263dc19350d3caf
 topic:74eb9e608e2a61334a4c
+topic:74f7c82f853c647ffa57
 topic:7529537b454fded89b58
 topic:752c7307f59587e61577
 topic:7570685644d184afdb48
@@ -3136,6 +3148,7 @@ topic:c92dfec2d63332cbffba
 topic:c959bdbbc8073f50baa5
 topic:c987603bd32872ad41e7
 topic:c9ea140942bdef3bc6ce
+topic:ca1ea28d64403530316d
 topic:ca222cddd9a2f92ffe0d
 topic:ca40b86fcdea95390704
 topic:cb11e20569da72199344
@@ -3419,6 +3432,7 @@ url:hotelbank.jp/area-analysis/naha-shuri-hotel-supply-2026/
 url:hotelbank.jp/inbound/private-bath-inbound-onsen-demand/
 url:hotelbank.jp/inbound/private-onsen-bath-inbound-barrier-analysis/
 url:hotelbank.jp/industry-trends/marriott-vs-hyatt-japan-expansion-strategy-2026-2/
+url:hotelbank.jp/industry-trends/occ-valley-2026-hakusho-closure/
 url:hotelbank.jp/industry-trends/torikireru-yado-capacity-ceiling-2026/
 url:hotelbank.jp/investigation/breakfast-local-cuisine-regional-ranking/
 url:hotelbank.jp/investigation/parking-rating-ranking-ev-charging-2026/
@@ -3432,6 +3446,7 @@ url:hotelbank.jp/investment/hotel-vs-condo-land-rivalry-adr-feasibility/
 url:hotelbank.jp/investment/kani-shukusho-akiya-1mune-investment-2026/
 url:hotelbank.jp/investment/koko-hotels-beppu-resort-expansion-economics/
 url:hotelbank.jp/investment/office-to-hotel-conversion-site-screening/
+url:hotelbank.jp/investment/omiya-saitama-shintoshin-mice-investment/
 url:hotelbank.jp/investment/onsen-ryokan-buyout-cap-2026/
 url:hotelbank.jp/investment/overtourism-100oku-secondary-tender-investment-impact/
 url:hotelbank.jp/investment/regional-core-cities-supply-absorption-investment/
@@ -3759,6 +3774,7 @@ url:news.nicovideo.jp/watch/nw19530408?news_ref=
 url:news.nicovideo.jp/watch/nw19531335?news_ref=
 url:news.nicovideo.jp/watch/nw19544034?news_ref=
 url:news.nicovideo.jp/watch/nw19544362?news_ref=
+url:news.nicovideo.jp/watch/nw19549793?news_ref=
 url:news.ntv.co.jp/category/economy/fb34e3ade2704149e08213418a52ed1d31
 url:news.ntv.co.jp/category/economy/nkeb8c6885f157429981abb009ba4cdb8d
 url:news.ntv.co.jp/category/life/um6c90cd7f2255439a9fa037d1d3c05738
@@ -3957,6 +3973,7 @@ url:news.yahoo.co.jp/articles/7e88104c02e2116c6d89a6e86e57f59d20b11ab2?source=rs
 url:news.yahoo.co.jp/articles/81584700298bec743aa1298337eab8b9104ed8ca?source=rss
 url:news.yahoo.co.jp/articles/834383e105d3ca581446cdc2e52fbfa504727acb
 url:news.yahoo.co.jp/articles/84515f3b6e630b71e17cfe38ee0dc4f09b93cfed
+url:news.yahoo.co.jp/articles/850a6264482615d726fee1d43f10168c29e20e0e
 url:news.yahoo.co.jp/articles/86bd817b8e9ccdf61f98e1ce9c04d14786e0ea5e
 url:news.yahoo.co.jp/articles/87e939534630beded124175b1214806e559baaec?source=rss
 url:news.yahoo.co.jp/articles/8c2c8e683c6f9fae53fc0bbb0bf73d40d89ad152?source=
@@ -4350,6 +4367,7 @@ url:richardajkeys.com/dp/5cf8149739507
 url:rurubu.jp/andmore/article/24932
 url:ryukyushimpo.jp/economics/entry-5333743.html
 url:ryukyushimpo.jp/economics/entry-5361214.html
+url:ryukyushimpo.jp/economics/entry-5390167.html
 url:ryukyushimpo.jp/kyodo/entry-5366089.html
 url:ryukyushimpo.jp/prtimes/entry-5330973.html
 url:saitama-city-marathon.jp/2026/07/13/kawajimamati-321/
@@ -4410,6 +4428,7 @@ url:tetsudo-ch.com/13032295.html
 url:togetter.com/li/2710940
 url:togetter.com/li/2713280
 url:tohkaishimpo.com/2026/06/19/520463/
+url:tokushima.goguynet.jp/2026/07/16/tomaru_hotel-o-punyotei/
 url:topics.smt.docomo.ne.jp/amp/article/at_s/region/at_s-2003740
 url:topics.smt.docomo.ne.jp/amp/article/chukei_news/region/chukei_news-20260627050002
 url:topics.smt.docomo.ne.jp/amp/article/fisco/business/fisco-0009340020260617031
@@ -4622,6 +4641,7 @@ url:www.chugoku-np.co.jp/articles/-/858936
 url:www.chugoku-np.co.jp/articles/-/859806
 url:www.chugoku-np.co.jp/articles/-/860314
 url:www.chugoku-np.co.jp/articles/-/860674
+url:www.chugoku-np.co.jp/articles/-/863893
 url:www.chukei-news.co.jp/news/2026/06/27/OK0002606270201_01/
 url:www.chukei-news.co.jp/news/2026/07/03/OK0002607030601_01/
 url:www.chukei-news.co.jp/news/2026/07/04/OK0002607040301_03/

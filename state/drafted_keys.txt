@@ -427,6 +427,7 @@ facility:b4a52c4a1dd501ca92ad
 facility:b5a161a4ae383707d54a
 facility:b5cceda01617f27df6c9
 facility:b60ae82b8905c1f18afe
+facility:b671aa2152a93374144a
 facility:b69ce118c9a5220ad525
 facility:b73edc9b08cedd6abb39
 facility:b73fd02cdd255e92fdf7
@@ -1329,6 +1330,7 @@ title:629dd6650f4a5fce5cd8
 title:62bd67324b246bbdc06b
 title:62cd4e326f44931680db
 title:631a699db259c3137d2e
+title:631bde974db9d4fd92f8
 title:632e7461cb267ad0ed68
 title:635acc50dc2ea88e0129
 title:6395f608e5bbea79f825
@@ -1564,6 +1566,7 @@ title:80bc7a5a56d968efe28c
 title:80c46c5da03e3571396b
 title:80c47d8f0cd6d7dd242b
 title:80d572dfd450b977e04c
+title:80f91841913e0b84f4a8
 title:811443231ddb32c36013
 title:81393df7daf428795521
 title:8142e76eedc6180b227c
@@ -1858,6 +1861,7 @@ title:a3cdaba2041090e3e732
 title:a3ea55da7a87170deab7
 title:a45e5c165c6993a64054
 title:a466a9f3e881cddec389
+title:a487b9c6670e0d09ee89
 title:a4930b9044f1e7673aee
 title:a4c9db1d936647bc3bc9
 title:a500b119f6d75ab23939
@@ -1971,6 +1975,7 @@ title:b05d2594b2bea1cc02a8
 title:b06cb5cfbd6073411233
 title:b0bf5c9826434eca84f1
 title:b0d437f191de68a2ba64
+title:b119b45a1bcaeee5eeab
 title:b11ffaa6f67fcec2695b
 title:b143d6ebde03e6ddbdcb
 title:b15f0dabe30ad4ec3e43
@@ -2087,6 +2092,7 @@ title:bf7c4ef2138903b173bd
 title:bf8c988b516dbee1afa7
 title:bfc194548aa45947d6f6
 title:bfe177fb5bffc86565d2
+title:bfec403abd77850fdde7
 title:c01dee8c29d0381512b6
 title:c03ec48efa7562ba5a51
 title:c04e65740e477508a971
@@ -2157,6 +2163,7 @@ title:c96e5c67c841d3c2d856
 title:c98413755bbeb59c5022
 title:c9a1de463b59f16fd35a
 title:c9a877cc3bb6fafb054b
+title:c9baf3aaa2f6d2dbc630
 title:c9be572ecbec6901b8be
 title:c9e3a65174ec78d49c63
 title:c9efca2068628e63ec75
@@ -2243,6 +2250,7 @@ title:d4d3eedf1978a38ef9a1
 title:d4e1351e8404f13fe703
 title:d51fe37a6a320d0e1de9
 title:d52475848ebce7194aa0
+title:d524f13b00fcc514cf12
 title:d53a93462de71b96ec3b
 title:d5932b60e3378724c522
 title:d5b0b81274dde1fe2553
@@ -2326,6 +2334,7 @@ title:df76efd05219585da03a
 title:df8cda614e8f9528fdfd
 title:df95378232de33206ef5
 title:dfbcc34d28c27804e29a
+title:dfd0d086a61c9b0ddd9a
 title:dfde9a61523142da8fc7
 title:e0534c7d02a8faef9758
 title:e07497d94d2e03a11ca9
@@ -2415,6 +2424,7 @@ title:e9c7fbb72c1d40623d51
 title:ea012538aa7afaeba526
 title:ea1497fd8f95070b77bd
 title:ea28a21650a370642f56
+title:ea2d83b0ab4e880007e5
 title:ea5ff2dcf0d4693feaf8
 title:ea624996685ed65f68a5
 title:ea7a75f86f5ca1b0e73f
@@ -2482,6 +2492,7 @@ title:f1052919d42318545678
 title:f1077bf7f5090d2f1159
 title:f163eb5ef236f6badf83
 title:f16e57cad3dc667978cd
+title:f190b3b2757eb631e1ac
 title:f198a159274580898c36
 title:f21b5574062bc267604e
 title:f25948db7d06f0a89412
@@ -2765,6 +2776,7 @@ topic:39a3bafa67f140bc80d8
 topic:3a4eeecb93dd402bbe23
 topic:3a54e0d744c9d7828797
 topic:3bf07371cb32708f33d0
+topic:3c677d6dc317058c990e
 topic:3e7122632bb066c307b0
 topic:3e74e63cbc786e483830
 topic:3eec17b04248cf0a7d60
@@ -3130,6 +3142,7 @@ topic:b5a161a4ae383707d54a
 topic:b5b0edee14ec62fdb146
 topic:b5cceda01617f27df6c9
 topic:b60ae82b8905c1f18afe
+topic:b671aa2152a93374144a
 topic:b69ce118c9a5220ad525
 topic:b73edc9b08cedd6abb39
 topic:b73fd02cdd255e92fdf7
@@ -3591,11 +3604,13 @@ url:mainichi.jp/articles/20260714/pr2/00m/020/443000c
 url:mainichi.jp/articles/20260714/pr2/00m/020/684000c
 url:mainichi.jp/zukai/articles/20260709/zki/00m/010/002000c
 url:mainichikirei.jp/prtimes/article/20260703prt00m100000316a.html
+url:mantan-web.jp/article/20260716dog00m200051000a.html
 url:mantan-web.jp/prtimes/article/20260616prt00m200000554a/photopage/001.html
 url:mantan-web.jp/prtimes/article/20260622prt00m200000023a/photopage/001.html
 url:mantan-web.jp/prtimes/article/20260623prt00m200000691a.html
 url:mantan-web.jp/prtimes/article/20260701prt00m200000079a.html
 url:mantan-web.jp/prtimes/article/20260714prt00m200000208a.html
+url:mantan-web.jp/prtimes/article/20260715prt00m200001100a/photopage/001.html
 url:maonline.jp/news/20260601d
 url:matsuyama.goguynet.jp/2026/07/06/apahotelsushimaru/
 url:mbp-japan.com/fukuoka/saiken/column/5227292/
@@ -4332,6 +4347,7 @@ url:prtimes.jp/main/html/rd/p/000000188.000053694.html
 url:prtimes.jp/main/html/rd/p/000000189.000076648.html
 url:prtimes.jp/main/html/rd/p/000000190.000051315.html
 url:prtimes.jp/main/html/rd/p/000000196.000028141.html
+url:prtimes.jp/main/html/rd/p/000000196.000053694.html
 url:prtimes.jp/main/html/rd/p/000000203.000112458.html
 url:prtimes.jp/main/html/rd/p/000000204.000112458.html
 url:prtimes.jp/main/html/rd/p/000000205.000112458.html
@@ -4366,6 +4382,7 @@ url:prtimes.jp/main/html/rd/p/000000375.000031330.html
 url:prtimes.jp/main/html/rd/p/000000375.000032175.html
 url:prtimes.jp/main/html/rd/p/000000395.000048076.html
 url:prtimes.jp/main/html/rd/p/000000398.000048076.html
+url:prtimes.jp/main/html/rd/p/000000399.000048076.html
 url:prtimes.jp/main/html/rd/p/000000450.000023271.html
 url:prtimes.jp/main/html/rd/p/000000459.000030012.html
 url:prtimes.jp/main/html/rd/p/000000517.000016557.html
@@ -4555,6 +4572,7 @@ url:travel.watch.impress.co.jp/docs/news/2120349.html
 url:travel.watch.impress.co.jp/docs/news/2120963.html
 url:travel.watch.impress.co.jp/docs/news/2122752.html
 url:travel.watch.impress.co.jp/docs/news/2125311.html
+url:travel.watch.impress.co.jp/docs/news/2125760.html
 url:trilltrill.jp/articles/4799678
 url:trilltrill.jp/articles/4831420
 url:tripre.jp/archives/40991
@@ -4634,6 +4652,7 @@ url:www.breakingtravelnews.com/news/article/grovy-developers-and-usquare-luxe-pr
 url:www.breakingtravelnews.com/news/article/gunter-hotel-officially-joins-marriott-bonvoys-tribute-portfolio/
 url:www.breakingtravelnews.com/news/article/hilton-and-fuerte-group-hotels-partner-to-debut-amare-cancun-adults-only-al/
 url:www.breakingtravelnews.com/news/article/hilton-brings-its-flagship-brand-to-chania-with-the-opening-of-hilton-chani/
+url:www.breakingtravelnews.com/news/article/hilton-debuts-lifestyle-portfolio-in-india-with-opening-of-slohh-by-roach-b/
 url:www.breakingtravelnews.com/news/article/hilton-hotels-resorts-debuts-a-new-beachfront-resort-in-malaysia/
 url:www.breakingtravelnews.com/news/article/hilton-to-enter-thessaloniki-under-flagship-hilton-hotels-resorts-brand/
 url:www.breakingtravelnews.com/news/article/hotel-leadership-conference-announces-2027-theme-and-conference-chair/
@@ -4723,6 +4742,7 @@ url:www.excite.co.jp/news/article/Prtimes_2026-07-06-33908-205/
 url:www.excite.co.jp/news/article/Prtimes_2026-07-08-170473-47/
 url:www.excite.co.jp/news/article/Prtimes_2026-07-08-39528-83/
 url:www.excite.co.jp/news/article/Prtimes_2026-07-09-131348-18/
+url:www.excite.co.jp/news/article/Prtimes_2026-07-13-57642-35/
 url:www.excite.co.jp/news/article/TBSNews_1443186902871441628/
 url:www.excite.co.jp/news/article/bbt_1442831079122486259/
 url:www.excite.co.jp/news/article/bss_1445312105758212823/
@@ -5051,6 +5071,7 @@ url:www.nikkei.com/nkd/disclosure/tdnr/20260612568999/
 url:www.nikkei.com/nkd/disclosure/tdnr/20260626581123/
 url:www.nikkei.com/nkd/disclosure/tdnr/20260629582966/
 url:www.nikkei.com/nkd/disclosure/tdnr/20260630584556/
+url:www.nikkei.com/nkd/disclosure/tdnr/20260716595171/
 url:www.nikkei.com/nkd/industry/article/?DisplayType=
 url:www.nikkinonline.com/article/404752
 url:www.nippon.com/ja/news/kd1445326760207499299/
@@ -5189,6 +5210,7 @@ url:www.shinmai.co.jp/news/article/gf01d98dasf170m5r354qsgg
 url:www.starnewskorea.com/ja/business-life/2026/07/02/2026070210081285347
 url:www.the-miyanichi.co.jp/pressrelease/prtimes/862124.html
 url:www.the-miyanichi.co.jp/pressrelease/prtimes/890348.html
+url:www.the-miyanichi.co.jp/pressrelease/prtimes/919961.html
 url:www.the-miyanichi.co.jp/today/chiiki/862049.html
 url:www.timeout.jp/tokyo/ja/news/in-osaka-gaggan-anand-and-bill-bensley-are-opening-a-hotel-in-a-200-year-old-sake-brewery-062226
 url:www.tokutenryoko.com/news/update/16646
@@ -5298,6 +5320,7 @@ url:www.vietnam.vn/ja/iran-khoi-phuc-duong-bay-toi-uae-trong-boi-canh-cang-thang
 url:www.vietnam.vn/ja/khu-du-lich-quat-lam-duoc-doi-ten-thanh-khu-du-lich-giao-ninh
 url:www.vietnam.vn/ja/san-bay-dien-bien-de-xuat-mo-duong-bay-quoc-te-dau-tien-toi-trung-quoc
 url:www.vietnam.vn/ja/sep-ihg-hotels-resorts-viet-nam-co-du-yeu-to-thu-hut-khach-xa-xi
+url:www.vietnam.vn/ja/su-that-khach-san-khong-con-don-phong-moi-ngay
 url:www.vietnam.vn/ja/sun-group-rot-them-gan-91-600-ty-dong-kien-tao-khoang-17-400-buong-phong-luu-tru-cao-cap-phat-trien-ha-tang-du-lich-va-phuc-vu-apec-2027-tai-phu-quoc
 url:www.vietnam.vn/ja/trieu-tien-nang-cap-sieu-resort-ven-bien
 url:www.vogue.co.jp/article/2026-7-10-dusit-collection

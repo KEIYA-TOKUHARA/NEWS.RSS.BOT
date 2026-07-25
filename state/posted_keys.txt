@@ -28,6 +28,7 @@ facility:0626bf6a1fbc55285f0a
 facility:074010a1905c666f5dbf
 facility:07d8c6c411c7c2b711bd
 facility:07f44e2e8ed4c58727fa
+facility:0812f429fa632b1fbb3f
 facility:08b31ea52335671052ee
 facility:08cf96c9aed1107e5a2f
 facility:08ddd6587aaa10088aae
@@ -72,9 +73,11 @@ facility:14e335b8d4b6093c6bee
 facility:14e7614dd49fa0fdf432
 facility:155cba1437642de9b9bf
 facility:15769ef40af4f11b6a65
+facility:159bc87ddda539d0997c
 facility:15d31073be645eab8136
 facility:15dfb880d794dc2312e6
 facility:15fde0a0aee3b677b0ab
+facility:163fc8b0f5e5defaad8a
 facility:168102c1a5aefe8e9a45
 facility:1699b0c7195bd5e1ea58
 facility:16c208274585af45a2a9
@@ -154,6 +157,7 @@ facility:2888d71ba9029f38ed0a
 facility:289abc88482f5edd7c26
 facility:28bbafc42abd3aeec6f2
 facility:28ee37ab15f371c3f405
+facility:292c926f12454424db01
 facility:296c627f4d64b919667e
 facility:297662c781a706a65102
 facility:29a73347a63257390acb
@@ -303,6 +307,7 @@ facility:4ef0cfa5ca657958db9f
 facility:4f87b25b8673c52edf3c
 facility:4f885e66c959969273a4
 facility:4f94d7194f8f9f4fbec8
+facility:4ff43acd5aeb84a1aea9
 facility:500534c4621fad0ebff8
 facility:503a3cacc75e13a97e11
 facility:504afc78b36da95a6345
@@ -927,6 +932,7 @@ facility:f21794dc1b66cdb47423
 facility:f220c5bc0003ba109d31
 facility:f244d53eea10bfebbe41
 facility:f29a62eb1c92658985c0
+facility:f345be5d75ec8169988a
 facility:f36afffc2cfff8b584a7
 facility:f3744f340ea6bb284e81
 facility:f3aa24a6c4b954532d1b
@@ -1658,6 +1664,7 @@ title:2c852fac76acf08967e3
 title:2c8f3db92f4b3e3e9831
 title:2c99515e6271f1e72848
 title:2c9eeeb090ddc5c7a921
+title:2cb6954ac325c98e44a8
 title:2cbb1262f25a526f6ee7
 title:2cccb5d1d7d7fc1d71d3
 title:2cd46a314d27fe228f3c
@@ -1981,6 +1988,7 @@ title:4099006a936bcbb32549
 title:40a8ef85cab3c2ccaf65
 title:40bd83dcdfb2d3a45e98
 title:40c6eb0822b1c72b7b0e
+title:40de05d6549664780fcc
 title:40e4bcf2629badc13c4a
 title:40e4c9682d2baa97d1e8
 title:40ea0f5e38d2c73af296
@@ -2428,6 +2436,7 @@ title:5e968fcc3c8e0320f4e0
 title:5e98032f57b3695aaf15
 title:5e9d7c07a5c7fa4dc3e9
 title:5e9fb01b6e989c452c67
+title:5e9fc76b606407db5394
 title:5ea8eb0a95722f39dcdd
 title:5ebc7374fd7c473e770a
 title:5ee29f05e1eba74b8309
@@ -3915,6 +3924,7 @@ title:b8556f4a89a38e54fe6e
 title:b86846e8ebe1e0ef2af3
 title:b870960ff4b68331937c
 title:b87a5a72bc4a0e51fdc2
+title:b8b6fb251cfa99300f0f
 title:b8bd3e40ad223b4f108b
 title:b8c8e21d6ee48fbec2b7
 title:b8cc4225013bc588e52d
@@ -4168,6 +4178,7 @@ title:c7b358139f52b09bb77e
 title:c7bfc197607e402bf18d
 title:c7d71073070923313378
 title:c7d778a222ad6e09e6a7
+title:c7e941766e8befc46e67
 title:c7eae2b8d58fc5d0bbc1
 title:c7f726a1208fea1f0296
 title:c80b1a5f2e21a32ac059
@@ -4224,6 +4235,7 @@ title:cc8a23f30e77083c3c43
 title:cca3e6836a5d12a6b406
 title:ccaa061bf2eec2dc825c
 title:ccbc59edf8aa3ed2e3f8
+title:ccbf6d285c360849f60d
 title:cccc589c24ffc5ea5132
 title:ccda0abd581a85017bd7
 title:ccf87dae4e603b9caae2
@@ -4357,6 +4369,7 @@ title:d418ca4c744b48399c0f
 title:d41a4acfc4685c4e1fb3
 title:d41e25e5b0eb4514579f
 title:d43df94e36f06a2582ee
+title:d46204cb5768bfa8ce7a
 title:d464d7ec704c091308ad
 title:d464f3c24d5bc20586d8
 title:d486230b586ea09d815e
@@ -5081,6 +5094,7 @@ topic:074010a1905c666f5dbf
 topic:0768d16d0f5aa9246550
 topic:07d8c6c411c7c2b711bd
 topic:07f44e2e8ed4c58727fa
+topic:0812f429fa632b1fbb3f
 topic:08b31ea52335671052ee
 topic:08b5b96e83b2b99ee9f3
 topic:08cf96c9aed1107e5a2f
@@ -5143,10 +5157,12 @@ topic:14e7614dd49fa0fdf432
 topic:14f48a5e3f30a142432a
 topic:155cba1437642de9b9bf
 topic:15769ef40af4f11b6a65
+topic:159bc87ddda539d0997c
 topic:15d31073be645eab8136
 topic:15dfb880d794dc2312e6
 topic:15fde0a0aee3b677b0ab
 topic:1632db58bf30f7993033
+topic:163fc8b0f5e5defaad8a
 topic:168102c1a5aefe8e9a45
 topic:1699b0c7195bd5e1ea58
 topic:16aa91c307a43d211610
@@ -5248,6 +5264,7 @@ topic:28bbafc42abd3aeec6f2
 topic:28e2620cbee56f4f25b1
 topic:28ee37ab15f371c3f405
 topic:28f09a71d481b277ea70
+topic:292c926f12454424db01
 topic:296c627f4d64b919667e
 topic:297662c781a706a65102
 topic:29a73347a63257390acb
@@ -5433,6 +5450,7 @@ topic:4f5847717ebf98073cb5
 topic:4f87b25b8673c52edf3c
 topic:4f885e66c959969273a4
 topic:4f94d7194f8f9f4fbec8
+topic:4ff43acd5aeb84a1aea9
 topic:500534c4621fad0ebff8
 topic:503a3cacc75e13a97e11
 topic:504afc78b36da95a6345
@@ -6257,6 +6275,7 @@ topic:f21794dc1b66cdb47423
 topic:f220c5bc0003ba109d31
 topic:f244d53eea10bfebbe41
 topic:f29a62eb1c92658985c0
+topic:f345be5d75ec8169988a
 topic:f3588c4d119ca0413eac
 topic:f36afffc2cfff8b584a7
 topic:f3744f340ea6bb284e81
@@ -6432,6 +6451,7 @@ url:biz.chunichi.co.jp/news/article/10/127536/
 url:biz.chunichi.co.jp/news/article/10/127671/
 url:biz.chunichi.co.jp/news/article/10/127922/
 url:biz.chunichi.co.jp/news/article/10/128303/
+url:biz.chunichi.co.jp/news/article/10/128492/
 url:building-pc.cocolog-nifty.com/map/2026/06/post-c87999.html
 url:building-pc.cocolog-nifty.com/map/2026/06/post-e318bf.html
 url:building-pc.cocolog-nifty.com/map/2026/06/post-ef99a0.html
@@ -7271,6 +7291,7 @@ url:news.nicovideo.jp/watch/nw19568294?news_ref=
 url:news.nicovideo.jp/watch/nw19568641?news_ref=
 url:news.nicovideo.jp/watch/nw19568938?news_ref=
 url:news.nicovideo.jp/watch/nw19569022?news_ref=
+url:news.nicovideo.jp/watch/nw19570409
 url:news.nicovideo.jp/watch/nw19571339?news_ref=
 url:news.nicovideo.jp/watch/nw19572039?news_ref=
 url:news.nicovideo.jp/watch/nw19572087?news_ref=
@@ -7606,6 +7627,7 @@ url:news.yahoo.co.jp/articles/6069a81a5978cf2fd40ebbe1b6ed47f02c1b29df?source=
 url:news.yahoo.co.jp/articles/60a68986df2cb9bd1ef353aa90fb3ea88035d3dc?source=rss
 url:news.yahoo.co.jp/articles/611f42c29fe1dff9f3d13bf485dd0024cadbcdda?source=rss
 url:news.yahoo.co.jp/articles/6146ab4da7f64823eef7ed21e4698196a5bb0049?source=rss
+url:news.yahoo.co.jp/articles/617aa09f814a4eb789eae1172d95e778a03b3dc3
 url:news.yahoo.co.jp/articles/61c7c1a74cab485bd2acc3d9b125efd4405b37f9?source=rss
 url:news.yahoo.co.jp/articles/61e3647314254d431c6098ff388105820685d93d?source=rss
 url:news.yahoo.co.jp/articles/621e7cf7e4dd99dea717ae88ee8c1cb8f46a2f17
@@ -7980,6 +8002,7 @@ url:news.yahoo.co.jp/articles/f45fed227fad1df4471305db9f8ea093f0f7a1b9?source=rs
 url:news.yahoo.co.jp/articles/f4c5ae756173a58995796387d7c61ecc210cbde5?source=rss
 url:news.yahoo.co.jp/articles/f5b6eed5054fc4a059a4c88adef8e5e3efdf6503
 url:news.yahoo.co.jp/articles/f5b6eed5054fc4a059a4c88adef8e5e3efdf6503?source=rss
+url:news.yahoo.co.jp/articles/f5ef19fd925d9881dccbba0a26cec60e78980cf6
 url:news.yahoo.co.jp/articles/f6108efd3724f42401e75baa41b6fbd9415a9fee?page=
 url:news.yahoo.co.jp/articles/f618b4ff36486deb64cb142853b2919e74ef1551
 url:news.yahoo.co.jp/articles/f63784e521865eae77cfaf1a77419fc5ee756426?source=rss
@@ -9773,6 +9796,7 @@ url:www.moomoo.com/ja/news/post/72646998/ashford-hospitality-trust-completes-sal
 url:www.moomoo.com/ja/news/post/73033976/fleetwood-to-acquire-western-australia-transient-worker-accommodation-facility-for
 url:www.moomoo.com/ja/news/post/73111777/hotel-properties-secures-debt-securities-status-for-sg-150-million
 url:www.moomoo.com/ja/news/post/73159879/lodging-sector-set-for-second-quarter-beats-amid-us-revpar?futusource=
+url:www.moomoo.com/ja/news/post/73441813
 url:www.msn.com/ja-jp/entertainment/celebrities/%E4%B8%89%E8%B0%B7%E7%B4%AC%E3%82%A2%E3%83%8A-%E3%83%A1%E3%82%AD%E3%82%B7%E3%82%B3%E3%81%AE%E7%A9%BA%E6%B8%AF%E3%81%A7%E3%83%88%E3%83%A9%E3%83%96%E3%83%AB%E7%99%BA%E7%94%9F-%E7%8F%BE%E5%9C%B0%E7%94%B7%E6%80%A7%E3%81%AB-%E3%83%9B%E3%83%86%E3%83%AB%E3%81%AB%E9%80%81%E3%81%A3%E3%81%A6%E3%82%82%E3%82%89%E3%81%A3%E3%81%9F/ar-AA27WdnJ?apiversion=
 url:www.msn.com/ja-jp/entertainment/celebrity/%E3%82%AB%E3%83%BC%E3%83%89%E6%B1%BA%E6%B8%88%E4%BB%A3%E8%A1%8C%E3%81%AE-%E5%85%A8%E6%9D%B1%E4%BF%A1-%E7%A0%B4%E7%94%A3%E7%AE%A1%E8%B2%A1%E4%BA%BA%E3%81%8B%E3%82%89%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B-%E6%8E%B2%E8%BC%89-%E5%8A%A0%E7%9B%9F%E5%BA%97%E3%81%AE%E7%9A%86%E6%A7%98%E3%81%B8-%E9%87%8D%E8%A6%81%E4%BA%8B%E9%A0%85%E3%82%92%E8%A8%98%E3%81%99-%E5%85%A8%E6%96%87/ar-AA27FMKQ?ocid=
 url:www.msn.com/ja-jp/entertainment/celebrity/%E3%82%B9%E3%82%B6%E3%83%B3%E3%83%8C-1%E5%84%845000%E4%B8%87%E5%86%86%E3%81%8B%E3%81%91%E3%81%A6%E6%97%85%E9%A4%A8%E3%82%92%E5%86%8D%E7%94%9F-%E5%AE%BF%E6%B3%8A%E5%AE%A2%E3%81%AF-1%E6%97%A52%E7%B5%84%E9%99%90%E5%AE%9A-%E7%8F%BE%E5%9C%A8%E3%81%AE%E7%B5%8C%E5%96%B6%E7%8A%B6%E6%B3%81%E3%82%92%E6%98%8E%E3%81%8B%E3%81%99/ar-AA280VCO
@@ -9899,6 +9923,7 @@ url:www.nikkei.com/article/DGKKZO97060420R20C26A6TB2000/
 url:www.nikkei.com/article/DGKKZO97274850R00C26A7CE0000/
 url:www.nikkei.com/article/DGKKZO97485750Q6A710C2L83000/
 url:www.nikkei.com/article/DGKKZO97497930R10C26A7BZ0000/
+url:www.nikkei.com/article/DGKKZO97762100U6A720C2TEZ000/
 url:www.nikkei.com/article/DGXZQOCC039TY0T00C26A6000000/
 url:www.nikkei.com/article/DGXZQOCC044XJ0U6A600C2000000/
 url:www.nikkei.com/article/DGXZQOCC05A2C0V00C26A6000000/
@@ -10212,6 +10237,7 @@ url:www.sanyonews.jp/article/1950292?rct=
 url:www.sanyonews.jp/article/1950764
 url:www.sanyonews.jp/article/1951119
 url:www.sanyonews.jp/article/1951469
+url:www.sanyonews.jp/article/1951953?kw=
 url:www.sanyonews.jp/article/1952522?kw=
 url:www.sanyonews.jp/article/1952732?kw=
 url:www.sanyonews.jp/article/1954248

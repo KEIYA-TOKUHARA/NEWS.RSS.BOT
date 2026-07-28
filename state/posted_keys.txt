@@ -304,6 +304,7 @@ facility:48d1bda27e2a6e3f04b3
 facility:48e23c72a7201bd5df1e
 facility:48f74837523229b51e3d
 facility:495a0c94493d0c984ccd
+facility:49b65598a2481f5312e9
 facility:4a044f3b5bf6adb6d5fe
 facility:4a061fc934d82a2263b9
 facility:4a4851db2ff295deb892
@@ -898,6 +899,7 @@ facility:d8d98364cf61246e04df
 facility:d8dbbaf789d98f901fd0
 facility:d907cea17cc649c8e1a9
 facility:d91c5586d88a6ac6f789
+facility:d9292cd217ac77c56b56
 facility:d93aafeb69df7ecf1f06
 facility:d944a19342852dfb3420
 facility:d94beb9493c3b27f3013
@@ -1232,8 +1234,10 @@ title:0d70fc36e8596ff71952
 title:0d8cbb46ed6f637fefc6
 title:0d9d3955a7b1d8df0c1f
 title:0db7badc73a3483868af
+title:0dbce353a5f9e8ca5c15
 title:0dcf2865fa0e5f19c51d
 title:0ddadc3c373879d0e99d
+title:0e074aadbfaa673058ff
 title:0e0d0058723135fad978
 title:0e100f7b68720f84a6a8
 title:0e11098c9a18c99f106e
@@ -1715,6 +1719,7 @@ title:28c076c1ad50031c8d9d
 title:28e0cc46190d14371688
 title:290472e28d92f155285c
 title:29101aa709bae5461307
+title:2914d80b7dd6706550f6
 title:291a9a622e2f5a91ff02
 title:292a5b906f3201101896
 title:292bc2273a60631b5101
@@ -1954,6 +1959,7 @@ title:367cab18c8bdb4578e87
 title:367d3a8b4a7d733e96f9
 title:36be41b1e8ded719513d
 title:36c7369a35446734cc3f
+title:36c93e72c202ebf3d3b7
 title:37099725a8f421e3224a
 title:370ea0e0696cfc57a3ed
 title:371b8f8a6d6a2e7adc62
@@ -2525,6 +2531,7 @@ title:5a825e26f2ddd2965e26
 title:5a86a50e30ae2aefe4ec
 title:5a93b78d90df4690837e
 title:5a9a8c69825264c55365
+title:5aac2f9fd858219441fe
 title:5ab06cc61f15d6754fb4
 title:5ab54fd046bbf096a5e5
 title:5ac8467c28bd1cfb4ad2
@@ -2802,6 +2809,7 @@ title:6a2a00f1d7e1cc93cd10
 title:6a2f6bd5f09c20a336cc
 title:6a48e8c206129b70f7d4
 title:6a49c0959eb9bab063c1
+title:6a4be7ccf4bae0d0fae8
 title:6a4c3b53e94daf9de827
 title:6a64bde700f31c764a9e
 title:6a65a46efbc1b8566cd0
@@ -4540,6 +4548,7 @@ title:ce0a460c04da52c4132f
 title:ce0ccb146b8617e1408d
 title:ce1380d2c337b60cc677
 title:ce270357bb720be81245
+title:ce37937915df92ebcb7f
 title:ce567bf74aa8688082c2
 title:ce71510a6b73139e4137
 title:ce822e06c0b3774c658c
@@ -4969,6 +4978,7 @@ title:e6c24208a98cce49d778
 title:e6c44a9ec81cc1bb394b
 title:e6ce6378933a147ffd6d
 title:e6d36f7a00f4856b2d24
+title:e6d85f94611d5bc4d352
 title:e6e681e2d6b22492ce51
 title:e6eecb9266498fe01442
 title:e708b23194b491dbe8c4
@@ -5072,6 +5082,7 @@ title:ebe7216b98808fbebfdc
 title:ebe95b9148fa04dbb450
 title:ec142fc13a8e6ebb7e85
 title:ec164f5cd49a80747185
+title:ec4ebd5c7c06e441ca15
 title:ec55f3b40dcb09d2e531
 title:ec6841628f4e8b9b7567
 title:ec950a4026a092db82f3
@@ -5767,6 +5778,7 @@ topic:48f74837523229b51e3d
 topic:49245b832b6529b5d2b7
 topic:495a0c94493d0c984ccd
 topic:499bd5e96308d22a888f
+topic:49b65598a2481f5312e9
 topic:4a044f3b5bf6adb6d5fe
 topic:4a061fc934d82a2263b9
 topic:4a4851db2ff295deb892
@@ -6481,6 +6493,7 @@ topic:cb832fc444e62c07f633
 topic:ccc035c70aab47309409
 topic:cd3f98a0406e81f14846
 topic:cd42409e9d1bb1285ec4
+topic:cddbbf720cbb61697902
 topic:ce1b0af6b3e43808b398
 topic:ce3e5c198a62dcadec07
 topic:ce654cbdf6290e8692b7
@@ -6542,6 +6555,7 @@ topic:d8f38c1c4145150e4370
 topic:d90738f31d077b9852bc
 topic:d907cea17cc649c8e1a9
 topic:d91c5586d88a6ac6f789
+topic:d9292cd217ac77c56b56
 topic:d93aafeb69df7ecf1f06
 topic:d944a19342852dfb3420
 topic:d94beb9493c3b27f3013
@@ -7843,6 +7857,7 @@ url:news.yahoo.co.jp/articles/0d5a87509a1ace21017a6aef9bc654e663b84d63
 url:news.yahoo.co.jp/articles/0e4deae5514066ed21d20d95c132c9c5a7fccb2b
 url:news.yahoo.co.jp/articles/0e65967a4553b2be959dea39eef5229073ad00b0
 url:news.yahoo.co.jp/articles/0e65967a4553b2be959dea39eef5229073ad00b0?source=rss
+url:news.yahoo.co.jp/articles/0eb295f8171f410eb31a75a18be6c01e9f45c68d
 url:news.yahoo.co.jp/articles/0ecb42c2c6f707618ff3fa298d68f85b1829ceb0
 url:news.yahoo.co.jp/articles/0ee9af8f9a16d219987ccfdeb3e8e527af2c973e
 url:news.yahoo.co.jp/articles/0eecbe8f1125a14b3d30c9fa585c0284d3955ab9
@@ -7856,6 +7871,7 @@ url:news.yahoo.co.jp/articles/10ba9aa51b1229a0d7f1ec01c838e225ed8c303f?source=rs
 url:news.yahoo.co.jp/articles/11034ef8b144ebf5748794ce22afa216d7c5c937
 url:news.yahoo.co.jp/articles/1145a573affd96aa3fc55c12daa7ebc678ba03bf
 url:news.yahoo.co.jp/articles/11e48fcb172e6f2593aec6f768cd84bf1a607229?source=rss
+url:news.yahoo.co.jp/articles/12271215de339bfc589f8741f5e7cedf64eb5b83
 url:news.yahoo.co.jp/articles/1251025ebb031d99d68c4ea322272c182bd0aa2f
 url:news.yahoo.co.jp/articles/12847e7d6c9d5db8f4d0deadd24149b50953ab37?page=
 url:news.yahoo.co.jp/articles/12847e7d6c9d5db8f4d0deadd24149b50953ab37?source=rss
@@ -8462,6 +8478,7 @@ url:news.yahoo.co.jp/articles/e717ba81da6f82a3b003955a13a48bf3c68896db
 url:news.yahoo.co.jp/articles/e726b5709ec49fe74eb6e0fdfe3b8f91958cff49
 url:news.yahoo.co.jp/articles/e72ed25e2d34cd2ad78cf9f7f4fc65c2b24c4a6b?source=rss
 url:news.yahoo.co.jp/articles/e7d13725248abe03fcb039c518e72b26f2af61e8
+url:news.yahoo.co.jp/articles/e83e242baed4f6369aca33a3edc446cc03bf77cd
 url:news.yahoo.co.jp/articles/e86bde0dea0c538dbee993d0ed7a2a9027699e8b?source=rss
 url:news.yahoo.co.jp/articles/e92fb52a7de2d8f9314d5590908884db5c5604c2?source=rss
 url:news.yahoo.co.jp/articles/e94022d6daa14b9a19d7cf161426377bdf67ec8d?source=rss
@@ -8637,6 +8654,7 @@ url:osaka.style/news/pressrelease/71523/
 url:osaka.style/news/pressrelease/73152/
 url:osaka.style/news/prtimes/70814/
 url:osakabay.keizai.biz/headline/1459/
+url:osakabay.keizai.biz/headline/1492/
 url:osakakita-journal.com/2026/06/24/%E9%96%8B%E6%A5%AD%E3%81%97%E3%81%9F%E3%83%AC%E3%82%AC%E3%82%B7%E3%83%BC%E3%82%92%E7%B6%99%E6%89%BF%E3%81%99%E3%82%8B%E3%80%8Como7%E6%A8%AA%E6%B5%9C%EF%BC%88%E3%81%8A%E3%82%82%EF%BC%89by-%E6%98%9F/
 url:osakaminami-journal.com/2026/06/26/%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%A9%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%89%E3%83%9B%E3%83%86%E3%83%AB%E5%A4%A7%E9%98%AA33%E9%9A%8E%E3%81%AB%E3%81%A6%E3%83%A2%E3%83%80%E3%83%B3%E3%83%93%E3%82%B9%E3%83%88/
 url:p-johojima.jp/news/post-36821/
@@ -8686,6 +8704,7 @@ url:prtimes.jp/main/html/rd/p/000000004.000157544.html
 url:prtimes.jp/main/html/rd/p/000000004.000180684.html
 url:prtimes.jp/main/html/rd/p/000000004.000183620.html
 url:prtimes.jp/main/html/rd/p/000000005.000065838.html
+url:prtimes.jp/main/html/rd/p/000000005.000111623.html
 url:prtimes.jp/main/html/rd/p/000000005.000139424.html
 url:prtimes.jp/main/html/rd/p/000000005.000148163.html
 url:prtimes.jp/main/html/rd/p/000000005.000155696.html
@@ -9554,8 +9573,10 @@ url:www.breakingtravelnews.com/news/article/hilton-expands-florida-keys-portfoli
 url:www.breakingtravelnews.com/news/article/hilton-hotels-resorts-debuts-a-new-beachfront-resort-in-malaysia/
 url:www.breakingtravelnews.com/news/article/hilton-to-enter-thessaloniki-under-flagship-hilton-hotels-resorts-brand/
 url:www.breakingtravelnews.com/news/article/hotel-leadership-conference-announces-2027-theme-and-conference-chair/
+url:www.breakingtravelnews.com/news/article/hotel-okura-thermal-resort-spa-cappadocia-to-open-in-2028/
 url:www.breakingtravelnews.com/news/article/hotel-vulcanos-live-dj-beats-and-brunch-strikes-a-chord-with-holidaymakers/
 url:www.breakingtravelnews.com/news/article/how-five-myconian-resorts-are-rewriting-the-rules-of-mediterranean-architec/
+url:www.breakingtravelnews.com/news/article/hyatt-and-green-rock-announce-plans-for-armenias-first-hyatt-regency-hotel/
 url:www.breakingtravelnews.com/news/article/hyatt-announces-plans-for-grand-hyatt-victoria-falls-the-kingdom/
 url:www.breakingtravelnews.com/news/article/hyatt-regency-london-olympia-opens-at-the-heart-of-west-londons-1.3-bn-land/
 url:www.breakingtravelnews.com/news/article/ibis-budget-welcomes-flagship-hotel-in-the-heart-of-barcelona/
@@ -10060,6 +10081,8 @@ url:www.hospitalitynet.org/news/4133658/le-debuts-2028-new-hotel-openings-foreca
 url:www.hospitalitynet.org/news/4133660/the-lancaster-landmark-hotel-company-rebrands-as-the-landmark-collection
 url:www.hospitalitynet.org/news/4133661/hilton-tops-luxury-hotels-by-brand-value-taj-retains-crown-as-strongest-luxury-hotel-brand
 url:www.hospitalitynet.org/news/4133676/hvs-europe-hotel-transactions-bulletin-week-ending-24-july-2026
+url:www.hospitalitynet.org/news/4133681/rebel-hotel-company-expands-national-portfolio-with-management-acquisitions-of-three-distinctive-lifestyle-hotels
+url:www.hospitalitynet.org/news/4133685/choice-hotels-internationals-woodspring-suites-ranked-1-economy-extended-stay-hotel-brand-in-the-jd-power-2026-north-america-hotel-guest-satisfaction-index-study
 url:www.hospitalitynet.org/opinion/4132482/azuma-brand-launch-signals-larger-hotel-category-trends
 url:www.hospitalitynet.org/opinion/4132494/five-trends-every-hotel-leader-needs-to-watch-in-2026
 url:www.hospitalitynet.org/opinion/4132680/why-the-best-hospitality-vendors-may-never-even-get-considered

@@ -1274,7 +1274,9 @@ def post_to_slack(messages):
 def create_email_drafts(selected_items):
     try:
         from email_drafts import (
+            account_draft_keys,
             build_draft,
+            load_draft_accounts,
             load_drafted_keys,
             load_email_draft_config,
             save_drafted_keys,
@@ -1282,7 +1284,9 @@ def create_email_drafts(selected_items):
         from gmail_api import create_draft, has_runtime_token
     except ModuleNotFoundError:
         from src.email_drafts import (
+            account_draft_keys,
             build_draft,
+            load_draft_accounts,
             load_drafted_keys,
             load_email_draft_config,
             save_drafted_keys,
@@ -1294,39 +1298,61 @@ def create_email_drafts(selected_items):
     if not config.get("enabled"):
         return 0, 0
 
-    if not has_runtime_token():
-        print("Gmail token 未設定のため、下書き作成はスキップします。")
+    accounts = load_draft_accounts(config)
+    accounts = [
+        account for account in accounts
+        if has_runtime_token(account["token_env"])
+    ]
+
+    if not accounts:
+        print("利用可能なGmail token がないため、下書き作成はスキップします。")
         return 0, 0
 
     drafted_keys = load_drafted_keys()
     new_drafted_keys = set(drafted_keys)
     max_drafts = int(config.get("max_drafts_per_run", 10) or 0)
+    processed_item_count = 0
     created_count = 0
     error_count = 0
 
     for item in selected_items:
-        if max_drafts > 0 and created_count >= max_drafts:
+        if max_drafts > 0 and processed_item_count >= max_drafts:
             break
 
         article = item["article"]
         draft = build_draft(article, item["judgement"], config=config)
         draft_keys = set(draft.get("dedupe_keys", []))
 
-        if draft_keys & drafted_keys or draft_keys & new_drafted_keys:
+        pending_accounts = []
+
+        for account in accounts:
+            account_keys = account_draft_keys(draft_keys, account)
+            if account_keys & drafted_keys or account_keys & new_drafted_keys:
+                continue
+            pending_accounts.append((account, account_keys))
+
+        if not pending_accounts:
             continue
 
-        try:
-            create_draft(
-                to=draft["to"],
-                subject=draft["subject"],
-                body=draft["body"],
-                label_name=draft.get("label"),
-            )
-            created_count += 1
-            new_drafted_keys.update(draft_keys)
-        except Exception as e:
-            error_count += 1
-            print(f"Gmail下書き作成失敗: {article.get('title', '')} / {e}")
+        processed_item_count += 1
+
+        for account, account_keys in pending_accounts:
+            try:
+                create_draft(
+                    to=draft["to"],
+                    subject=draft["subject"],
+                    body=draft["body"],
+                    label_name=draft.get("label"),
+                    token_env=account["token_env"],
+                )
+                created_count += 1
+                new_drafted_keys.update(account_keys)
+            except Exception as e:
+                error_count += 1
+                print(
+                    f"Gmail下書き作成失敗[{account['name']}]: "
+                    f"{article.get('title', '')} / {e}"
+                )
 
     if new_drafted_keys != drafted_keys:
         save_drafted_keys(new_drafted_keys)

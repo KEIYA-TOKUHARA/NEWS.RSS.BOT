@@ -22,6 +22,7 @@ jobs:
       OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
       OPENAI_MODEL: ${{ vars.OPENAI_MODEL }}
       GMAIL_TOKEN_JSON: ${{ secrets.GMAIL_TOKEN_JSON }}
+      GMAIL_TOKEN_JSON_KATO: ${{ secrets.GMAIL_TOKEN_JSON_KATO }}
       EMAIL_SIGNATURE: ${{ secrets.EMAIL_SIGNATURE }}
 
     steps:

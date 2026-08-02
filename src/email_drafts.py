@@ -153,6 +153,45 @@ def get_draft_keys(article):
     return article_dedupe_keys(article)
 
 
+def load_draft_accounts(config):
+    accounts = config.get("accounts") or [
+        {
+            "name": "tokuhara",
+            "token_env": "GMAIL_TOKEN_JSON",
+            "key_prefix": "",
+        }
+    ]
+    normalized = []
+
+    for account in accounts:
+        if account.get("enabled", True) is False:
+            continue
+
+        name = str(account.get("name") or "").strip()
+        token_env = str(account.get("token_env") or "").strip()
+        key_prefix = str(account.get("key_prefix", name) or "").strip()
+
+        if not name or not token_env:
+            continue
+
+        normalized.append({
+            "name": name,
+            "token_env": token_env,
+            "key_prefix": key_prefix,
+        })
+
+    return normalized
+
+
+def account_draft_keys(draft_keys, account):
+    key_prefix = account.get("key_prefix", "")
+
+    if not key_prefix:
+        return set(draft_keys)
+
+    return {f"account:{key_prefix}:{key}" for key in draft_keys}
+
+
 def clean_subject_title(title):
     title = clean_display_text(title)
     title = re.sub(r"^【ＰＲ記事】\s*", "", title)

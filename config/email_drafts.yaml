@@ -10,6 +10,13 @@ email_drafts:
   subject_prefix: "【ニュース】"
   max_drafts_per_run: 10
   signature: ""
+  accounts:
+    - name: tokuhara
+      token_env: GMAIL_TOKEN_JSON
+      key_prefix: ""
+    - name: kato
+      token_env: GMAIL_TOKEN_JSON_KATO
+      key_prefix: kato
 
   body_style:
     include_facility_name: true

@@ -13,10 +13,14 @@ SCOPES = ["https://www.googleapis.com/auth/gmail.modify"]
 SHEETS_SCOPES = ["https://www.googleapis.com/auth/spreadsheets"]
 CREDENTIALS_FILE = Path("credentials.json")
 TOKEN_FILE = Path("token.json")
+DEFAULT_TOKEN_ENV = "GMAIL_TOKEN_JSON"
 
 
-def has_runtime_token():
-    return bool(os.environ.get("GMAIL_TOKEN_JSON")) or TOKEN_FILE.exists()
+def has_runtime_token(token_env=DEFAULT_TOKEN_ENV):
+    if token_env == DEFAULT_TOKEN_ENV:
+        return bool(os.environ.get(token_env)) or TOKEN_FILE.exists()
+
+    return bool(os.environ.get(token_env))
 
 
 def load_json_from_env_or_file(env_name, path):
@@ -25,19 +29,20 @@ def load_json_from_env_or_file(env_name, path):
     if raw_value:
         return json.loads(raw_value)
 
-    if path.exists():
+    if path and path.exists():
         with open(path, "r", encoding="utf-8") as f:
             return json.load(f)
 
     return None
 
 
-def get_credentials(scopes=None):
+def get_credentials(scopes=None, token_env=DEFAULT_TOKEN_ENV):
     scopes = scopes or SCOPES
-    token_info = load_json_from_env_or_file("GMAIL_TOKEN_JSON", TOKEN_FILE)
+    token_file = TOKEN_FILE if token_env == DEFAULT_TOKEN_ENV else None
+    token_info = load_json_from_env_or_file(token_env, token_file)
 
     if not token_info:
-        raise RuntimeError("Gmail token がありません。先に token.json を作成してください。")
+        raise RuntimeError(f"Gmail token がありません: {token_env}")
 
     creds = Credentials.from_authorized_user_info(token_info, scopes)
 
@@ -50,8 +55,8 @@ def get_credentials(scopes=None):
     return creds
 
 
-def get_gmail_service():
-    return build("gmail", "v1", credentials=get_credentials())
+def get_gmail_service(token_env=DEFAULT_TOKEN_ENV):
+    return build("gmail", "v1", credentials=get_credentials(token_env=token_env))
 
 
 def encode_message(to, subject, body):
@@ -97,8 +102,8 @@ def apply_label_to_message(service, message_id, label_id):
     ).execute()
 
 
-def create_draft(to, subject, body, label_name=None):
-    service = get_gmail_service()
+def create_draft(to, subject, body, label_name=None, token_env=DEFAULT_TOKEN_ENV):
+    service = get_gmail_service(token_env=token_env)
     raw_message = encode_message(to, subject, body)
     draft = service.users().drafts().create(
         userId="me",

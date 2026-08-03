@@ -37,6 +37,7 @@ facility:0eefa6c38c6fc785ef2e
 facility:0f17aeeac4b9771ce8b2
 facility:0f8f531f7d1710a92077
 facility:10ab8b07164fbd24f627
+facility:10d353519800a5d6c874
 facility:111d3ff26fd361b3f9d7
 facility:119e23a16717251a22c8
 facility:119f77688d8a72cd36c1
@@ -660,6 +661,7 @@ title:05b9e64def7e32090b13
 title:05bb6482719f512edb15
 title:06563cba56aa5b75db2f
 title:068d9cee94e7a13b2be0
+title:06a88c1917bb55d98ed5
 title:06c8be83c0e95da841d4
 title:06f525a9098ccdd5e478
 title:0747d2ee56b0a1261596
@@ -669,6 +671,7 @@ title:07866cba8178ba1862da
 title:078b33bfb0614b71243d
 title:07e88f63fd5eb6dc8807
 title:081b12950f22d5b4038c
+title:08503048d0753cfa9542
 title:08561032f0d1775134b1
 title:0881bd6566139ebb2ee0
 title:08fb720df7cf62c81d96
@@ -1052,6 +1055,7 @@ title:35cc76d6c68a00c3d090
 title:35e674a69026a72d513c
 title:35f20f13a2ee885824dd
 title:366d0c6df1d3add8a6ae
+title:3670e04659a9c2be08c2
 title:367d3a8b4a7d733e96f9
 title:36be41b1e8ded719513d
 title:37099725a8f421e3224a
@@ -1277,6 +1281,7 @@ title:522f9a207e6a9ba142b7
 title:525f9daccc22a8fc9193
 title:5281d36b6e359dd51076
 title:528eb0b60d80d0e4385a
+title:5291125da1c4c80332d6
 title:52b6fedb6ead4c91f9e4
 title:52c84d387b23919daf29
 title:52e3b9066a8f0c94ef9e
@@ -1441,6 +1446,7 @@ title:67617d4868ac3ad482e4
 title:677ec600a8618d0ca641
 title:67c1f2a0fa9a0fe4119f
 title:67e8925695987eef346c
+title:681ee992d7f751dce5bf
 title:68352013b313e484ad45
 title:68492833f5363cca6003
 title:684a8ab217c23d7adf65
@@ -1483,6 +1489,7 @@ title:6c3c2364feb48948b7a0
 title:6c3e9c3df619ee7f1cfe
 title:6c3ff1797f5b6fcfaeb0
 title:6c3ff197cb926276543b
+title:6c7b16070d9af9c5ed24
 title:6c8d964833aba0802ab6
 title:6cdc9c0e06b4d65e0796
 title:6ce2d4378ad8c63510c2
@@ -1686,6 +1693,7 @@ title:83d5914864c90bd8239a
 title:83e57986d458992f0adf
 title:83e676208f4b02d3ed7b
 title:844a56b7ccca1ae6a4b3
+title:845109594867138e8237
 title:8492503989b9f346a1c4
 title:84949324f8698a5ba23a
 title:84aa5c8c71413115f435
@@ -1776,6 +1784,7 @@ title:8e0a5429f4a999f74509
 title:8e127b703d9c931434e5
 title:8e4f041de0d114c684fc
 title:8e5561e06de31c124dab
+title:8e5b23001cd4830bbda2
 title:8e6509bd57f96fde9197
 title:8e67e49812c44a4ac613
 title:8eabcb61d587bfa5651c
@@ -2079,6 +2088,7 @@ title:b05d2594b2bea1cc02a8
 title:b06cb5cfbd6073411233
 title:b0bf5c9826434eca84f1
 title:b0d437f191de68a2ba64
+title:b0ea890518690be3029a
 title:b119b45a1bcaeee5eeab
 title:b11ffaa6f67fcec2695b
 title:b143d6ebde03e6ddbdcb
@@ -2425,6 +2435,7 @@ title:dad7d365c3ddeee56fcc
 title:db0c743854d401669a7d
 title:db12101602727b46dab5
 title:db2aa3ec0afcaef3cfaf
+title:db378263d4cb4d447be5
 title:db42015c3f619d233a78
 title:db4dbfb7a171af4865a4
 title:db7e10b276836428cbc4
@@ -2789,6 +2800,7 @@ topic:0f8f531f7d1710a92077
 topic:0faf1fa2216be9f24aac
 topic:0fdc9cc3c87d6cc645e8
 topic:10ab8b07164fbd24f627
+topic:10d353519800a5d6c874
 topic:111d3ff26fd361b3f9d7
 topic:119e23a16717251a22c8
 topic:119f77688d8a72cd36c1
@@ -3250,6 +3262,7 @@ topic:a1992c07e1ea2b8a4dae
 topic:a1b9439ad0fd2af544f9
 topic:a2233e5a9b141f8f065a
 topic:a225e2f9709185ba26a2
+topic:a2a6ca477e5ed36e8e28
 topic:a2ac135fa43c21493dc7
 topic:a349aabab3055d8754bf
 topic:a3746ef575d4ab98da36
@@ -3268,6 +3281,7 @@ topic:a69adb124fd941e4b51c
 topic:a6c1b3910bae14aab464
 topic:a6e60a9507ee9133afe8
 topic:a6f62f7e1459cbaa1556
+topic:a75f242556530c17466d
 topic:a7892a7680c0fb660b6e
 topic:a79a8c8a9c3c10062ff6
 topic:a7b2c67fd744992846db
@@ -3434,6 +3448,7 @@ topic:deefff2519681453a08d
 topic:defca7576126f4286f25
 topic:df3e3c20841617677283
 topic:df569a1d95e0d570d6f8
+topic:df7a5d7a6406dfae287b
 topic:df8cad85b2840b2192a5
 topic:dfb04453a7fbdc7f6887
 topic:e01ce0191b2b8ca4cbc6
@@ -3739,6 +3754,7 @@ url:ja.laodong.vn/bat-dong-san/khoi-cong-co-so-luu-tru-gan-1177-ti-dong-trong-kh
 url:ja.laodong.vn/bat-dong-san/nhieu-nha-nghi-o-do-son-hai-phong-ban-giao-mat-bang-phuc-vu-chinh-trang-do-thi-1731619.ldo
 url:ja.laodong.vn/xa-hoi/ha-noi-xay-dung-biet-thu-khach-san-hon-25000m2-canh-truong-dua-ngua-o-soc-son-1731352.ldo
 url:ja.martincid.com/bussines-ja/sirivadhanabhakdi-frasers-hospitality-assets-5/
+url:japan.ajunews.com/view/20260803151107294
 url:joshi-spa.jp/1421976
 url:jp.investing.com/news/company-news/article-93CH-1580322
 url:jp.investing.com/news/company-news/article-93CH-1583915
@@ -4541,10 +4557,12 @@ url:prtimes.jp/main/html/rd/p/000000011.000095917.html
 url:prtimes.jp/main/html/rd/p/000000011.000140779.html
 url:prtimes.jp/main/html/rd/p/000000012.000134398.html
 url:prtimes.jp/main/html/rd/p/000000014.000054182.html
+url:prtimes.jp/main/html/rd/p/000000014.000089165.html
 url:prtimes.jp/main/html/rd/p/000000014.000098465.html
 url:prtimes.jp/main/html/rd/p/000000014.000153309.html
 url:prtimes.jp/main/html/rd/p/000000015.000046214.html
 url:prtimes.jp/main/html/rd/p/000000015.000098051.html
+url:prtimes.jp/main/html/rd/p/000000017.000124789.html
 url:prtimes.jp/main/html/rd/p/000000018.000068684.html
 url:prtimes.jp/main/html/rd/p/000000018.000081827.html
 url:prtimes.jp/main/html/rd/p/000000019.000161388.html
@@ -4705,6 +4723,7 @@ url:prtimes.jp/main/html/rd/p/000003842.000024668.html
 url:prtimes.jp/main/html/rd/p/000005409.000000136.html
 url:prtimes.jp/topics/keywords/%E5%A4%A7%E5%9E%8B%E3%83%AA%E3%82%BE%E3%83%BC%E3%83%88%E3%83%9B%E3%83%86%E3%83%AB
 url:readyfor.jp/projects/aratama_ryokan/announcements/434294
+url:readyfor.jp/projects/yamaneko28/announcements/438987
 url:realsound.jp/tech/2026/07/post-2446741.html
 url:richardajkeys.com/dp/5cf8149739507
 url:rurubu.jp/andmore/article/24932
@@ -4869,6 +4888,7 @@ url:voix.jp/biz/news-analysis/173731/
 url:voix.jp/biz/news-analysis/174415/
 url:voix.jp/biz/news/172281/
 url:voix.jp/mobile/hacomono-expands-vacant-houses/
+url:voix.jp/sdgs/sdgs/87272/
 url:wakayamashimpo.co.jp/2026/06/20260618_138604.html
 url:web.fisco.jp/platform/market-news/0009340020260715030
 url:webun.jp/articles/-/1039776
@@ -4889,6 +4909,7 @@ url:www.47news.jp/14590339.html
 url:www.47news.jp/14600635.html
 url:www.47news.jp/14612416.html
 url:www.47news.jp/14714332.html
+url:www.47news.jp/14719927.html
 url:www.afpbb.com/articles/-/3641173?act=
 url:www.agara.co.jp/article/648323?rct=
 url:www.agara.co.jp/article/651517
@@ -4952,6 +4973,7 @@ url:www.breakingtravelnews.com/news/article/minor-hotels-signs-first-nh-hotels-r
 url:www.breakingtravelnews.com/news/article/minos-palace-resort-crete-unveils-new-infinity-lagoon-suites/
 url:www.breakingtravelnews.com/news/article/modon-holding-and-nammos-hotels-resorts-bring-nammos-ras-el-hekma-to-egypts/
 url:www.breakingtravelnews.com/news/article/new-luxury-hotel-the-yacht-opens-at-herzliya-marina-expanding-israels-coast/
+url:www.breakingtravelnews.com/news/article/nobu-to-launch-hotel-restaurant-villas-and-residences-at-monte-rei-in-portu/
 url:www.breakingtravelnews.com/news/article/preferred-hotels-resorts-celebrates-15-years-of-preferred-pride-with-expand/
 url:www.breakingtravelnews.com/news/article/rocco-forte-hotels-partners-with-sion-to-help-transform-travel-advisor-comm/
 url:www.breakingtravelnews.com/news/article/sandals-and-beaches-resorts-bring-back-black-friday-in-july-sale/
@@ -5174,6 +5196,7 @@ url:www.hospitalitynet.org/opinion/4133425/hftps-ai-collective-solidifies-roadma
 url:www.hospitalitynet.org/opinion/4133441/ai-is-confidently-wrong-about-your-hotel-and-the-guest-arrives-believing-it
 url:www.hospitalitynet.org/opinion/4133512/hospitality-technology-pain-points-why-hoteliers-are-switching-systems
 url:www.hospitalitynet.org/opinion/4133521/the-critical-role-of-cross-departmental-training-in-hotel-operations
+url:www.hospitalitynet.org/opinion/4133768/the-heart-of-hospitality-a-deep-dive-into-modern-hotel-human-resources
 url:www.hospitalitynet.org/report/4133431/hvs-anarock-monitor-june-2026
 url:www.hospitalitynet.org/report/4133456/hvs-us-hotel-development-cost-survey-2026
 url:www.housenews.jp/house/36516
@@ -5592,6 +5615,8 @@ url:www.travelvoice.jp/20260709-160141
 url:www.travelvoice.jp/20260713-160158
 url:www.travelvoice.jp/20260713-160161
 url:www.travelvoice.jp/20260714-160080
+url:www.travelvoice.jp/20260803-160188
+url:www.travelvoice.jp/20260803-160275
 url:www.travelvoice.jp/tenders/1411
 url:www.travelvoice.jp/tenders/1420
 url:www.travelvoice.jp/tenders/1431

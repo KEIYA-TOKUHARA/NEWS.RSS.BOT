@@ -308,6 +308,7 @@ facility:7387e906e139859367e7
 facility:73da7fc09c5a6f3c2f03
 facility:73e0ef19eec61c662c88
 facility:7443382bee799cc97407
+facility:747a186c851bea73c407
 facility:747eea5cb1826ba78aa9
 facility:74c51263dc19350d3caf
 facility:74eb9e608e2a61334a4c
@@ -636,6 +637,7 @@ facility:fa4efb0fa23a50a3eb18
 facility:fbf8b7d7a142d0dc2483
 facility:fc1507b78364e9efb727
 facility:fc920536c552946c4538
+facility:fd0da64f6447815a792b
 facility:fd6444ee423cacc90ac1
 facility:fdb0dccd985f9fa39241
 facility:ffa78224ff23bc025916
@@ -874,6 +876,7 @@ title:1bb50a4ff4769e27c6eb
 title:1bfea26090eb14c0e75c
 title:1c1666517034673712f1
 title:1c202601cacb9789a074
+title:1c27a2b81047718d9cd6
 title:1c29915494ed6553538a
 title:1c92c3a9deedb46982e6
 title:1cd2a8ab34f285359ac9
@@ -1390,6 +1393,7 @@ title:583cae84fc1df7457467
 title:584bf3244225979a317a
 title:58601120f6679f026a33
 title:587472232653dbe8cd78
+title:587da137bb10782bb900
 title:5887d3e4161ce170ec52
 title:58ee26891a55fc4e3ca2
 title:5906df2dc4f8c6b9ff24
@@ -1590,6 +1594,7 @@ title:6e86af932ef24a1cfad4
 title:6e99d3e9e8113f9e861e
 title:6ed3f4725e0fc646a85e
 title:6ede5c8017a7bf3902e3
+title:6f3cd5c13c8779608e2a
 title:6f4934b0e8b7bc832b10
 title:6f4fb040add5e34b50c3
 title:6f563c95ebea1330a704
@@ -1815,6 +1820,7 @@ title:8959ed0a2abee21c66ad
 title:895c0cbcb654fdf987a5
 title:89736867a9b060cd6095
 title:8973d02b5a5f71a0f3f9
+title:8977917c7d48caea41bf
 title:898b4934486296cd0ef1
 title:89a4430cddb8a10e481a
 title:89a8f93c3de22f10b77d
@@ -1896,6 +1902,7 @@ title:9096db46f8ad53504fdc
 title:909a35d3bddec16cd12c
 title:909d5202c8f1a58872ff
 title:90b98313f9f6f42fbf80
+title:90badf058c605102d907
 title:90d03090b05e8de686b6
 title:90da5521fbc17b2ade2e
 title:90e56cbf706aa0117626
@@ -1957,6 +1964,7 @@ title:97581adaf4274a0ba35e
 title:975c1e4c7946c6789a32
 title:97727751ea5e211b1ff0
 title:97775ce6290b77a90884
+title:977955cad4d1d448156c
 title:97887aee195c356974b2
 title:97a02b33e5f7fd0d32aa
 title:97bc1194b4f1d4cca40a
@@ -2178,6 +2186,7 @@ title:ae93a20146e2b7ad3bfa
 title:aebf033c9ab4647ae6a9
 title:aec1cf58b56324ba7b1a
 title:aeccc2c542e7155252f7
+title:aef6ac050913f07d3c0f
 title:af1a8e3fcb63299959d5
 title:af1e9f109244d9304978
 title:af35061b7410d65993bd
@@ -2342,6 +2351,7 @@ title:c19f7ca8886507c4bd8b
 title:c1f1a4d51af3f9438a93
 title:c22f29724ca95ed754b3
 title:c25f03941a1a64a53dd4
+title:c26fcc407484a4062da3
 title:c28642b9e5bfba066624
 title:c2a7b07413bd077fb1c7
 title:c2b7f8086e8bd5fdafeb
@@ -2494,6 +2504,7 @@ title:d4105bcda71c6cdeba21
 title:d418ca4c744b48399c0f
 title:d43df94e36f06a2582ee
 title:d4542115eb6176b45931
+title:d4618f568b1a43af8b08
 title:d464f3c24d5bc20586d8
 title:d486230b586ea09d815e
 title:d4d3eedf1978a38ef9a1
@@ -2709,6 +2720,7 @@ title:eaa93000930a38b8c8e4
 title:eab3426e4ca5345150e4
 title:eada352f17b7365b6a27
 title:eae526535a28395c23ce
+title:eaf45d7c515a5d98d78d
 title:eafde82c18dbe51208f6
 title:eb02d72b681e92d53d5e
 title:eb14e2a6817656915318
@@ -3235,6 +3247,7 @@ topic:641e67f2e1a1f2546ca9
 topic:647c3f73ac0c0724afd5
 topic:647d6540d959b58e2209
 topic:6498038818eb6009a699
+topic:6520fbfb8498ba62c6b8
 topic:653f88ef68e46af08d81
 topic:654443389e5cc6dd38ea
 topic:655c51b2f160c4a07ca1
@@ -3284,6 +3297,7 @@ topic:739a080cfae3e33678cc
 topic:73da7fc09c5a6f3c2f03
 topic:73e0ef19eec61c662c88
 topic:7443382bee799cc97407
+topic:747a186c851bea73c407
 topic:747eea5cb1826ba78aa9
 topic:74c51263dc19350d3caf
 topic:74eb9e608e2a61334a4c
@@ -3718,6 +3732,7 @@ topic:fbf8b7d7a142d0dc2483
 topic:fc1507b78364e9efb727
 topic:fc3be38adf735fb7c0f6
 topic:fc920536c552946c4538
+topic:fd0da64f6447815a792b
 topic:fd57d91097a6080ce79a
 topic:fd6444ee423cacc90ac1
 topic:fd66d4e7483a7a652ead
@@ -3743,6 +3758,7 @@ url:ampmedia.jp/2026/07/06/lxr-hotels-umiuta-hiroshima/
 url:ampmedia.jp/2026/07/09/natsuyasumi-yosan-26/
 url:ampmedia.jp/2026/07/09/route-inn-0709/
 url:ampmedia.jp/2026/08/03/uhn-nara-2608/
+url:ampmedia.jp/2026/08/05/the-mark-grand-hotel/
 url:article.auone.jp/detail/1/2/4/241_4_r_20260731_1785468557558909
 url:article.auone.jp/detail/1/2/5/336_5_r_20260710_1783660116893798
 url:article.auone.jp/detail/1/2/5/338_5_r_20260623_1782177587392242
@@ -4216,6 +4232,7 @@ url:news.livedoor.com/article/image_detail/31785126/?img_id=
 url:news.livedoor.com/article/image_detail/31816054/?img_id=
 url:news.livedoor.com/article/image_detail/31979440/?img_id=
 url:news.livedoor.com/pr_article/detail/31668631/
+url:news.livedoor.com/pr_article/detail/31991946/
 url:news.livedoor.com/pr_topics/detail/31557751/
 url:news.livedoor.com/pr_topics/detail/31663670/
 url:news.livedoor.com/pr_topics/detail/31715670/
@@ -4581,6 +4598,7 @@ url:news.yahoo.co.jp/articles/af05a39679edf0f8e593a93976faf6f4c5c36db9?source=rs
 url:news.yahoo.co.jp/articles/af94b4cb8dec0e537655dfe8b059d6fdd524d64c?page=
 url:news.yahoo.co.jp/articles/b040d62b5993c165e455bb8b609cbea298ed113c
 url:news.yahoo.co.jp/articles/b29ed47e678776da7648c38c1babc8db36d96c61
+url:news.yahoo.co.jp/articles/b388bef3311d6440bdee59c7911f931fb9669308
 url:news.yahoo.co.jp/articles/b3cc2f851fbd7d7bd166e6931d0f7b4f06f4e1b5
 url:news.yahoo.co.jp/articles/b3e6b30e1a31387881064d48437e8e5e05418110
 url:news.yahoo.co.jp/articles/b471aa69ec6f93b95995e8ec13fe068454fb1e1c?source=rss
@@ -4792,6 +4810,7 @@ url:prtimes.jp/main/html/rd/p/000000014.000098465.html
 url:prtimes.jp/main/html/rd/p/000000014.000153309.html
 url:prtimes.jp/main/html/rd/p/000000015.000046214.html
 url:prtimes.jp/main/html/rd/p/000000015.000098051.html
+url:prtimes.jp/main/html/rd/p/000000017.000108199.html
 url:prtimes.jp/main/html/rd/p/000000017.000124789.html
 url:prtimes.jp/main/html/rd/p/000000018.000068684.html
 url:prtimes.jp/main/html/rd/p/000000018.000081827.html
@@ -5149,6 +5168,7 @@ url:voix.jp/biz/news-analysis/173731/
 url:voix.jp/biz/news-analysis/174415/
 url:voix.jp/biz/news/172281/
 url:voix.jp/biz/news/176581/
+url:voix.jp/business-cards/miyazaki-revival-project-school-inn/
 url:voix.jp/mobile/hacomono-expands-vacant-houses/
 url:voix.jp/sdgs/sdgs/87272/
 url:wakayamashimpo.co.jp/2026/06/20260618_138604.html
@@ -5452,6 +5472,9 @@ url:www.hospitalitynet.org/news/4133786/inn-flow-introduces-advanced-enhancement
 url:www.hospitalitynet.org/news/4133787/swiss-supernaturehotel-concept-snuug-launches-digital-platform-ahead-of-2026-debut-with-influence-society
 url:www.hospitalitynet.org/news/4133791/radisson-hotel-group-launches-global-long-stay-proposition-to-accelerate-growth-in-fast-growing-extended-stay-segment
 url:www.hospitalitynet.org/news/4133793/ahla-foundation-unites-survivor-advocates-government-experts-and-hotel-industry-leaders-to-advance-lasting-solutions-to-prevent-human-trafficking
+url:www.hospitalitynet.org/news/4133805/sands-china-as-worlds-first-integrated-tourism-and-leisure-enterprise-to-achieve-iso-140012026-certification-for-environmental-management
+url:www.hospitalitynet.org/news/4133808/dailypoint-welcomes-two-new-hotels-in-the-americas-to-its-global-customer-portfolio
+url:www.hospitalitynet.org/news/4133809/hotel-technology-works-better-together
 url:www.hospitalitynet.org/opinion/4132482/azuma-brand-launch-signals-larger-hotel-category-trends
 url:www.hospitalitynet.org/opinion/4132494/five-trends-every-hotel-leader-needs-to-watch-in-2026
 url:www.hospitalitynet.org/opinion/4132680/why-the-best-hospitality-vendors-may-never-even-get-considered
@@ -5479,8 +5502,10 @@ url:www.hospitalitynet.org/opinion/4133761/when-every-hotel-uses-ai-brand-become
 url:www.hospitalitynet.org/opinion/4133768/the-heart-of-hospitality-a-deep-dive-into-modern-hotel-human-resources
 url:www.hospitalitynet.org/opinion/4133770/hotelogix-sees-instant-adoption-of-bir-compliance-among-philippine-hotels
 url:www.hospitalitynet.org/opinion/4133794/hotel-management-companies-and-ai-how-to-implement-ai-across-a-multi-property-portfolio
+url:www.hospitalitynet.org/opinion/4133806/travel-agencies-grew-hotel-bookings-twice-as-fast-as-the-otas
 url:www.hospitalitynet.org/report/4133431/hvs-anarock-monitor-june-2026
 url:www.hospitalitynet.org/report/4133456/hvs-us-hotel-development-cost-survey-2026
+url:www.hospitalitynet.org/report/4133813/lw-hospitality-advisors-lwha-q2midyear-2026-major-us-hotel-sales-survey-lodging-sector-overview
 url:www.housenews.jp/house/36516
 url:www.housenews.jp/house/36941
 url:www.htb.co.jp/news/archives_38613.html

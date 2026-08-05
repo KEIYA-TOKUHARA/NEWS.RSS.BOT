@@ -491,9 +491,11 @@ facility:69a78d43ed1fb276fff3
 facility:69afae5d5032fd756f8d
 facility:69f0e703f1ad3fdef4f1
 facility:6a44e595f749593f4eb5
+facility:6a6641a2767acf5e7e5b
 facility:6ad4ef4dd12417c9195b
 facility:6b9a62be8a010326a5ab
 facility:6c00023d2d22e1dc2c8b
+facility:6c21f01a6a2f9c0db5b1
 facility:6c6e4ce47d917e7e4a48
 facility:6cb2307173f625c80804
 facility:6d02aa4ff5b355531f3e
@@ -1368,12 +1370,14 @@ title:0d59b626fc84543b1672
 title:0d70fc36e8596ff71952
 title:0d8cbb46ed6f637fefc6
 title:0d9d3955a7b1d8df0c1f
+title:0db52a648096f7be3d91
 title:0db7badc73a3483868af
 title:0dbce353a5f9e8ca5c15
 title:0dcf2865fa0e5f19c51d
 title:0ddadc3c373879d0e99d
 title:0df4e30d7efca9eec405
 title:0e074aadbfaa673058ff
+title:0e0ca42d1cffa9392fba
 title:0e0d0058723135fad978
 title:0e100f7b68720f84a6a8
 title:0e11098c9a18c99f106e
@@ -1988,6 +1992,7 @@ title:2d8a7b0fe5e7e35e58e2
 title:2d904e98b74540503e29
 title:2d90cfc1d8d9cf6c8520
 title:2da43b30e58a09c25584
+title:2dad6b2e3756c893b261
 title:2daf893608b7b8be8802
 title:2deaeec431db238f2b8f
 title:2dedac5667fc4689e052
@@ -3106,6 +3111,7 @@ title:699563e2dbf4f6afe81a
 title:69a612d24187115eca93
 title:69b7fad3d52afacd3b96
 title:69ba1bf5bec4a156fe9c
+title:69bea6d040bab7b93cfc
 title:69c4ece1d563095dc05d
 title:69c8cf9e956892c7246b
 title:69f38776e7585a6988b2
@@ -3808,6 +3814,7 @@ title:8e5561e06de31c124dab
 title:8e5b23001cd4830bbda2
 title:8e6509bd57f96fde9197
 title:8e67e49812c44a4ac613
+title:8e8579d1e6b6a83e8de4
 title:8e85ac503e9f93288f76
 title:8e8963879711a586b002
 title:8e8d7a0a1e4c0da31b62
@@ -3896,6 +3903,7 @@ title:923fce739b3a636e5946
 title:92411e707687bba5a4ca
 title:9256338c3870180ca7ae
 title:9269886189c89bf145c5
+title:926eb57f57e17f3ba954
 title:928289adda876cf9eda5
 title:92939411105ece943c13
 title:92a90f0450cc6c61f6b2
@@ -3913,6 +3921,7 @@ title:93796eca4e658a13b072
 title:937adc3cd9d2ecd13f9a
 title:938950295478503c57e5
 title:939fab78d407ba4b987a
+title:93b322ff10d780e3a41b
 title:93c1bcc41e8031f3277a
 title:93d7e6223f67366db439
 title:93fa3f93f371435a3ce4
@@ -4105,6 +4114,7 @@ title:9d446ae2bf590dd57083
 title:9d53964b6dcc5282e97e
 title:9d5efb3c6cab6500c4a8
 title:9d802d0af21036532afc
+title:9d82f79b334070d895a1
 title:9d9488dd27e72c3013f5
 title:9d9fc77423609452e726
 title:9db1dcdd2af64c9aa84f
@@ -4618,6 +4628,7 @@ title:b7d51829448d8e7f26b4
 title:b7e80da77f629ec98e15
 title:b7e853acd225ef324136
 title:b808dda93a79ce7aaacc
+title:b84c3c2cacddffc2444e
 title:b84fe3c7351e61a1f749
 title:b8556f4a89a38e54fe6e
 title:b86846e8ebe1e0ef2af3
@@ -4821,6 +4832,7 @@ title:c340020b55dd87e3279a
 title:c3503bc3ba47f1a6a70d
 title:c35b2c4398f87e9a5b8c
 title:c3746e70b92b83136cc9
+title:c3836d1440ddf99e4803
 title:c38560f426985264d41e
 title:c3947f1ff176cb31974f
 title:c3be9558f345bf07c581
@@ -6471,6 +6483,7 @@ topic:53b0d665e44c0772ed3b
 topic:53c6eeaa81bc8bd69041
 topic:53f064a95e0ef3e8ba99
 topic:54357e583170f005b762
+topic:549047d276e20c90daac
 topic:55670f9a039554995746
 topic:559f38c29b32a4c4f7c1
 topic:55a38cc1b670d1beb775
@@ -6609,12 +6622,14 @@ topic:69f08a9cbcb12fd43c90
 topic:69f0e703f1ad3fdef4f1
 topic:6a44e595f749593f4eb5
 topic:6a601f28128752ca43a1
+topic:6a6641a2767acf5e7e5b
 topic:6a925888d574599a25a7
 topic:6ad4ef4dd12417c9195b
 topic:6b9a62be8a010326a5ab
 topic:6c00023d2d22e1dc2c8b
 topic:6c09bd612a0f07855768
 topic:6c0f11597d748b12c7bd
+topic:6c21f01a6a2f9c0db5b1
 topic:6c26329295383a6c5902
 topic:6c6e4ce47d917e7e4a48
 topic:6ca8ef7f8cdd8159cb62
@@ -7480,6 +7495,7 @@ url:8dabe.com/2026/07/31/villasdesmariages-atochi/
 url:ab-hiroshima.com/202607apa_ekimaedori2
 url:ab-hiroshima.com/202607apahotel11
 url:ab-hiroshima.com/202607hilton_miyajima
+url:ab-hiroshima.com/202607his_hotel
 url:ab-hiroshima.com/202607samty_motomachi
 url:abc-magazine.asahi.co.jp/post-82671/
 url:abema.tv/video/episode/89-44_s0_p512854
@@ -8143,6 +8159,7 @@ url:maonline.jp/news/20260601d
 url:matsuyama.goguynet.jp/2026/06/05/gogoshimahostel/
 url:matsuyama.goguynet.jp/2026/07/06/apahotelsushimaru/
 url:mbp-japan.com/fukuoka/saiken/column/5227292/
+url:mbp-japan.com/fukuoka/saiken/column/5230003/
 url:mbp-japan.com/osaka/financeeye/column/5229891/
 url:media.rakuten-sec.net/articles/-/53002
 url:meieki.keizai.biz/headline/3765/
@@ -8584,6 +8601,7 @@ url:news.nicovideo.jp/watch/nw19611282
 url:news.nicovideo.jp/watch/nw19611939?news_ref=
 url:news.nicovideo.jp/watch/nw19612469?news_ref=
 url:news.nicovideo.jp/watch/nw19623434?news_ref=
+url:news.nicovideo.jp/watch/nw19623535?news_ref=
 url:news.nicovideo.jp/watch/nw19624496?news_ref=
 url:news.ntv.co.jp/category/economy/747d8b8e84ac42e79591407e19a65274
 url:news.ntv.co.jp/category/economy/fb34e3ade2704149e08213418a52ed1d31
@@ -9538,6 +9556,7 @@ url:newsdig.tbs.co.jp/articles/embed/2789293
 url:newsdig.tbs.co.jp/articles/embed/2838380
 url:newsdig.tbs.co.jp/articles/mbs/2708251?display=
 url:newsdig.tbs.co.jp/articles/mbs/2780578?display=
+url:newsdig.tbs.co.jp/articles/mro/2851700?display=
 url:newsdig.tbs.co.jp/articles/mrt/2705850?display=
 url:newsdig.tbs.co.jp/articles/mrt/2789293
 url:newsdig.tbs.co.jp/articles/nbc/2784629?display=
@@ -9713,6 +9732,7 @@ url:prtimes.jp/main/html/rd/p/000000019.000183816.html
 url:prtimes.jp/main/html/rd/p/000000020.000146503.html
 url:prtimes.jp/main/html/rd/p/000000020.000160615.html
 url:prtimes.jp/main/html/rd/p/000000021.000029997.html
+url:prtimes.jp/main/html/rd/p/000000021.000122939.html
 url:prtimes.jp/main/html/rd/p/000000021.000146503.html
 url:prtimes.jp/main/html/rd/p/000000022.000029997.html
 url:prtimes.jp/main/html/rd/p/000000022.000059805.html
@@ -10045,6 +10065,7 @@ url:prtimes.jp/main/html/rd/p/000001343.000024246.html
 url:prtimes.jp/main/html/rd/p/000001345.000024246.html
 url:prtimes.jp/main/html/rd/p/000001351.000024246.html
 url:prtimes.jp/main/html/rd/p/000001360.000005110.html
+url:prtimes.jp/main/html/rd/p/000001360.000024246.html
 url:prtimes.jp/main/html/rd/p/000001362.000043465.html
 url:prtimes.jp/main/html/rd/p/000001378.000043465.html
 url:prtimes.jp/main/html/rd/p/000001417.000012974.html
@@ -10668,6 +10689,7 @@ url:www.breakingtravelnews.com/news/article/mgallery-collection-and-colossos-sa-
 url:www.breakingtravelnews.com/news/article/millennium-hotels-and-resorts-launches-culinary-compass-campaign-in-london/
 url:www.breakingtravelnews.com/news/article/minor-hotels-appoints-kanruethai-roongruang-as-general-manager-of-avani-hua/
 url:www.breakingtravelnews.com/news/article/minor-hotels-expands-into-tuerkiyes-aegean-with-anantara-ceme-retreat-and-r/
+url:www.breakingtravelnews.com/news/article/minor-hotels-introduces-avani-queenstown-a-lakeside-retreat-in-new-zealands/
 url:www.breakingtravelnews.com/news/article/minor-hotels-names-tamer-khedr-managing-director-for-egypt-expansion/
 url:www.breakingtravelnews.com/news/article/minor-hotels-signs-first-nh-hotels-resorts-property-in-the-middle-east-with/
 url:www.breakingtravelnews.com/news/article/minor-hotels-strengthens-its-presence-in-austria/
@@ -10677,6 +10699,7 @@ url:www.breakingtravelnews.com/news/article/new-luxury-hotel-the-yacht-opens-at-
 url:www.breakingtravelnews.com/news/article/nils-arne-schroeder-named-chief-operating-officer-of-langham-hospitality-gr/
 url:www.breakingtravelnews.com/news/article/nobu-hotel-ibiza-bay-launches-once-in-a-lifetime-celestial-auction-ahead-of/
 url:www.breakingtravelnews.com/news/article/nobu-to-launch-hotel-restaurant-villas-and-residences-at-monte-rei-in-portu/
+url:www.breakingtravelnews.com/news/article/nuns-gregorian-chant-and-gong-baths-provence-hotel-lou-calen-launches-uniqu/
 url:www.breakingtravelnews.com/news/article/oaks-ibn-battuta-gate-hotel-launches-sustainable-fb-initiatives-to-reduce-c/
 url:www.breakingtravelnews.com/news/article/omans-quarterly-hotel-revenues-rise-8.4-to-omr85.4-million/
 url:www.breakingtravelnews.com/news/article/playa-de-palma-expands-mice-offering-with-new-aubamar-convention-center/
@@ -12325,6 +12348,7 @@ url:www.travelvoice.jp/20260729-160252
 url:www.travelvoice.jp/20260731-160264
 url:www.travelvoice.jp/20260803-160188
 url:www.travelvoice.jp/20260803-160275
+url:www.travelvoice.jp/20260805-160287
 url:www.travelvoice.jp/tenders/1411
 url:www.travelvoice.jp/tenders/1420
 url:www.travelvoice.jp/tenders/1431
@@ -12521,5 +12545,6 @@ url:yutosoken.com/wp/2026/07/10/daiwaroynet-32/
 url:yutosoken.com/wp/2026/07/22/ihg-8/
 url:yutosoken.com/wp/2026/07/23/viainn-13/
 url:yutosoken.com/wp/2026/07/30/sumitomo-rd-85/
+url:yutosoken.com/wp/2026/08/05/kur-hotel-2/
 url:zushi-hayama.keizai.biz/release/621039/
 url:zuuonline.com/archives/302587

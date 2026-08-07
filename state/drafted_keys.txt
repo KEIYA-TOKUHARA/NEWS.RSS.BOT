@@ -351,6 +351,7 @@ facility:7c0101a6d7a769edab88
 facility:7cb269ac267a437dc12b
 facility:7cdb923b6cebc545f450
 facility:7d20059e81e7ae667bd0
+facility:7d2cea0f00990b3a159b
 facility:7d6dcd7cdc4abe348fac
 facility:7df9f710bb800f1042be
 facility:7e844d24e0a0b3b78334
@@ -626,6 +627,7 @@ facility:ea64e0d92ad7507297ae
 facility:ea82d6cdd48a8f7ec568
 facility:eb1854b6ac01821519f8
 facility:eb6b3e70ba72be3cdcc0
+facility:ec12b0b3a4550c350149
 facility:ecb1dc880414b253939e
 facility:ecf9ffaaf451a216e339
 facility:edd55c162655922e20b7
@@ -865,6 +867,7 @@ title:15ebb324955fe853c441
 title:15f3ce0443696fd42405
 title:1600ed44f710d6c32262
 title:161ae2f991fe00988c09
+title:1651f924a25a9ebdfa1b
 title:16841afd9dbc7dd003ad
 title:168a4a69121b77c81cbf
 title:16b075a0128a6bfbbea8
@@ -990,6 +993,7 @@ title:2494fbe94b80c03be188
 title:24a1e633696c2e14250e
 title:24c52e44ad3535657544
 title:24f3db44de617cbabe8d
+title:2514299617e5370001c2
 title:25256d6f6752d0800468
 title:253b523c8aff141dd6c9
 title:255045060a2557a7b609
@@ -1131,6 +1135,7 @@ title:3354af86e82657a95a98
 title:335cc907fffe80110f68
 title:337cafd435376ba3b05c
 title:33ad67b6e208f61cfb46
+title:33b116e4e0027e6359f3
 title:33c329287be84a7df874
 title:33e6b0a8689945e31f73
 title:33ef7d7f46ed2e5abb9b
@@ -2100,6 +2105,7 @@ title:9ab5a29f48616417fce1
 title:9aea05ea6b0fecec7e66
 title:9aee86354ff3953be96c
 title:9b3e2877777f9c911fa7
+title:9b54f27f6af6b734801c
 title:9b5a3c6e4928a52fe17d
 title:9b9624fb92decc20f769
 title:9bb46bd0ed874ed51b0e
@@ -2244,6 +2250,7 @@ title:a97ac3f6a78fa5cecb5c
 title:a997fa37ddc368a1cbb7
 title:a9a20f9358c921f37230
 title:a9c32a5f6bc4b167948d
+title:a9cdb5754298f4f866a7
 title:a9e6c8483ef4c9efd25e
 title:a9f25a11e75c3daaab26
 title:a9f85831653c703a4f5b
@@ -2327,11 +2334,13 @@ title:b20eab61a307643b239d
 title:b21cd8736955e3863239
 title:b232fe87041c5706f5ca
 title:b2347405c1069a751d80
+title:b271b0e3359c1330382d
 title:b281f5c5ad63f072bfc3
 title:b28227d09c11f027b01a
 title:b2860fc9abfb8cf8c896
 title:b28e6faf22887f506172
 title:b29b81db81b9c2451d56
+title:b2c15ff6e771df794c3e
 title:b31ab641c3910ecf6136
 title:b33f1fa3944595040ea8
 title:b3429d4d5ea13a0d6baa
@@ -2479,6 +2488,7 @@ title:c2a7b07413bd077fb1c7
 title:c2b7f8086e8bd5fdafeb
 title:c33dc0e9d370518ee4c6
 title:c340020b55dd87e3279a
+title:c341777fc6aceea89fdc
 title:c35b2c4398f87e9a5b8c
 title:c3746e70b92b83136cc9
 title:c3836d1440ddf99e4803
@@ -2585,6 +2595,7 @@ title:ceebad6570914f76172b
 title:cf12cbb76e2567f0a932
 title:cf19289aef491d0866b7
 title:cf346cec9bd9de8f47f6
+title:cf3652dd3471cafd4133
 title:cf38c7ca89dc89a8e3d9
 title:cf46357dab009d47610e
 title:cf5c17ee0e7091fcd82b
@@ -2952,6 +2963,7 @@ title:f4a00cc7b7e0288cdce0
 title:f4da634bc8604bdcf510
 title:f4dd8491906b936338ac
 title:f53a00f9adce3f321a53
+title:f542b21c6ec85b48ef84
 title:f5439b7a8ff4280c6bcc
 title:f563e067f94e18673a06
 title:f580836ce121747ff6e3
@@ -3404,6 +3416,7 @@ topic:6253ac56f87f35449671
 topic:62c93fce76d2f88363f9
 topic:631842700de2cbd10eb1
 topic:63378bf47bfea809aae8
+topic:633baf39f5d91a4afbb0
 topic:639e6578bcb2a5298b37
 topic:63aeb44375ffc867a2c0
 topic:63d3a121760ebba67db6
@@ -3499,6 +3512,7 @@ topic:7c0101a6d7a769edab88
 topic:7cb269ac267a437dc12b
 topic:7cdb923b6cebc545f450
 topic:7d20059e81e7ae667bd0
+topic:7d2cea0f00990b3a159b
 topic:7d6dcd7cdc4abe348fac
 topic:7df8e085d9f272a0614c
 topic:7df9f710bb800f1042be
@@ -3860,6 +3874,7 @@ topic:ea64e0d92ad7507297ae
 topic:ea82d6cdd48a8f7ec568
 topic:eb1854b6ac01821519f8
 topic:eb6b3e70ba72be3cdcc0
+topic:ec12b0b3a4550c350149
 topic:ecb1dc880414b253939e
 topic:ecf9ffaaf451a216e339
 topic:ed9174959531ee06695b
@@ -5092,6 +5107,7 @@ url:prtimes.jp/main/html/rd/p/000000074.000163718.html
 url:prtimes.jp/main/html/rd/p/000000079.000098998.html
 url:prtimes.jp/main/html/rd/p/000000082.000098998.html
 url:prtimes.jp/main/html/rd/p/000000083.000039528.html
+url:prtimes.jp/main/html/rd/p/000000086.000011922.html
 url:prtimes.jp/main/html/rd/p/000000087.000039528.html
 url:prtimes.jp/main/html/rd/p/000000088.000053811.html
 url:prtimes.jp/main/html/rd/p/000000095.000054747.html
@@ -5296,6 +5312,7 @@ url:skift.com/2026/08/04/hoshinos-nara-prison-leans-into-the-heritage-a-test-cas
 url:skift.com/2026/08/04/iran-war-drags-down-q2-earnings-for-big-hotel-chains/
 url:skift.com/2026/08/05/capital-one-travel-luxury-curation-strategy/
 url:skift.com/2026/08/05/choice-hotels-new-interim-ceos-first-task-fix-the-revenue-gap/
+url:skift.com/2026/08/05/expedia-is-investing-in-its-leading-b2b-product-as-competition-heats-up/
 url:smart.shimotsuke.co.jp/articles/-/1365966
 url:smhn.info/202608-fire-boltt-boltt-smartphone-india-flipkart-evo-ace?amp=
 url:south65.jp/%E5%A4%A7%E6%B1%9F%E6%88%B8%E6%B8%A9%E6%B3%89%E7%89%A9%E8%AA%9Epremium-%E7%AE%95%E9%9D%A2%E8%A6%B3%E5%85%89%E3%83%9B%E3%83%86%E3%83%AB%E3%81%8C10%E6%9C%881%E6%97%A5%E3%83%AA%E3%83%8B%E3%83%A5%E3%83%BC/
@@ -5458,6 +5475,7 @@ url:www.asahi.co.jp/webnews/pages/ann_000518577.html
 url:www.asahi.co.jp/webnews/pages/ann_000518578.html
 url:www.asahi.com/and/pressrelease/16630780
 url:www.asahi.com/and/pressrelease/16637518
+url:www.at-s.com/feed/article/pr_times/2030233.html
 url:www.atpress.ne.jp/news/610903
 url:www.atpress.ne.jp/news/621037
 url:www.atpress.ne.jp/news/6359539
@@ -5532,6 +5550,7 @@ url:www.breakingtravelnews.com/news/article/stradom-house-hotel-spa-autograph-co
 url:www.breakingtravelnews.com/news/article/suyian-homestead-where-rare-views-meet-the-warmth-of-andbeyond-hospitality/
 url:www.breakingtravelnews.com/news/article/swiss-belhotel-international-announces-the-opening-of-swiss-belhotel-nizwa/
 url:www.breakingtravelnews.com/news/article/taj-expands-its-european-luxury-portfolio-with-opening-of-taj-hessischer-ho/
+url:www.breakingtravelnews.com/news/article/tapestry-collection-by-hilton-debuts-in-vietnam-with-opening-of-nhaan-resor/
 url:www.breakingtravelnews.com/news/article/tfe-hotels-pulls-back-the-curtains-on-adinas-darling-harbourside-revival/
 url:www.breakingtravelnews.com/news/article/the-kontiki-opens-the-doors-to-22-new-rooms-and-suites-jungle-chic-down-to/
 url:www.breakingtravelnews.com/news/article/tivoli-hotels-resorts-launches-tivoli-palazzo-1880-lecce-hotel-bringing-the/
@@ -5583,6 +5602,7 @@ url:www.chunichi.co.jp/article/1274144?rct=
 url:www.commercepick.com/archives/95670
 url:www.commercepick.com/archives/97516
 url:www.coolkagawa.jp/news/entry-5691.html
+url:www.dreamnews.jp/press/0000358689
 url:www.ehime-np.co.jp/article/news202606290276
 url:www.excite.co.jp/news/article/AMP_503375/
 url:www.excite.co.jp/news/article/AMP_505257/
@@ -5749,6 +5769,8 @@ url:www.hospitalitynet.org/news/4133834/forbes-travel-guide-expands-mandarin-ori
 url:www.hospitalitynet.org/news/4133835/united-hospitality-management-accelerates-india-expansion-with-three-new-hotel-signings-with-ihg-hotels-resorts
 url:www.hospitalitynet.org/news/4133842/hotel-social-moves-into-the-boardroom-hospitality-social-media-summit-brings-a-two-day-commercial-programme-to-london-this-september
 url:www.hospitalitynet.org/news/4133850/asia-pacific-excluding-china-hotel-construction-pipeline-reaches-record-highs-at-the-close-of-q2-2026-plus-new-2028-forecast
+url:www.hospitalitynet.org/news/4133855/major-redevelopments-approved-for-ashfield-hotel-and-hurstville-ritz-hotel
+url:www.hospitalitynet.org/news/4133856/hsmai-dc-panel-will-examine-the-economic-and-commercial-forces-shaping-hotel-strategy
 url:www.hospitalitynet.org/opinion/4132458/the-role-of-operational-luxury-in-hospitality
 url:www.hospitalitynet.org/opinion/4132482/azuma-brand-launch-signals-larger-hotel-category-trends
 url:www.hospitalitynet.org/opinion/4132494/five-trends-every-hotel-leader-needs-to-watch-in-2026
@@ -5791,6 +5813,7 @@ url:www.htb.co.jp/news/archives_38613.html
 url:www.instagram.com/p/DZmsMUVH1D3/
 url:www.interactivecrypto.com/ja/2026-jul-2026-4
 url:www.itmedia.co.jp/news/articles/2607/15/news071.html
+url:www.iwate-np.co.jp/article/2026/8/7/195760
 url:www.iza.ne.jp/article/20260806-QIXRN7ISLNDP3MH3WYHWMTSNG4/
 url:www.iza.ne.jp/pressrelease/prtimes/QRFS456VS5JQDNP5T6KB27DQQU/
 url:www.iza.ne.jp/pressrelease/prtimes/SVFB3RB2KBIM7FZJCCRCRYSDRM/
@@ -5971,6 +5994,7 @@ url:www.nikkei.com/article/DGXZQOMG00008_U6A800C2000000/
 url:www.nikkei.com/article/DGXZQOUA02CM60S6A700C2000000/
 url:www.nikkei.com/article/DGXZQOUC03BCB0T00C26A7000000/
 url:www.nikkei.com/article/DGXZQOUC0677L0W6A800C2000000/
+url:www.nikkei.com/article/DGXZQOUC074LB0X00C26A8000000/
 url:www.nikkei.com/article/DGXZQOUC1413C0U6A710C2000000/
 url:www.nikkei.com/article/DGXZQOUC150JU0V10C26A6000000/
 url:www.nikkei.com/article/DGXZQOUC189UB0Y6A610C2000000/
@@ -6259,6 +6283,7 @@ url:www.vietnam.vn/ja/dat-vang-kim-ma-lai-day-song-vi-thuong-vu-ban-khach-san-da
 url:www.vietnam.vn/ja/doanh-nghiep-trung-dau-gia-dat-vang-xay-khach-san-5-sao-o-hn-bo-coc
 url:www.vietnam.vn/ja/doanh-nghiep-trung-dau-gia-khu-dat-vang-xay-khach-san-5-sao-o-ha-noi-bat-ngo-bo-coc
 url:www.vietnam.vn/ja/du-an-can-ho-khach-san-khu-trung-tam-duoc-nhieu-nguoi-nuoc-ngoai-thue-sap-ket-thuc-vi-sao
+url:www.vietnam.vn/ja/ecopark-ra-mat-biet-thu-dao-the-palm-island-tai-dai-do-thi-xanh-lon-nhat-mien-trung
 url:www.vietnam.vn/ja/hai-phong-khoi-cong-xay-dung-nha-luu-tru-cho-cong-nhan-chuyen-gia
 url:www.vietnam.vn/ja/iran-khoi-phuc-duong-bay-toi-uae-trong-boi-canh-cang-thang-khu-vuc-ha-nhiet
 url:www.vietnam.vn/ja/khu-du-lich-quat-lam-duoc-doi-ten-thanh-khu-du-lich-giao-ninh

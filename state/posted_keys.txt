@@ -316,6 +316,7 @@ facility:423a94407a27d35932fb
 facility:423b1adf19ee22757af1
 facility:42640109864dce63149a
 facility:42999bf266b74a25ca40
+facility:42e31a3c149501b34b9d
 facility:4304d23108ee8b7706e6
 facility:43508996ec46ffd035c5
 facility:439bfbd2e4b40298d243
@@ -337,6 +338,7 @@ facility:46d78ef2e105e184d100
 facility:46ecabed2f9dfff9460f
 facility:470e4fc40a3a2a0748d9
 facility:4730cac3450be854a8fd
+facility:4763f3306dc2565b4760
 facility:477bbe1eb7beb71738e2
 facility:47a135b068a99914bc60
 facility:47d0724631094219e9e0
@@ -1731,6 +1733,7 @@ title:1afaf9275417319aee7c
 title:1b023ae9023d162644e6
 title:1b08caeb8c6a78d1497c
 title:1b11d4cec1d3ec2c537a
+title:1b1cbadb3147d00c4aa5
 title:1b29f3200100a4b128bc
 title:1b350fbe5efd7757cc84
 title:1b387e9da527e7d4a57c
@@ -2390,6 +2393,7 @@ title:3ba535fdf3d75621a79e
 title:3bb66662a411897dea9b
 title:3bcfff4b9c3c10439570
 title:3be00f50d6c967c34489
+title:3c0503bd65d7184eeb77
 title:3c09962f1690ae938711
 title:3c19af767bf9ba079736
 title:3c22d454a12b0727077e
@@ -3097,6 +3101,7 @@ title:60bef5eaf8b32dfaf2de
 title:60c438ac3f0ef65d4c97
 title:60c97a0ec9ce59092fb8
 title:60cc45de5b2ceec82e12
+title:60e2d97b5b9241fb82f6
 title:60ee910bf9ea253b49f3
 title:60ff55d506012c3250c8
 title:60ffdc59ea361e0d62f8
@@ -3431,6 +3436,7 @@ title:706e228f4dfb4b02c0bb
 title:708e11b0b900d6b42bf6
 title:709d6ae3e158f7af687a
 title:709fd1a59c1ca61436d6
+title:70a04b0321f3555eb066
 title:711045fa9518a82189c0
 title:7114ca99ecbdd42dee9b
 title:712d274958877af27e93
@@ -3596,6 +3602,7 @@ title:78a8e870aa4f6b489cc9
 title:78a8f788bea9f4a64dc4
 title:78bb0f52afbc195ae89a
 title:78bbacde817e5e92db30
+title:78be21ba65d842d37caf
 title:78c2d10e001d723c6e58
 title:78c320ae6b690330e375
 title:78c6699cba6cc5c24d73
@@ -6003,6 +6010,7 @@ title:eedbc7538373581cb3a2
 title:eeea168d9d2285076c92
 title:eef06b0e7ecb52bc847a
 title:eef7333446699a5f3eee
+title:eefcf02c7d0dd7ea367a
 title:ef00b8d06d9194812408
 title:ef36bc8d88a4602ac65f
 title:ef38d8513f8430223454
@@ -6081,6 +6089,7 @@ title:f2e86167105c90d2d075
 title:f2ef0a00c4aef3d789d9
 title:f2f2863121e178598097
 title:f2f31415a5cf3cd6c5e1
+title:f300b08c8048a6208825
 title:f3013a3117d2907c3fc4
 title:f30eda98ceb5529dec97
 title:f377c99d2c5f2a2a30ce
@@ -6732,6 +6741,7 @@ topic:423b1adf19ee22757af1
 topic:42640109864dce63149a
 topic:428c8226c6951f5010a7
 topic:42999bf266b74a25ca40
+topic:42e31a3c149501b34b9d
 topic:433fd8e547d66449de6b
 topic:43508996ec46ffd035c5
 topic:436a340d1ef886048d3c
@@ -6759,6 +6769,7 @@ topic:46ecabed2f9dfff9460f
 topic:470e4fc40a3a2a0748d9
 topic:4730cac3450be854a8fd
 topic:47454538f3129b440acf
+topic:4763f3306dc2565b4760
 topic:477bbe1eb7beb71738e2
 topic:47a135b068a99914bc60
 topic:47d0724631094219e9e0
@@ -9663,6 +9674,7 @@ url:news.yahoo.co.jp/articles/95b7633bcb1cadba73803a9a2f05808c86c155f9?source=rs
 url:news.yahoo.co.jp/articles/96561d6218305ae96dbc84d00af4135aa26fe542
 url:news.yahoo.co.jp/articles/9694b4a000de37c8f6a1b44511e7adc174d1eac2?source=rss
 url:news.yahoo.co.jp/articles/96c2e67563664f690f3b48a9cebc15950b8d15a0
+url:news.yahoo.co.jp/articles/96e5eeb907c7a6b49a524326c89ff6b0189488c7?source=rss
 url:news.yahoo.co.jp/articles/970c23f6f09fb588b75f1db174be35184f51d320
 url:news.yahoo.co.jp/articles/970e5063ac2729edda697ce624f497760b7d4deb
 url:news.yahoo.co.jp/articles/9721d71749650551ea3981c4e9c1c837eb8847fb?source=rss
@@ -11253,7 +11265,9 @@ url:www.breakingtravelnews.com/news/article/hyatt-announces-plans-for-grand-hyat
 url:www.breakingtravelnews.com/news/article/hyatt-regency-london-olympia-opens-at-the-heart-of-west-londons-1.3-bn-land/
 url:www.breakingtravelnews.com/news/article/ibis-budget-welcomes-flagship-hotel-in-the-heart-of-barcelona/
 url:www.breakingtravelnews.com/news/article/ideas-named-a-leader-in-inaugural-idc-marketscape-for-hospitality-revenue-m/
+url:www.breakingtravelnews.com/news/article/ihg-expands-voco-hotels-to-muar-malaysia/
 url:www.breakingtravelnews.com/news/article/ihg-hotels-resorts-brings-crowne-plaza-to-vienna/
+url:www.breakingtravelnews.com/news/article/ihg-hotels-resorts-brings-kimpton-to-phang-nga-expanding-luxury-lifestyle-f/
 url:www.breakingtravelnews.com/news/article/ihg-hotels-resorts-cements-its-place-as-the-home-of-australian-rugby/
 url:www.breakingtravelnews.com/news/article/ihg-hotels-resorts-deepens-its-commitment-to-young-travellers/
 url:www.breakingtravelnews.com/news/article/ihg-hotels-resorts-expands-thailand-portfolio-with-holiday-inn-express-krab/
@@ -11287,6 +11301,7 @@ url:www.breakingtravelnews.com/news/article/minor-hotels-signs-first-nh-hotels-r
 url:www.breakingtravelnews.com/news/article/minor-hotels-strengthens-its-presence-in-austria/
 url:www.breakingtravelnews.com/news/article/minos-palace-resort-crete-unveils-new-infinity-lagoon-suites/
 url:www.breakingtravelnews.com/news/article/modon-holding-and-nammos-hotels-resorts-bring-nammos-ras-el-hekma-to-egypts/
+url:www.breakingtravelnews.com/news/article/moevenpick-opens-its-first-resort-on-the-croatian-coast/
 url:www.breakingtravelnews.com/news/article/new-luxury-hotel-the-yacht-opens-at-herzliya-marina-expanding-israels-coast/
 url:www.breakingtravelnews.com/news/article/nils-arne-schroeder-named-chief-operating-officer-of-langham-hospitality-gr/
 url:www.breakingtravelnews.com/news/article/nobu-hotel-ibiza-bay-launches-once-in-a-lifetime-celestial-auction-ahead-of/
@@ -11982,6 +11997,7 @@ url:www.jwing.net/news/110972
 url:www.jwing.net/news/111122
 url:www.kabutecho.com/interview/%E3%80%90ir%E3%80%91%E3%80%8C%E3%83%9B%E3%83%86%E3%83%AB%E3%81%AB%E3%80%81%E6%96%B0%E3%81%9F%E3%81%AA%E4%BE%A1%E5%80%A4%E3%82%92%E3%80%82%E3%80%8D-%E3%81%84%E3%81%A1%E3%81%94%E3%81%8C%E6%8F%8F/
 url:www.kagawabiz-news.media/keizai/13275
+url:www.kagawabiz-news.media/todayskagawa/13549
 url:www.kanaloco.jp/news/economy/article-1292116.html
 url:www.kanaloco.jp/news/economy/article-1295669.html
 url:www.kankokeizai.com/2605171100kks/
@@ -12350,6 +12366,7 @@ url:www.nankainn.com/news/p-economy/%E5%9C%B0%E5%9F%9F%E7%A4%BE%E4%BC%9A%E3%81%A
 url:www.nara-np.co.jp/global/2026061501001447.html
 url:www.nara-np.co.jp/news/20260603200532.html
 url:www.nara-np.co.jp/prtimes/prtc24246_r1288.html
+url:www.ncctv.co.jp/imakore/article/16762545?ro=
 url:www.ncctv.co.jp/news/article/16701494
 url:www.netdenjd.com/archives/687691
 url:www.newsweekjapan.jp/articles/-/329326
@@ -13081,6 +13098,7 @@ url:www.vietnam.vn/ja/expedia-xep-phu-quoc-vao-top-10-hon-dao-nghi-duong-noi-bat
 url:www.vietnam.vn/ja/festival-bien-khanh-hoa-2026-khach-san-chay-phong-chuyen-bay-den-nha-trang-tang-vot
 url:www.vietnam.vn/ja/gia-nhien-lieu-ha-nhiet-vi-sao-ve-may-bay-van-neo-cao
 url:www.vietnam.vn/ja/hai-phong-khoi-cong-xay-dung-nha-luu-tru-cho-cong-nhan-chuyen-gia
+url:www.vietnam.vn/ja/hue-nghien-cuu-y-tuong-mo-hinh-luu-tru-trai-nghiem-tren-song-huong
 url:www.vietnam.vn/ja/iran-khoi-phuc-duong-bay-toi-uae-trong-boi-canh-cang-thang-khu-vuc-ha-nhiet
 url:www.vietnam.vn/ja/iran-noi-lai-duong-bay-toi-uae
 url:www.vietnam.vn/ja/khach-khong-ve-duoc-dat-lien-do-bao-so-1-chu-khach-san-mo-lon-chieu-dai

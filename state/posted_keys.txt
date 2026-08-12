@@ -706,6 +706,7 @@ facility:8e0c55c85b470fa27091
 facility:8e2894705eaf8d7964bc
 facility:8e3b3ce82d016caf86f5
 facility:8e488f8b3882543cd6a6
+facility:8e8413dc6ca0e6ad0514
 facility:8eed6617be30a1ef4081
 facility:8ef8948a64564da91475
 facility:8f4210a91de33f0d7018
@@ -762,6 +763,7 @@ facility:9a49393ce49fb2c30c91
 facility:9a7b24cf7180cfce82d2
 facility:9a964869ffab9f58aaa1
 facility:9ab619305b0d08291916
+facility:9b639ea1c90405b959ae
 facility:9bd3e7188ad27e3f9605
 facility:9c2d51fa93f5c553f919
 facility:9c60d86ed953fa76de32
@@ -1093,6 +1095,7 @@ facility:df3e3c20841617677283
 facility:df569a1d95e0d570d6f8
 facility:df8cad85b2840b2192a5
 facility:dfb04453a7fbdc7f6887
+facility:dfd8c50faf297504bfef
 facility:e01ce0191b2b8ca4cbc6
 facility:e07e7a357c4135b55242
 facility:e0dd2bac1b90f3996b96
@@ -1212,6 +1215,7 @@ facility:f8d1f8eb8f09b025bbdb
 facility:f8de7a1547bed46ac29b
 facility:f90ad2d20a4844edce1a
 facility:f98f21f0015042ceeca9
+facility:f9dd1ab9ce4c45a5ccfc
 facility:fa223ed8c5876abec2d2
 facility:fa4efb0fa23a50a3eb18
 facility:fa6edadf149d4ba75c25
@@ -1266,6 +1270,7 @@ title:01c10de66475f369fe79
 title:01c9f5d3f180cc8b3227
 title:01d0be6b76efb1b4287f
 title:01dec3a41dc78ec18f0a
+title:01e243a429a64d1d533d
 title:01fb2c2ac2590a6380c0
 title:021e33054ddb953eef57
 title:02263e108886101d15db
@@ -2235,6 +2240,7 @@ title:30d79df75c1e9beed2e0
 title:30f66fe2be2eccae9eaf
 title:312515b71f5a6e632719
 title:312bba21016d001d3f37
+title:31359da8869aceb28b7a
 title:315512cde54c7ef6cc53
 title:315689929f10eb0b7c20
 title:317675277e2abfeaaa81
@@ -2731,6 +2737,7 @@ title:493d117792b35fc7783f
 title:493dcf93b72019432a79
 title:494cba835212aef9ae4c
 title:4953a3c7827851b527e9
+title:495ae359d60a2093640b
 title:4973cb2f7c09257c7bc9
 title:49773521ec04eaf2c9bf
 title:49861115374bac786cbf
@@ -2910,6 +2917,7 @@ title:52eb6555ababa24bcea9
 title:53005711e737cdedab7d
 title:531a868ec38d035e6c9f
 title:5324ded2d043fa11cd35
+title:5330bffcf1dfacb13f99
 title:5332a65b18b9a1e188f6
 title:5337ef8df153ad9a56cb
 title:535487749fc7f68b3e76
@@ -3168,6 +3176,7 @@ title:5f52479be7d6eaca64c7
 title:5f5ac393437177365406
 title:5f666962219dc1d696e8
 title:5f6b97ed158a1f485932
+title:5f7220614ced557424aa
 title:5f7d649597290f8ae2e2
 title:5f8665463c969e3e15ba
 title:5f86a8ca39769a0ae164
@@ -4183,6 +4192,7 @@ title:8f0ee08a1a92bed42040
 title:8f254d806d1c257ada0c
 title:8f3ae8cb25145949f6b6
 title:8f3c29f557f5c14b74b4
+title:8f50b189ea0579464cea
 title:8f57931ef3b06ff89c9d
 title:8f6d903704ac6bd162eb
 title:8f81ef9ffd8d13ca4814
@@ -4198,6 +4208,7 @@ title:90083420b714e1b90764
 title:90184be96425b05d8b15
 title:9034f14ec527bed83fc8
 title:903ab1186da7b3cee89d
+title:904711c29a55bf2601ec
 title:9047ee0b34362d7b2463
 title:904d05e0a3e52f8ff4b7
 title:904f78a1599ca6b56c06
@@ -4492,6 +4503,7 @@ title:9d53964b6dcc5282e97e
 title:9d5efb3c6cab6500c4a8
 title:9d802d0af21036532afc
 title:9d82f79b334070d895a1
+title:9d8ee3d356044cd4bcc4
 title:9d9488dd27e72c3013f5
 title:9d9fc77423609452e726
 title:9db1dcdd2af64c9aa84f
@@ -5328,6 +5340,7 @@ title:c556eb06515ee9c9aea7
 title:c579bb602c1d51620876
 title:c584b1914af2cd54ca63
 title:c58a4160e11bbea870a7
+title:c590a39de52abd78490a
 title:c59d37651bf3753aff4a
 title:c59d9470f845a4eea24f
 title:c5ac95b298094cbb8de5
@@ -5862,6 +5875,7 @@ title:ded1d95ed9046c541619
 title:ded38110160fe2526e25
 title:dee03ca36aaa0eb1c949
 title:dee60a74ed222b0e6542
+title:dee9ff41c5ae56a8b5ee
 title:deec8f8a520b97340de2
 title:deeeb3b5c534c005aa02
 title:def2399ea8b46fbe2574
@@ -6255,6 +6269,7 @@ title:f190b3b2757eb631e1ac
 title:f198a159274580898c36
 title:f1b0438c043c3490ece5
 title:f1b3f4d89af37eaa38b4
+title:f1caca280a8dd795ae19
 title:f1e8e8e26a8df92c3fac
 title:f1f1197a4607ecb29ab3
 title:f1f83ef3040efc4335dc
@@ -6900,6 +6915,7 @@ topic:396a3b88f0b6042a979f
 topic:396e768d5252038aab4d
 topic:3984d8c1e90c2b58efdc
 topic:399c9af6558a748883be
+topic:399facb5bf3dec6b31f8
 topic:39a0290662d6315017e2
 topic:39a3bafa67f140bc80d8
 topic:39b6fef51c422617ab4e
@@ -7448,6 +7464,7 @@ topic:8e0c55c85b470fa27091
 topic:8e2894705eaf8d7964bc
 topic:8e3b3ce82d016caf86f5
 topic:8e488f8b3882543cd6a6
+topic:8e8413dc6ca0e6ad0514
 topic:8eed6617be30a1ef4081
 topic:8ef8948a64564da91475
 topic:8f0069ad1c879ed3d057
@@ -7519,6 +7536,7 @@ topic:9a7b24cf7180cfce82d2
 topic:9a964869ffab9f58aaa1
 topic:9a9da1ca78b4cfdf96a8
 topic:9ab619305b0d08291916
+topic:9b639ea1c90405b959ae
 topic:9bc9a812ed5b7eb59347
 topic:9bd3e7188ad27e3f9605
 topic:9c24e38cec88d9a85eaa
@@ -7962,6 +7980,7 @@ topic:df569a1d95e0d570d6f8
 topic:df7a5d7a6406dfae287b
 topic:df8cad85b2840b2192a5
 topic:dfb04453a7fbdc7f6887
+topic:dfd8c50faf297504bfef
 topic:e01ce0191b2b8ca4cbc6
 topic:e03ec54dc0117b86c5aa
 topic:e073800200466bcccb0a
@@ -8115,6 +8134,7 @@ topic:f8d1f8eb8f09b025bbdb
 topic:f8de7a1547bed46ac29b
 topic:f90ad2d20a4844edce1a
 topic:f98f21f0015042ceeca9
+topic:f9dd1ab9ce4c45a5ccfc
 topic:fa12a9e1790fbfa8782e
 topic:fa223ed8c5876abec2d2
 topic:fa4efb0fa23a50a3eb18
@@ -8182,6 +8202,7 @@ url:aomori.keizai.biz/headline/446/
 url:article.auone.jp/1719da61-e4d8-4762-b82e-2289607104a6
 url:article.auone.jp/242864f2-670a-41af-a55e-fedc579e940b
 url:article.auone.jp/25111b81-a597-4d01-a309-f50afdf73d86
+url:article.auone.jp/255d09f8-b06d-4c09-8da3-3c958172af43
 url:article.auone.jp/3278584c-1836-4778-864f-0cce4788887f
 url:article.auone.jp/4744533b-442d-48bc-bbdf-2563f93e8cb0
 url:article.auone.jp/53b72b53-8b66-41f0-846f-297efb73a9e0
@@ -8315,6 +8336,7 @@ url:biz.chunichi.co.jp/news/article/10/128303/
 url:biz.chunichi.co.jp/news/article/10/128367/2/
 url:biz.chunichi.co.jp/news/article/10/128492/
 url:biz.chunichi.co.jp/news/article/10/128798/2/
+url:biz.chunichi.co.jp/news/article/10/128798/515/
 url:biz.chunichi.co.jp/news/article/10/129018/
 url:building-pc.cocolog-nifty.com/map/2026/06/post-c87999.html
 url:building-pc.cocolog-nifty.com/map/2026/06/post-e318bf.html
@@ -8651,6 +8673,7 @@ url:hotelbank.jp/revenue-management/hyogo-booking-curve-by-category-lt45-2026/
 url:hotelbank.jp/revenue-management/iwate-obon-booking-curve-3points-2026/
 url:hotelbank.jp/revenue-management/oita-ryokan-resort-2026-09-lead-time-45-30-lastminute/
 url:hotelbank.jp/revenue-management/shimane-obon-2026-booking-curve-t45-t30-t14/
+url:hotelbank.jp/revenue-management/weekend-premium-distribution-4-markets-2026/
 url:hotelbank.jp/seasonal-events/aichi-asian-games-2026-hotel-demand/
 url:hotelbank.jp/seasonal-events/early-autumn-foliage-2026-hokkaido-tohoku/
 url:hotelbank.jp/seasonal-events/fireworks-viewing-stay-2026-experience-design/
@@ -9365,6 +9388,7 @@ url:news.nicovideo.jp/watch/nw19641195?news_ref=
 url:news.nicovideo.jp/watch/nw19646492?news_ref=
 url:news.nicovideo.jp/watch/nw19647779?news_ref=
 url:news.nicovideo.jp/watch/nw19649962?news_ref=
+url:news.nicovideo.jp/watch/nw19654357?news_ref=
 url:news.ntv.co.jp/category/economy/747d8b8e84ac42e79591407e19a65274
 url:news.ntv.co.jp/category/economy/fb34e3ade2704149e08213418a52ed1d31
 url:news.ntv.co.jp/category/economy/nkeb8c6885f157429981abb009ba4cdb8d
@@ -9573,6 +9597,7 @@ url:news.yahoo.co.jp/articles/222f41b3be7c0d0b6831d84fe03b9d754ee56403?source=rs
 url:news.yahoo.co.jp/articles/228a7cb118c5fc76a94a1496272445a25f4b40be?source=rss
 url:news.yahoo.co.jp/articles/230d8fab92e9e448a31fb9dbefa48f43c2206467
 url:news.yahoo.co.jp/articles/230d8fab92e9e448a31fb9dbefa48f43c2206467?source=rss
+url:news.yahoo.co.jp/articles/23304bc5cafafde6a44e097bf7eff5b2f51e9b71?source=rss
 url:news.yahoo.co.jp/articles/2363dd725d7c62e4aa03c1eaacb58738c7bc98ef
 url:news.yahoo.co.jp/articles/23f42ba4090fb72df1de387f5ed14a7378d3dd9a
 url:news.yahoo.co.jp/articles/2521775c637b0f5b33d75d16fb4991303a5e0e1e?source=rss
@@ -10037,6 +10062,7 @@ url:news.yahoo.co.jp/articles/a7a3821362b8c3acdc482a3172a927594ab20a72
 url:news.yahoo.co.jp/articles/a7d48d6c139cd490cca2d3c97d8120b13e4b0fc8?source=rss
 url:news.yahoo.co.jp/articles/a8040995d5f78f49c8e3734da27a159fe73a46dc?source=rss
 url:news.yahoo.co.jp/articles/a827c073f26c87a7832c68d46a44cac93db5c5ae?source=rss
+url:news.yahoo.co.jp/articles/a92abe93e03065e9c9fe4b5d60666a1d24877d06?source=rss
 url:news.yahoo.co.jp/articles/a95a9f295fae634f63ae86b9e28eff02b4ad5915
 url:news.yahoo.co.jp/articles/a972198fa5088140cce8aa6a1d781048627d2b43
 url:news.yahoo.co.jp/articles/a9b5125ba603df0280b1e56823c0bf53808cc8e2
@@ -10075,6 +10101,7 @@ url:news.yahoo.co.jp/articles/b4aa14a3b246eeee235217805b38806477067674
 url:news.yahoo.co.jp/articles/b4aa14a3b246eeee235217805b38806477067674?source=rss
 url:news.yahoo.co.jp/articles/b4b908e2c288e3f96ec61d73d48ab4c9ba8b24cc?source=rss
 url:news.yahoo.co.jp/articles/b4fc5687ad4e0901d502d5848703da037286391d?source=rss
+url:news.yahoo.co.jp/articles/b546af30b77e1785c9e3626d69f1ab68b0070984?source=rss
 url:news.yahoo.co.jp/articles/b57920f703d5ecf83dc4bbe186e780467271ff8a
 url:news.yahoo.co.jp/articles/b57920f703d5ecf83dc4bbe186e780467271ff8a?source=rss
 url:news.yahoo.co.jp/articles/b583a8d79be8f1db2e81f5b7aeed1cebbcf0c16b?source=rss
@@ -10759,10 +10786,12 @@ url:prtimes.jp/main/html/rd/p/000000162.000010787.html
 url:prtimes.jp/main/html/rd/p/000000164.000069732.html
 url:prtimes.jp/main/html/rd/p/000000165.000151514.html
 url:prtimes.jp/main/html/rd/p/000000166.000038388.html
+url:prtimes.jp/main/html/rd/p/000000166.000069732.html
 url:prtimes.jp/main/html/rd/p/000000168.000044523.html
 url:prtimes.jp/main/html/rd/p/000000169.000069368.html
 url:prtimes.jp/main/html/rd/p/000000170.000151514.html
 url:prtimes.jp/main/html/rd/p/000000174.000069732.html
+url:prtimes.jp/main/html/rd/p/000000178.000069732.html
 url:prtimes.jp/main/html/rd/p/000000181.000051014.html
 url:prtimes.jp/main/html/rd/p/000000187.000053694.html
 url:prtimes.jp/main/html/rd/p/000000188.000033161.html
@@ -12228,6 +12257,7 @@ url:www.hospitalitynet.org/news/4133888/us-hotel-forecast-assumptions-august-202
 url:www.hospitalitynet.org/news/4133896/the-ava-hotel-paso-robles-selects-iris-to-unlock-smarter-guest-experiences-and-new-f-b-revenue
 url:www.hospitalitynet.org/news/4133897/world-sustainable-travel-hospitality-awards-opens-entries-for-2026-programme
 url:www.hospitalitynet.org/news/4133898/five-reasons-why-adding-digital-tipping-to-the-2027-budget-can-boost-employee-retention-and-guest-satisfaction
+url:www.hospitalitynet.org/news/4133902/what-role-does-a-key-card-play-in-a-hotels-identity-infrastructure
 url:www.hospitalitynet.org/opinion/4132458/the-role-of-operational-luxury-in-hospitality
 url:www.hospitalitynet.org/opinion/4132482/azuma-brand-launch-signals-larger-hotel-category-trends
 url:www.hospitalitynet.org/opinion/4132494/five-trends-every-hotel-leader-needs-to-watch-in-2026
@@ -13080,6 +13110,7 @@ url:www.sanyonews.jp/article/1887507
 url:www.sanyonews.jp/article/1889878
 url:www.sanyonews.jp/article/1891479
 url:www.sanyonews.jp/article/1895505
+url:www.sanyonews.jp/article/1899009
 url:www.sanyonews.jp/article/1901313?kw=
 url:www.sanyonews.jp/article/1901685
 url:www.sanyonews.jp/article/1905993

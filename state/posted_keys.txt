@@ -444,6 +444,7 @@ facility:57977b0c0016b7ec77c3
 facility:579b28396e4a19ae65b9
 facility:5802c169116228c70088
 facility:580a234f0d12f52475e1
+facility:584be09b9b908c7d4136
 facility:5889a0f8cf65bb8efbca
 facility:589d30ab807cb67d5ac5
 facility:58eadf8c0cd1bc5656ad
@@ -1164,6 +1165,7 @@ facility:ecb1dc880414b253939e
 facility:ecb74c906137e1db33cf
 facility:ecf9ffaaf451a216e339
 facility:edd55c162655922e20b7
+facility:edf154499698c2bf5b1c
 facility:ee5f8484aa695dc3047a
 facility:ee66c5a9f24528eed375
 facility:ee742798f3dcb2efc28d
@@ -1301,6 +1303,7 @@ title:02d4eb8e2e6de38b6c24
 title:02e337d9dd1857440518
 title:02ed4e361efd10211b30
 title:02f12d843da278da193f
+title:02f404967bb40c23213a
 title:02fae6df3d32fd0a0510
 title:02faeeccdb4c313f4c68
 title:03172a4385a10fc7ac31
@@ -2413,6 +2416,7 @@ title:3870d27500fe662183b5
 title:3879734a7df2cc3b8e49
 title:38853efc3da9c24b9a6c
 title:388f4bfc185628d03d00
+title:3891b0365d7e72b3f2be
 title:38a29ebebd1c29bf139f
 title:38a96572662d53333506
 title:38aa5c7e1f8f79b998f0
@@ -4024,6 +4028,7 @@ title:85f07c024445cd53db0a
 title:85f61ea0478d5852bb2c
 title:85fe0e9b27ee8420fca1
 title:860292630ed0a0967f48
+title:8628ee52c9700c6879bb
 title:862fe6f12bcd70a8a71b
 title:86322a2c6b54f890ba6f
 title:864a97d40081eabb961d
@@ -4036,6 +4041,7 @@ title:86bf827a94e1a88e24ec
 title:86dd2875bc4580a03f4b
 title:86e7e219edc769dd79e5
 title:86e7e2d6954422f97c26
+title:86ec053d30f68cf7251e
 title:86ec6267860c84f9fe11
 title:86f997be4424daef8392
 title:8706527659a38b1cc9ee
@@ -4687,6 +4693,7 @@ title:a40cc549d33c4c66add7
 title:a42f563f1c158ed7edba
 title:a438a1b8dd38b5ebacaa
 title:a459e97a840a86a053df
+title:a45aa4065a9fcfb56ad1
 title:a45e5c165c6993a64054
 title:a45ed6a5836754cf81ca
 title:a466a9f3e881cddec389
@@ -4910,6 +4917,7 @@ title:af6f91f3c5eceaf8fcfc
 title:af78226ac7a34fd93f60
 title:af7d17372a25db7b2720
 title:af7f9f528abd25f31b08
+title:af8b4f5ac4a527f6f5a9
 title:af91a8e840ad7771ccbc
 title:afac0df3c5915fafa2b7
 title:afdbea9f4a83c304812c
@@ -5234,6 +5242,7 @@ title:bed5e53eaa8234da5681
 title:bf0e6948c0744b48d2b4
 title:bf101bd6a07d73c84046
 title:bf194a53ccfe11dff072
+title:bf1bdbf5f0df62a84041
 title:bf23451246eff8907a9e
 title:bf32ccbe568d6091b6c2
 title:bf3757cdc9781b0b1e84
@@ -6101,6 +6110,7 @@ title:e83843a4edc4e27cbd23
 title:e85d1a3642bf75866b84
 title:e8618ab7711cdf1fe713
 title:e8628f0f438df34c5736
+title:e865edacd9c8bf87d53d
 title:e870a85498a928ce9ce3
 title:e873f3e667cc959d3c8e
 title:e877660e41787c3b9ee4
@@ -6184,6 +6194,7 @@ title:eb854c3c25ad39ef42a2
 title:eb8b4ab1a8b2bb365d44
 title:eb90eb9d0bd8f855f829
 title:eba74e99ac21083e18f6
+title:ebaa3c9716471599ad72
 title:ebbfc13a79105aaa471a
 title:ebd26938ebc2740d93b4
 title:ebdb3eb938bb34e73fc3
@@ -6231,6 +6242,7 @@ title:ee167067664f3cec3306
 title:ee2e1ce46fb1533f6daf
 title:ee2f43a8d649c8b44f7a
 title:ee3a5808f9cd7eb1ef12
+title:ee554f7bac1ed3dc8dfa
 title:ee65ad87514f5726c3d5
 title:ee664c935400ce3283c1
 title:ee66aa44d19215ce8154
@@ -6353,6 +6365,7 @@ title:f4625ea44a63288d9efd
 title:f4684e361596f5d6c9ab
 title:f4839bf8d5d103975286
 title:f490fb7fc333fb24d8ef
+title:f498685c864cadc0cd73
 title:f49ffb2c770252efe7ee
 title:f4a00cc7b7e0288cdce0
 title:f4da634bc8604bdcf510
@@ -7147,6 +7160,7 @@ topic:57e5ebffe230766a7d97
 topic:57ed36e0991571a1db50
 topic:5802c169116228c70088
 topic:580a234f0d12f52475e1
+topic:584be09b9b908c7d4136
 topic:58765fdb06ae52c3c0ef
 topic:5889a0f8cf65bb8efbca
 topic:589d30ab807cb67d5ac5
@@ -8094,6 +8108,7 @@ topic:ecf9ffaaf451a216e339
 topic:ed9174959531ee06695b
 topic:eda304046c5a317651b0
 topic:edd55c162655922e20b7
+topic:edf154499698c2bf5b1c
 topic:ee1b7dfb95e6be0f354a
 topic:ee5f8484aa695dc3047a
 topic:ee64c7dd5051578b01b6
@@ -8235,6 +8250,7 @@ url:ampmedia.jp/2026/08/05/kubota-field/
 url:ampmedia.jp/2026/08/05/the-mark-grand-hotel/
 url:aomori.keizai.biz/headline/446/
 url:article.auone.jp/1719da61-e4d8-4762-b82e-2289607104a6
+url:article.auone.jp/1ae1883f-f487-4e57-bf1a-575f03c55458
 url:article.auone.jp/242864f2-670a-41af-a55e-fedc579e940b
 url:article.auone.jp/25111b81-a597-4d01-a309-f50afdf73d86
 url:article.auone.jp/255d09f8-b06d-4c09-8da3-3c958172af43
@@ -8373,6 +8389,7 @@ url:biz.chunichi.co.jp/news/article/10/128492/
 url:biz.chunichi.co.jp/news/article/10/128798/2/
 url:biz.chunichi.co.jp/news/article/10/128798/515/
 url:biz.chunichi.co.jp/news/article/10/129018/
+url:biz.chunichi.co.jp/news/article/10/129300/
 url:building-pc.cocolog-nifty.com/map/2026/06/post-c87999.html
 url:building-pc.cocolog-nifty.com/map/2026/06/post-e318bf.html
 url:building-pc.cocolog-nifty.com/map/2026/06/post-ef99a0.html
@@ -11134,6 +11151,7 @@ url:sapporo-sokuho.com/archives/post-107123.html
 url:sapporo.keizai.biz/gpnews/1729075/
 url:sapporo.keizai.biz/headline/5092/
 url:sapporo.keizai.biz/release/603241/
+url:sapporokara.com/2026/08/12/hokkaido-tourism-trends-2025/
 url:sasaru.media/article/weather/20260703_005/
 url:sasaru.media/article/weather/20260714_001/
 url:sendai.keizai.biz/headline/4405/
@@ -11701,6 +11719,7 @@ url:www.breakingtravelnews.com/news/article/ihg-hotels-resorts-deepens-its-commi
 url:www.breakingtravelnews.com/news/article/ihg-hotels-resorts-expands-thailand-portfolio-with-holiday-inn-express-krab/
 url:www.breakingtravelnews.com/news/article/ihg-hotels-resorts-to-open-first-kimpton-in-indonesia/
 url:www.breakingtravelnews.com/news/article/ihg-hotels-resorts-unveils-new-dual-branded-even-hotel-and-staybridge-suite/
+url:www.breakingtravelnews.com/news/article/ihg-introduces-its-new-premium-collection-brand-noted-collection-to-the-mid/
 url:www.breakingtravelnews.com/news/article/inside-hawaiis-newest-luxury-icon-ka-lai-waikiikii-beach-lxr-hotels-resorts/
 url:www.breakingtravelnews.com/news/article/ja-resorts-hotels-wins-prestigious-marketing-excellence-award-at-gha-awards/
 url:www.breakingtravelnews.com/news/article/jacks-club-at-the-st.-regis-bali-resort/
@@ -11735,6 +11754,7 @@ url:www.breakingtravelnews.com/news/article/modon-holding-and-nammos-hotels-reso
 url:www.breakingtravelnews.com/news/article/moevenpick-opens-its-first-resort-on-the-croatian-coast/
 url:www.breakingtravelnews.com/news/article/nebi-ozan-ozdemir-appointed-cluster-general-manager-of-alila-hinu-bay-and-a/
 url:www.breakingtravelnews.com/news/article/new-luxury-hotel-the-yacht-opens-at-herzliya-marina-expanding-israels-coast/
+url:www.breakingtravelnews.com/news/article/nihi-rote-hospitality-academy-appoints-puspa-anggareni-as-general-manager/
 url:www.breakingtravelnews.com/news/article/nils-arne-schroeder-named-chief-operating-officer-of-langham-hospitality-gr/
 url:www.breakingtravelnews.com/news/article/nobu-hotel-ibiza-bay-launches-once-in-a-lifetime-celestial-auction-ahead-of/
 url:www.breakingtravelnews.com/news/article/nobu-to-launch-hotel-restaurant-villas-and-residences-at-monte-rei-in-portu/
@@ -12312,6 +12332,7 @@ url:www.hospitalitynet.org/news/4133896/the-ava-hotel-paso-robles-selects-iris-t
 url:www.hospitalitynet.org/news/4133897/world-sustainable-travel-hospitality-awards-opens-entries-for-2026-programme
 url:www.hospitalitynet.org/news/4133898/five-reasons-why-adding-digital-tipping-to-the-2027-budget-can-boost-employee-retention-and-guest-satisfaction
 url:www.hospitalitynet.org/news/4133902/what-role-does-a-key-card-play-in-a-hotels-identity-infrastructure
+url:www.hospitalitynet.org/news/4133904/hvs-asia-pacific-hospitality-newsletter-week-ending-7-august-2026
 url:www.hospitalitynet.org/news/4133910/iceportal-content-surpasses-650-demand-channels-expanding-hospitalitys-largest-hotel-content-distribution-ecosystem
 url:www.hospitalitynet.org/opinion/4132458/the-role-of-operational-luxury-in-hospitality
 url:www.hospitalitynet.org/opinion/4132482/azuma-brand-launch-signals-larger-hotel-category-trends
@@ -12570,6 +12591,7 @@ url:www.kankokeizai.com/2608050930kks/
 url:www.kankokeizai.com/2608060730kks/
 url:www.kankokeizai.com/2608090730kks/
 url:www.kankokeizai.com/2608091400kks/
+url:www.kankokeizai.com/2608122000kks/
 url:www.kankokeizai.com/2608281100kks/
 url:www.kankokeizai.com/2697211230kks/
 url:www.kankokeizai.com/2707270830kks/
@@ -13035,6 +13057,7 @@ url:www.okinawatimes.co.jp/articles/-/1898619
 url:www.okinawatimes.co.jp/articles/-/1898745
 url:www.okinawatimes.co.jp/articles/-/1900572
 url:www.okinawatimes.co.jp/articles/-/1900668
+url:www.okinawatimes.co.jp/articles/-/1900894
 url:www.oricon.co.jp/news/2468034/
 url:www.oricon.co.jp/pressrelease/2863263/
 url:www.oricon.co.jp/pressrelease/2910994/
@@ -13068,6 +13091,8 @@ url:www.re-port.net/amp/article/news/0000082333/
 url:www.re-port.net/amp/article/news/0000082376/
 url:www.re-port.net/article/news/0000082280/
 url:www.re-port.net/article/news/0000082328/
+url:www.re-port.net/article/news/0000082589/
+url:www.re-port.net/article/news/0000082598/
 url:www.recordchina.co.jp/b982625-s39-c30-d0195.html
 url:www.recordchina.co.jp/b989327-s12-c30-d0189.html
 url:www.recordchina.co.jp/en/b985003-s25-c30-d0197.html
@@ -13441,6 +13466,7 @@ url:www.traicy.com/posts/20260805378151/
 url:www.traicy.com/posts/20260806374284/
 url:www.traicy.com/posts/20260806378259/
 url:www.traicy.com/posts/20260810378643/
+url:www.traicy.com/posts/20260812378820/
 url:www.travelnews.co.jp/news/inbound/2026061912010349639.html
 url:www.travelnews.co.jp/news/inbound/2026072109010350005.html
 url:www.travelnews.co.jp/news/inbound/2026072209015250003.html

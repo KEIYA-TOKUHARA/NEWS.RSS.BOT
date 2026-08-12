@@ -484,6 +484,7 @@ facility:600e0f0ba05058bc1d49
 facility:60bddc564fa54a29439e
 facility:60c9c9ccbabdaae124df
 facility:60e33268bfe6f0c784c6
+facility:60fb809601c62ebb57a6
 facility:61177ea6794e17a7dc0b
 facility:611bcb351821d1f78638
 facility:613f2185db358e4af044
@@ -745,6 +746,7 @@ facility:94a59d4b436b962a6846
 facility:94ddce074e0973ebadd1
 facility:94defce385bac2f96c61
 facility:950784a32884af0acd2a
+facility:95411246d5a29c8894f1
 facility:958b624448fee272f30b
 facility:969e10cb4f474837cddc
 facility:96c63435d0ab4cb3903a
@@ -1830,6 +1832,7 @@ title:1d418928ddc553266dce
 title:1d5d71b1e3cbe615446f
 title:1d61c007cc199b9c31f4
 title:1d78cdc00709c64a4aaa
+title:1d8d27424eaf0bb4ccc0
 title:1d8dd6b7905e52e5def0
 title:1dae8e65447678666dbb
 title:1db98e454b6b1511ab7a
@@ -1953,6 +1956,7 @@ title:2306564f5a72021622b9
 title:23098ba14a4e4fdcb776
 title:2313a6b4afe20ea9eb68
 title:23422d8afc3b8bbab5e8
+title:23709cfdb2b2bd0d1ea6
 title:2379b1e03095a2dbd085
 title:237af190ea8ccbb61fd5
 title:238ee22cfcfceea8169b
@@ -2583,6 +2587,7 @@ title:412b3fbf7d907910fdaa
 title:4131ba327c6b813ba0e8
 title:4138664e6ac15b5ab1c0
 title:413fb948b8bf02dd4642
+title:4141da072d0b80c90bf7
 title:41473751da775ee886ba
 title:414b342760e1de229abb
 title:4150b0e5008c345339e8
@@ -3685,6 +3690,7 @@ title:76404bbafa65965192b1
 title:76513d29c81672d2a694
 title:7661fbab72234f02b043
 title:766b1346b532ec0bac07
+title:76909e5127eae353507b
 title:7691d6c39ac7e462f785
 title:76981b2fd9db045bbd6e
 title:7698527fe4c3f7f8c124
@@ -4450,6 +4456,7 @@ title:9a81f8a8b48db9fa0f5b
 title:9a892fb9f637661988be
 title:9a8989d351fa69f842a6
 title:9ab5a29f48616417fce1
+title:9ab84ae065e7fa0f1a9c
 title:9abef9215676438c8a04
 title:9ad0d87fc0492914628d
 title:9ada2ed23981a0a2e927
@@ -5520,6 +5527,7 @@ title:ce567bf74aa8688082c2
 title:ce71510a6b73139e4137
 title:ce7e36341d6ae599c418
 title:ce822e06c0b3774c658c
+title:ce8da59258a14560a213
 title:cea442f2e3b98ebc4fde
 title:cea5b2a7d72843fc05ea
 title:ceaac5c149aa87aad85d
@@ -5836,6 +5844,7 @@ title:dc63cbd9422b933a9602
 title:dc669cda7477f92288d6
 title:dc73e95871bf442387bc
 title:dc7717b531ff5a81c569
+title:dc8a58164321b113404d
 title:dc92790cef35eac7db29
 title:dc9aa788d2a72b26531d
 title:dca0c6bffd0589614b31
@@ -5912,6 +5921,7 @@ title:dfd2b8cf9503bdafe8a9
 title:dfde9a61523142da8fc7
 title:dfdea036bc62c9d74a7c
 title:dff3f1a5a982f259b67e
+title:dff63bc08f361ca55603
 title:e000f610a96580154d41
 title:e003b868282ca7e6f18d
 title:e02b16ca78e1a3f97e00
@@ -6323,6 +6333,7 @@ title:f3ea2dd3a38292500192
 title:f3ec851e200a5d6ea34a
 title:f4025364dd1b7d76c11e
 title:f422cf29198010c63b3c
+title:f429939eb10bbc7cb5ce
 title:f42a4cb6ccd6cbceb3f1
 title:f42d956b54db739e701b
 title:f431bb26cc5ef8f9e62a
@@ -6437,6 +6448,7 @@ title:f9d64532a10019692698
 title:f9e32f43c85e6aa95c07
 title:f9eef249d6dae44bee27
 title:fa023b155b26bca9f8ac
+title:fa0df823d3b2ef6670f2
 title:fa14b99585a28373ae4e
 title:fa35075bc7623d464c83
 title:fa372ed7ffa5029b6f61
@@ -7185,6 +7197,7 @@ topic:60b550d227002aa0cab9
 topic:60bddc564fa54a29439e
 topic:60c9c9ccbabdaae124df
 topic:60e33268bfe6f0c784c6
+topic:60fb809601c62ebb57a6
 topic:60fc8719af84c2e2296f
 topic:61177ea6794e17a7dc0b
 topic:611bcb351821d1f78638
@@ -7525,6 +7538,7 @@ topic:94ddce074e0973ebadd1
 topic:94defce385bac2f96c61
 topic:950784a32884af0acd2a
 topic:9507e52fe24c0cc138d2
+topic:95411246d5a29c8894f1
 topic:9571311e12e5402b870d
 topic:958b624448fee272f30b
 topic:95961574bfac7bb6e2e4
@@ -8790,6 +8804,7 @@ url:jp.reuters.com/economy/JZJYTGYPSRLNJFQE57I72TKWAM-2026-07-28/
 url:jp.reuters.com/markets/japan/Q667OJDLZ5IPXK2CCJ37TPAMZY-2026-07-24/
 url:kabutan.jp/news/marketnews/?b=
 url:kachimai.jp/article/index.php?no=
+url:kagoshima.keizai.biz/release/627766/
 url:kahoku.news/articles/20260710khn000042.html
 url:kahoku.news/articles/20260715khn000041.html
 url:kahoku.news/articles/20260723khn000069.html
@@ -9108,6 +9123,7 @@ url:news.infoseek.co.jp/amp/article/kyodo_1458026064800137243/
 url:news.infoseek.co.jp/amp/article/sdt_2026080708476312/
 url:news.infoseek.co.jp/article/atpress_621037/
 url:news.infoseek.co.jp/article/itmedia_bizmakoto_20260810010/
+url:news.infoseek.co.jp/article/kyodopr202608124070/
 url:news.infoseek.co.jp/article/prtimes_000000087_000039528/
 url:news.infoseek.co.jp/article/trafficnews_693746/
 url:news.jorudan.co.jp/docs/news/detail.cgi?newsid=
@@ -9928,6 +9944,7 @@ url:news.yahoo.co.jp/articles/7bd035fbf8da7e4c6414c110ff05423015c5ec64
 url:news.yahoo.co.jp/articles/7c982348882b96dbe61874698af9a3905e3fb28a?page=
 url:news.yahoo.co.jp/articles/7ccac94efbedff4021257fc350a146c4d976ed94
 url:news.yahoo.co.jp/articles/7d1f088c7a326c50cb4077c4c482d2b05f41b5d9
+url:news.yahoo.co.jp/articles/7d50ffe5c18ae16b40839ddf4a45e96a8007d59e?source=rss
 url:news.yahoo.co.jp/articles/7d7830c42be36556704bdc3ea830d20272bbc240
 url:news.yahoo.co.jp/articles/7e340d846b6ff1d1bb25ed74339d6b6302819a57?source=rss
 url:news.yahoo.co.jp/articles/7e6de63a744d63e42f6d36088bdc3fd13aaa35f4
@@ -10220,6 +10237,7 @@ url:news.yahoo.co.jp/articles/d12b1b8fd2f958a4366080d16576355884840459
 url:news.yahoo.co.jp/articles/d1cdb23ec2c63ec1114f7cea696180a161cc5638
 url:news.yahoo.co.jp/articles/d1f19f5dc2c86f8bb0ea4c53a8b524beba5a0285
 url:news.yahoo.co.jp/articles/d23bdab219c70fe377c13aa4353de00aa6d003a2
+url:news.yahoo.co.jp/articles/d26dbccdc7171b4d60bb2fc1bc21edb5c9e7cdf1?source=rss
 url:news.yahoo.co.jp/articles/d290ae54badfab13ce2e26e60bd70ef5471a6f04?page=
 url:news.yahoo.co.jp/articles/d3381341e763570c0370943c149213b2f7a30471
 url:news.yahoo.co.jp/articles/d3b4c57abdcc2e6fe774f1eacdf6bd4c1d45a5a0
@@ -10304,6 +10322,7 @@ url:news.yahoo.co.jp/articles/e6ba4377c58b5033fac85a4a1871b20a9d3d5e19
 url:news.yahoo.co.jp/articles/e717ba81da6f82a3b003955a13a48bf3c68896db
 url:news.yahoo.co.jp/articles/e726b5709ec49fe74eb6e0fdfe3b8f91958cff49
 url:news.yahoo.co.jp/articles/e72ed25e2d34cd2ad78cf9f7f4fc65c2b24c4a6b?source=rss
+url:news.yahoo.co.jp/articles/e74e683b78d4cf06c083a35ad729f52d51b18262?source=rss
 url:news.yahoo.co.jp/articles/e7d1094401448d72926c3891e382c380c802df82
 url:news.yahoo.co.jp/articles/e7d13725248abe03fcb039c518e72b26f2af61e8
 url:news.yahoo.co.jp/articles/e83e242baed4f6369aca33a3edc446cc03bf77cd
@@ -10956,6 +10975,7 @@ url:prtimes.jp/main/html/rd/p/000000868.000018265.html
 url:prtimes.jp/main/html/rd/p/000000871.000012506.html
 url:prtimes.jp/main/html/rd/p/000000871.000018265.html
 url:prtimes.jp/main/html/rd/p/000000873.000018265.html
+url:prtimes.jp/main/html/rd/p/000000874.000018265.html
 url:prtimes.jp/main/html/rd/p/000000885.000008585.html
 url:prtimes.jp/main/html/rd/p/000000888.000052387.html
 url:prtimes.jp/main/html/rd/p/000000901.000008128.html
@@ -11175,6 +11195,7 @@ url:skift.com/2026/08/07/google-confirms-hotel-agentic-booking-is-now-in-testing
 url:skift.com/2026/08/07/how-hilton-overhauled-b2b-sales-and-taught-reps-to-scrimmage/
 url:skift.com/2026/08/10/iceland-solar-eclipse-2026/
 url:skift.com/2026/08/11/while-rivals-cut-fees-ihg-takes-a-different-route-on-owner-economics/
+url:sky-budget.com/2026/08/12/ana-announces-revision-to-international-fuel-surcharges-for-tickets-issued-from-september/
 url:smart.shimotsuke.co.jp/articles/-/1365966
 url:smhn.info/202608-fire-boltt-boltt-smartphone-india-flipkart-evo-ace?amp=
 url:socialbusiness.aishas.co.jp/socialbusinessnews_aiautomaticallygeneration/27383/
@@ -11689,8 +11710,10 @@ url:www.breakingtravelnews.com/news/article/mangias-sardinia-resort-joins-autogr
 url:www.breakingtravelnews.com/news/article/marriotts-the-immersive-christmas-experience-ice-expands-to-eight-resorts-w/
 url:www.breakingtravelnews.com/news/article/me-and-all-hotel-leipzig-opens-in-germany/
 url:www.breakingtravelnews.com/news/article/melia-hotels-international-strengthens-its-leadership-in-vietnam-with-a-ref/
+url:www.breakingtravelnews.com/news/article/mercure-opens-new-hotel-in-oradea/
 url:www.breakingtravelnews.com/news/article/mgallery-collection-and-colossos-sa-announce-a-new-hotel-in-rhodes/
 url:www.breakingtravelnews.com/news/article/millennium-hotels-and-resorts-launches-culinary-compass-campaign-in-london/
+url:www.breakingtravelnews.com/news/article/minor-hotels-announces-avani-kota-kinabalu-in-malaysia/
 url:www.breakingtravelnews.com/news/article/minor-hotels-appoints-kanruethai-roongruang-as-general-manager-of-avani-hua/
 url:www.breakingtravelnews.com/news/article/minor-hotels-expands-into-tuerkiyes-aegean-with-anantara-ceme-retreat-and-r/
 url:www.breakingtravelnews.com/news/article/minor-hotels-introduces-avani-queenstown-a-lakeside-retreat-in-new-zealands/
@@ -12360,6 +12383,7 @@ url:www.hospitalitynet.org/opinion/4133871/the-measure-of-meaning-luxury-hospita
 url:www.hospitalitynet.org/opinion/4133873/the-booking-that-was-ready-at-9pm-and-gone-by-morning
 url:www.hospitalitynet.org/opinion/4133875/a-great-restaurant-is-now-selling-the-room-upstairs
 url:www.hospitalitynet.org/opinion/4133900/the-5-best-secure-team-chat-apps-for-multi-location-hospitality-businesses
+url:www.hospitalitynet.org/opinion/4133906/the-kitchen-as-climate-lever-how-hotel-chefs-are-driving-sustainability
 url:www.hospitalitynet.org/podcast/4133269/how-hotels-turn-data-overload-into-profit-growth
 url:www.hospitalitynet.org/podcast/4133546/simone-puorto-the-hotel-industry-does-not-need-more-software
 url:www.hospitalitynet.org/podcast/4133584/bringing-a-struggling-hotel-back-to-life

@@ -134,6 +134,7 @@ facility:29f7a68bb4ed3e5a9622
 facility:29fdcf29960fa24d4c51
 facility:2a491269f487cca48a42
 facility:2abdfbf50d09128e1dea
+facility:2ad18d021b6006c24fc3
 facility:2af1e1bd479d05192188
 facility:2bb6900463ee7eb6eb86
 facility:2bc806eec9d03e561076
@@ -514,6 +515,7 @@ facility:ac18e9124ecade6b3ac2
 facility:aca56681ea4a9a809622
 facility:addadd66b1949f3054d0
 facility:ae464d74a2d7d56a7b4a
+facility:ae71b4fa5a94a2ec362b
 facility:ae722baabc5e85c8795a
 facility:af3543ebcc45d1986dec
 facility:af6adbc0790033a97d4a
@@ -1070,6 +1072,7 @@ title:21b3ae27b7ed5e2ad569
 title:21d20a659287d1f46efc
 title:226688726b5c2d476a31
 title:226aaf08f3b616a475bf
+title:22736624f9d458301279
 title:228e97cabb726cbb422f
 title:22ad1a2a0e9d7b563250
 title:22d084281426f60aa661
@@ -1212,6 +1215,7 @@ title:30355712ea4762a28d42
 title:3051b5a1154c34dacf18
 title:3054917366707c0b375b
 title:3059ce1ac3892d25ed9d
+title:3069f68a23379f7b2268
 title:30729a69d022f75eff51
 title:309df4e56fb137d533cc
 title:30a7e0f3df4af377b919
@@ -1348,10 +1352,12 @@ title:3d8245562b4f53c66db5
 title:3d8b95a24ee2c4d20a1e
 title:3d94a3af66ae0b06404b
 title:3d961fa9ee3beec830a4
+title:3dcc70f1815e84de64ac
 title:3dd49c73b02fa3882761
 title:3dfccb4786597293c9d9
 title:3e18a6aed405253c37b1
 title:3e28af9b2d2d98529143
+title:3e39f6885d1472f0e648
 title:3e665b0e51086c28a2d8
 title:3e66d2ee98a83d716d81
 title:3e90df8ee173aa4d4935
@@ -1597,6 +1603,7 @@ title:5690b30d3189708ce254
 title:56aa5c1483ac5fb8bc76
 title:56bdbcd6fb841d8a9395
 title:56c430d22a67132c881d
+title:57025b1127cdc610320c
 title:570285181169d89e3d9e
 title:5757588da02fddc22644
 title:5769e0d78c05e53ea133
@@ -1732,6 +1739,7 @@ title:64de1640309fa26ee337
 title:6500ce7601b5391a3436
 title:650cfb03698ee3214868
 title:65101e7ff1e3aedeede4
+title:651f2396aa43b233be62
 title:6524d375ac203a1100f2
 title:6550094ac339d8e5ca2f
 title:6552dbe64fe8977feeaf
@@ -3077,6 +3085,7 @@ title:e42bd7efd0b6ff8ff182
 title:e4639c6664e8f2a21bcb
 title:e488a6c522074724f42c
 title:e4b83674b339a4feb22a
+title:e4ef8c4c475ad0e466ef
 title:e4fa50881d05071a3fc0
 title:e510f2dca1d73cf997bd
 title:e5188c55ccda6ffbd296
@@ -3170,6 +3179,7 @@ title:ebbfc13a79105aaa471a
 title:ebdb3eb938bb34e73fc3
 title:ec142fc13a8e6ebb7e85
 title:ec55f3b40dcb09d2e531
+title:ec9ffd10caf6a85834c7
 title:ecbc89310843f05387e0
 title:ecc21208b2ac4e402f0d
 title:ecd484d01f68153c4d88
@@ -3526,6 +3536,7 @@ topic:29be3422249a73222e46
 topic:29f7a68bb4ed3e5a9622
 topic:29fdcf29960fa24d4c51
 topic:2a491269f487cca48a42
+topic:2ad18d021b6006c24fc3
 topic:2af1e1bd479d05192188
 topic:2bb6900463ee7eb6eb86
 topic:2bc806eec9d03e561076
@@ -4021,6 +4032,7 @@ topic:addadd66b1949f3054d0
 topic:adfc162459fb7dea9253
 topic:ae335e1d679237c67610
 topic:ae464d74a2d7d56a7b4a
+topic:ae71b4fa5a94a2ec362b
 topic:ae722baabc5e85c8795a
 topic:af3543ebcc45d1986dec
 topic:af6adbc0790033a97d4a
@@ -4074,6 +4086,7 @@ topic:bd842d0dccdabc3c933d
 topic:bdd15caab740ff1f9bae
 topic:be3370671c294726824b
 topic:be891007ebb598113277
+topic:bed71e591e1e342a7102
 topic:bf21c5c9a2234ca82c16
 topic:bf48235f692df5e2be89
 topic:bfa062de040f55a15ce9
@@ -4473,6 +4486,7 @@ url:hakata.keizai.biz/release/606322/
 url:hamamatsu.keizai.biz/release/595706/
 url:higashinada-journal.com/spot/other/116377/
 url:hikone.keizai.biz/headline/716/
+url:hiroshima.keizai.biz/headline/4699/
 url:hokkaido-nl.jp/article/42894
 url:honichi.com/news/2026/06/18/flightnewroute2026summer/
 url:honichi.com/news/2026/06/18/iata-middleeast/
@@ -4562,6 +4576,7 @@ url:ja.laodong.vn/bat-dong-san/bac-ninh-khoi-cong-du-an-khu-luu-tru-cong-nhan-vi
 url:ja.laodong.vn/bat-dong-san/chuan-bi-ha-tang-le-khoi-cong-nha-luu-tru-cong-nhan-kcn-dai-an-mo-rong-hai-phong-1724356.ldo
 url:ja.laodong.vn/bat-dong-san/khoi-cong-co-so-luu-tru-gan-1177-ti-dong-trong-khu-cong-nghiep-o-bac-ninh-1726908.ldo
 url:ja.laodong.vn/bat-dong-san/nhieu-nha-nghi-o-do-son-hai-phong-ban-giao-mat-bang-phuc-vu-chinh-trang-do-thi-1731619.ldo
+url:ja.laodong.vn/bat-dong-san/xac-dinh-lai-gia-dat-flc-grand-hotel-sam-son-sau-9-nam-khai-truong-1752239.ldo
 url:ja.laodong.vn/xa-hoi/ha-noi-xay-dung-biet-thu-khach-san-hon-25000m2-canh-truong-dua-ngua-o-soc-son-1731352.ldo
 url:ja.martincid.com/bussines-ja/sirivadhanabhakdi-frasers-hospitality-assets-5/
 url:japan.ajunews.com/view/20260803151107294
@@ -4832,6 +4847,7 @@ url:news.infoseek.co.jp/amp/article/fct_2026081709825568/
 url:news.infoseek.co.jp/amp/article/sdt_2026080708476312/
 url:news.infoseek.co.jp/article/atpress_621037/
 url:news.infoseek.co.jp/article/gotrip_153488/
+url:news.infoseek.co.jp/article/ntv_2026081809786693/
 url:news.infoseek.co.jp/article/prtimes_000001374_000024246/
 url:news.jorudan.co.jp/docs/news/detail.cgi?newsid=
 url:news.ksb.co.jp/article/16621353
@@ -5312,6 +5328,7 @@ url:news.yahoo.co.jp/articles/b8ec3ccef35f18140e376870635e4295d0b60b70?source=rs
 url:news.yahoo.co.jp/articles/b8fcc31c67666e03d2298d05c204c5e744a8140f
 url:news.yahoo.co.jp/articles/b90d734b8a251accf4f36101189063e9ea981015
 url:news.yahoo.co.jp/articles/b92ae34deb651d1522130ebe6c93e9dabbb78a26
+url:news.yahoo.co.jp/articles/ba44453d3b3359526b9b87ec87d26a8085cc6eb1
 url:news.yahoo.co.jp/articles/baa427e47de3e567537993932611e2c0d672e978?source=rss
 url:news.yahoo.co.jp/articles/bb692b1176bbf09e247f8dd30a44dec01b7e0354
 url:news.yahoo.co.jp/articles/bbf7a385ed0582b88e50e33894b6dff0b1cc08d7
@@ -5997,6 +6014,7 @@ url:www.atpress.ne.jp/news/610903
 url:www.atpress.ne.jp/news/621037
 url:www.atpress.ne.jp/news/623481
 url:www.atpress.ne.jp/news/6359539
+url:www.aviationwire.jp/archives/348988
 url:www.biru-mall.com/attention/2026062201_01/
 url:www.bloomberg.com/jp/news/newsletters/2026-07-15/TI74C1N3N09K00
 url:www.breakingtravelnews.com/news/article/accor-and-sun-group-strengthen-strategic-partnership/
@@ -6069,6 +6087,7 @@ url:www.breakingtravelnews.com/news/article/preferred-hotels-resorts-celebrates-
 url:www.breakingtravelnews.com/news/article/rocco-forte-hotels-partners-with-sion-to-help-transform-travel-advisor-comm/
 url:www.breakingtravelnews.com/news/article/royal-hideaway-corales-resort-tenerife-launches-first-inspirational-chef-st/
 url:www.breakingtravelnews.com/news/article/sandals-and-beaches-resorts-bring-back-black-friday-in-july-sale/
+url:www.breakingtravelnews.com/news/article/sarova-hotels-resorts-taps-into-growing-demand-for-experiential-indian-dest/
 url:www.breakingtravelnews.com/news/article/sharjah-hotel-guests-surge-22-to-reach-2.1-million-as-annual-revenues-hit-a/
 url:www.breakingtravelnews.com/news/article/shaza-hotels-expands-saudi-arabia-portfolio-with-signing-of-shaza-riyadh-st/
 url:www.breakingtravelnews.com/news/article/sheraton-maldives-full-moon-resort-spa-enters-a-new-chapter-with-resort-wid/
@@ -6314,6 +6333,7 @@ url:www.hospitalitynet.org/news/4133856/hsmai-dc-panel-will-examine-the-economic
 url:www.hospitalitynet.org/news/4133971/hvs-asia-pacific-hospitality-newsletter-week-ending-14-august-2026
 url:www.hospitalitynet.org/news/4133972/ai-hospitality-alliance-launches-free-8-part-practical-ai-workshop-series-for-hospitality-professionals
 url:www.hospitalitynet.org/news/4133973/al-khoory-hotels-selects-shijis-daylight-pms-and-infrasys-pos-to-power-guest-centric-hospitality-across-its-portfolio
+url:www.hospitalitynet.org/news/4133992/ihg-hotels-resorts-expands-in-the-taiwan-market-with-new-hotel-signings-and-enhances-digital-member-services
 url:www.hospitalitynet.org/opinion/4132458/the-role-of-operational-luxury-in-hospitality
 url:www.hospitalitynet.org/opinion/4132482/azuma-brand-launch-signals-larger-hotel-category-trends
 url:www.hospitalitynet.org/opinion/4132494/five-trends-every-hotel-leader-needs-to-watch-in-2026
@@ -6648,6 +6668,7 @@ url:www.re-port.net/amp/article/news/0000082143/
 url:www.re-port.net/amp/article/news/0000082275/
 url:www.re-port.net/amp/article/news/0000082308/
 url:www.re-port.net/amp/article/news/0000082333/
+url:www.re-port.net/amp/article/news/0000082638/
 url:www.re-port.net/article/news/0000082328/
 url:www.recordchina.co.jp/b982625-s39-c30-d0195.html
 url:www.richardajkeys.com/dp/9758653912005

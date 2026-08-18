@@ -277,6 +277,7 @@ facility:55ee5c347a51538234f2
 facility:5668e5bef5c260f93208
 facility:569c8b91f8e4ec0686ba
 facility:56e8fa27cb4b298de2df
+facility:56ebd07ebdd3d238da85
 facility:578131aea7f8beb6f6ae
 facility:5789cc8adaf6ef93f2b0
 facility:5802c169116228c70088
@@ -338,6 +339,7 @@ facility:6d93831d8d619597a0ab
 facility:6e6ce0d6a78e94eb5456
 facility:6e72317165506c7614dc
 facility:6f88dbe2a04eae2e8ac2
+facility:6fb64f64702dfabd22c0
 facility:701745b295eab31252a6
 facility:70b16f000f03a6dbac1e
 facility:7156238268edd6eb5505
@@ -450,6 +452,7 @@ facility:93203f7de2f1aaf7faf3
 facility:93723db4471fd486d2f3
 facility:93b919949a3186ce10e8
 facility:94ddce074e0973ebadd1
+facility:95627e9c242789aed185
 facility:96c63435d0ab4cb3903a
 facility:984a495a13fb4b5fb81c
 facility:985c89219daa5767942d
@@ -881,6 +884,7 @@ title:10af21e58d679b986888
 title:10b9cee361cb8dfc86af
 title:10bd09d28606798c5d56
 title:10be3aa112e5792ad40d
+title:10cb6498699b40dc1866
 title:10e48d0d29f40dc3a49a
 title:1102e5de8e377713186b
 title:112896d85db63f14e846
@@ -1084,6 +1088,7 @@ title:24bb0be847312ee731c9
 title:24c52e44ad3535657544
 title:24f3db44de617cbabe8d
 title:2514299617e5370001c2
+title:2525573af6def6c0917d
 title:25256d6f6752d0800468
 title:253b523c8aff141dd6c9
 title:255045060a2557a7b609
@@ -1639,6 +1644,7 @@ title:5ce009e1dd2e788a72b4
 title:5cf7df96dbafe7a8b4f0
 title:5d0d8c9aefa65462ce77
 title:5d15af075c41b5854b87
+title:5d7151ac982232079c88
 title:5dacd97ca227f9a3c149
 title:5dc329bba161194089ea
 title:5dc8acc4451d9f98df27
@@ -1684,6 +1690,7 @@ title:60ff55d506012c3250c8
 title:61391770ad77c2d12958
 title:614a51696c5523770a90
 title:614ea5344d8dd8bfe476
+title:61d69a21eb71e9311a93
 title:621101dfb6d4a4de93de
 title:6236f1527e1b623f9ab4
 title:6248b9430e380bd98a4a
@@ -1894,6 +1901,7 @@ title:75c9e70d979b64bbfab5
 title:75da01435ac633956ee2
 title:760d082626b3edd9bf8b
 title:763a24df8ced238fb968
+title:763abc0ef8e62591cea6
 title:76513d29c81672d2a694
 title:76b43c93399c70aa7de1
 title:76baeffad304943a3ff6
@@ -2229,6 +2237,7 @@ title:946c642849de4e5299a0
 title:947f3540dc9c05306401
 title:94916699a84991b2c038
 title:94a57378f8943a9e00c1
+title:94a9501d395f315ae882
 title:94aff2c5f1ff87172373
 title:9506f6f63cf531bab718
 title:956c90d4aece25480120
@@ -2362,6 +2371,7 @@ title:a1ee80b3f6789be84cfb
 title:a1f559c4f3f0b0b366d0
 title:a20c32fc7af9ad42bd10
 title:a21c7fb219cb8bbae064
+title:a22a051bda1ec354dca6
 title:a2323cb4e3e510f45833
 title:a2360af181a16d5b954a
 title:a2397d46a2aaeab5dc77
@@ -2467,6 +2477,7 @@ title:aa933be7de840a23c65c
 title:aaa7e1fbcffea36ffa7c
 title:aaadaa5c85c0064e7103
 title:aab3f0be9c814024599f
+title:aab9b200a3e673d77da2
 title:aabb89c1ab20ef7ed957
 title:aac11911fa28c22b3602
 title:aaf5995fb07cb5b42d40
@@ -2962,6 +2973,7 @@ title:db7e10b276836428cbc4
 title:dc0bb4787cdffe5183db
 title:dc143829867859c0f8ef
 title:dc1c2a9c45428fd95251
+title:dc439a8ea99aa75ee632
 title:dc669cda7477f92288d6
 title:dc73e95871bf442387bc
 title:dc7717b531ff5a81c569
@@ -3182,6 +3194,7 @@ title:efd0e39795b8bfc5aedc
 title:f00ea132d43d32684f27
 title:f01b4f99bb17a95e3b48
 title:f0345d5b308c27cf86d7
+title:f0389708b4476593f799
 title:f03f4dc7934c032f61f2
 title:f03f7434173fcbb081ea
 title:f04117b199bf913aae93
@@ -3663,6 +3676,7 @@ topic:567766cafc3bebbc71c9
 topic:569c8b91f8e4ec0686ba
 topic:56c442e47f7b4c4c87b4
 topic:56e8fa27cb4b298de2df
+topic:56ebd07ebdd3d238da85
 topic:578131aea7f8beb6f6ae
 topic:5789cc8adaf6ef93f2b0
 topic:57ed36e0991571a1db50
@@ -3750,6 +3764,7 @@ topic:6e6456fc2035b6732d94
 topic:6e6ce0d6a78e94eb5456
 topic:6e72317165506c7614dc
 topic:6f88dbe2a04eae2e8ac2
+topic:6fb64f64702dfabd22c0
 topic:701745b295eab31252a6
 topic:70b16f000f03a6dbac1e
 topic:7129ef6821167b217aff
@@ -3899,6 +3914,7 @@ topic:93b919949a3186ce10e8
 topic:93d5dbd2a2f28c1636ec
 topic:94a57b438c96733d715e
 topic:94ddce074e0973ebadd1
+topic:95627e9c242789aed185
 topic:9571311e12e5402b870d
 topic:96c63435d0ab4cb3903a
 topic:984a495a13fb4b5fb81c
@@ -4333,6 +4349,7 @@ url:biz.chosun.com/jp/jp-industry/2026/06/22/GUWEDM437FEIZJCJO3JDBB3FZU/
 url:biz.chosun.com/jp/jp-industry/2026/06/28/2HZURUWBGREL5ACZCLL6RYF4I4/
 url:biz.chosun.com/jp/jp-industry/2026/07/09/FPGZM3JIAFGTXBT4D6XOGECIRI/
 url:biz.chosun.com/jp/jp-industry/2026/08/02/LTPP5OHAP5F67DQQDRQPGHDCPU/
+url:biz.chosun.com/jp/jp-industry/2026/08/18/74TJWSDRYRAWXG7BKFHRHDEN5A/
 url:biz.chosun.com/jp/jp-international/2026/07/10/6AR3GDSTNZELXHCDUFKNBN5R4A/
 url:biz.chosun.com/jp/jp-realestate/2026/06/24/NU4PZDYTNVDM3JZBAN2KX5464Q/
 url:biz.chosun.com/jp/jp-realestate/2026/07/03/VXANYDOBZRAVNG4NGVQIHY7KYI/
@@ -4445,6 +4462,7 @@ url:honichi.com/news/2026/07/13/toyama-takayama-sushi-airport/
 url:honichi.com/news/2026/07/16/whitepapermatome_20260716/
 url:honichi.com/news/2026/08/04/weekmatome_20260804/
 url:honichi.com/news/2026/08/17/royal-hd-202612-02/
+url:honichi.com/news/2026/08/18/inbound-index-202602/
 url:hotelbank.jp/area-analysis/kyoto-station-1km-courtyard-marriott-positioning-2026/
 url:hotelbank.jp/area-analysis/naha-shuri-hotel-supply-2026/
 url:hotelbank.jp/inbound/inbound-nationality-top-shift-prefecture-map-2026/
@@ -4839,6 +4857,7 @@ url:news.livedoor.com/pr_topics/detail/31715670/
 url:news.livedoor.com/pr_topics/detail/31725494/
 url:news.livedoor.com/pr_topics/detail/31765396/
 url:news.livedoor.com/pr_topics/detail/31833717/
+url:news.livedoor.com/pr_topics/detail/32093048/
 url:news.livedoor.com/topics/detail/31438143/
 url:news.livedoor.com/topics/detail/31594109/
 url:news.livedoor.com/topics/detail/31645182/
@@ -5450,6 +5469,7 @@ url:prtimes.jp/main/html/newarrival?pagination_cursor=
 url:prtimes.jp/main/html/rd/p/000000001.000184335.html
 url:prtimes.jp/main/html/rd/p/000000001.000185400.html
 url:prtimes.jp/main/html/rd/p/000000001.000186372.html
+url:prtimes.jp/main/html/rd/p/000000001.000188863.html
 url:prtimes.jp/main/html/rd/p/000000002.000138198.html
 url:prtimes.jp/main/html/rd/p/000000002.000183124.html
 url:prtimes.jp/main/html/rd/p/000000002.000183539.html
@@ -5528,6 +5548,7 @@ url:prtimes.jp/main/html/rd/p/000000056.000017314.html
 url:prtimes.jp/main/html/rd/p/000000057.000103982.html
 url:prtimes.jp/main/html/rd/p/000000062.000024777.html
 url:prtimes.jp/main/html/rd/p/000000062.000041874.html
+url:prtimes.jp/main/html/rd/p/000000062.000056249.html
 url:prtimes.jp/main/html/rd/p/000000063.000103982.html
 url:prtimes.jp/main/html/rd/p/000000064.000032253.html
 url:prtimes.jp/main/html/rd/p/000000065.000061216.html
@@ -5546,6 +5567,7 @@ url:prtimes.jp/main/html/rd/p/000000097.000043793.html
 url:prtimes.jp/main/html/rd/p/000000098.000031844.html
 url:prtimes.jp/main/html/rd/p/000000099.000114903.html
 url:prtimes.jp/main/html/rd/p/000000102.000026869.html
+url:prtimes.jp/main/html/rd/p/000000104.000096742.html
 url:prtimes.jp/main/html/rd/p/000000105.000093374.html
 url:prtimes.jp/main/html/rd/p/000000106.000162422.html
 url:prtimes.jp/main/html/rd/p/000000114.000105392.html
@@ -5923,6 +5945,7 @@ url:www.47news.jp/14612416.html
 url:www.47news.jp/14714332.html
 url:www.47news.jp/14719927.html
 url:www.47news.jp/14760588.html
+url:www.47news.jp/14805332.html
 url:www.adfwebmagazine.jp/architect/lalique-opened-villa-florhof-in-zurich/
 url:www.afpbb.com/articles/-/3641173?act=
 url:www.agara.co.jp/article/648323?rct=
@@ -6084,6 +6107,7 @@ url:www.ehime-np.co.jp/article/news202606290276
 url:www.excite.co.jp/news/article/AMP_503375/
 url:www.excite.co.jp/news/article/AMP_505257/
 url:www.excite.co.jp/news/article/AMP_505650/
+url:www.excite.co.jp/news/article/Atpress_623481/
 url:www.excite.co.jp/news/article/Cobs_3207571/
 url:www.excite.co.jp/news/article/Dreamnews_0000353304/
 url:www.excite.co.jp/news/article/Global_news_asia_11264/
@@ -6409,6 +6433,7 @@ url:www.logi-today.com/975915
 url:www.macaushimbun.com/archives/61116
 url:www.mag2.com/p/money/1763759/amp
 url:www.minpo.jp/articles/-/200289
+url:www.minpo.jp/articles/-/206185
 url:www.minyu-net.com/index.php/newspack/detail/2026070201001503
 url:www.minyu-net.com/newspack/detail/2026070401001422
 url:www.mitsuifudosan.co.jp/corporate/news/2026/0714/
@@ -6789,6 +6814,7 @@ url:www.travelvoice.jp/20260803-160188
 url:www.travelvoice.jp/20260803-160275
 url:www.travelvoice.jp/20260805-160287
 url:www.travelvoice.jp/20260807-160311
+url:www.travelvoice.jp/20260818-160333
 url:www.travelvoice.jp/tenders/1411
 url:www.travelvoice.jp/tenders/1420
 url:www.travelvoice.jp/tenders/1431

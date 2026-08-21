@@ -69,6 +69,7 @@ facility:0dc382ebac5813b068b2
 facility:0dd65b9c6f66690e484f
 facility:0dff5f0304e9f68aec15
 facility:0e8258a3a156d6c51a68
+facility:0ebcabe4566417bd4b8b
 facility:0eefa6c38c6fc785ef2e
 facility:0f1131cf926f6997d26d
 facility:0f17aeeac4b9771ce8b2
@@ -558,6 +559,7 @@ facility:653f88ef68e46af08d81
 facility:654443389e5cc6dd38ea
 facility:65951c5588cff1265988
 facility:65b8b5d1bf31e038d2d5
+facility:65c0a5cee31d5678d86d
 facility:65e3459cc274e44188b4
 facility:6613fb5f13b0431c5a9a
 facility:667f8e5fc685c23688e4
@@ -1184,6 +1186,7 @@ facility:d91c5586d88a6ac6f789
 facility:d9292cd217ac77c56b56
 facility:d93aafeb69df7ecf1f06
 facility:d944a19342852dfb3420
+facility:d94ac799001de779c392
 facility:d94beb9493c3b27f3013
 facility:d98a4367ee8a4899be8c
 facility:d9bd8d2bdde112d76e1b
@@ -1613,6 +1616,7 @@ title:0b0811b6913099b7e73b
 title:0b205651601c7406c18b
 title:0b23fc43098d912c6a99
 title:0b26ee4fcaa5bcef196b
+title:0b31db9345e0177166fc
 title:0b3b000da2760539e75d
 title:0b56479a5974e2d3d615
 title:0b653375cf1b3694268b
@@ -2183,6 +2187,7 @@ title:23e283523abb8f1d9103
 title:23e434954da0ae893002
 title:240221b05bedf5153780
 title:240cb91d9aa65ce48fa6
+title:241e44bebab242f4ead6
 title:2429dbe73e9d1ceb352f
 title:242c090db798970f66c5
 title:24317bb79d461ca946fb
@@ -2863,6 +2868,7 @@ title:40e4c9682d2baa97d1e8
 title:40ea0f5e38d2c73af296
 title:40ea2665b2d202c8463f
 title:40ee52245f469ba83810
+title:40f0db263084f9365d48
 title:40f4876d2578c87f33f7
 title:411fecd83d161a2d39e8
 title:4129e8d99e52e24e2eb5
@@ -2938,6 +2944,7 @@ title:441ddaa5679a894333ab
 title:443c25fa692c70a9e970
 title:4446d9b94dccbe9525dd
 title:445b523e4070cc849a51
+title:445d8e0e937bac249b66
 title:445d9ebaf58702a08495
 title:445e9e368a43a4046c32
 title:4476513db6affac6cc35
@@ -3277,6 +3284,7 @@ title:53fd043bc1c4e776bb53
 title:540243ca52aa58242c59
 title:540647026ecbf0c007e9
 title:54080c5b604f66b4f7b9
+title:540aa42d4785262dd23f
 title:5411580203f973f1d2c6
 title:54244b75026f0683882f
 title:54399aebe789d1869108
@@ -3296,6 +3304,7 @@ title:54958fb59bd5287e2b97
 title:5499300d73ec957c659f
 title:54c1e72f7a5365204bc4
 title:54ce8704a2efb9b20a84
+title:54d98ea9a6d939e58865
 title:54de62b6ca7aac3fef72
 title:54e0ca610aacb905dc07
 title:54ea96401fd907110df3
@@ -3448,6 +3457,7 @@ title:5b2d2c40c30e1c6885dd
 title:5b2f5b977f248ea13bc2
 title:5b37a58ef00e3922dddd
 title:5b41ccf988b1c4840f03
+title:5b4e694d554f9fb4eb4c
 title:5b550206b51fc1d24367
 title:5b5957b33429d49741dd
 title:5b71c3a6efd93e3e232a
@@ -4170,6 +4180,7 @@ title:7943734209b00f7c96a1
 title:794e425e665ad5669404
 title:79536abf73588be1873a
 title:7956213875a7c9592b21
+title:795a8cfc1c119a4bc977
 title:795e2e946bd6ee240f3a
 title:796bcc16e0e060925d11
 title:79724349a9414c4d190e
@@ -4355,6 +4366,7 @@ title:822a6149e2632025e804
 title:822f33f66582352b2770
 title:822fe20e3801712de2ad
 title:823eb8de3740ccab3c16
+title:82437518ae4c5feca7d0
 title:824e47472fb78a6b276e
 title:8252ff91b90357f3423c
 title:8269888df85b5d0def67
@@ -5195,6 +5207,7 @@ title:a42f563f1c158ed7edba
 title:a438a1b8dd38b5ebacaa
 title:a459e97a840a86a053df
 title:a45aa4065a9fcfb56ad1
+title:a45de356879886745a07
 title:a45e5c165c6993a64054
 title:a45ed6a5836754cf81ca
 title:a466a9f3e881cddec389
@@ -5263,6 +5276,7 @@ title:a757f5f14b5cef3d85a2
 title:a776539f54c3d2f47ae1
 title:a77a2c3058083df389f0
 title:a78dce6896d9595d4afd
+title:a7950b20d7858ea22ede
 title:a7cec7e100b2f138b989
 title:a7d67fb79c3f46183409
 title:a7dc01b41682c63e1574
@@ -5914,6 +5928,7 @@ title:c434cb0e6acfce304115
 title:c43ac9c1b3578c15205f
 title:c43e12ac376ce5d02302
 title:c44c792c5e238ef55042
+title:c45213585e621116be51
 title:c45a17826d77914ff313
 title:c466c767a8d167fdc056
 title:c467f6a11b09f982769e
@@ -7167,6 +7182,7 @@ title:fb338a7f65d4e4497bc2
 title:fb397e77da76e3e1a9ab
 title:fb4807493ee379c66554
 title:fb50bb53e034161a7d51
+title:fb5887290ee4c10b1ecc
 title:fb6211bec5985103fe6b
 title:fb6745d4bcc4b373dc9d
 title:fb6a05dec6c63fbb7b18
@@ -7283,6 +7299,7 @@ topic:03128fe24e3c31aca472
 topic:031cf7a4ad2972b06e77
 topic:03261a0186f72dfa24cb
 topic:03261cc8812da4392352
+topic:035d26d5616b35ddbccd
 topic:037ad886b70cefd06d4f
 topic:0392fda467bc65c36485
 topic:039e02797d3cdc525071
@@ -7353,6 +7370,7 @@ topic:0dd65b9c6f66690e484f
 topic:0dff5f0304e9f68aec15
 topic:0e1980869d794d7d579e
 topic:0e8258a3a156d6c51a68
+topic:0ebcabe4566417bd4b8b
 topic:0eefa6c38c6fc785ef2e
 topic:0ef20fc188a14de7b3a8
 topic:0f04d94a52ce4b6abef2
@@ -7455,6 +7473,7 @@ topic:1ca558aea470d92c5359
 topic:1cb2664b06bb50fb6b2a
 topic:1cd33acd4ac95528c2d4
 topic:1cda798f8a56f8ea0034
+topic:1ce6ebcb264de4f73c0b
 topic:1ce7df88b664612058c5
 topic:1d03dc5c4c9755ac3415
 topic:1d17b31284eefb99f42d
@@ -7987,6 +8006,7 @@ topic:655c51b2f160c4a07ca1
 topic:65951c5588cff1265988
 topic:65a0190c3842b50d04e2
 topic:65b8b5d1bf31e038d2d5
+topic:65c0a5cee31d5678d86d
 topic:65e3459cc274e44188b4
 topic:6613fb5f13b0431c5a9a
 topic:6658072dafd416a39efd
@@ -8802,6 +8822,7 @@ topic:d91c5586d88a6ac6f789
 topic:d9292cd217ac77c56b56
 topic:d93aafeb69df7ecf1f06
 topic:d944a19342852dfb3420
+topic:d94ac799001de779c392
 topic:d94beb9493c3b27f3013
 topic:d94f0d3d86ca4551f81f
 topic:d9794d869d13f1c925bc
@@ -9378,6 +9399,7 @@ url:finance.yahoo.co.jp/news/detail/22bce626abf6e39b75c5f47fcab387ee3f6592f6
 url:finance.yahoo.co.jp/news/detail/4d329d451514712d6c6b6de7ddff4e067c965dbe
 url:finance.yahoo.co.jp/news/detail/4f7f6fd389cad42c4eca0ec9e30ba3fb763b32aa
 url:finance.yahoo.co.jp/news/detail/6cc191394d458c0c47f53c91d35da2e779b44923
+url:finance.yahoo.co.jp/news/detail/6ef79ee450f48e0b3678376bf18b8678bd5aa75f
 url:finance.yahoo.co.jp/news/detail/8265ac5a47fc7ac8c682069d1731f8f5f666d5c5
 url:finance.yahoo.co.jp/news/detail/919f7f7f64dae23272534f487607d3e470a7cab4
 url:finance.yahoo.co.jp/news/detail/9914d7b49123bebdc5776879ebb787f9718fa20d
@@ -10105,11 +10127,13 @@ url:news.infoseek.co.jp/article/kyodopr202608124070/
 url:news.infoseek.co.jp/article/mynavi_3215386/
 url:news.infoseek.co.jp/article/ntv_2026081809786693/
 url:news.infoseek.co.jp/article/prtimes_000000002_000150045/
+url:news.infoseek.co.jp/article/prtimes_000000024_000102977/
 url:news.infoseek.co.jp/article/prtimes_000000079_000054589/
 url:news.infoseek.co.jp/article/prtimes_000000087_000039528/
 url:news.infoseek.co.jp/article/prtimes_000000089_000039528/
 url:news.infoseek.co.jp/article/prtimes_000000104_000096742/
 url:news.infoseek.co.jp/article/prtimes_000001374_000024246/
+url:news.infoseek.co.jp/article/rsk_2887695/
 url:news.infoseek.co.jp/article/sankein__life_travel_FH6KSAGIPFMCLARQNVPEWAIZJQ/
 url:news.infoseek.co.jp/article/trafficnews_693746/
 url:news.jorudan.co.jp/docs/news/detail.cgi?newsid=
@@ -10427,6 +10451,7 @@ url:news.nicovideo.jp/watch/nw19663952
 url:news.nicovideo.jp/watch/nw19663952?news_ref=
 url:news.nicovideo.jp/watch/nw19668584?news_ref=
 url:news.nicovideo.jp/watch/nw19673638
+url:news.nicovideo.jp/watch/nw19675292
 url:news.nicovideo.jp/watch/nw19683666?news_ref=
 url:news.nissyoku.co.jp/news/okum20260804105528490
 url:news.ntv.co.jp/category/economy/747d8b8e84ac42e79591407e19a65274
@@ -11743,6 +11768,7 @@ url:prtimes.jp/main/html/rd/p/000000007.000014661.html
 url:prtimes.jp/main/html/rd/p/000000007.000036399.html
 url:prtimes.jp/main/html/rd/p/000000007.000140778.html
 url:prtimes.jp/main/html/rd/p/000000007.000143531.html
+url:prtimes.jp/main/html/rd/p/000000007.000153374.html
 url:prtimes.jp/main/html/rd/p/000000007.000161069.html
 url:prtimes.jp/main/html/rd/p/000000007.000174368.html
 url:prtimes.jp/main/html/rd/p/000000007.000178663.html
@@ -12252,6 +12278,7 @@ url:report.iko-yo.net/articles/32636
 url:response.jp/release/dreamnews/20260624/291044.html
 url:richardajkeys.com/dp/5cf8149739507
 url:rocket-boys.co.jp/security-measures-lab/kaigetsukan-group-unauthorized-access-info-leak-phishing/
+url:rocket-boys.co.jp/security-measures-lab/kaya-kyoto-phishing-booking-whatsapp-warning/
 url:roppongi.keizai.biz/headline/5092/
 url:rurubu.jp/andmore/article/24932
 url:rurubu.jp/andmore/article/25024
@@ -12718,6 +12745,7 @@ url:voix.jp/biz/news-analysis/175171/
 url:voix.jp/biz/news-analysis/175851/
 url:voix.jp/biz/news-analysis/176200/
 url:voix.jp/biz/news-analysis/176216/
+url:voix.jp/biz/news-analysis/177867/
 url:voix.jp/biz/news/172281/
 url:voix.jp/biz/news/173230/
 url:voix.jp/biz/news/174940/
@@ -12791,6 +12819,7 @@ url:www.advertimes.com/20260722/article551254/
 url:www.afpbb.com/articles/-/3641173?act=
 url:www.afpbb.com/articles/amp/3644635
 url:www.afpbb.com/articles/biz/3648543?ctm_campaign=
+url:www.afpbb.com/articles/biz/3649111?ctm_campaign=
 url:www.agara.co.jp/article/648323?rct=
 url:www.agara.co.jp/article/656680?rct=
 url:www.anemo.co.jp/topics/lifestyle/leisure/429808-20260624/
@@ -13165,6 +13194,7 @@ url:www.decn.co.jp/?p=
 url:www.digitaltoday.co.kr/jp/view/80747/noluniverse-signs-distribution-partnership-with-japans-apple-world
 url:www.donga.com/jp/article/all/20260627/6284293/1
 url:www.dreamnews.jp/press/0000358689
+url:www.dreamnews.jp/press/0000359828
 url:www.ehako.com/news/news2026a/15266_index_msg.shtml
 url:www.ehime-np.co.jp/article/news202606290276
 url:www.ehime-np.co.jp/article/news202607090022
@@ -13604,6 +13634,8 @@ url:www.hospitalitynet.org/news/4134015/drift-off-dreaming-of-brekkie-holiday-in
 url:www.hospitalitynet.org/news/4134022/actabl-and-reeco-launch-innovative-partnership-to-bring-forecast-intelligence-into-ai-powered-hotel-procurement
 url:www.hospitalitynet.org/news/4134029/the-global-hotel-construction-pipeline-reaches-a-record-high-project-count-as-le-debuts-2028-new-hotel-openings-forecast-at-q2-2026-close
 url:www.hospitalitynet.org/news/4134036/hsmai-europe-sets-its-sights-on-turkey-building-something-new-in-one-of-the-worlds-most-dynamic-hospitality-markets
+url:www.hospitalitynet.org/news/4134045/whitebridge-emea-hotels-monitor-issue-38
+url:www.hospitalitynet.org/news/4134048/aiden-accelerates-global-growth-with-new-openings-and-more-than-20-hotels-in-development
 url:www.hospitalitynet.org/opinion/4132458/the-role-of-operational-luxury-in-hospitality
 url:www.hospitalitynet.org/opinion/4132482/azuma-brand-launch-signals-larger-hotel-category-trends
 url:www.hospitalitynet.org/opinion/4132494/five-trends-every-hotel-leader-needs-to-watch-in-2026
@@ -13646,6 +13678,7 @@ url:www.hospitalitynet.org/opinion/4133476/cultural-food-deserts-an-overlooked-r
 url:www.hospitalitynet.org/opinion/4133477/why-hotel-sales-teams-lose-their-best-people
 url:www.hospitalitynet.org/opinion/4133479/most-sales-teams-harvest-demand-they-cant-generate-it
 url:www.hospitalitynet.org/opinion/4133480/killing-the-sales-hero-culture-in-hotels
+url:www.hospitalitynet.org/opinion/4133482/what-emerging-markets-taught-me-about-hotel-sales-that-luxury-markets-never-could
 url:www.hospitalitynet.org/opinion/4133512/hospitality-technology-pain-points-why-hoteliers-are-switching-systems
 url:www.hospitalitynet.org/opinion/4133516/why-personalization-can-never-become-a-standard
 url:www.hospitalitynet.org/opinion/4133521/the-critical-role-of-cross-departmental-training-in-hotel-operations
@@ -14945,6 +14978,7 @@ url:www.travelvoice.jp/20260818-160333
 url:www.travelvoice.jp/20260820-160343
 url:www.travelvoice.jp/20260820-160366
 url:www.travelvoice.jp/20260820-160367
+url:www.travelvoice.jp/20260821-160372
 url:www.travelvoice.jp/tenders/1411
 url:www.travelvoice.jp/tenders/1420
 url:www.travelvoice.jp/tenders/1431

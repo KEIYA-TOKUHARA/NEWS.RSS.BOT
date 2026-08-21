@@ -239,6 +239,7 @@ facility:48937be14eb270c257e4
 facility:48d1bda27e2a6e3f04b3
 facility:48e23c72a7201bd5df1e
 facility:48f74837523229b51e3d
+facility:490d4682903f79a0feff
 facility:495a0c94493d0c984ccd
 facility:4a061fc934d82a2263b9
 facility:4a56cd1ecced7ca8ce12
@@ -337,6 +338,7 @@ facility:65c0a5cee31d5678d86d
 facility:6613fb5f13b0431c5a9a
 facility:66ab99e22fc9b0bab9f3
 facility:6770c4a3f643e90cab29
+facility:67f1c6db1f49bd9796aa
 facility:680f726e16582068a92f
 facility:684f29981bbc4b222e60
 facility:687bca5d2241c9e28fd0
@@ -1472,6 +1474,7 @@ title:3f2d12c9ce67c5163583
 title:3f33701ee1a231801581
 title:3f3c2a162947c6d0308a
 title:3f562afe24f0716ff95f
+title:3f72ebf4113011df8161
 title:3f84af797b7d90480f48
 title:3f8916270ac81fb81977
 title:3f9a568c464b010aacc8
@@ -2028,6 +2031,7 @@ title:7297bda8e6dd286ffff6
 title:72ccd76ce46fb7d1f3d0
 title:72d83f0b688519ac9094
 title:72e50cfcce70a6cd9086
+title:72f494ffe00b2304ed62
 title:731764dd050a136583c5
 title:731bbb39c4449f9f5215
 title:7347a527cda13953b43c
@@ -2046,6 +2050,7 @@ title:743e4de28bfd9e376b69
 title:7452c76dae119ba9b0e4
 title:749bee2011c0d3e9f85b
 title:749c8e374a7939d74d20
+title:749fa530d61460241a8f
 title:74b8ba7fcae36a2a54b5
 title:74c2202dd6c1a72ec431
 title:74e2b3afa447c9b40c63
@@ -2214,6 +2219,7 @@ title:830ee712a043de4062d8
 title:831c254397a2adc2a5c8
 title:832777f0d606a646906a
 title:8327d9894ed3f85f59dd
+title:834b167855e205a4ecd1
 title:834fa3ea62ba06000588
 title:8352799fa309451fe444
 title:8352db57a25b2f8dd733
@@ -2297,6 +2303,7 @@ title:8a69d4ab0dc6d4037695
 title:8a70a4bff146aadb10c4
 title:8a897029034c16c66ac3
 title:8a8ef4169c387244b236
+title:8a9dff2d23eac4dc155c
 title:8aba3aab70f487ed31d9
 title:8abc57a06fbb549977f6
 title:8abf2b061aa7b181e900
@@ -2321,12 +2328,14 @@ title:8c18af1c26e30c17cd30
 title:8c236cfc3d577818431c
 title:8c24d3da282d8b12e997
 title:8c2ce7a198a73fefaf6d
+title:8c4e4dc027ccbf548a5d
 title:8c5bb1d0f310b971f211
 title:8c78c1192ff9ef8d2916
 title:8c8031077c1935996b6d
 title:8ca286426e542ce06aa0
 title:8cb02933ef13c94e1ecb
 title:8cb5ca8e7181a2f03c1a
+title:8cdf9b9e1772421ea6ec
 title:8cef8440d6fa0348911f
 title:8cf8439386959cc45757
 title:8cfdd9f00b7b826ed9d5
@@ -2796,6 +2805,7 @@ title:b36847b184a62cf10358
 title:b377f96c483cbfc2256e
 title:b3814ce980dca2ca46d7
 title:b39f2ec6db0147ece135
+title:b3a1d9b1d81f4601bece
 title:b3b5ad1575a671f5cbb3
 title:b3b8139262b7aae015e2
 title:b3b8a03807cd94a86247
@@ -2881,6 +2891,7 @@ title:bb0853c1031d789e5412
 title:bb08f9cae37a17100fad
 title:bb0bde8d68de1ea71e08
 title:bb0f0bc625aad397883c
+title:bb2485a165d98394cdef
 title:bb2d2664d4d18c5a0c06
 title:bb2ff8f230b10758b02e
 title:bb374f0d8f3ea9ec2901
@@ -3382,6 +3393,7 @@ title:e870a85498a928ce9ce3
 title:e873f3e667cc959d3c8e
 title:e8751642c15c8a91db96
 title:e878af4d73d168ba9c61
+title:e885345a9505c7cf5cfc
 title:e88cbeb1108390b7b4d6
 title:e891a4932d579decb882
 title:e8926c81906ca1b9f273
@@ -3928,6 +3940,7 @@ topic:48937be14eb270c257e4
 topic:48d1bda27e2a6e3f04b3
 topic:48e23c72a7201bd5df1e
 topic:48f74837523229b51e3d
+topic:490d4682903f79a0feff
 topic:495a0c94493d0c984ccd
 topic:4a061fc934d82a2263b9
 topic:4a56cd1ecced7ca8ce12
@@ -4059,6 +4072,7 @@ topic:65c0a5cee31d5678d86d
 topic:6613fb5f13b0431c5a9a
 topic:66ab99e22fc9b0bab9f3
 topic:6770c4a3f643e90cab29
+topic:67f1c6db1f49bd9796aa
 topic:680af61e8f6298f365d5
 topic:680f726e16582068a92f
 topic:684f29981bbc4b222e60
@@ -4581,6 +4595,7 @@ topic:e9d31ab0233c0b365d9c
 topic:e9fc4ec230269f786253
 topic:ea64e0d92ad7507297ae
 topic:ea82d6cdd48a8f7ec568
+topic:ead96e5feb16176bf72b
 topic:eb1854b6ac01821519f8
 topic:eb6b3e70ba72be3cdcc0
 topic:ec12b0b3a4550c350149
@@ -4947,6 +4962,7 @@ url:izu.keizai.biz/photoflash/4572/
 url:izu.keizai.biz/photoflash/4576/
 url:izu.keizai.biz/photoflash/4580/
 url:j-times.jp/archives/141227
+url:j-times.jp/archives/147763
 url:ja.laodong.vn/bat-dong-san/bac-ninh-khoi-cong-du-an-khu-luu-tru-cong-nhan-vien-1328-phong-o-1726966.ldo
 url:ja.laodong.vn/bat-dong-san/chuan-bi-ha-tang-le-khoi-cong-nha-luu-tru-cong-nhan-kcn-dai-an-mo-rong-hai-phong-1724356.ldo
 url:ja.laodong.vn/bat-dong-san/khoi-cong-co-so-luu-tru-gan-1177-ti-dong-trong-khu-cong-nghiep-o-bac-ninh-1726908.ldo
@@ -5539,6 +5555,7 @@ url:news.yahoo.co.jp/articles/3be424c73e98d1a1e47c477f4df15a9f96ed36f2
 url:news.yahoo.co.jp/articles/3c2abd6a3f0f3fbf5b2db91c178949c70833a2e9?source=
 url:news.yahoo.co.jp/articles/3d12d67cb90aea0c43ac0f0e75c6d654ede2c6fb
 url:news.yahoo.co.jp/articles/3e1bb9fe35535e844e80cb0462e0b58e48f87b0d
+url:news.yahoo.co.jp/articles/3e5a7033030e7edb3d6371611de4e727d1fecb71
 url:news.yahoo.co.jp/articles/3ecdc9b15bb792b025c0fd2d4d93fa2522b326ad
 url:news.yahoo.co.jp/articles/3fe24eb6e7a4f7db82a3a2e4064e5ea4a04fbdda
 url:news.yahoo.co.jp/articles/3fe3c1cdfbd97342ecb9c19e21415be70ba8c51b?source=rss
@@ -5582,6 +5599,7 @@ url:news.yahoo.co.jp/articles/56634ab2eb1f3889aaa074ec0a4b8ece142fa786
 url:news.yahoo.co.jp/articles/56be1944957d7d35452ddafa90250613460979dc
 url:news.yahoo.co.jp/articles/56be1944957d7d35452ddafa90250613460979dc?page=
 url:news.yahoo.co.jp/articles/572a94491c353753ba12ee1ffe2ef61862681a6a?source=rss
+url:news.yahoo.co.jp/articles/573ad1c49ea5a287bccc97fb0691d0e7a2c5ec3e
 url:news.yahoo.co.jp/articles/575fc06116a79f2b4c46b275198c79cb8bbb02c1
 url:news.yahoo.co.jp/articles/57bd82f0708bc2700af557a005891ce41246c341
 url:news.yahoo.co.jp/articles/580c4f751d25307906de22eefc969e6fe1ac3089
@@ -5911,6 +5929,7 @@ url:newsdig.tbs.co.jp/articles/sbs/2860496?display=
 url:newsdig.tbs.co.jp/articles/tut/2885720
 url:newsdig.tbs.co.jp/articles/tys/2857536
 url:newsdig.tbs.co.jp/articles/uty/2855972
+url:newsdig.tbs.co.jp/articles/withbloomberg/2882564?display=
 url:newswitch.jp/p/49528
 url:nfm.nikkeibp.co.jp/atcl/fa/free/news/20041105/119421/
 url:nfm.nikkeibp.co.jp/atcl/fb/news/20121121/592514/
@@ -6364,6 +6383,9 @@ url:topics.smt.docomo.ne.jp/article/fct/region/fct-2026081709825568
 url:topics.smt.docomo.ne.jp/article/fisco/business/fisco-0009340020260820024
 url:topics.smt.docomo.ne.jp/article/fisco/business/fisco-0009340020260820027
 url:topics.smt.docomo.ne.jp/article/fisco/business/fisco-0009340020260820031
+url:topics.smt.docomo.ne.jp/article/fisco/business/fisco-0009340020260821022
+url:topics.smt.docomo.ne.jp/article/fisco/business/fisco-0009340020260821025
+url:topics.smt.docomo.ne.jp/article/fisco/business/fisco-0009340020260821043
 url:topics.smt.docomo.ne.jp/article/fisco/business/fisco-0009350020260623038
 url:topics.smt.docomo.ne.jp/article/fisco/business/fisco-0009350020260710038
 url:topics.smt.docomo.ne.jp/article/fminyu/region/fminyu-2026081809032753702
@@ -6881,6 +6903,7 @@ url:www.hospitalitynet.org/opinion/4134001/tollbooths-on-the-token-highway
 url:www.hospitalitynet.org/opinion/4134009/chatgpt-starts-selling-ads-in-europe-next-week-but-hotels-cant-buy-them-directly-yet
 url:www.hospitalitynet.org/opinion/4134037/the-hotel-industry-keeps-confusing-having-ai-with-having-a-strategy
 url:www.hospitalitynet.org/opinion/4134039/what-the-first-half-of-2026-says-about-the-hotel-industry
+url:www.hospitalitynet.org/opinion/4134054/preparing-hospitality-graduates-for-the-financial-realities-of-the-industry
 url:www.hospitalitynet.org/podcast/4134018/hotel-cross-selling-strategy-why-better-data-comes-first
 url:www.hospitalitynet.org/report/4133431/hvs-anarock-monitor-june-2026
 url:www.hospitalitynet.org/report/4133456/hvs-us-hotel-development-cost-survey-2026
@@ -7164,6 +7187,7 @@ url:www.oita-press.co.jp/1002000000/2026/08/01/NP2026080101001228
 url:www.oita-press.co.jp/1002000000/2026/08/02/NP2026080201001124
 url:www.oita-press.co.jp/1010000000/2026/06/25/JDC2026062501823
 url:www.oita-press.co.jp/1010000000/2026/06/25/JDC2026062502018
+url:www.oita-press.co.jp/1010000000/2026/08/22/JDC2026071300728
 url:www.okinawatimes.co.jp/articles/-/1863963
 url:www.okinawatimes.co.jp/articles/-/1865215
 url:www.okinawatimes.co.jp/articles/-/1865482
@@ -7320,6 +7344,7 @@ url:www.tokyo-takken.or.jp/re-port/82352
 url:www.tokyo-takken.or.jp/re-port/82638
 url:www.toonippo.co.jp/articles/-/2296400
 url:www.toonippo.co.jp/articles/-/2307829
+url:www.toonippo.co.jp/articles/-/2343935
 url:www.topics.or.jp/articles/-/1449181
 url:www.topics.or.jp/articles/-/1480144
 url:www.tradingkey.com/jp/news/earnings/262077284-tradingkey

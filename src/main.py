@@ -46,6 +46,51 @@ MEDIA_EXTENSIONS = (
     ".svg",
     ".bmp",
 )
+SOURCE_SUFFIX_NAMES = (
+    "Yahoo!ニュース",
+    "Yahoo!ファイナンス",
+    "PR TIMES",
+    "日本経済新聞",
+    "日経会社情報DIGITAL",
+    "Impress Watch",
+    "トラベル Watch",
+    "47NEWS",
+    "Infoseek",
+    "au Webポータル",
+    "ライブドアニュース",
+    "ニコニコニュース",
+    "Mantan Web",
+    "Excite エキサイト",
+    "ニュースメディアVOIX",
+    "建通新聞",
+    "HotelBank",
+    "住宅新報",
+    "山口新聞 電子版",
+    "信濃毎日新聞デジタル",
+    "長崎新聞ホームページ",
+    "電波新聞デジタル",
+    "神戸新聞",
+    "山陽新聞",
+    "宮崎日日新聞",
+    "沖縄タイムス社",
+    "北海道新聞デジタル",
+    "読売新聞",
+    "テレ東BIZ",
+    "中日新聞Web",
+    "トウシル",
+    "訪日ラボ",
+    "AMP[アンプ]",
+    "Newscast.jp",
+    "nna.jp",
+    "mbp-japan.com",
+    "@DIME アットダイム",
+    "Vietnam.vn",
+    "亜州日報",
+)
+SOURCE_SUFFIX_PATTERN = re.compile(
+    r"\s*[-|｜]\s*(?:" + "|".join(re.escape(name) for name in SOURCE_SUFFIX_NAMES) + r")\s*$",
+    re.IGNORECASE,
+)
 GOOGLE_NEWS_RESOLVE_CACHE = {}
 ARTICLE_DATE_CACHE = {}
 GENERIC_FACILITY_NAMES = {
@@ -423,9 +468,27 @@ def clean_article_title(title):
     return title.strip()
 
 
-def normalize_title_for_key(title):
+def strip_source_suffix(title):
     title = clean_display_text(title)
-    title = re.sub(r"\s*[-|｜]\s*(Yahoo!ニュース|PR TIMES|日本経済新聞|Impress Watch).*$", "", title)
+    previous = None
+
+    while previous != title:
+        previous = title
+        title = SOURCE_SUFFIX_PATTERN.sub("", title)
+        title = re.sub(
+            r"\s*[（(][^）)]{1,32}(?:新聞|放送|テレビ|タイムス|フィスコ|Game Spark|デイリー新潮)[）)]\s*$",
+            "",
+            title,
+        )
+
+    return title.strip()
+
+
+def normalize_title_for_key(title):
+    title = strip_source_suffix(title)
+    title = re.sub(r"^【ＰＲ記事】\s*", "", title)
+    title = re.sub(r"^【[^】]{1,20}】\s*", "", title)
+    title = re.sub(r"\s*[【\[]PR[】\]]\s*$", "", title, flags=re.IGNORECASE)
     title = re.sub(r"\s+", " ", title)
     return title.strip().lower()
 

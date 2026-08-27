@@ -8,7 +8,7 @@ email_drafts:
   to: biz@temairazu.com
   label: 下書き/ニュース
   subject_prefix: "【ニュース】"
-  max_drafts_per_run: 10
+  max_drafts_per_run: 30
   signature: ""
   accounts:
     - name: tokuhara

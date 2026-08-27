@@ -29,6 +29,14 @@ google_news:
       query: 'site:constnews.com (ホテル OR 旅館 OR 宿泊施設 OR 客室) (建設 OR 建築 OR 着工 OR 起工 OR 竣工 OR 開発 OR 計画 OR 新築 OR 改築)'
     - name: 建設ニュース ホテル開発
       query: 'site:constnews.com (ホテル OR 旅館 OR 宿泊施設 OR 客室) (開業 OR 開発 OR 再開発 OR 複合施設 OR 用途変更 OR 建設工事)'
+    - name: 建設通信 ホテル計画
+      query: 'site:kensetsunews.com (ホテル OR 旅館 OR 宿泊施設 OR 客室 OR リゾート) (建設 OR 着工 OR 起工 OR 竣工 OR 開発 OR 計画 OR 新築 OR 改築 OR 再開発)'
+    - name: 建設工業 ホテル計画
+      query: 'site:decn.co.jp (ホテル OR 旅館 OR 宿泊施設 OR 客室 OR リゾート) (建設 OR 着工 OR 起工 OR 竣工 OR 開発 OR 計画 OR 新築 OR 改築 OR 再開発)'
+    - name: 建設新聞 ホテル計画
+      query: 'site:kensetsu-news.co.jp (ホテル OR 旅館 OR 宿泊施設 OR 客室 OR リゾート) (建設 OR 着工 OR 起工 OR 竣工 OR 開発 OR 計画 OR 新築 OR 改築 OR 再開発)'
+    - name: 建築計画概要 ホテル
+      query: '(建築計画 OR 大規模小売店舗立地法 OR 都市計画 OR 開発許可) (ホテル OR 旅館 OR 宿泊施設 OR 客室) (新築 OR 建設 OR 着工 OR 開発 OR 再開発)'
     - name: ホテルリニューアル
       query: '(ホテル OR 旅館 OR 宿泊施設) (リニューアル OR リニューアルオープン OR 改装 OR 客室改装 OR リブランド)'
     - name: ホテル運営受託
@@ -65,6 +73,10 @@ google_news:
       query: '(観光地 OR 温泉街 OR リゾート地) (ホテル OR 旅館 OR 宿泊施設) (整備 OR 開発 OR 再生 OR 改修)'
     - name: 自治体宿泊施設
       query: '(自治体 OR 市 OR 町 OR 村) (宿泊施設 OR ホテル OR 旅館) (整備 OR 公募 OR 指定管理 OR 運営事業者)'
+    - name: 自治体宿泊公募
+      query: '(宿泊施設 OR ホテル OR 旅館 OR 温泉施設 OR 国民宿舎 OR 公共の宿) (公募型プロポーザル OR 事業者募集 OR 指定管理者募集 OR サウンディング OR Park-PFI)'
+    - name: 旧施設宿泊転用
+      query: '(旧庁舎 OR 旧学校 OR 旧校舎 OR 旧保養所 OR 遊休施設 OR 公有財産) (ホテル OR 旅館 OR 宿泊施設 OR グランピング) (活用 OR 改修 OR 再生 OR 公募 OR 民間活力)'
     - name: 指定管理宿泊
       query: '(宿泊施設 OR 温泉施設 OR 国民宿舎) (指定管理者 OR 指定管理 OR 運営事業者 OR 公募)'
     - name: 国民宿舎公共宿
@@ -121,6 +133,12 @@ google_news:
       query: '(site:okinawatimes.co.jp OR site:ryukyushimpo.jp) (ホテル OR 旅館 OR 宿泊施設 OR グランピング) (開業 OR 建設 OR 再開発 OR リニューアル OR 運営 OR 参入)'
     - name: 西日本建設紙ホテル
       query: '(site:kentsu.co.jp OR site:constnews.com) (大阪 OR 京都 OR 兵庫 OR 奈良 OR 和歌山 OR 岡山 OR 広島 OR 山口 OR 四国 OR 九州 OR 沖縄) (ホテル OR 旅館 OR 宿泊施設 OR 客室) (建設 OR 着工 OR 竣工 OR 開発 OR 計画 OR 新築)'
+    - name: 関西建設ホテル
+      query: '(大阪 OR 京都 OR 神戸 OR 奈良 OR 和歌山 OR 滋賀) (ホテル OR 旅館 OR 宿泊施設 OR 客室 OR リゾート) (建設 OR 着工 OR 竣工 OR 開発計画 OR 再開発 OR 用途変更)'
+    - name: 中四国建設ホテル
+      query: '(岡山 OR 広島 OR 山口 OR 鳥取 OR 島根 OR 徳島 OR 香川 OR 愛媛 OR 高知) (ホテル OR 旅館 OR 宿泊施設 OR 客室 OR リゾート) (建設 OR 着工 OR 竣工 OR 開発計画 OR 再開発 OR 用途変更)'
+    - name: 九州沖縄建設ホテル
+      query: '(福岡 OR 北九州 OR 佐賀 OR 長崎 OR 熊本 OR 大分 OR 宮崎 OR 鹿児島 OR 沖縄 OR 那覇 OR 宮古島 OR 石垣) (ホテル OR 旅館 OR 宿泊施設 OR 客室 OR リゾート) (建設 OR 着工 OR 竣工 OR 開発計画 OR 再開発 OR 用途変更)'
     - name: IRホテル
       query: '(IR OR 統合型リゾート OR カジノ) (ホテル OR 宿泊施設) (開業 OR 建設 OR 運営 OR 開発)'
     - name: PR TIMES宿泊開業
@@ -147,8 +165,12 @@ google_news:
       query: '(ホテル OR 旅館 OR 宿泊施設) (レベニューマネジメント OR ダイナミックプライシング OR ADR OR RevPAR)'
     - name: 宿泊テック海外
       query: '(hotel technology OR hospitality technology OR PMS OR channel manager OR booking engine) (Japan OR APAC OR hotel)'
+    - name: 海外ホテルテック投資
+      query: '(hotel software OR hotel PMS OR hospitality software OR channel manager OR revenue management software OR guest messaging) (funding OR acquisition OR partnership OR launch OR expansion)'
     - name: 海外ホテルチェーン動向
       query: '(Marriott OR Hilton OR Hyatt OR IHG OR Accor) (Japan OR hotel opening OR expansion OR partnership)'
+    - name: 海外日本進出ホテル
+      query: '(Marriott OR Hilton OR Hyatt OR IHG OR Accor OR Wyndham OR Dusit OR Banyan Tree) (Japan OR Osaka OR Kyoto OR Tokyo OR Okinawa OR Fukuoka OR Niseko) (opening OR development OR expansion OR rebrand)'
     - name: 海外OTA動向
       query: '(Booking.com OR Expedia OR Airbnb) (hotel OR accommodation OR travel demand OR Japan)'
     - name: STRホテル市場
@@ -169,3 +191,7 @@ google_news:
       query: '(ビザ緩和 OR ビザ免除 OR 入国規制 OR 渡航制限) (訪日 OR インバウンド OR 日本旅行 OR 旅行需要)'
     - name: 感染症旅行影響
       query: '(感染症 OR パンデミック OR 水際対策) (旅行需要 OR 訪日 OR インバウンド OR 航空便 OR 宿泊)'
+    - name: 海外景気訪日影響
+      query: '(米国景気 OR 欧州景気 OR 中国景気 OR アジア景気 OR 個人消費) (訪日 OR インバウンド OR 日本旅行 OR 海外旅行 OR 観光消費)'
+    - name: 航空会社日本路線
+      query: '(航空会社 OR LCC OR 国際線 OR 新規就航 OR 増便 OR 減便) (日本路線 OR 関空 OR 成田 OR 羽田 OR 中部空港 OR 福岡空港 OR 那覇空港 OR 訪日)'

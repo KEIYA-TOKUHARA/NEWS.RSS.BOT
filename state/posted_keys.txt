@@ -283,6 +283,7 @@ facility:31e03590e8104d11200e
 facility:321b4f715fb95a416eae
 facility:3243ba6477aaee40eca5
 facility:3305e89db65878951bd1
+facility:3317e4ab4065432c9e3a
 facility:3341640abf8ffed91943
 facility:335664044608a52a8f83
 facility:33a4492fab82ba56e9b4
@@ -473,6 +474,7 @@ facility:521b59ad40a3fad9892f
 facility:5238e8fcffb859a408aa
 facility:524a05f2da48f512b24a
 facility:52576657ac501de62b14
+facility:525768b280985a5e992e
 facility:527cf277f639a5b3ac89
 facility:5295740657931de5fc03
 facility:52db453ce650da6dc267
@@ -773,6 +775,7 @@ facility:82d0130e5736d613a819
 facility:82e060096fc5c2b2b154
 facility:82e60bbb914801a1a13c
 facility:83053bd2fb7d63c82f60
+facility:835ba3f1f2aee3a348a8
 facility:8397fee36233c4eaff61
 facility:83bbe0b6f48708e76898
 facility:83f14a6547bab4777d50
@@ -795,6 +798,7 @@ facility:859a500bc400952dd679
 facility:85ff22fefa962ae6bf1c
 facility:8662534eec2c70da6d80
 facility:86656d826b04cdc3585f
+facility:86db893527c3b59788f3
 facility:86e3a3540aafb5765015
 facility:86f190c2ef0b4bac41bc
 facility:86f5f0568de0e1cf8d42
@@ -913,6 +917,7 @@ facility:98fa8e269899fcfc9c0a
 facility:99149df6c2b70c78e63e
 facility:991eca41c38cd40dfb56
 facility:993911fcbc521002b7f2
+facility:998c2c863043a68769c1
 facility:99d0d08219ad0bcb2f03
 facility:9a49393ce49fb2c30c91
 facility:9a7b24cf7180cfce82d2
@@ -1413,6 +1418,7 @@ facility:ecf9ffaaf451a216e339
 facility:ed90fc35cae6c0ced1e8
 facility:edd55c162655922e20b7
 facility:edf154499698c2bf5b1c
+facility:ee430ae8b6b82faa4bdb
 facility:ee44f7fc3b6fdc5e8e49
 facility:ee5f8484aa695dc3047a
 facility:ee66c5a9f24528eed375
@@ -1522,6 +1528,7 @@ title:006dd7e981f37a211251
 title:008fbe488d03b2123ad0
 title:008ff8532ae51260ac98
 title:009f93ef3ee7141050a6
+title:00a300d857e1b3ba67ee
 title:00ade820662e968b8eed
 title:00adf1cb3c4226aa7a1c
 title:00b1ca82e44dea9ddcd5
@@ -2632,6 +2639,7 @@ title:2d3ad9a91a0deb74714d
 title:2d3b4e6f4fe7269feff3
 title:2d3c9dbdd58836f621b0
 title:2d640e76a6ed9252a64e
+title:2d6a10f9b5bbc25f7fc5
 title:2d71095df13ab8df977c
 title:2d8a7b0fe5e7e35e58e2
 title:2d904e98b74540503e29
@@ -3050,6 +3058,7 @@ title:3d94a3af66ae0b06404b
 title:3d94d9401b6248e1725a
 title:3d961fa9ee3beec830a4
 title:3d9cd6b69fdcd607bf22
+title:3db0d72c5cc2bacea279
 title:3dbd482461bea0c33ce6
 title:3dcc70f1815e84de64ac
 title:3dd49c73b02fa3882761
@@ -3266,6 +3275,7 @@ title:461bafc2a3dee8692c7a
 title:4622e3a0413bbb934e37
 title:4642c731837cdba5ef68
 title:464d2a3c0700385d0801
+title:465be16fc94de1195783
 title:465fa6e8658badaa6dd3
 title:4664f8a225089ae3b132
 title:46885b41265b7439af8d
@@ -4759,6 +4769,7 @@ title:817ef47015525ed00c24
 title:818a4f770a6a9e24108a
 title:81a7b85229bc87f6cc85
 title:81b09570b7c8bf63aa13
+title:81bde76f56b05a3f8744
 title:81c77e80fb0282779617
 title:81ca885adc5d56d62381
 title:81d5dae9b2d903e671d8
@@ -4827,6 +4838,7 @@ title:83d5914864c90bd8239a
 title:83e57986d458992f0adf
 title:83fe89fd03b55eba3b97
 title:83ffd13f5bb607b24037
+title:840372797a3256c9cbd1
 title:8408a61eec516a73e36e
 title:841dbd9b119bea1a4636
 title:842099ff59d570c96086
@@ -5926,6 +5938,7 @@ title:ad775d785f1b82ebac03
 title:ad812016d1d891bfd342
 title:ad850b8560593d67a371
 title:ada04a18fd8f964d5c8d
+title:adbc1abbb6fcb9c18d4b
 title:adbfffe835afba0c9bf0
 title:adc309e135435a5afe5f
 title:adc9f433d74e38650a40
@@ -6009,6 +6022,7 @@ title:b093b2c22f6738555dc4
 title:b0ac9c6bc1d7f430c866
 title:b0b241ad3ec041ac98ce
 title:b0bf5c9826434eca84f1
+title:b0c580994579d1299b50
 title:b0cb3c56ec1737d46ab9
 title:b0d437f191de68a2ba64
 title:b0d6a2de1d07a44c5852
@@ -6131,6 +6145,7 @@ title:b59f212daa25853259ec
 title:b5b1fa3f37e947a43989
 title:b5b273b06d078b83ee95
 title:b5ccda0f2e5cc4cabdef
+title:b5ce375553749795285c
 title:b5d650e71be5d63ffc6f
 title:b5d72e8ae8bc95b95cf1
 title:b5e17728cc42d83b1a66
@@ -7249,6 +7264,7 @@ title:e1f21f11496a75518d0b
 title:e200a01a6a38cf72483f
 title:e20bd828f7f106cf8c26
 title:e20e8c7d0495b986b673
+title:e236e5c3430ea93daffe
 title:e24f4f7111338514edfc
 title:e259275dd70f0c2e2588
 title:e25b97758e20b5714355
@@ -7560,6 +7576,7 @@ title:ee167067664f3cec3306
 title:ee2e1ce46fb1533f6daf
 title:ee2f43a8d649c8b44f7a
 title:ee3a5808f9cd7eb1ef12
+title:ee4252068baf20ab8f6d
 title:ee481213a8856db86b35
 title:ee554f7bac1ed3dc8dfa
 title:ee64ffc2f90c4987a4cf
@@ -7632,6 +7649,7 @@ title:f0f6a14decb8958970d8
 title:f1052919d42318545678
 title:f1077bf7f5090d2f1159
 title:f163eb5ef236f6badf83
+title:f16537f92f7d15c7fe02
 title:f1686c6614688c4d4de8
 title:f16e57cad3dc667978cd
 title:f189a34ea13f9f40345b
@@ -8338,6 +8356,7 @@ topic:32283a09b8f5c82a3b36
 topic:3243ba6477aaee40eca5
 topic:32b9531da72767b647f4
 topic:3305e89db65878951bd1
+topic:3317e4ab4065432c9e3a
 topic:3341640abf8ffed91943
 topic:335664044608a52a8f83
 topic:33a340b9eb83f7dc5b60
@@ -8576,6 +8595,7 @@ topic:521b59ad40a3fad9892f
 topic:5238e8fcffb859a408aa
 topic:524a05f2da48f512b24a
 topic:52576657ac501de62b14
+topic:525768b280985a5e992e
 topic:527cf277f639a5b3ac89
 topic:52921cf0e97701f29902
 topic:5295740657931de5fc03
@@ -8965,6 +8985,7 @@ topic:82e060096fc5c2b2b154
 topic:82e60bbb914801a1a13c
 topic:83053bd2fb7d63c82f60
 topic:835b4dd15e73ec6b7dc2
+topic:835ba3f1f2aee3a348a8
 topic:8370957df0b95d5fafaf
 topic:837ca389987b06edaaab
 topic:8397fee36233c4eaff61
@@ -8996,6 +9017,7 @@ topic:8662534eec2c70da6d80
 topic:86656d826b04cdc3585f
 topic:86b391cb22fe6e8e6233
 topic:86d77e2ee1976bc59482
+topic:86db893527c3b59788f3
 topic:86e3a3540aafb5765015
 topic:86f190c2ef0b4bac41bc
 topic:86f5f0568de0e1cf8d42
@@ -9149,6 +9171,7 @@ topic:98fa8e269899fcfc9c0a
 topic:99149df6c2b70c78e63e
 topic:991eca41c38cd40dfb56
 topic:993911fcbc521002b7f2
+topic:998c2c863043a68769c1
 topic:99d0d08219ad0bcb2f03
 topic:9a18ef431f9061f3de4f
 topic:9a49393ce49fb2c30c91
@@ -9801,6 +9824,7 @@ topic:eda304046c5a317651b0
 topic:edd55c162655922e20b7
 topic:edf154499698c2bf5b1c
 topic:ee1b7dfb95e6be0f354a
+topic:ee430ae8b6b82faa4bdb
 topic:ee44f7fc3b6fdc5e8e49
 topic:ee5f8484aa695dc3047a
 topic:ee64c7dd5051578b01b6
@@ -10497,6 +10521,7 @@ url:hotelbank.jp/industry-trends/tokutei-gino-shukuhaku-1968-rooms-per-1000-2026
 url:hotelbank.jp/industry-trends/torikireru-yado-capacity-ceiling-2026/
 url:hotelbank.jp/investigation/amenity-allin-hotels-analysis/
 url:hotelbank.jp/investigation/breakfast-local-cuisine-regional-ranking/
+url:hotelbank.jp/investigation/hotel-review-tag-breakfast-staff-109-hotels-2026/
 url:hotelbank.jp/investigation/new-hotel-2025-review-formation-curve/
 url:hotelbank.jp/investigation/parking-rating-ranking-ev-charging-2026/
 url:hotelbank.jp/investigation/plan-name-benchmark-osaka-cityhotel-2026-07/
@@ -10559,6 +10584,7 @@ url:hotelbank.jp/investment/tokyo-bay-2040-population-employment-hotel-investmen
 url:hotelbank.jp/investment/tsukiji-redevelopment-9000oku-mitsui-11companies-2030s-hotel-investment-analysis/
 url:hotelbank.jp/investment/tsukuba-science-city-whitespace/
 url:hotelbank.jp/investment/wooden-hotel-construction-structure-cost-floor-limit-2026/
+url:hotelbank.jp/lifestyle/business-trip-hotel-points-ownership-rules-2026/
 url:hotelbank.jp/lifestyle/capsule-hotel-monthly-40000-yen-2026/
 url:hotelbank.jp/lifestyle/hotel-gurashi-juminhyo-jikka-guide/
 url:hotelbank.jp/lifestyle/hotel-longstay-2months-60nights-cost/
@@ -10579,6 +10605,7 @@ url:hotelbank.jp/new-hotels/tokyo-satologue-sumika-2607open/
 url:hotelbank.jp/revenue-management/aichi-weekday-occupancy-sunday-gap-2026/
 url:hotelbank.jp/revenue-management/business-hotel-breakfast-premium-10-prefectures/
 url:hotelbank.jp/revenue-management/chiba-september-booking-curve-4-categories/
+url:hotelbank.jp/revenue-management/ehime-silverweek-2026-t45-t30-booking-curve/
 url:hotelbank.jp/revenue-management/fukuoka-breakfast-premium-settled-adr-slowdown-2026/
 url:hotelbank.jp/revenue-management/fukushima-settled-adr-yoy-4-categories-2026/
 url:hotelbank.jp/revenue-management/gunma-dow-occ-2026-07/
@@ -10635,6 +10662,7 @@ url:hotelbank.jp/trends/kanikusho-29-6-growth-2025-kakutei/
 url:hotelbank.jp/trends/labor-shortage-occupancy-quality-adr/
 url:hotelbank.jp/trends/lodging-stats-2026-05-ryokan-resort-occupancy-shift/
 url:hotelbank.jp/trends/occupancy-yoy-stratification-change-2026/
+url:hotelbank.jp/trends/prefecture-average-adr-representativeness-946-cities-2026/
 url:hotelbank.jp/trends/reit-vs-estimated-settled-adr-2026-h1/
 url:hotelbank.jp/trends/room-per-unit-guest-nights-47-prefectures-2026/
 url:hotelbank.jp/trends/urban-hotel-onsen-bath-supply-adr-2026/
@@ -11446,6 +11474,7 @@ url:news.nicovideo.jp/watch/nw19699054?news_ref=
 url:news.nicovideo.jp/watch/nw19700396?news_ref=
 url:news.nicovideo.jp/watch/nw19706316?news_ref=
 url:news.nicovideo.jp/watch/nw19706702?news_ref=
+url:news.nicovideo.jp/watch/nw19707155
 url:news.nicovideo.jp/watch/nw19712936?news_ref=
 url:news.nissyoku.co.jp/news/okum20260804105528490
 url:news.ntv.co.jp/category/economy/747d8b8e84ac42e79591407e19a65274
@@ -12819,6 +12848,7 @@ url:prtimes.jp/main/html/rd/p/000000002.000150045.html
 url:prtimes.jp/main/html/rd/p/000000002.000180616.html
 url:prtimes.jp/main/html/rd/p/000000002.000183021.html
 url:prtimes.jp/main/html/rd/p/000000002.000183124.html
+url:prtimes.jp/main/html/rd/p/000000002.000183301.html
 url:prtimes.jp/main/html/rd/p/000000002.000183454.html
 url:prtimes.jp/main/html/rd/p/000000002.000183539.html
 url:prtimes.jp/main/html/rd/p/000000002.000183711.html
@@ -13054,6 +13084,7 @@ url:prtimes.jp/main/html/rd/p/000000104.000097866.html
 url:prtimes.jp/main/html/rd/p/000000105.000093374.html
 url:prtimes.jp/main/html/rd/p/000000105.000180015.html
 url:prtimes.jp/main/html/rd/p/000000106.000162422.html
+url:prtimes.jp/main/html/rd/p/000000107.000025317.html
 url:prtimes.jp/main/html/rd/p/000000107.000058285.html
 url:prtimes.jp/main/html/rd/p/000000109.000078364.html
 url:prtimes.jp/main/html/rd/p/000000110.000078364.html
@@ -13360,6 +13391,7 @@ url:prtimes.jp/main/html/rd/p/000002089.000019483.html
 url:prtimes.jp/main/html/rd/p/000002119.000026157.html
 url:prtimes.jp/main/html/rd/p/000002228.000023303.html
 url:prtimes.jp/main/html/rd/p/000002245.000023303.html
+url:prtimes.jp/main/html/rd/p/000002247.000080271.html
 url:prtimes.jp/main/html/rd/p/000002267.000005118.html
 url:prtimes.jp/main/html/rd/p/000002282.000005118.html
 url:prtimes.jp/main/html/rd/p/000002285.000033064.html
@@ -13427,6 +13459,7 @@ url:ryukyushimpo.jp/economics/entry-5361214.html
 url:ryukyushimpo.jp/economics/entry-5390167.html
 url:ryukyushimpo.jp/economics/entry-5439518.html
 url:ryukyushimpo.jp/economics/entry-5451418.html
+url:ryukyushimpo.jp/economics/entry-5490116.html
 url:ryukyushimpo.jp/kyodo/entry-5366089.html
 url:ryukyushimpo.jp/kyodo/entry-5441710.html
 url:ryukyushimpo.jp/national/entry-5435949.html
@@ -13541,6 +13574,7 @@ url:skift.com/2026/08/19/gmh-hotels-the-metric-that-broke-hotel-strategy/
 url:skift.com/2026/08/20/taj-starts-bringing-staff-back-to-dubai-hotels-others-cautious-on-q4-recovery/
 url:skift.com/2026/08/20/why-this-founder-believes-every-hotel-should-think-like-a-media-company/
 url:skift.com/2026/08/24/pe-money-is-coming-for-str-the-new-stayterra-ceo-explains-the-strategy/
+url:skift.com/2026/08/27/googles-agentic-hotel-booking-tool-comes-to-ai-mode/
 url:skift.com/2026/08/28/canada-us-trade-war-tourism/
 url:skift.com/2026/08/28/what-hotelbeds-shrinking-margins-mean-for-hotel-distribution/
 url:sky-budget.com/2026/08/12/ana-announces-revision-to-international-fuel-surcharges-for-tickets-issued-from-september/
@@ -16389,6 +16423,7 @@ url:www.travelvoice.jp/tenders/1487
 url:www.travelvoice.jp/tenders/1521
 url:www.travelvoice.jp/tenders/1582
 url:www.travelvoice.jp/tenders/1590
+url:www.travelvoice.jp/tenders/1601
 url:www.tv-tokyo.co.jp/broad_bstvtokyo/program/detail/202607/14132_202607102300.html
 url:www.tv-tokyo.co.jp/broad_bstvtokyo4k/program/detail/202606/637_202606242300.html
 url:www.tv-tokyo.co.jp/broad_tvtokyo/program/detail/202606/14132_202606262300.html
@@ -16452,6 +16487,7 @@ url:www.vietnam.vn/ja/quy-dinh-bay-luu-tru-khach-san-sac-du-phong-tu-1-7
 url:www.vietnam.vn/ja/quy-hoach-ho-hoa-binh-mo-khong-gian-moi-cho-du-lich-nghi-duong-sinh-thai
 url:www.vietnam.vn/ja/san-bay-dien-bien-de-xuat-mo-duong-bay-quoc-te-dau-tien-toi-trung-quoc
 url:www.vietnam.vn/ja/sep-ihg-hotels-resorts-viet-nam-co-du-yeu-to-thu-hut-khach-xa-xi
+url:www.vietnam.vn/ja/sinh-vien-nganh-quan-tri-khach-san-hoc-sales-tu-nhung-tinh-huong-thuc-te-tai-hilton-saigon
 url:www.vietnam.vn/ja/su-that-khach-san-khong-con-don-phong-moi-ngay
 url:www.vietnam.vn/ja/sun-group-rot-them-gan-91-600-ty-dong-kien-tao-khoang-17-400-buong-phong-luu-tru-cao-cap-phat-trien-ha-tang-du-lich-va-phuc-vu-apec-2027-tai-phu-quoc
 url:www.vietnam.vn/ja/the-palm-island-biet-thu-dao-phong-cach-tre-trung-mang-tinh-than-nghi-duong-chinh-thuc-ra-mat

@@ -1395,9 +1395,11 @@ facility:e68ca19ee5307ae3b09f
 facility:e6cde1ac285d32be53a6
 facility:e6f76926cf8f862969f7
 facility:e71b2d4ae2e452f24d33
+facility:e72b0c240d5be909a52d
 facility:e752b38a4623bcfeb672
 facility:e7c9a304eb63aac43713
 facility:e7cc90a152678db7f8c1
+facility:e7d42956fa9706cb8fdd
 facility:e8124330eac57e6137e7
 facility:e832a02e47bd269c5069
 facility:e83edc080c0e078c9735
@@ -2692,6 +2694,7 @@ title:2e8991c7a1c4541ab3dd
 title:2e8b57ad31613f4ea836
 title:2e92e0ad0394b7e5feff
 title:2e9ae82bff5f0657d8e2
+title:2e9ba256742dce79e980
 title:2eb14c30522482c730ac
 title:2eb63f50c3cbde58dee2
 title:2eba5995d98c334d6c82
@@ -2716,6 +2719,7 @@ title:2f88c9870dc41f84ef23
 title:2fa4b11354ac0426543a
 title:2fae981c252cf5ef6a25
 title:2fb388c093de2d3d32c2
+title:2fbc6180c690fbc50eda
 title:2fbe41db94b3b7c67052
 title:2fc6f92633f6686d5cc8
 title:2fd16db4d53cf7409669
@@ -4918,6 +4922,7 @@ title:85b2f16d4b87fd617e2a
 title:85d34fa1c9f3aab04eb5
 title:85d609d8ccdb8de466fd
 title:85dd985a87cd64cdac43
+title:85ddf82b4f41f285160c
 title:85e6cc6e7bf12ae156ed
 title:85f07c024445cd53db0a
 title:85f61ea0478d5852bb2c
@@ -5347,6 +5352,7 @@ title:9617af5c850489526a56
 title:961e13787d7072eb87cb
 title:9623ec32b0bfe141dbed
 title:962694c789a2f06394dc
+title:963acb1d857243d3bd18
 title:963ba7cfbb4a4af01eda
 title:9655f12554fa32c49b73
 title:9658829971c4698fb9c9
@@ -5405,6 +5411,7 @@ title:97e35eadcedf0042811a
 title:97ec59cda78f5700bc08
 title:97f407fb096b7633fc6b
 title:97f587b6379b8596a55e
+title:97f7a7c2a8c60da4cae3
 title:9807d95ec06c99d4d36f
 title:981222fc039f7bf4585a
 title:981a2c3d49a173026d01
@@ -5554,6 +5561,7 @@ title:9ddcd3a9849c0f8ee80c
 title:9de5db844c420acefd69
 title:9deae237c6deb3ddcf7a
 title:9df689e5ade89b0d5997
+title:9df7fcbcc9680483475a
 title:9e0365a676317890cd07
 title:9e03da202e6f94708ba8
 title:9e08cb5cd1ea86fada57
@@ -7151,6 +7159,7 @@ title:db2aa3ec0afcaef3cfaf
 title:db378263d4cb4d447be5
 title:db42015c3f619d233a78
 title:db4dbfb7a171af4865a4
+title:db4e031b83ae78574d27
 title:db6eca56255d6e767103
 title:db75da304904464b604d
 title:db7dd42f6c038cfbe25d
@@ -7746,6 +7755,7 @@ title:f300b08c8048a6208825
 title:f3013a3117d2907c3fc4
 title:f30eda98ceb5529dec97
 title:f33d70926191667b30d1
+title:f363d3142bcace1fa345
 title:f377c99d2c5f2a2a30ce
 title:f3a76ab6fe4bb3fcdbd6
 title:f3aa053f2effbed84855
@@ -9851,10 +9861,12 @@ topic:e6cde1ac285d32be53a6
 topic:e6f76926cf8f862969f7
 topic:e703001bedcfd21736e8
 topic:e71b2d4ae2e452f24d33
+topic:e72b0c240d5be909a52d
 topic:e752b38a4623bcfeb672
 topic:e7bdb80e4852c1986582
 topic:e7c9a304eb63aac43713
 topic:e7cc90a152678db7f8c1
+topic:e7d42956fa9706cb8fdd
 topic:e8124330eac57e6137e7
 topic:e832a02e47bd269c5069
 topic:e857a4593035bd224163
@@ -11910,6 +11922,7 @@ url:news.yahoo.co.jp/articles/3ab7c6146baff36f2967e2a953d220dbd6158129
 url:news.yahoo.co.jp/articles/3be424c73e98d1a1e47c477f4df15a9f96ed36f2
 url:news.yahoo.co.jp/articles/3c2abd6a3f0f3fbf5b2db91c178949c70833a2e9?source=
 url:news.yahoo.co.jp/articles/3c999a4337743e9d56641024dda24c1dcf045061
+url:news.yahoo.co.jp/articles/3ccfe771df166717df0fcbc7866cfd89943b5aa7
 url:news.yahoo.co.jp/articles/3cf214cc2c63fc78f7c0461fb09932f93dbeeeaa
 url:news.yahoo.co.jp/articles/3cf576951b0cea7d147b32faa44308d78875fbca
 url:news.yahoo.co.jp/articles/3d12d67cb90aea0c43ac0f0e75c6d654ede2c6fb
@@ -12753,6 +12766,7 @@ url:news.yahoo.co.jp/expert/articles/8b81d0212b9dcc2da94bf1e7e4c566346641150e
 url:news.yahoo.co.jp/expert/articles/97f590e2d5c7b612b7f175a402307d2b5ae08b4a
 url:news.yahoo.co.jp/expert/articles/a08fe470412dfa6f4c9da4542b014693945759fc
 url:news.yahoo.co.jp/expert/articles/af62e935d39ac273d5cd06b996febd0a0e9484d3
+url:news.yahoo.co.jp/expert/articles/b344038b13bc0dc866c2f62f62f0c109752a38b0
 url:news.yahoo.co.jp/expert/articles/b3601b604cb130eecdd2141fd9b51a045129321a
 url:news.yahoo.co.jp/expert/articles/c793a7783ccfae862b73e9ccb815b0bb3751eaa0
 url:news.yahoo.co.jp/expert/articles/eb1b7bdb6726ef5edcee1251de306405eb70f576
@@ -13602,6 +13616,7 @@ url:shonanjin.com/news/kamakura-bird-hotel-tabi-iro/
 url:shonanjin.com/news/kamakura-fukuryuso-open/
 url:shonanjin.com/news/yugawara-hotel-sway-open/
 url:shonanjin.com/news/yugawara-hotel-sway-yugawara-open/
+url:shueisha.online/articles/-/258497
 url:shutten-watch.com/kansai/49228
 url:sigma.world/ja/news/suntrust-westside-opening-pagcor-gsa-licence/
 url:simplywall.st/ja/stocks/us/consumer-services/nyse-hlt/hilton-worldwide-holdings/news/how-investors-may-respond-to-hilton-worldwide-holdings-hlt-e
@@ -14623,6 +14638,7 @@ url:www.excite.co.jp/news/article/Hounichi_whitepapermatome_20260630/
 url:www.excite.co.jp/news/article/Hounichi_whitepapermatome_20260716/
 url:www.excite.co.jp/news/article/Jiji_3814197/
 url:www.excite.co.jp/news/article/Jpcna_CNA_20260803_202608030006/
+url:www.excite.co.jp/news/article/Jpcna_CNA_20260829_202608290003/
 url:www.excite.co.jp/news/article/Prtimes_2026-07-06-33908-205/
 url:www.excite.co.jp/news/article/Prtimes_2026-07-08-170473-47/
 url:www.excite.co.jp/news/article/Prtimes_2026-07-08-39528-83/
@@ -15381,6 +15397,7 @@ url:www.kankokeizai.com/2707270830kks/
 url:www.kateigaho.com/travel/kaigai/182499
 url:www.kateigaho.com/travel/local/182692
 url:www.kenbiya.com/ar/ns/for_rent/minpaku/10241.html
+url:www.kenbiya.com/ar/ns/for_rent/minpaku/10464.html
 url:www.kenbiya.com/ar/ns/region/chushi/10178.html
 url:www.kenbiya.com/ar/ns/region/kyusyu/10351.html
 url:www.kenbiya.com/ar/ns/region/tokyo/10240.html
@@ -15393,6 +15410,7 @@ url:www.kensetsunews.com/archives/1272424
 url:www.kensetsunews.com/archives/1273603
 url:www.kensetsunews.com/archives/1274825
 url:www.kensetsunews.com/archives/1275253
+url:www.kensetsunews.com/archives/1277544
 url:www.kensetsunews.com/single?news_code=
 url:www.kensetsunews.com/sokuho/1261230
 url:www.kensetsunews.com/sokuho/1264422
@@ -15527,6 +15545,7 @@ url:www.mag2.com/p/money/1762380/amp
 url:www.mag2.com/p/money/1763759/amp
 url:www.mag2.com/p/money/1767855/amp
 url:www.mag2.com/p/money/1776025/amp
+url:www.mag2.com/p/money/1781831
 url:www.media-outreach.com/news/japan/2026/08/24/482624/%E3%83%88%E3%83%A9%E3%83%99%E3%83%AD%E3%83%83%E3%82%B8%E5%A4%A7%E9%98%AA%E5%BF%83%E6%96%8E%E6%A9%8B%E3%81%8C%E5%85%AC%E5%BC%8F%E3%81%AB%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%80%81%E3%83%88%E3%83%A9/
 url:www.minpo.jp/articles/-/174230
 url:www.minpo.jp/articles/-/200289
@@ -15795,6 +15814,7 @@ url:www.nikkei.com/nkd/disclosure/tdnr/20260731505408/
 url:www.nikkei.com/nkd/disclosure/tdnr/20260807514668/
 url:www.nikkei.com/nkd/disclosure/tdnr/20260820523973/
 url:www.nikkei.com/nkd/disclosure/tdnr/20260825525511/
+url:www.nikkei.com/nkd/disclosure/tdnr/20260828527822/
 url:www.nikkei.com/nkd/industry/article/?DisplayType=
 url:www.nikkei.com/prime/veritas/article/DGXZQOUB262NY0W6A820C2000000
 url:www.nikkei.com/prime/veritas/article/DGXZQOUC247W20U6A720C2000000

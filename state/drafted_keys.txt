@@ -226,6 +226,7 @@ facility:3c28467b5ea6bfdfe57b
 facility:3c695c211a46ef7de6e6
 facility:3cc266396ff98faa143d
 facility:3cf93ee4d3de7e441039
+facility:3d32bf5d00730feefd9f
 facility:3deb80ce82ed6f16d3ad
 facility:3e1424cc848a9e75df3e
 facility:3e64a694793ad60788be
@@ -274,6 +275,7 @@ facility:48f74837523229b51e3d
 facility:48f8578434e4e784a79e
 facility:490d4682903f79a0feff
 facility:495a0c94493d0c984ccd
+facility:4996e4f23b29b9556e49
 facility:4a061fc934d82a2263b9
 facility:4a56cd1ecced7ca8ce12
 facility:4aa0bdf17a58b5864aee
@@ -928,6 +930,7 @@ facility:f93e2ee60328eff585ea
 facility:fa4efb0fa23a50a3eb18
 facility:faa1deb7d2c320d88abb
 facility:fb07aee32fb28590d59a
+facility:fbeb9c65dead47c13443
 facility:fbf694c1279e1cfe9534
 facility:fbf8b7d7a142d0dc2483
 facility:fc1507b78364e9efb727
@@ -1408,6 +1411,7 @@ title:24c52e44ad3535657544
 title:24d96ced04135213c0e1
 title:24e65baf08d7f559c3cb
 title:24f3db44de617cbabe8d
+title:24f551a1ce4902ed8c3b
 title:24fe605875ae8b77c689
 title:2514299617e5370001c2
 title:2525573af6def6c0917d
@@ -2190,6 +2194,7 @@ title:61391770ad77c2d12958
 title:614a51696c5523770a90
 title:614ea5344d8dd8bfe476
 title:61881abeefea21146927
+title:61a9e6b69ad1f6ccfdf7
 title:61d522e335c10c03fa74
 title:61d69a21eb71e9311a93
 title:621101dfb6d4a4de93de
@@ -2325,6 +2330,7 @@ title:6be068345f3208ec3fa0
 title:6be0e3b49fba26155bdb
 title:6bf3dfe017f4f45fd026
 title:6bfb7838294e5d58f0f3
+title:6c0bc7b7760938dcaf3b
 title:6c0e2cfaef999cf98bd5
 title:6c10fa1787240ab336df
 title:6c1f50d0f4328852f6af
@@ -2386,6 +2392,8 @@ title:6fd5ce94e179996f3c4d
 title:6fdcb30b73052bba9122
 title:6fe3cd89b5e61e41e3f4
 title:6ffc7d95615c377783e3
+title:7018d123b8c8f243387b
+title:7035826b7ff085003465
 title:703e6f3028cf03639f5d
 title:704b60ef50a358766d8c
 title:70761e5f876612cc7e85
@@ -2528,6 +2536,7 @@ title:7aeb281fb912ffdf3b4b
 title:7af17480013e71a3d8c2
 title:7af7790e7b5655555b91
 title:7b184ba5993cfeea0ac1
+title:7b37e49df7fa4f41c7a0
 title:7b438b2741323d1f0119
 title:7b62344550d18416e660
 title:7b69a86683db6a00f404
@@ -3072,6 +3081,7 @@ title:a0da4bd423fe13c71cea
 title:a0e02e8296ce96fc3cdc
 title:a0e3529eae44077f0841
 title:a0e908f39e367f1ad927
+title:a10eec8cdbdd3cd9fd5b
 title:a131299af2c5992c0f3a
 title:a160109b341c66651a03
 title:a1ac9e716dfe2f1267fd
@@ -3134,6 +3144,7 @@ title:a4ec76fc3f6d6b134119
 title:a500b119f6d75ab23939
 title:a524c4651760c8933946
 title:a543d0b5286bf21ee521
+title:a548b2276bb44b6dd18b
 title:a5525fb6998b08fdb02d
 title:a554fd66fce59cbeadf3
 title:a564d3f952cedd3ec4d5
@@ -3596,6 +3607,7 @@ title:c53d0bf52e654e0c8a19
 title:c53f091ee5227e586129
 title:c555cd712d756af4bb5f
 title:c556eb06515ee9c9aea7
+title:c5794e0f7bea254e3420
 title:c58a4160e11bbea870a7
 title:c59d37651bf3753aff4a
 title:c5cc50598a198c3b5a96
@@ -3942,6 +3954,7 @@ title:e05f0ba863280759f96b
 title:e07497d94d2e03a11ca9
 title:e08acb5af954f16ff633
 title:e0939aecabf3a6e68394
+title:e0be02338bb616a2c0e2
 title:e0c0bef6756c739b15a9
 title:e0c61924c2e3d236cbe9
 title:e0cc563239055bdaba57
@@ -4647,6 +4660,7 @@ topic:3c677d6dc317058c990e
 topic:3c695c211a46ef7de6e6
 topic:3cc266396ff98faa143d
 topic:3cf93ee4d3de7e441039
+topic:3d32bf5d00730feefd9f
 topic:3deb80ce82ed6f16d3ad
 topic:3e64a694793ad60788be
 topic:3e7122632bb066c307b0
@@ -4702,6 +4716,7 @@ topic:48f74837523229b51e3d
 topic:48f8578434e4e784a79e
 topic:490d4682903f79a0feff
 topic:495a0c94493d0c984ccd
+topic:4996e4f23b29b9556e49
 topic:4a0429f66c9b30e92d93
 topic:4a061fc934d82a2263b9
 topic:4a56cd1ecced7ca8ce12
@@ -5375,6 +5390,7 @@ topic:d515d24002f652ef82ad
 topic:d537bc9c04d322df1838
 topic:d5e9965217b2abbaf69f
 topic:d60f618f0bd50a1820b4
+topic:d6af99b7a956ccebd2bd
 topic:d6c7b4527562c88813e5
 topic:d6c92f80b6c6fe18597c
 topic:d7090332e3d691c2195b
@@ -5556,6 +5572,7 @@ topic:faf37bcc8f93a6ffcb93
 topic:fb07aee32fb28590d59a
 topic:fb2c55cc13f035032681
 topic:fb6e12d8547edf4d642d
+topic:fbeb9c65dead47c13443
 topic:fbf694c1279e1cfe9534
 topic:fbf8b7d7a142d0dc2483
 topic:fc1507b78364e9efb727
@@ -6504,6 +6521,8 @@ url:news.nicovideo.jp/watch/nw19712452
 url:news.nicovideo.jp/watch/nw19712936?news_ref=
 url:news.nicovideo.jp/watch/nw19721427?news_ref=
 url:news.nicovideo.jp/watch/nw19726372?news_ref=
+url:news.nicovideo.jp/watch/nw19726571?news_ref=
+url:news.nicovideo.jp/watch/nw19726727?news_ref=
 url:news.ntv.co.jp/category/economy/fb34e3ade2704149e08213418a52ed1d31
 url:news.ntv.co.jp/category/economy/nkeb8c6885f157429981abb009ba4cdb8d
 url:news.ntv.co.jp/category/life/um6c90cd7f2255439a9fa037d1d3c05738
@@ -7389,6 +7408,7 @@ url:prtimes.jp/main/html/rd/p/000000746.000036737.html
 url:prtimes.jp/main/html/rd/p/000000772.000052784.html
 url:prtimes.jp/main/html/rd/p/000000796.000032901.html
 url:prtimes.jp/main/html/rd/p/000000813.000010391.html
+url:prtimes.jp/main/html/rd/p/000000829.000010391.html
 url:prtimes.jp/main/html/rd/p/000000859.000018265.html
 url:prtimes.jp/main/html/rd/p/000000861.000018265.html
 url:prtimes.jp/main/html/rd/p/000000866.000018265.html
@@ -7458,6 +7478,7 @@ url:readyfor.jp/projects/aratama_ryokan/announcements/434294
 url:readyfor.jp/projects/yamaneko28/announcements/438987
 url:realsound.jp/tech/2026/07/post-2446741.html
 url:report.iko-yo.net/articles/32636
+url:report.iko-yo.net/articles/33155
 url:richardajkeys.com/dp/5cf8149739507
 url:rocket-boys.co.jp/security-measures-lab/kaigetsukan-group-unauthorized-access-info-leak-phishing/
 url:rocket-boys.co.jp/security-measures-lab/kaya-kyoto-phishing-booking-whatsapp-warning/
@@ -7704,6 +7725,7 @@ url:toyokeizai.net/articles/-/949898
 url:toyokeizai.net/articles/-/955348?display=
 url:travel.mdpr.jp/travel/4733528
 url:travel.mdpr.jp/travel/4825860
+url:travel.mdpr.jp/travel/detail/4835993
 url:travel.watch.impress.co.jp/docs/news/2120349.html
 url:travel.watch.impress.co.jp/docs/news/2120963.html
 url:travel.watch.impress.co.jp/docs/news/2122752.html
@@ -7740,6 +7762,7 @@ url:voix.jp/biz/news-analysis/174415/
 url:voix.jp/biz/news-analysis/177867/
 url:voix.jp/biz/news-analysis/178104/
 url:voix.jp/biz/news-analysis/178312/
+url:voix.jp/biz/news-analysis/178315/
 url:voix.jp/biz/news/172281/
 url:voix.jp/biz/news/176581/
 url:voix.jp/business-cards/flipt-for-hotels-launch/
@@ -8224,6 +8247,7 @@ url:www.hospitalitynet.org/news/4134164/societies-geneva-will-bring-together-lea
 url:www.hospitalitynet.org/news/4134165/emirates-environmental-group-launches-emirates-hospitality-sustainability-alliance
 url:www.hospitalitynet.org/news/4134172/ihg-hotels-resorts-builds-on-one-million-meal-milestone-as-stay-for-good-returns-this-september
 url:www.hospitalitynet.org/news/4134175/lighthouse-launches-ernest-crews-to-get-hotel-commercial-teams-running-on-ai-in-as-little-as-30-days
+url:www.hospitalitynet.org/news/4134179/omni-hotels-resorts-doubles-meal-donations-for-every-stay-during-hunger-action-month
 url:www.hospitalitynet.org/opinion/4132458/the-role-of-operational-luxury-in-hospitality
 url:www.hospitalitynet.org/opinion/4132482/azuma-brand-launch-signals-larger-hotel-category-trends
 url:www.hospitalitynet.org/opinion/4132494/five-trends-every-hotel-leader-needs-to-watch-in-2026
@@ -8770,6 +8794,7 @@ url:www.shimotsuke.co.jp/articles/-/1399352
 url:www.shimotsuke.co.jp/articles/-/1406967?newsletter=
 url:www.shimotsuke.co.jp/articles/-/1412984
 url:www.shimotsuke.co.jp/articles/-/1412984?top=
+url:www.shimotsuke.co.jp/articles/-/1413238
 url:www.shinmai.co.jp/news/article/gf01d8emiv6c8ao70u2597v0
 url:www.shinmai.co.jp/news/article/gf01d8sgtq9t9dl924l7o8g0
 url:www.shinmai.co.jp/news/article/gf01d98cqff170m5r354qo60
@@ -8797,6 +8822,7 @@ url:www.toonippo.co.jp/articles/-/2343935
 url:www.toonippo.co.jp/articles/-/2348971
 url:www.topics.or.jp/articles/-/1449181
 url:www.topics.or.jp/articles/-/1480144
+url:www.topics.or.jp/articles/-/1487223
 url:www.tradingkey.com/jp/news/earnings/262077284-tradingkey
 url:www.tradingview.com/news/fisco:36bebfda08457:0/
 url:www.traicy.com/posts/20260602369509/
@@ -8913,6 +8939,7 @@ url:www.travelvoice.jp/20260821-160372
 url:www.travelvoice.jp/20260827-160369
 url:www.travelvoice.jp/20260827-160382
 url:www.travelvoice.jp/20260827-160383
+url:www.travelvoice.jp/20260901-160388
 url:www.travelvoice.jp/tenders/1411
 url:www.travelvoice.jp/tenders/1420
 url:www.travelvoice.jp/tenders/1431

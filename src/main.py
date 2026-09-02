@@ -1675,6 +1675,11 @@ def main():
             f" / 失敗{email_draft_error_count}件"
         )
 
+    if email_draft_error_count:
+        raise RuntimeError(
+            f"Gmail下書き作成に失敗しました: {email_draft_error_count}件"
+        )
+
     sheet_append_count, sheet_skip_count = append_news_sheet_rows(email_draft_candidates)
 
     if sheet_append_count or sheet_skip_count:

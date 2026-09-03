@@ -2,6 +2,7 @@
 __pycache__/
 *.pyc
 .env
+.email_signature.txt
 .DS_Store
 credentials.json
 token.json

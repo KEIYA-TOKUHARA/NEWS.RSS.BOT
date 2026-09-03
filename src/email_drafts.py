@@ -20,6 +20,7 @@ except ModuleNotFoundError:
 
 CONFIG_FILE = Path("config/email_drafts.yaml")
 DRAFTED_KEYS_FILE = Path("state/drafted_keys.txt")
+LOCAL_SIGNATURE_FILE = Path(".email_signature.txt")
 GENERIC_FACILITY_NAMES = {
     "ホテル",
     "旅館",
@@ -360,7 +361,16 @@ def normalize_signature(signature):
 
 
 def get_signature(config):
-    return os.environ.get("EMAIL_SIGNATURE") or config.get("signature", "")
+    signature = os.environ.get("EMAIL_SIGNATURE")
+
+    if signature:
+        return signature
+
+    signature_file = Path(os.environ.get("EMAIL_SIGNATURE_FILE", LOCAL_SIGNATURE_FILE))
+    if signature_file.exists():
+        return signature_file.read_text(encoding="utf-8")
+
+    return config.get("signature", "")
 
 
 def build_draft_body(article, judgement, config=None, extracted=None):

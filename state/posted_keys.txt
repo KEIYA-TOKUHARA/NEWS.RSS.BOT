@@ -201,6 +201,7 @@ facility:2250ca42cba5f9cdd201
 facility:2287fc88770194c0062b
 facility:22b0e64d87b9a24dc662
 facility:22b4e04c7ef414b4bccd
+facility:236f3abb42f51eda0296
 facility:2390eda68bd5482b3527
 facility:239c34416655ec4f4028
 facility:23c3a79aebf4895fafd9
@@ -1537,6 +1538,7 @@ facility:ee724e82931916ef29c6
 facility:ee742798f3dcb2efc28d
 facility:ee8b6ee6922f1fcb2372
 facility:eea069462a12d40512a6
+facility:eea82cbdcdb01dc185c4
 facility:eee06e068356483d1404
 facility:ef0092e93c4e25f3f5cd
 facility:ef2aacd4a36163bc495a
@@ -2707,6 +2709,7 @@ title:287e25ec65ae6315a994
 title:287f1f3d45030d39d0f2
 title:288b906d4c05f575faba
 title:2892bd5343b2d8845123
+title:289337ce3a968fb60029
 title:2897f31ee13ae147fa14
 title:289ef67e7adccefb7917
 title:28b4fd1fbb9ae6779f6f
@@ -2934,6 +2937,7 @@ title:312515b71f5a6e632719
 title:312bba21016d001d3f37
 title:31359da8869aceb28b7a
 title:3138757a35b0250e7a81
+title:313b3f077669028d7a7d
 title:315512cde54c7ef6cc53
 title:315689929f10eb0b7c20
 title:31705cb94ab2eb4ee622
@@ -3224,6 +3228,7 @@ title:3b6f9871b63e22b41586
 title:3b88718627d7683b56b0
 title:3b926b9a5d2a4891ac1a
 title:3b96dbe61aa01c3864ba
+title:3b97f920be587ffe0b85
 title:3b9a7cdbec7dc5cc8ae9
 title:3ba535fdf3d75621a79e
 title:3bb66662a411897dea9b
@@ -3342,6 +3347,7 @@ title:40bd83dcdfb2d3a45e98
 title:40bec77e001d0f39fbc8
 title:40c07099dc0cc874a10f
 title:40c6eb0822b1c72b7b0e
+title:40cf7319c5fa90afa258
 title:40d161316fdaa7eaee47
 title:40d17af8b629bed47abf
 title:40de05d6549664780fcc
@@ -4311,6 +4317,7 @@ title:6550094ac339d8e5ca2f
 title:6552dbe64fe8977feeaf
 title:655354d544d33f2291f2
 title:655d4ec3610a2e8879f2
+title:655f5a10c3138f21c5f0
 title:65673aaa1a94e4560ea7
 title:657b2fd182a6960828ba
 title:6586e9ab02e78f514648
@@ -6647,6 +6654,7 @@ title:b8fa11abadf01302e228
 title:b900cfa74d6102fe043d
 title:b9054649cbece0bcac06
 title:b90867bacbb2d0a47fea
+title:b90ac861d57fe69a4dd1
 title:b90b9a3d38d87ca148bd
 title:b91165fdc2f632e4025e
 title:b911714c2462b548e7fb
@@ -7474,6 +7482,7 @@ title:d6c4fbfcd8199ea12421
 title:d6ca50152ea5f4ba9a9d
 title:d6ce71f976ec7a440326
 title:d6d381a6d112704161dc
+title:d6e2ccf2377320f0b843
 title:d6eaf74bc69177eb99dd
 title:d6f47ace4a5c05822273
 title:d7021a213f4372ea941b
@@ -7940,6 +7949,7 @@ title:e7cdc09e6a6d78d02a45
 title:e7d49ce831bcd5aab974
 title:e7f5df493f38cab28d2d
 title:e7f6461eee49f2e131b0
+title:e81e636d9aee318352b1
 title:e82a900514f0381ce462
 title:e83843a4edc4e27cbd23
 title:e85920370e21858ed1a9
@@ -8298,6 +8308,7 @@ title:f5a2ab8a11eda7c5308d
 title:f5bfac784c420e5c7fda
 title:f5d0c5e52a4418b94e02
 title:f5d11fcec74baddc30f2
+title:f5d2f3e52e4c4ce021ba
 title:f5d53ecce44a1aa1f564
 title:f5dfc92888d82dc65b4e
 title:f5e1c57e90c2fa7271f3
@@ -8581,6 +8592,7 @@ topic:04084529482903e1c721
 topic:0412cba0d82021ad7690
 topic:04167ae3814626896bcc
 topic:04631edf51d75836a602
+topic:048472e71411bc5917de
 topic:04b82d14ea9f660e0aad
 topic:04d003bbaf1d52352b61
 topic:04d0f0a4a85eb0d9efe9
@@ -8813,6 +8825,7 @@ topic:22b4e04c7ef414b4bccd
 topic:22bf3518011c7c075d61
 topic:22c8ec57ca2a31fdecca
 topic:22e93c3255c7b3477100
+topic:236f3abb42f51eda0296
 topic:239c34416655ec4f4028
 topic:23c3a79aebf4895fafd9
 topic:23f60ab9aaac251b3e2c
@@ -10535,6 +10548,7 @@ topic:ee742798f3dcb2efc28d
 topic:ee8b6ee6922f1fcb2372
 topic:ee9fd8fd0e410dd9bcd3
 topic:eea069462a12d40512a6
+topic:eea82cbdcdb01dc185c4
 topic:eee06e068356483d1404
 topic:eee5b5ff9a3e39b6187d
 topic:ef0092e93c4e25f3f5cd
@@ -12490,6 +12504,7 @@ url:news.yahoo.co.jp/articles/1656bc8acbb09776cde3417d5d3213f2f1af660b
 url:news.yahoo.co.jp/articles/1672c598acaf71416683839ebe68304726284522?page=
 url:news.yahoo.co.jp/articles/167972c76bc25b29b87af66509c9b5d903d6ee90?source=rss
 url:news.yahoo.co.jp/articles/167c62ef1d943458cd4ab579c1f74c9497c58cf1?source=rss
+url:news.yahoo.co.jp/articles/16c6be63dc7fd131236b14ce223427aabdf17ca7
 url:news.yahoo.co.jp/articles/17cbf4757e8aa9353de2ea2cc633805b6e7b2913
 url:news.yahoo.co.jp/articles/17cf758740c23ba7c8f2a13f705a60e4034e3de9
 url:news.yahoo.co.jp/articles/17d4865c3e2f1697e68343f050c29ab4cda27561
@@ -12649,6 +12664,7 @@ url:news.yahoo.co.jp/articles/353dc8f79039dcbe5d90b6e083d13cc662f96db0
 url:news.yahoo.co.jp/articles/35676fb1300e48dd262d4cab4fe58306d10c0931
 url:news.yahoo.co.jp/articles/3574842c1d79622fddcbd3d5f3e12066ed1b043b?source=rss
 url:news.yahoo.co.jp/articles/3592f6c4da7f38e213f01e7d4e9c3c0b394073f2
+url:news.yahoo.co.jp/articles/35b9244ef9548c8888d955ec1cc0d40529c117e2
 url:news.yahoo.co.jp/articles/363752d9c0cef429b881a3c7c950078b42077837?source=rss
 url:news.yahoo.co.jp/articles/37d6c53cb41432d04f0f388d24f7c65de243b446?source=rss
 url:news.yahoo.co.jp/articles/37d88a95373c6b5c7be471aeda22b719bd8c3ea3
@@ -12683,6 +12699,7 @@ url:news.yahoo.co.jp/articles/3f004cdd07e64dd676e40034d29cb10fec36d7f0
 url:news.yahoo.co.jp/articles/3fe24eb6e7a4f7db82a3a2e4064e5ea4a04fbdda
 url:news.yahoo.co.jp/articles/3fe3c1cdfbd97342ecb9c19e21415be70ba8c51b?source=rss
 url:news.yahoo.co.jp/articles/3ffe02e9a038a0e15d4013faba402691a86b9074
+url:news.yahoo.co.jp/articles/4002737d0f343fd8c21c1c22759ef7d06d8dafa3?page=
 url:news.yahoo.co.jp/articles/401b333ac4728f9a6072ebfc0b6ee6117cb0e462
 url:news.yahoo.co.jp/articles/4054df9a5a580c3501be15693a5b9f12bd6d1fe8
 url:news.yahoo.co.jp/articles/407b443c9760f3e26daea15abaa839fd87e090aa
@@ -13281,6 +13298,7 @@ url:news.yahoo.co.jp/articles/c507b9969514a21ec327a9a5d556b92d6d3fe875
 url:news.yahoo.co.jp/articles/c56d1764d58acca892a6fb86eaf81c628f415495
 url:news.yahoo.co.jp/articles/c5f5862d03910e4b4790f9dc130b694666e0ea5b
 url:news.yahoo.co.jp/articles/c602673811d5388b989d0bfa6555b204d90cc23c?source=rss
+url:news.yahoo.co.jp/articles/c605620379b170c84b205caa6bf6b0f7cd2f6516
 url:news.yahoo.co.jp/articles/c656fe5a3c7f4ae5e96375f6e272bba5f4d9073d
 url:news.yahoo.co.jp/articles/c674cee448bcb6ddb0beee0fe9c3883ae6b8e560?source=rss
 url:news.yahoo.co.jp/articles/c78d9e71e4dc8e14e931414565843a5c968bddc4?source=rss
@@ -14523,6 +14541,7 @@ url:skift.com/2026/08/28/canada-us-trade-war-tourism/
 url:skift.com/2026/08/28/what-hotelbeds-shrinking-margins-mean-for-hotel-distribution/
 url:skift.com/2026/08/31/choice-hotels-hands-ceo-job-to-insider-as-it-tries-to-reverse-a-slump-versus-rivals/
 url:skift.com/2026/08/31/marriott-presses-sales-teams-on-1-55-billion-gap-to-goal-for-2027-groups/
+url:skift.com/2026/09/04/biggest-innovators-in-travel-and-hospitality-summer-2026/
 url:skift.com/2026/09/04/blackstone-plans-7-billion-ipo-of-spanish-resort-owner-hotel-investment-partners-report/
 url:sky-budget.com/2026/08/12/ana-announces-revision-to-international-fuel-surcharges-for-tickets-issued-from-september/
 url:sky-budget.com/2026/08/27/narita-airport-news-aug2026-3/
@@ -15283,6 +15302,7 @@ url:www.breakingtravelnews.com/news/article/ramada-by-wyndham-izmir-aliaa-earns-
 url:www.breakingtravelnews.com/news/article/ramon-von-schuekkmann-returns-to-lead-pine-cliffs-resort/
 url:www.breakingtravelnews.com/news/article/red-sea-global-opens-rosewood-amaala-expanding-its-portfolio-of-luxury-reso/
 url:www.breakingtravelnews.com/news/article/reset-hotel-joins-outdoor-collection-by-marriott-bonvoy/
+url:www.breakingtravelnews.com/news/article/rixos-to-open-its-first-all-inclusive-resort-in-thailand/
 url:www.breakingtravelnews.com/news/article/rms-appoints-rich-steers-as-chief-product-technology-officer-to-accelerate/
 url:www.breakingtravelnews.com/news/article/rocco-forte-hotels-partners-with-sion-to-help-transform-travel-advisor-comm/
 url:www.breakingtravelnews.com/news/article/rosewood-jeddah-partners-with-the-ministry-of-tourism-to-support-the-hospit/
@@ -16011,6 +16031,8 @@ url:www.hospitalitynet.org/news/4134209/hsmai-dc-workshop-will-introduce-the-fun
 url:www.hospitalitynet.org/news/4134210/hotel-equities-partners-with-lodgic-hospitality-to-manage-austin-portfolio
 url:www.hospitalitynet.org/news/4134227/proudly-committed-riu-hotels-increases-its-social-investment-by-62-in-2025-and-achieves-100-sustainable-certifications
 url:www.hospitalitynet.org/news/4134230/rbh-hospitality-appointed-by-victory-group-to-manage-luxury-property-cameron-house-resort-on-loch-lomond
+url:www.hospitalitynet.org/news/4134235/doug-kennedys-next-staff-training-webcast-hotel-upselling-2026-training-tips-for-front-desk-and-reservations-teams
+url:www.hospitalitynet.org/news/4134251/roommaster-reveals-its-reimagined-hotel-platform-at-independent-hotel-show-miami-2026
 url:www.hospitalitynet.org/opinion/4132458/the-role-of-operational-luxury-in-hospitality
 url:www.hospitalitynet.org/opinion/4132482/azuma-brand-launch-signals-larger-hotel-category-trends
 url:www.hospitalitynet.org/opinion/4132494/five-trends-every-hotel-leader-needs-to-watch-in-2026
@@ -17433,6 +17455,7 @@ url:www.traicy.com/posts/20260831378509/
 url:www.traicy.com/posts/20260831378590/
 url:www.traicy.com/posts/20260831380419/
 url:www.traicy.com/posts/20260904380928/
+url:www.traicy.com/posts/20260905379737/
 url:www.travelnews.co.jp/news/inbound/2026061912010349639.html
 url:www.travelnews.co.jp/news/inbound/2026072109010350005.html
 url:www.travelnews.co.jp/news/inbound/2026072209015250003.html

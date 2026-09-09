@@ -62,6 +62,7 @@ facility:0aa627a4b1fe414d218a
 facility:0aeb07ecdabb2f7ec54c
 facility:0afedfcc1846de1d250a
 facility:0b1157b7499741ef6d5d
+facility:0b18738f4ee2cb7cd467
 facility:0b60c5bfa5e7ee08fb29
 facility:0b8bb75e47af921b4327
 facility:0b8f07ca67348fc64f05
@@ -1316,6 +1317,7 @@ facility:c5fc2299a37b4cd5d651
 facility:c616586c216c4058ab6b
 facility:c626d2bc9328f54f9d0d
 facility:c6348887333bb8f7c5f4
+facility:c637ef0006bc5eb5f6eb
 facility:c63bf19c3f8dc66e6831
 facility:c69f67c36fd85db33a0d
 facility:c6a9a569f095f485d991
@@ -2523,6 +2525,7 @@ title:1f3ccc75e2f87f42c66b
 title:1f402b6e21d8703dd34c
 title:1f4476e340b2e0754d4b
 title:1f49d6c09b5d30561366
+title:1f5a0f05037984bbe4ce
 title:1f687627609d241ea12f
 title:1f6d3a3301ce1ec21669
 title:1f6fe4dd999c3ad1b30b
@@ -3119,6 +3122,7 @@ title:34a82e59a9ccec2011ae
 title:34aa1c4e30bc3105e2c2
 title:34cdd9d3e03c80fabef4
 title:34cff8e38a63814758b6
+title:34dad4b53bf0874c6e86
 title:34de197646a4eb662206
 title:34e42bb8e4970196c29f
 title:34f3d7b21d5e76d28d9e
@@ -3219,6 +3223,7 @@ title:386dbd7898539626b3de
 title:3870d27500fe662183b5
 title:3879734a7df2cc3b8e49
 title:38853efc3da9c24b9a6c
+title:388b971c60b94f4fe48f
 title:388f4bfc185628d03d00
 title:3891b0365d7e72b3f2be
 title:38a29ebebd1c29bf139f
@@ -4062,6 +4067,7 @@ title:577566171a3fc41bd598
 title:5775b78ada44e111d61f
 title:57843d2bd5ba8433cb05
 title:5785fab6e3304d29d0e0
+title:57870725975573c519d7
 title:578a4af276723fce70b4
 title:578f70daba68d5b9b220
 title:5791c9a59cf0f9dd210e
@@ -5742,6 +5748,7 @@ title:927624b6e31df96cbd99
 title:928289adda876cf9eda5
 title:92939411105ece943c13
 title:929bae476aefffa4805c
+title:92a50fa9b7c029249dfd
 title:92a90f0450cc6c61f6b2
 title:92b2506c9a271b031425
 title:92b5e9b10ca7317d6427
@@ -5891,6 +5898,7 @@ title:978a2da996ddbe7516ee
 title:978bc68e99a196e2936a
 title:978c3b1736a04d5974cc
 title:97a02b33e5f7fd0d32aa
+title:97a823859ff91d98d19e
 title:97a97c35ab5ac496e631
 title:97a9b2c9e269919e48e8
 title:97bc1194b4f1d4cca40a
@@ -7019,6 +7027,7 @@ title:bf3757cdc9781b0b1e84
 title:bf3e8d315edf8b035a2d
 title:bf443ae6e789af7cd028
 title:bf56f56cae76eee2e90f
+title:bf6d275f8b20d60c92be
 title:bf6fa0c9756e2e2fbcd8
 title:bf721689c24af6324af4
 title:bf7c4ef2138903b173bd
@@ -7068,6 +7077,7 @@ title:c1640231cb19119427f4
 title:c1778554c3f4cddfdd77
 title:c18f3d2a9b37d7f10e37
 title:c1915a84c53a2be5e7c0
+title:c191bc0b81d171ac793e
 title:c1981d7eff1236fc191d
 title:c19f7ca8886507c4bd8b
 title:c1a052342133834cc1f8
@@ -7579,6 +7589,7 @@ title:d3acb94cc27f0f828b52
 title:d3b8d8874f9da0c18a92
 title:d3c44dba63bdd78d8cb6
 title:d3c4d8696d72a3563418
+title:d3d38a48297e74463b31
 title:d3dd436419f833af0cd4
 title:d3e58eda28b7949bef8b
 title:d3ea4c4fd3434f00cf0c
@@ -8594,6 +8605,7 @@ title:f8ca058e65f462313657
 title:f8cdf7008e724cb5aa34
 title:f8cef02c36bce7ff1fd4
 title:f8f16f06482e4f9e75e5
+title:f8f385aa4dbcf82bde2e
 title:f90fdc6d556527a0ad76
 title:f92150c4788300e25ab6
 title:f92adac0fe3440d778a1
@@ -8849,6 +8861,7 @@ topic:0aeb07ecdabb2f7ec54c
 topic:0af0314a0d41115a67cf
 topic:0afedfcc1846de1d250a
 topic:0b1157b7499741ef6d5d
+topic:0b18738f4ee2cb7cd467
 topic:0b60c5bfa5e7ee08fb29
 topic:0b8bb75e47af921b4327
 topic:0b8f07ca67348fc64f05
@@ -9273,6 +9286,7 @@ topic:3deb80ce82ed6f16d3ad
 topic:3ded991b90bcd23f8b01
 topic:3e3640978adb950d9ea8
 topic:3e3a1346f879fad814c8
+topic:3e4679cd8cec08217ab4
 topic:3e64a694793ad60788be
 topic:3e7122632bb066c307b0
 topic:3e74e63cbc786e483830
@@ -10465,6 +10479,7 @@ topic:c60dd66862a23490fc67
 topic:c616586c216c4058ab6b
 topic:c626d2bc9328f54f9d0d
 topic:c6348887333bb8f7c5f4
+topic:c637ef0006bc5eb5f6eb
 topic:c63bf19c3f8dc66e6831
 topic:c646995528edfa61504e
 topic:c69f67c36fd85db33a0d
@@ -11143,6 +11158,7 @@ url:biz.chosun.com/jp/jp-realestate/2026/06/24/NU4PZDYTNVDM3JZBAN2KX5464Q/
 url:biz.chosun.com/jp/jp-realestate/2026/07/03/VXANYDOBZRAVNG4NGVQIHY7KYI/
 url:biz.chosun.com/jp/jp-realestate/2026/09/03/K5PCAXIGPJCJZBTSUFP7MR7NTM/
 url:biz.chosun.com/jp/jp-retail/2026/06/11/M6O63JTA7NDHXMMDAUE6N7NUZY/?outputType=
+url:biz.chosun.com/jp/jp-retail/2026/09/09/ASJOS2WPYRH4VOI43FUCURBALU/
 url:biz.chunichi.co.jp/news/article/10/126153/
 url:biz.chunichi.co.jp/news/article/10/126624/
 url:biz.chunichi.co.jp/news/article/10/126777/
@@ -11762,6 +11778,7 @@ url:hotelbank.jp/trends/reit-vs-estimated-settled-adr-2026-h1/
 url:hotelbank.jp/trends/room-per-unit-guest-nights-47-prefectures-2026/
 url:hotelbank.jp/trends/urban-hotel-onsen-bath-supply-adr-2026/
 url:hotelbank.jp/trends/what-is-revpar-adr-occ-decomposition-2026/
+url:hotelbank.jp/trends/what-is-shukuhaku-ryoko-tokei-chosa-revision-2026/
 url:hotelbank.jp/trends/year-end-2026-27-forward-adr/
 url:hotelier.jp/inboundnews/ma/dormyinn-0625.html
 url:hotelier.jp/inboundnews/ma/mare-blu-0624.html
@@ -13080,6 +13097,7 @@ url:news.yahoo.co.jp/articles/50791a2b1d50575a19e06ae4223fb02ac429104a?source=rs
 url:news.yahoo.co.jp/articles/509ef9247a10b9e7941c874e63ec2cf5c3e968fe?source=rss
 url:news.yahoo.co.jp/articles/50d61f8cf10bdbd1813ed7e0d511b2da95b8ca77?source=rss
 url:news.yahoo.co.jp/articles/513e1f7d1333d4db3443030079da4814b36deac6
+url:news.yahoo.co.jp/articles/515b0a3c9e6d3701e17a9820623ed92b1f850ee8
 url:news.yahoo.co.jp/articles/515b0a3c9e6d3701e17a9820623ed92b1f850ee8?source=
 url:news.yahoo.co.jp/articles/516a90dc0e71f4060664374cb42833b1bcb3eac9?source=rss
 url:news.yahoo.co.jp/articles/52c9e1bde7eb391ac8163fc06cbc4c1f35156c2e?source=rss
@@ -13973,6 +13991,7 @@ url:newsdig.tbs.co.jp/articles/-/2877850
 url:newsdig.tbs.co.jp/articles/-/2886191
 url:newsdig.tbs.co.jp/articles/-/2896891?page=
 url:newsdig.tbs.co.jp/articles/-/2923874
+url:newsdig.tbs.co.jp/articles/-/2931878
 url:newsdig.tbs.co.jp/articles/bss/2775981
 url:newsdig.tbs.co.jp/articles/bss/2775981?display=
 url:newsdig.tbs.co.jp/articles/bss/2775981?page=
@@ -14152,6 +14171,7 @@ url:prtimes.jp/main/html/rd/p/000000004.000180684.html
 url:prtimes.jp/main/html/rd/p/000000004.000183620.html
 url:prtimes.jp/main/html/rd/p/000000005.000065838.html
 url:prtimes.jp/main/html/rd/p/000000005.000111623.html
+url:prtimes.jp/main/html/rd/p/000000005.000119880.html
 url:prtimes.jp/main/html/rd/p/000000005.000139424.html
 url:prtimes.jp/main/html/rd/p/000000005.000148163.html
 url:prtimes.jp/main/html/rd/p/000000005.000155696.html
@@ -15695,6 +15715,7 @@ url:www.breakingtravelnews.com/news/article/shaza-hotels-expands-saudi-arabia-po
 url:www.breakingtravelnews.com/news/article/sheraton-maldives-full-moon-resort-spa-enters-a-new-chapter-with-resort-wid/
 url:www.breakingtravelnews.com/news/article/simon-winchester-appointed-as-resort-manager-of-sugar-beach-a-viceroy-resor/
 url:www.breakingtravelnews.com/news/article/small-luxury-hotels-of-the-world-expands-its-wellbeing-collection-with-seve/
+url:www.breakingtravelnews.com/news/article/soho-ranch-house-sonoma-leads-a-wave-of-notable-new-hotels-slated-to-open-a/
 url:www.breakingtravelnews.com/news/article/sonesta-resort-hilton-head-island-launches-limited-time-labor-day-weekend-o/
 url:www.breakingtravelnews.com/news/article/spain-just-won-the-world-cup-heres-why-madrid-should-be-your-next-summer-es/
 url:www.breakingtravelnews.com/news/article/spice-island-beach-resort-president-janelle-hopkin-honored-with-nabhood-tra/
@@ -15702,6 +15723,7 @@ url:www.breakingtravelnews.com/news/article/spring-hotels-and-starmus-launch-big
 url:www.breakingtravelnews.com/news/article/spring-hotels-announced-as-official-event-accommodation-partner-for-starmus/
 url:www.breakingtravelnews.com/news/article/spring-hotels-increases-mare-nostrum-resort-revenue-by-19-in-first-year-fol/
 url:www.breakingtravelnews.com/news/article/starhotels-i-am-star-loyalty-program-expands-its-international-reach/
+url:www.breakingtravelnews.com/news/article/story-hospitality-appoints-jason-wischhoff-as-vice-president-of-development/
 url:www.breakingtravelnews.com/news/article/stradom-house-hotel-spa-autograph-collection-launches-new-and-advanced-well/
 url:www.breakingtravelnews.com/news/article/suyian-homestead-where-rare-views-meet-the-warmth-of-andbeyond-hospitality/
 url:www.breakingtravelnews.com/news/article/swiss-belhotel-international-announces-the-opening-of-swiss-belhotel-nizwa/
@@ -16144,6 +16166,7 @@ url:www.hospitalitynet.org/explainer/4133944/hotel-tech-stack-must-have-vs-nice-
 url:www.hospitalitynet.org/explainer/4134050/what-ai-can-already-tell-about-the-visitor-browsing-your-hotels-website
 url:www.hospitalitynet.org/explainer/4134137/how-hotels-create-memorable-guest-experiences
 url:www.hospitalitynet.org/explainer/4134249/hotel-vs-lodge-whats-the-difference-your-comparison-guide
+url:www.hospitalitynet.org/explainer/4134302/hotel-subscriptions-exploring-membership-models
 url:www.hospitalitynet.org/interview/4133129/cendyn-wants-hotels-to-get-ahead-of-ota-20
 url:www.hospitalitynet.org/interview/4133131/infors-david-poprawka-hotels-will-build-their-own-ai-and-the-real-rivals-are-google-and-anthropic
 url:www.hospitalitynet.org/interview/4133133/trybe-runs-the-parts-of-a-hotel-the-pms-doesnt
@@ -16417,6 +16440,7 @@ url:www.hospitalitynet.org/news/4134258/tfe-hotels-invests-100m-in-transforming-
 url:www.hospitalitynet.org/news/4134271/more-than-half-of-canadian-business-travellers-say-they-have-a-different-personality-at-work-according-to-new-hotelscom-report
 url:www.hospitalitynet.org/news/4134274/starboardlasalle-jv-acquires-seven-accor-hotels-in-key-markets-across-the-uk-from-ares-and-eq-group
 url:www.hospitalitynet.org/news/4134289/hosta-2026-report-dutch-hotel-industry-suffers-from-vat-increase
+url:www.hospitalitynet.org/news/4134307/harbour-hotels-expands-bristol-footprint-with-acquisition-of-brooks-guesthouse
 url:www.hospitalitynet.org/opinion/4132458/the-role-of-operational-luxury-in-hospitality
 url:www.hospitalitynet.org/opinion/4132482/azuma-brand-launch-signals-larger-hotel-category-trends
 url:www.hospitalitynet.org/opinion/4132494/five-trends-every-hotel-leader-needs-to-watch-in-2026
@@ -16528,6 +16552,7 @@ url:www.hospitalitynet.org/opinion/4134208/if-the-front-desk-is-optional-why-are
 url:www.hospitalitynet.org/opinion/4134214/the-margin-case-for-hotel-loyalty-rewards
 url:www.hospitalitynet.org/opinion/4134222/hospitality-leaders-take-your-marks-preparing-hotels-for-the-la28-olympics
 url:www.hospitalitynet.org/opinion/4134254/the-clock-started-without-them
+url:www.hospitalitynet.org/opinion/4134298/hotels-need-to-stop-selling-rooms
 url:www.hospitalitynet.org/podcast/4133269/how-hotels-turn-data-overload-into-profit-growth
 url:www.hospitalitynet.org/podcast/4133546/simone-puorto-the-hotel-industry-does-not-need-more-software
 url:www.hospitalitynet.org/podcast/4133584/bringing-a-struggling-hotel-back-to-life

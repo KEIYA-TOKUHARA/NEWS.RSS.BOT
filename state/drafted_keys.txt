@@ -108,6 +108,7 @@ facility:17aa09b04984be3f1926
 facility:17eeadf3764e3be1ef1a
 facility:181044a820105f172e69
 facility:189c1018f14010126e2f
+facility:18ac1581e7a9993ff5f1
 facility:18ac4cc4e48f04afeaf4
 facility:1977a40486d14f5aa7da
 facility:1996c5abaca41c81645b
@@ -704,6 +705,7 @@ facility:a7892a7680c0fb660b6e
 facility:a79a8c8a9c3c10062ff6
 facility:a7c5de4c003ba625b8ab
 facility:a7f99dac6e852470f601
+facility:a82c96283d06134c33e1
 facility:a8f2caa936d4876bf0b1
 facility:a9054b5347f3aebcfdf7
 facility:a917c04a064746a1b2b5
@@ -865,6 +867,7 @@ facility:ca80232ca236dfcf8d10
 facility:cb30d25488e811d76a92
 facility:cb832fc444e62c07f633
 facility:ccc035c70aab47309409
+facility:cd3af03ce29089574567
 facility:cd42409e9d1bb1285ec4
 facility:ce3e5c198a62dcadec07
 facility:ce654cbdf6290e8692b7
@@ -1486,6 +1489,7 @@ title:1d3935da97c34b656e66
 title:1d4152a3d50db46d9593
 title:1d49f8b6051013074027
 title:1d5d71b1e3cbe615446f
+title:1d6e6971aae69e096d58
 title:1d70ea876f2506e82dbe
 title:1d78cdc00709c64a4aaa
 title:1dae8e65447678666dbb
@@ -3567,6 +3571,7 @@ title:a377f8af4d94c7e61752
 title:a37f5ae7fdb8d6354660
 title:a38356e24bf62f08af29
 title:a3a37dfd8f5b34f2e381
+title:a3ac271b2eaa3b066a04
 title:a3b3c184a6f6c65290f0
 title:a3bb246288884d0144b2
 title:a3cdaba2041090e3e732
@@ -3818,6 +3823,7 @@ title:b2c15ff6e771df794c3e
 title:b31ab641c3910ecf6136
 title:b33f1fa3944595040ea8
 title:b3429d4d5ea13a0d6baa
+title:b3517bb47d5aab567e99
 title:b3578f8b809adc671bec
 title:b35d0145396827e887c5
 title:b36847b184a62cf10358
@@ -3876,6 +3882,7 @@ title:b6a987310025afaec27c
 title:b6bdf0cbef918e163352
 title:b6c0d96f1345973cd9da
 title:b6d839db96a18c133441
+title:b6fac2d617d4f8723907
 title:b704d9784107a5a46133
 title:b70b337dc29d7b593e3a
 title:b7104f5b6902a349e153
@@ -3920,6 +3927,7 @@ title:b921da3b36774de23c23
 title:b97be2b232981151e115
 title:b97da5e2419f44903e04
 title:b996a43ce575bf5120f6
+title:b99f0fe99b844f30e800
 title:b9ade31ead6d8b8edeaa
 title:b9caf779623d16ab36a0
 title:b9cc1819bf1c183b0ae5
@@ -4506,6 +4514,7 @@ title:e0e3f1103aef11260d57
 title:e0f43accf6df3ef403f8
 title:e0fdbb354b85f525226e
 title:e11d45ef510f9f855d62
+title:e132e1cdc6941c71bb04
 title:e13724aa444a9ea34d35
 title:e1444015676a62e1d967
 title:e14484e44191383ec562
@@ -4540,6 +4549,7 @@ title:e3421f08efde767ada0e
 title:e3630132657389b690bd
 title:e36fd420605293acb0ca
 title:e376aefd2ba9c1d355dc
+title:e376e6f515a6d3cb2dd8
 title:e377c8ed32093ae8fedd
 title:e381d1449428e76a2ea0
 title:e382cdfc6ac7e418d164
@@ -4693,6 +4703,7 @@ title:eb777a297f7532e93ad4
 title:eb854c3c25ad39ef42a2
 title:eb90eb9d0bd8f855f829
 title:eba74e99ac21083e18f6
+title:ebaccff86efbdff3be0a
 title:ebbc8145588340e3a15c
 title:ebbfc13a79105aaa471a
 title:ebdb3eb938bb34e73fc3
@@ -4826,6 +4837,7 @@ title:f4c223ba87494330b2ad
 title:f4c3d51bae980aead60a
 title:f4da634bc8604bdcf510
 title:f4dd8491906b936338ac
+title:f52e0251a9e331d02113
 title:f532fd2459c54804654f
 title:f53a00f9adce3f321a53
 title:f542b21c6ec85b48ef84
@@ -5037,6 +5049,7 @@ topic:089dc5b265464ec47a01
 topic:08b31ea52335671052ee
 topic:08b5b96e83b2b99ee9f3
 topic:08ddd6587aaa10088aae
+topic:0991ec4f6b100f8ad888
 topic:0a0030ae58697a812656
 topic:0a45e114bcfe117c1e0c
 topic:0aa627a4b1fe414d218a
@@ -5125,6 +5138,7 @@ topic:181044a820105f172e69
 topic:182e030cddf717848d3b
 topic:189c1018f14010126e2f
 topic:18a2cbad2f45deabb0b7
+topic:18ac1581e7a9993ff5f1
 topic:18ac4cc4e48f04afeaf4
 topic:1977a40486d14f5aa7da
 topic:1996c5abaca41c81645b
@@ -5885,6 +5899,7 @@ topic:a79a8c8a9c3c10062ff6
 topic:a7b2c67fd744992846db
 topic:a7c5de4c003ba625b8ab
 topic:a7f99dac6e852470f601
+topic:a82c96283d06134c33e1
 topic:a8509097ee0f111f3bc0
 topic:a887e91f0d049156860c
 topic:a8ef49fa7d53ba810dc1
@@ -6086,6 +6101,7 @@ topic:cb30d25488e811d76a92
 topic:cb832fc444e62c07f633
 topic:ccc035c70aab47309409
 topic:cd3384cd6d0aa567587a
+topic:cd3af03ce29089574567
 topic:cd42409e9d1bb1285ec4
 topic:cdc61cea87c9826ffd2d
 topic:ce3e5c198a62dcadec07
@@ -6738,6 +6754,7 @@ url:hotelbank.jp/lifestyle/capsule-hotel-monthly-40000-yen-2026/
 url:hotelbank.jp/lifestyle/hotel-gurashi-juminhyo-jikka-guide/
 url:hotelbank.jp/lifestyle/hotel-kurashi-2ri-cost-30nights/
 url:hotelbank.jp/lifestyle/hotel-longstay-2months-60nights-cost/
+url:hotelbank.jp/lifestyle/naruto-glamping-glampremier-2026/
 url:hotelbank.jp/lifestyle/toyoko-inn-digital-membership-card-app-guide/
 url:hotelbank.jp/lifestyle/workation-hotel-kanto-kansai-onsen-guide/
 url:hotelbank.jp/new-hotels/fukuoka-tousumi-2607open/
@@ -6917,6 +6934,7 @@ url:mainichi.jp/articles/20260714/pr2/00m/020/684000c
 url:mainichi.jp/articles/20260716/pr1/00m/020/240000c
 url:mainichi.jp/articles/20260820/pr2/00m/020/633000c
 url:mainichi.jp/articles/20260831/pr2/00m/020/174000c
+url:mainichi.jp/articles/20260910/pr2/00m/020/913000c
 url:mainichi.jp/zukai/articles/20260709/zki/00m/010/002000c
 url:mainichikirei.jp/prtimes/article/20260703prt00m100000316a.html
 url:mantan-web.jp/article/20260716dog00m200051000a.html
@@ -7281,6 +7299,7 @@ url:news.infoseek.co.jp/article/prtimes_000000413_000048076/
 url:news.infoseek.co.jp/article/prtimes_000000433_000048076/
 url:news.infoseek.co.jp/article/prtimes_000001374_000024246/
 url:news.infoseek.co.jp/article/stv_1463816053173437209/
+url:news.infoseek.co.jp/article/yomiuri_20260909_gyt1t00377/
 url:news.jorudan.co.jp/docs/news/detail.cgi?newsid=
 url:news.ksb.co.jp/article/16621353
 url:news.ksb.co.jp/article/16682343
@@ -7986,6 +8005,7 @@ url:news.yahoo.co.jp/articles/c78d9e71e4dc8e14e931414565843a5c968bddc4?source=rs
 url:news.yahoo.co.jp/articles/c826218e6f54509d57d6684deb271c8080f2a1cc
 url:news.yahoo.co.jp/articles/c829c76c7c1a86eb25f21a6c6ee05d0ef2da38a2?source=rss
 url:news.yahoo.co.jp/articles/c85c1e9a6f74c9f7ba82c47bc018e999fa36ba46
+url:news.yahoo.co.jp/articles/c8f4b8717bad4a32c903489a7b09d322e99f3d72?source=rss
 url:news.yahoo.co.jp/articles/c90e887ccd5f519d5b40a4971614c48866e960a7
 url:news.yahoo.co.jp/articles/ca0befd06995c31e9b8d5f4d710922694849d630
 url:news.yahoo.co.jp/articles/ca8f20c2939e8ffe100420b8a2a38286b934f691
@@ -8221,6 +8241,7 @@ url:prtimes.jp/main/html/rd/p/000000001.000185400.html
 url:prtimes.jp/main/html/rd/p/000000001.000186372.html
 url:prtimes.jp/main/html/rd/p/000000001.000188863.html
 url:prtimes.jp/main/html/rd/p/000000001.000189258.html
+url:prtimes.jp/main/html/rd/p/000000001.000189939.html
 url:prtimes.jp/main/html/rd/p/000000002.000138198.html
 url:prtimes.jp/main/html/rd/p/000000002.000150045.html
 url:prtimes.jp/main/html/rd/p/000000002.000183124.html
@@ -8649,6 +8670,7 @@ url:skift.com/2026/09/07/vrbos-biggest-product-push-yet-and-what-hosts-need-to-k
 url:skift.com/2026/09/09/choices-new-ceo-has-3-top-fixes-plus-450-million-in-hotels-to-sell/
 url:skift.com/2026/09/09/marriott-ceo-says-ai-will-impact-hotel-distribution-first/
 url:skift.com/2026/09/09/wyndham-is-watching-indias-airports-as-closely-as-its-hotels/
+url:skift.com/2026/09/10/google-update-europe-hotel-flight-search-results/
 url:sky-budget.com/2026/08/27/narita-airport-news-aug2026-3/
 url:sky-budget.com/2026/08/31/delta-airlines-news-aug2026/
 url:sky-budget.com/2026/09/01/sep2026-schedule-jpn/
@@ -8671,6 +8693,7 @@ url:straightpress.jp/20260820/1690746
 url:straightpress.jp/20260831/1699697
 url:straightpress.jp/20260903/1702063
 url:straightpress.jp/20260908/1706602
+url:straightpress.jp/20260910/1707023
 url:straightpress.jp/company_news/detail?pr=
 url:strainer.jp/notes/9277
 url:sumida.goguynet.jp/2026/08/03/lawsonkamezawa/
@@ -8748,6 +8771,7 @@ url:topics.smt.docomo.ne.jp/amp/article/tvsdt/region/tvsdt-2026080708476312
 url:topics.smt.docomo.ne.jp/amp/article/umk/region/umk-34298
 url:topics.smt.docomo.ne.jp/amp/article/uxtv/region/uxtv-2954695
 url:topics.smt.docomo.ne.jp/amp/article/wwschannel/entertainment/wwschannel-633769
+url:topics.smt.docomo.ne.jp/amp/article/yomiuri/nation/20260909-567-GYT1T00377
 url:topics.smt.docomo.ne.jp/amp/article/ytv/nation/ytv-2026090301895285
 url:topics.smt.docomo.ne.jp/article/agara/region/agara-ow674190
 url:topics.smt.docomo.ne.jp/article/asahi_region/nation/asahi_region-ASV7H3R15V7HOXIE01SM
@@ -9506,6 +9530,7 @@ url:www.itmedia.co.jp/business/articles/2608/21/news020.html
 url:www.itmedia.co.jp/business/articles/2608/22/news013.html
 url:www.itmedia.co.jp/news/article/2608/07/2000000455/
 url:www.itmedia.co.jp/news/articles/2607/15/news071.html
+url:www.iwanichi.co.jp/2026/09/11/18034344/
 url:www.iwate-np.co.jp/article/2026/8/7/195760
 url:www.iza.ne.jp/article/20260806-QIXRN7ISLNDP3MH3WYHWMTSNG4/
 url:www.iza.ne.jp/pressrelease/prtimes/DH2LTMQTSBOOTPDE2PDBDQYC64/

@@ -363,6 +363,7 @@ facility:386aac8fb0ae4dd52e79
 facility:38aa764ef765e4db8fe0
 facility:38c52fba7ab778ab58d3
 facility:38d3e785e575ad157bd5
+facility:38e860a2f620ab5c8f01
 facility:3923e850ecf2a9c3f317
 facility:396a3b88f0b6042a979f
 facility:396e768d5252038aab4d
@@ -1076,6 +1077,7 @@ facility:a2233e5a9b141f8f065a
 facility:a2d60d47e614d223d38c
 facility:a3746ef575d4ab98da36
 facility:a3d8be83849778f7c39b
+facility:a3de0854681636ee5ee6
 facility:a42bde863da80e4ddac2
 facility:a47301d94c4eb7333f6b
 facility:a47c954feae6022cf734
@@ -2654,6 +2656,7 @@ title:238ee22cfcfceea8169b
 title:23906f24ec70195affb5
 title:23b5a69814e345810942
 title:23ba32ecc96a2fd4fe51
+title:23c8083da89c6a055686
 title:23dab13f80470eff583d
 title:23def73522e0a864fbb7
 title:23e27786266cc02e8a08
@@ -2894,6 +2897,7 @@ title:2c439daa838aed7587c4
 title:2c4c805cdca6ede512bd
 title:2c51493a9a21d9194039
 title:2c6a9f9346eb2f226dfb
+title:2c6e39d44b83e2115fb4
 title:2c7c9be202e5003e832e
 title:2c838907aed09165b51d
 title:2c852fac76acf08967e3
@@ -3670,6 +3674,7 @@ title:47adc5dbbcc06576705d
 title:47b7ca1e0818f5ba7645
 title:47b8388f199cc254dc72
 title:47b977c4de60b86d6978
+title:47c3743a7fc5410984bc
 title:47d1a99e34c6dde654da
 title:47d25628158f7ff117ce
 title:47d6e7c65f9ae4a16b26
@@ -3802,6 +3807,7 @@ title:4d2b18024b4eb5be396e
 title:4d2f7ff344e3b25b5e00
 title:4d33bd5e00c990bcb7d1
 title:4d35f0d7425c1da08f94
+title:4d4ded9951073d91fa72
 title:4d64adcce5bba284a780
 title:4d6a86f13429a536644c
 title:4d6ae5039e39373a667d
@@ -4075,6 +4081,7 @@ title:56c430d22a67132c881d
 title:56cf1b14864fb85c37c0
 title:56d198f722290838870f
 title:56d1a57e07c288caef05
+title:56d9ef19719a4ce601aa
 title:56f27fdfe0c20696eefa
 title:56f41144e759207afb74
 title:56fa015e289746c6d9c3
@@ -5141,6 +5148,7 @@ title:7b72061ba2ec6ec1d983
 title:7b84173593e40a8fef1b
 title:7b9a8ea973cb027b3943
 title:7ba2a927ce8de551bc74
+title:7ba73612d568208a9dcc
 title:7bbcbddf2088e9c81786
 title:7bc93b9aaca4de86f2f5
 title:7bca4782b3375624ff10
@@ -6444,6 +6452,7 @@ title:a96dec6076baca0f4854
 title:a975decfc9ea16e245fd
 title:a9792f935d67f1fb5288
 title:a97ac3f6a78fa5cecb5c
+title:a97fce5af82d643de96e
 title:a997fa37ddc368a1cbb7
 title:a9a20f9358c921f37230
 title:a9a3df4e99f3a28b2344
@@ -6659,6 +6668,7 @@ title:b0660346268c17d04171
 title:b06cb5cfbd6073411233
 title:b07105b0b13423885625
 title:b093b2c22f6738555dc4
+title:b0a413c3d43c3853b35e
 title:b0ac9c6bc1d7f430c866
 title:b0b241ad3ec041ac98ce
 title:b0bf5c9826434eca84f1
@@ -7182,6 +7192,7 @@ title:c3be9558f345bf07c581
 title:c3c1bdbbbdb13eba46b9
 title:c3c844ddc1382d555302
 title:c3cc2a70561ef92ec2bb
+title:c3d0688517a1709e7d47
 title:c3d0e5c9a76b45efdbb7
 title:c3dcfe01931f6bfad607
 title:c3e5264e41e01052a503
@@ -7321,6 +7332,7 @@ title:c84c3fc66e441306a3d8
 title:c854f91d10e2e26940bb
 title:c8810b603c7bb9614d28
 title:c88e8cf495b3ae656fa2
+title:c89f46293cadd0b7a04f
 title:c8ac4371243d91f9b4ff
 title:c8cd5c809f3d139871c6
 title:c8cee7993ce22d399edf
@@ -7616,6 +7628,7 @@ title:d316b24e1ab75a6abf19
 title:d32eda01679ce03e5525
 title:d3346fc3ebffa1f0a2fb
 title:d33a6225c373900ebc06
+title:d3400eac7e3a65303698
 title:d341c20334ea27a8c11a
 title:d34748dc99c5b1ff62a4
 title:d34d37916c9dced6d328
@@ -9314,6 +9327,7 @@ topic:38aa764ef765e4db8fe0
 topic:38c048ee8c31a2ac9f43
 topic:38c52fba7ab778ab58d3
 topic:38d3e785e575ad157bd5
+topic:38e860a2f620ab5c8f01
 topic:3923e850ecf2a9c3f317
 topic:396a3b88f0b6042a979f
 topic:396e768d5252038aab4d
@@ -10146,6 +10160,7 @@ topic:984a495a13fb4b5fb81c
 topic:985c89219daa5767942d
 topic:985ccb60cd655a8d77bf
 topic:987250bbb47600339b9e
+topic:9892808f38df163bdaa0
 topic:98a7348914f2a0b831cb
 topic:98c2fd8d3fee0f6a4067
 topic:98cd77ac8e074ccf4ed0
@@ -10231,6 +10246,7 @@ topic:a349aabab3055d8754bf
 topic:a3746ef575d4ab98da36
 topic:a3add2e69a89bbd21e13
 topic:a3d8be83849778f7c39b
+topic:a3de0854681636ee5ee6
 topic:a42bde863da80e4ddac2
 topic:a47301d94c4eb7333f6b
 topic:a47c954feae6022cf734
@@ -11193,6 +11209,7 @@ url:article.auone.jp/detail/1/5/9/266_9_r_20260730_1785406662546737
 url:article.auone.jp/detail/1/5/9/541_9_r_20260716_1784161343346752
 url:article.auone.jp/dfe596be-0e7f-410a-bb1d-718bef00bab3
 url:article.auone.jp/e1dd4d3f-00b3-4122-9e50-2bf7ee31196a
+url:article.auone.jp/f5581e3a-96f2-4454-a2d6-78a1ad861da8
 url:article.auone.jp/feb2fbf1-9112-4998-8194-62c536633c03
 url:asahi.gakujo.ne.jp/common_sense/current_events/detail/id
 url:asakusa.keizai.biz/headline/1023/
@@ -11380,6 +11397,7 @@ url:dxmagazine.jp/news/2623ko452/
 url:dxmagazine.jp/news/trytoda2625-9/
 url:e-kensin.net/n/n300ca1df3d7c
 url:e-kensin.net/n/n8bb22d3c198b
+url:e-kensin.net/n/nb00770c6e038
 url:e-kensin.net/n/nf0b9d46958a6
 url:ebetsunopporo.com/?p=
 url:encount.press/archives/1032779/2/
@@ -11834,6 +11852,7 @@ url:hotelbank.jp/supply-pipeline/2026-villa-cottage-supply-self-catering/
 url:hotelbank.jp/supply-pipeline/foreign-chain-hotel-pipeline-2026-2031-15-hotels-2709-rooms/
 url:hotelbank.jp/supply-pipeline/hotel-construction-builder-ranking-2026/
 url:hotelbank.jp/supply-pipeline/hotel-opening-month-distribution-2023-2025/
+url:hotelbank.jp/supply-pipeline/hotel-openings-2027-pipeline-list/
 url:hotelbank.jp/supply-pipeline/new-hotel-2025-cohort-second-year-adr-premium/
 url:hotelbank.jp/supply-pipeline/new-hotel-adr-rampup-2025/
 url:hotelbank.jp/supply-pipeline/new-hotel-openings-2026-low-supply-prefectures/
@@ -12737,6 +12756,7 @@ url:news.nicovideo.jp/watch/nw19741637?news_ref=
 url:news.nicovideo.jp/watch/nw19741980?news_ref=
 url:news.nicovideo.jp/watch/nw19743470?news_ref=
 url:news.nicovideo.jp/watch/nw19746986?news_ref=
+url:news.nicovideo.jp/watch/nw19759229?news_ref=
 url:news.nissyoku.co.jp/news/okum20260804105528490
 url:news.ntv.co.jp/category/economy/747d8b8e84ac42e79591407e19a65274
 url:news.ntv.co.jp/category/economy/fb34e3ade2704149e08213418a52ed1d31
@@ -13441,6 +13461,7 @@ url:news.yahoo.co.jp/articles/83563dc8bc2b40b12832523d6893703baf408928?source=rs
 url:news.yahoo.co.jp/articles/83a256a819f65521819aa7df26a3f41742cfb622
 url:news.yahoo.co.jp/articles/83be95f30599c4dc58f6cc51bcd914172273be5a
 url:news.yahoo.co.jp/articles/842e1f1451808b0a611e4aa37586af96dcf75509
+url:news.yahoo.co.jp/articles/843231f6acb54b3c2534197e360b7848785eac9f
 url:news.yahoo.co.jp/articles/84515f3b6e630b71e17cfe38ee0dc4f09b93cfed
 url:news.yahoo.co.jp/articles/8478084cd7d74475c4988b559ed8670a314cf2d9?source=rss
 url:news.yahoo.co.jp/articles/84b28544490ec73939f847d857837b9ce60310cb
@@ -13786,6 +13807,7 @@ url:news.yahoo.co.jp/articles/cc9ec4048d3fa5eea1e10384f0795b4dd48ebdef?source=rs
 url:news.yahoo.co.jp/articles/cca2d0ac59552466b112a3aba7e7ef539d0c77c6
 url:news.yahoo.co.jp/articles/ccf5dabb6ff076dba3b0862bc1a9e290a91a398b?source=rss
 url:news.yahoo.co.jp/articles/cd22125599cf367befa56e604ac107875f923db4?source=rss
+url:news.yahoo.co.jp/articles/cd9914f5c929eb811a10d1dcf671cff3b66584d9?source=rss
 url:news.yahoo.co.jp/articles/ce0c7b211cbe1173ab9500f93b23e6afbc4d7636?source=rss
 url:news.yahoo.co.jp/articles/ce1de531eb4a1f1ee66bb89620c6b47d6c15dfc3?source=rss
 url:news.yahoo.co.jp/articles/ce773e50b2528b95f023237d4bd6cec06d9c1db8?source=rss
@@ -14337,6 +14359,7 @@ url:prtimes.jp/main/html/rd/p/000000015.000095883.html
 url:prtimes.jp/main/html/rd/p/000000015.000098051.html
 url:prtimes.jp/main/html/rd/p/000000015.000166784.html
 url:prtimes.jp/main/html/rd/p/000000016.000054782.html
+url:prtimes.jp/main/html/rd/p/000000016.000119880.html
 url:prtimes.jp/main/html/rd/p/000000016.000124444.html
 url:prtimes.jp/main/html/rd/p/000000016.000124752.html
 url:prtimes.jp/main/html/rd/p/000000017.000108199.html
@@ -15030,6 +15053,7 @@ url:skift.com/2026/08/31/marriott-presses-sales-teams-on-1-55-billion-gap-to-goa
 url:skift.com/2026/09/04/biggest-innovators-in-travel-and-hospitality-summer-2026/
 url:skift.com/2026/09/04/blackstone-plans-7-billion-ipo-of-spanish-resort-owner-hotel-investment-partners-report/
 url:skift.com/2026/09/07/vrbos-biggest-product-push-yet-and-what-hosts-need-to-know/
+url:skift.com/2026/09/09/choices-new-ceo-has-3-top-fixes-plus-450-million-in-hotels-to-sell/
 url:skift.com/2026/09/09/marriott-ceo-says-ai-will-impact-hotel-distribution-first/
 url:skift.com/2026/09/09/wyndham-is-watching-indias-airports-as-closely-as-its-hotels/
 url:sky-budget.com/2026/08/12/ana-announces-revision-to-international-fuel-surcharges-for-tickets-issued-from-september/
@@ -15974,6 +15998,7 @@ url:www.chugoku-np.co.jp/articles/-/881762
 url:www.chugoku-np.co.jp/articles/-/881922
 url:www.chugoku-np.co.jp/articles/-/887919
 url:www.chugoku-np.co.jp/articles/-/890382
+url:www.chugoku-np.co.jp/articles/-/892655
 url:www.chukei-news.co.jp/news/2026/06/27/OK0002606270201_01/
 url:www.chukei-news.co.jp/news/2026/07/03/OK0002607030601_01/
 url:www.chukei-news.co.jp/news/2026/07/04/OK0002607040301_03/
@@ -16098,6 +16123,7 @@ url:www.excite.co.jp/news/article/bss_1445312105758212823/
 url:www.excite.co.jp/news/article/cbc_article2739935/
 url:www.excite.co.jp/news/article/cbc_article2831834/
 url:www.excite.co.jp/news/article/chugoku_np_1456794131710722210/
+url:www.excite.co.jp/news/article/chugoku_np_1470571651058123456/
 url:www.excite.co.jp/news/article/ebc_1439917810254233753/
 url:www.excite.co.jp/news/article/fbs_1452189194356490727/
 url:www.excite.co.jp/news/article/fct_1462030797417841284/
@@ -16272,6 +16298,7 @@ url:www.hospitalitynet.org/editorial/4134070/google-wires-agentic-booking-to-the
 url:www.hospitalitynet.org/editorial/4134088/the-guest-data-otas-send-you-comes-with-a-countdown-world-panel-weighs-the-human-free-hotel-luxury-revpar-runs-159-ahead
 url:www.hospitalitynet.org/editorial/4134161/hilton-wires-into-google-chatgpt-and-claude-airbnb-brings-650-million-accounts-to-hotels-bad-records-keep-you-out-of-ai-answers
 url:www.hospitalitynet.org/editorial/4134275/a-visa-change-hits-the-floor-before-it-hits-the-report-seven-accor-hotels-change-hands-in-the-uk-hotels-put-ai-where-the-value-isnt
+url:www.hospitalitynet.org/editorial/4134325/google-stripped-rates-from-its-eu-hotel-unit-anthropics-risk-report-has-four-findings-hotels-arent-reading-staff-confidence-is-a-guest-experience-strategy
 url:www.hospitalitynet.org/explainer/4133296/ai-terms-for-independent-hoteliers-what-actually-happens-when-a-guest-books-through-ai
 url:www.hospitalitynet.org/explainer/4133336/the-numbers-behind-ais-rise-as-a-booking-channel-for-independent-hotels
 url:www.hospitalitynet.org/explainer/4133745/the-hidden-cost-of-poor-workforce-management-in-hotels

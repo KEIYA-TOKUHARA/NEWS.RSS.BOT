@@ -950,6 +950,7 @@ facility:8e3b3ce82d016caf86f5
 facility:8e488f8b3882543cd6a6
 facility:8e7e09bf21a445549308
 facility:8e8413dc6ca0e6ad0514
+facility:8e8d9629bf14002e8459
 facility:8eed6617be30a1ef4081
 facility:8ef8948a64564da91475
 facility:8f007761c5ccfe910a7f
@@ -1038,6 +1039,7 @@ facility:9bd3e7188ad27e3f9605
 facility:9c10ddb0a0b4cf38d37a
 facility:9c2d51fa93f5c553f919
 facility:9c60d86ed953fa76de32
+facility:9cb94d5f6d89f934856e
 facility:9cf0f3cb527ecbfef27b
 facility:9d13130f64d8b6f61d28
 facility:9d42689d34fc12696dcb
@@ -1479,6 +1481,7 @@ facility:dd8449f121489c8ec687
 facility:ddda66622c649cf63b29
 facility:dddf6f2e822e12992198
 facility:de6b3a46fd6f47bb0a16
+facility:de95ba9a1770e4fe8805
 facility:de9e27c395a4086499e4
 facility:dea2085dc9a55616aafb
 facility:deb1bc37118e6b2232ba
@@ -3453,6 +3456,7 @@ title:3fb3e07a6027da49610e
 title:3fb685ff32e2bebbb2c3
 title:3fc01ac5617fb154bb2a
 title:3fc1a236fc9a31bee44c
+title:3fc34dfc9d7501f3418c
 title:3fcaa88b6015530abfa1
 title:3fcb6fe6f1e246d3870a
 title:3fdbe93264582b979328
@@ -3648,6 +3652,7 @@ title:46d8d5ef4bb65431fad9
 title:46da5820e13d74f9d60b
 title:46db38fc83fc0ca5f2f2
 title:46e165028dd5a54d48e0
+title:46f55f5ac497dd279f6e
 title:46fc98ede0d0331b71f4
 title:4706b83bc78a1cddba87
 title:470a38d9cf75c27da7d9
@@ -3913,6 +3918,7 @@ title:50d707c9ccd61d0a8920
 title:50db6fc95b268cd55332
 title:50dfb4fbebcf5e3f7fc4
 title:50e2d0e9be41361cf6b8
+title:50e60ef0158d8008d99b
 title:50e71a43a8b47ea0e89a
 title:5108818da5cf808982fb
 title:510a77690ba282160b84
@@ -4188,6 +4194,7 @@ title:5a75115a65bb1b1a9163
 title:5a7f63e35830af1e7636
 title:5a8079730024737041a4
 title:5a825e26f2ddd2965e26
+title:5a82811163df7bfb33a7
 title:5a86a50e30ae2aefe4ec
 title:5a8fc863aeb32cde9725
 title:5a93b78d90df4690837e
@@ -5496,6 +5503,7 @@ title:87af2795fb00e7bdbbe2
 title:87b38d79e39298462ec6
 title:87bd139feed2eb9f7fdc
 title:87c671c640ec7b265b04
+title:87c7303bd69f7663b2c8
 title:87c9cdbf6a6e5457d577
 title:87d5d46ff732be5d189a
 title:87e1ede5d02585d9131f
@@ -5503,6 +5511,7 @@ title:87e508bfdfa93a000c7a
 title:87f1ea4991e9fdbc2958
 title:87ffff630bbff0449814
 title:881a1e62e78a9c472670
+title:8831a860c63d85a4cb97
 title:8840ea4ed2368fc381c2
 title:88486a03d1ea08b8568c
 title:8849bf36ad1a80a96934
@@ -6183,6 +6192,7 @@ title:9f98a8cee788fc2a371e
 title:9f9edfc74c3f43766f6d
 title:9faa1b044078b0bc94d7
 title:9fb51d7ab5680fa8d74a
+title:9fbf46e025e28ec7a90e
 title:9fc304717e0e1218aa24
 title:9fde0a899a12da2675cd
 title:9fe7c7bb96a8547a095d
@@ -7267,6 +7277,7 @@ title:c584b1914af2cd54ca63
 title:c58a4160e11bbea870a7
 title:c58bc20795003f0765d2
 title:c590a39de52abd78490a
+title:c59334533d368b60198c
 title:c59d37651bf3753aff4a
 title:c59d9470f845a4eea24f
 title:c5a7bd3789382ccaddc4
@@ -7448,6 +7459,7 @@ title:cc8a23f30e77083c3c43
 title:cca3e6836a5d12a6b406
 title:ccaa061bf2eec2dc825c
 title:ccaad47cbd9af4a44b18
+title:ccba7ced32134e7047b0
 title:ccbc59edf8aa3ed2e3f8
 title:ccbf6d285c360849f60d
 title:cccc589c24ffc5ea5132
@@ -10098,6 +10110,7 @@ topic:8e488f8b3882543cd6a6
 topic:8e77af1cbe4aefb26729
 topic:8e7e09bf21a445549308
 topic:8e8413dc6ca0e6ad0514
+topic:8e8d9629bf14002e8459
 topic:8eed6617be30a1ef4081
 topic:8ef8948a64564da91475
 topic:8f0069ad1c879ed3d057
@@ -10167,6 +10180,7 @@ topic:95627e9c242789aed185
 topic:9569015860dae5aa6fe5
 topic:9571311e12e5402b870d
 topic:958b624448fee272f30b
+topic:9593621e4cc2de98600e
 topic:95961574bfac7bb6e2e4
 topic:95b6fc218395a5a0acbc
 topic:9637f8cac9c332eb39c8
@@ -10215,6 +10229,7 @@ topic:9c4ea132fdc0deb22e30
 topic:9c60d86ed953fa76de32
 topic:9c6586454eb2200bffdb
 topic:9c911cb506d28312a573
+topic:9cb94d5f6d89f934856e
 topic:9cf0f3cb527ecbfef27b
 topic:9d13130f64d8b6f61d28
 topic:9d42689d34fc12696dcb
@@ -10792,6 +10807,7 @@ topic:dddf6f2e822e12992198
 topic:de2bf4cf9f80a34904c4
 topic:de5d0d4471c71f8f7e8a
 topic:de6b3a46fd6f47bb0a16
+topic:de95ba9a1770e4fe8805
 topic:de9e27c395a4086499e4
 topic:dea2085dc9a55616aafb
 topic:deb1bc37118e6b2232ba
@@ -11730,6 +11746,7 @@ url:hotelbank.jp/investment/foreign-investor-hotel-acquisition-rules-2026-specia
 url:hotelbank.jp/investment/goldman-sachs-value-add-hotel-allocation-irr-2026/
 url:hotelbank.jp/investment/hida-takayama-circuit-hotel-investment/
 url:hotelbank.jp/investment/hokkaido-shinkansen-2038-delay-corridor-hotel-investment/
+url:hotelbank.jp/investment/hotel-acquisition-consumption-tax-input-credit-ryokan-vs-residential-2026/
 url:hotelbank.jp/investment/hotel-acquisition-costs-yield-gap-2026/
 url:hotelbank.jp/investment/hotel-acquisition-vehicle-genbutsu-trust-beneficiary-spc-2026/
 url:hotelbank.jp/investment/hotel-bond-capital-cost-2026/
@@ -11795,6 +11812,7 @@ url:hotelbank.jp/investment/serviced-apartment-investment-economics-revpab/
 url:hotelbank.jp/investment/shiga-hotel-development-supply-gap-2026-whitespace-yield/
 url:hotelbank.jp/investment/snow-belt-hotel-climate-opex-5th-location-axis-2026/
 url:hotelbank.jp/investment/soil-contamination-law-hotel-land-designated-areas-2026/
+url:hotelbank.jp/investment/station-ridership-room-density-nationwide-2026/
 url:hotelbank.jp/investment/station-room-stock-density-43-stations-2026/
 url:hotelbank.jp/investment/tama-tachikawa-hachioji-machida-hotel-supply-employment-2026/
 url:hotelbank.jp/investment/tokyo-bay-2040-population-employment-hotel-investment/
@@ -13980,6 +13998,7 @@ url:news.yahoo.co.jp/articles/e92d0b7f26e19555660c4a13f5435930a70c972c?source=rs
 url:news.yahoo.co.jp/articles/e92fb52a7de2d8f9314d5590908884db5c5604c2?source=rss
 url:news.yahoo.co.jp/articles/e94022d6daa14b9a19d7cf161426377bdf67ec8d?source=rss
 url:news.yahoo.co.jp/articles/e9706c947dd6d63dea0e87b02f9474390c5a8e62
+url:news.yahoo.co.jp/articles/ea27542096b43f14369184d677a656773a8cbef7
 url:news.yahoo.co.jp/articles/eae6df0131994eb6f6cbea2c58daea832b7279f0
 url:news.yahoo.co.jp/articles/eaeefa5a84a1615700be3f65c9de2b4bc46809e6?source=rss
 url:news.yahoo.co.jp/articles/ec43a0c5613d28df8f4245a29c3193e2e39203c5?source=rss
@@ -14513,6 +14532,7 @@ url:prtimes.jp/main/html/rd/p/000000076.000007085.html
 url:prtimes.jp/main/html/rd/p/000000076.000025503.html
 url:prtimes.jp/main/html/rd/p/000000076.000052690.html
 url:prtimes.jp/main/html/rd/p/000000076.000163718.html
+url:prtimes.jp/main/html/rd/p/000000078.000051505.html
 url:prtimes.jp/main/html/rd/p/000000079.000037182.html
 url:prtimes.jp/main/html/rd/p/000000079.000054589.html
 url:prtimes.jp/main/html/rd/p/000000079.000098998.html
@@ -14947,6 +14967,7 @@ url:readyfor.jp/projects/yamaneko28/announcements/443490
 url:realsound.jp/tech/2026/07/post-2446741.html
 url:report.iko-yo.net/articles/32636
 url:report.iko-yo.net/articles/33155
+url:report.iko-yo.net/articles/33492
 url:response.jp/release/dreamnews/20260624/291044.html
 url:richardajkeys.com/dp/5cf8149739507
 url:rocket-boys.co.jp/security-measures-lab/kaigetsukan-group-unauthorized-access-info-leak-phishing/
@@ -15452,6 +15473,7 @@ url:topics.smt.docomo.ne.jp/article/yomiuri/business/20260715-567-GYT1T00142?pag
 url:topics.smt.docomo.ne.jp/article/yomiuri/business/20260717-567-GYT1T00291
 url:topics.smt.docomo.ne.jp/article/yomiuri/business/20260821-567-GYT1T00269
 url:topics.smt.docomo.ne.jp/article/yomiuri/business/20260822-567-GYT1T00105?page=
+url:topics.smt.docomo.ne.jp/article/yomiuri/nation/20260909-567-GYT1T00377?page=
 url:topics.smt.docomo.ne.jp/article/ytv/nation/ytv-2026090301895285
 url:topics.smt.docomo.ne.jp/article/zak2/entertainment/zak2-ITSD5CSKC5GYVJXAJTKJXHHXUE
 url:torso-jack.com/airtripplus-dynamicpackage-review/
@@ -16150,6 +16172,7 @@ url:www.excite.co.jp/news/article/Prtimes_2026-08-31-24246-1384/
 url:www.excite.co.jp/news/article/Prtimes_2026-08-31-24246-1388/
 url:www.excite.co.jp/news/article/Prtimes_2026-09-01-48076-433/
 url:www.excite.co.jp/news/article/Recordchina_987193/
+url:www.excite.co.jp/news/article/Spa_2184531/
 url:www.excite.co.jp/news/article/TBSNews_1443186902871441628/
 url:www.excite.co.jp/news/article/TBSNews_1447042791803536149/
 url:www.excite.co.jp/news/article/TBSNews_1461974727963984627/
@@ -16973,6 +16996,7 @@ url:www.kankokeizai.com/2609021900kks/
 url:www.kankokeizai.com/2609041600kks/
 url:www.kankokeizai.com/2609101500kks/
 url:www.kankokeizai.com/2609110630kks/
+url:www.kankokeizai.com/2609110900kks/
 url:www.kankokeizai.com/2697211230kks/
 url:www.kankokeizai.com/2707270830kks/
 url:www.kateigaho.com/travel/kaigai/182499
@@ -17048,6 +17072,7 @@ url:www.kochinews.co.jp/article/detail/1023082
 url:www.kochinews.co.jp/article/detail/1027257
 url:www.kochinews.co.jp/article/detail/1029060
 url:www.kochinews.co.jp/article/detail/1032960
+url:www.kochinews.co.jp/article/detail/1043095
 url:www.korit.jp/news/traveltech/platum-relux-yeogiotte-acquisition-260731/
 url:www.koureisha-jutaku.com/nikkin202607_01_20/
 url:www.kucoin.com/ja/news/community/BTC/6a4ba47b86fc150007c9fb82

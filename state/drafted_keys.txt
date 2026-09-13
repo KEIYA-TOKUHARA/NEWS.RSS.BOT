@@ -410,6 +410,7 @@ facility:5b4b03d4b7ed22c3929f
 facility:5b9984002761094ef44b
 facility:5bd5e25ec581418bd8a5
 facility:5c9d38cb01c454b8ae49
+facility:5d002eb9a048b021a61c
 facility:5d0f163610174f77bc4c
 facility:5d265975214a0591c757
 facility:5d3ba8d5ecded07d64e2
@@ -470,6 +471,7 @@ facility:6c00023d2d22e1dc2c8b
 facility:6c21f01a6a2f9c0db5b1
 facility:6c3a96279c3a8b2aea56
 facility:6c492a017990c30ed172
+facility:6c4df77847ef35ae38e0
 facility:6c6e4ce47d917e7e4a48
 facility:6c946a28d298a9805707
 facility:6cd4e68d0d13d9aedc18
@@ -880,6 +882,7 @@ facility:cb832fc444e62c07f633
 facility:ccc035c70aab47309409
 facility:cd3af03ce29089574567
 facility:cd42409e9d1bb1285ec4
+facility:cddcf4eefb42324da124
 facility:ce3e5c198a62dcadec07
 facility:ce654cbdf6290e8692b7
 facility:ceb0cf3d5c1f57b96824
@@ -1084,6 +1087,7 @@ facility:fe5d47d4da241ae07f3d
 facility:febfbede9c9a7d1d246c
 facility:ff87f0f38fd25d20f139
 facility:ff8c61fa11b509ad932d
+facility:ff9715c7081ac9b6b733
 facility:ffa78224ff23bc025916
 facility:ffecda581396d880858f
 title:000fb729ba09ebe17cb1
@@ -1557,6 +1561,7 @@ title:1fb3eb54840725c2ad6d
 title:1fb9654bad55a92eb117
 title:1fd2d2b65f7b0eb88e41
 title:1fd7f0dada457d7df864
+title:1fdd52f63298d7311648
 title:202bf4c08fcc2ee436fc
 title:204668487aef0ec8401b
 title:20469b51f52dbd2031ee
@@ -2363,6 +2368,7 @@ title:535487749fc7f68b3e76
 title:536befa531ceb4102e9c
 title:5381045599388ec32f0c
 title:5385bc8adee62c23067a
+title:53c4192149aa05c51292
 title:53c5eb5909f20ed1b51f
 title:53c895f996c070c58349
 title:53dae278d09867c37618
@@ -2952,6 +2958,7 @@ title:7956213875a7c9592b21
 title:796bcc16e0e060925d11
 title:797530ca8b98765451c5
 title:7985cc48618ddfe0ed78
+title:79b34c18b87ba1594b8d
 title:79e449cc231c57220f1f
 title:79eb5abefa0d2cebd1c9
 title:79ef7970461a046357d2
@@ -3662,6 +3669,7 @@ title:a375b6e3cfd76552aa03
 title:a377f8af4d94c7e61752
 title:a37f5ae7fdb8d6354660
 title:a38356e24bf62f08af29
+title:a3984b34af28d4c62428
 title:a3a37dfd8f5b34f2e381
 title:a3ac271b2eaa3b066a04
 title:a3b3c184a6f6c65290f0
@@ -3845,6 +3853,7 @@ title:adf42b51662039fda655
 title:ae044b92b98ff50eb7fe
 title:ae10261e9a15cca21830
 title:ae17bc8fed72964dae1d
+title:ae1a2ef01742356b0f0b
 title:ae1a900f104c7b1883f2
 title:ae1db4d1b32c39658530
 title:ae38433d25ec2f0d84e1
@@ -4102,6 +4111,7 @@ title:bdad313682d50d67d7fe
 title:bdafdca9eb07696a8205
 title:bdb2d5f943b76cab6ef2
 title:bdba5f17aeac577e6f41
+title:bdd0fdf17e1190257c52
 title:bdda4ea2883cd8a98dc4
 title:be09e1192ffb09c0a540
 title:be21b210cc89992c01fd
@@ -4596,6 +4606,7 @@ title:df01e9f9dc8a00af83a0
 title:df0ebe347e0f94e97c0c
 title:df17d7c60ddbe16dd8ff
 title:df20fccddec7cd017942
+title:df3a1aa0171b3e7ba377
 title:df4811bfb9e813a69668
 title:df76efd05219585da03a
 title:df7a4f80cd4f10bd0864
@@ -4621,6 +4632,7 @@ title:e0aac8ba67c9231c37f2
 title:e0be02338bb616a2c0e2
 title:e0c0bef6756c739b15a9
 title:e0c61924c2e3d236cbe9
+title:e0ca76833ba314eae0ea
 title:e0cc563239055bdaba57
 title:e0d1b612173ed54d6c99
 title:e0e3f1103aef11260d57
@@ -4700,6 +4712,7 @@ title:e57602e89b581152563b
 title:e587ef703f10dc551a45
 title:e5969e9be27a89da0212
 title:e59c36af26020fce34d9
+title:e5a0fc54b5ce3ae9398a
 title:e5a8074ddcbc613a236d
 title:e5ad209256d996d6be45
 title:e5b385adab56d973f9c7
@@ -4804,6 +4817,7 @@ title:ead06c02a13557ae51fd
 title:eada352f17b7365b6a27
 title:eadb5161d01e9930f1e0
 title:eadfb90a1eb03b81b6a6
+title:eae3c7fdca31aa50de17
 title:eae526535a28395c23ce
 title:eaf45d7c515a5d98d78d
 title:eafde82c18dbe51208f6
@@ -5638,6 +5652,7 @@ topic:5b65f6cc26efea6e3fc6
 topic:5b9984002761094ef44b
 topic:5bd5e25ec581418bd8a5
 topic:5c9d38cb01c454b8ae49
+topic:5d002eb9a048b021a61c
 topic:5d0f163610174f77bc4c
 topic:5d265975214a0591c757
 topic:5d3ba8d5ecded07d64e2
@@ -5722,6 +5737,7 @@ topic:6c21f01a6a2f9c0db5b1
 topic:6c26329295383a6c5902
 topic:6c3a96279c3a8b2aea56
 topic:6c492a017990c30ed172
+topic:6c4df77847ef35ae38e0
 topic:6c6e4ce47d917e7e4a48
 topic:6c946a28d298a9805707
 topic:6cd4e68d0d13d9aedc18
@@ -6230,6 +6246,7 @@ topic:c7ac98dbcffc338e8aee
 topic:c7bf55faacacef23e2ba
 topic:c7ca7df97022e36d633f
 topic:c82e422fec2f37646820
+topic:c855afb810f89d3d3ba8
 topic:c896bdf6bee96564f695
 topic:c8b9bb18011cec6ac905
 topic:c8cd2d4a1cf46b13aae3
@@ -6254,6 +6271,7 @@ topic:cd3384cd6d0aa567587a
 topic:cd3af03ce29089574567
 topic:cd42409e9d1bb1285ec4
 topic:cdc61cea87c9826ffd2d
+topic:cddcf4eefb42324da124
 topic:ce3e5c198a62dcadec07
 topic:ce654cbdf6290e8692b7
 topic:ceb0cf3d5c1f57b96824
@@ -6524,6 +6542,7 @@ topic:fe5d47d4da241ae07f3d
 topic:febfbede9c9a7d1d246c
 topic:ff87f0f38fd25d20f139
 topic:ff8c61fa11b509ad932d
+topic:ff9715c7081ac9b6b733
 topic:ffa78224ff23bc025916
 topic:ffab844fab35f42bbd7b
 topic:ffecda581396d880858f
@@ -6692,6 +6711,7 @@ url:dot.asahi.com/articles/-/285893?page=
 url:dot.asahi.com/articles/-/289682?page=
 url:dtimes.jp/post-1264362/
 url:dtimes.jp/post-1287385/
+url:dtimes.jp/post-1370470/
 url:dxmagazine.jp/news/2623ko452/
 url:dxmagazine.jp/news/trytoda2625-9/
 url:e-kensin.net/n/n300ca1df3d7c
@@ -6848,6 +6868,7 @@ url:hotelbank.jp/industry-trends/occ-valley-2026-hakusho-closure/
 url:hotelbank.jp/industry-trends/ota-commission-per-night-adr-direct-booking-breakeven-2026/
 url:hotelbank.jp/industry-trends/ota-commission-reduction-4-routes-inventory-allocation-2026/
 url:hotelbank.jp/industry-trends/ryokangyo-permits-98338-vs-ota-listed-27248-2026/
+url:hotelbank.jp/industry-trends/tdb-labor-shortage-2026-07-ryokan-hotel-improvement/
 url:hotelbank.jp/industry-trends/torikireru-yado-capacity-ceiling-2026/
 url:hotelbank.jp/investigation/breakfast-local-cuisine-regional-ranking/
 url:hotelbank.jp/investigation/hotel-review-tag-breakfast-staff-109-hotels-2026/
@@ -6873,6 +6894,7 @@ url:hotelbank.jp/investment/hotel-condominium-tax-arbitrage-real-irr/
 url:hotelbank.jp/investment/hotel-construction-cost-per-room-3-tiers-breakeven-adr-2026/
 url:hotelbank.jp/investment/hotel-development-hurdle-adr-policy-rate-1pct/
 url:hotelbank.jp/investment/hotel-ev-per-room-vs-reit-acquisition-2026/
+url:hotelbank.jp/investment/hotel-exit-cost-after-tax-net-proceeds-2026/
 url:hotelbank.jp/investment/hotel-extension-renovation-third-supply-route-construction-statistics-2026/
 url:hotelbank.jp/investment/hotel-fund-futoku-327-operators-yield-2026/
 url:hotelbank.jp/investment/hotel-industry-capex-depreciation-ratio-corporate-statistics-2026/
@@ -6907,6 +6929,7 @@ url:hotelbank.jp/investment/regional-core-cities-hotel-stock-vintage-renewal-202
 url:hotelbank.jp/investment/regional-core-cities-supply-absorption-investment/
 url:hotelbank.jp/investment/reit-acquisition-price-by-asset-type-2026/
 url:hotelbank.jp/investment/reit-unowned-hotel-universe-2026/
+url:hotelbank.jp/investment/resort-condo-lodging-conversion-breakeven-2026/
 url:hotelbank.jp/investment/ryokan-business-net-supply-permits-closures-fy2024/
 url:hotelbank.jp/investment/ryokan-succession-tax-2027-deadline-share-valuation/
 url:hotelbank.jp/investment/shiga-hotel-development-supply-gap-2026-whitespace-yield/
@@ -7513,6 +7536,7 @@ url:news.livedoor.com/article/detail/32188288/
 url:news.livedoor.com/article/detail/32212868/
 url:news.livedoor.com/article/detail/32226551/
 url:news.livedoor.com/article/detail/32303396/
+url:news.livedoor.com/article/detail/32311376/
 url:news.livedoor.com/article/image_detail/31468279/?img_id=
 url:news.livedoor.com/article/image_detail/31479406/?img_id=
 url:news.livedoor.com/article/image_detail/31481100/?img_id=
@@ -7677,7 +7701,9 @@ url:news.nicovideo.jp/watch/nw19746986?news_ref=
 url:news.nicovideo.jp/watch/nw19756188
 url:news.nicovideo.jp/watch/nw19758244
 url:news.nicovideo.jp/watch/nw19759229?news_ref=
+url:news.nicovideo.jp/watch/nw19760126
 url:news.nicovideo.jp/watch/nw19762243?news_ref=
+url:news.nicovideo.jp/watch/nw19767474?news_ref=
 url:news.ntv.co.jp/category/economy/fb34e3ade2704149e08213418a52ed1d31
 url:news.ntv.co.jp/category/economy/nkeb8c6885f157429981abb009ba4cdb8d
 url:news.ntv.co.jp/category/life/um6c90cd7f2255439a9fa037d1d3c05738
@@ -8799,6 +8825,7 @@ url:report.iko-yo.net/articles/33492
 url:richardajkeys.com/dp/5cf8149739507
 url:rocket-boys.co.jp/security-measures-lab/kaigetsukan-group-unauthorized-access-info-leak-phishing/
 url:rocket-boys.co.jp/security-measures-lab/kaya-kyoto-phishing-booking-whatsapp-warning/
+url:rocketnews24.com/2026/09/10/2798160/
 url:rurubu.jp/andmore/article/24932
 url:ryukyushimpo.jp/economics/entry-5333743.html
 url:ryukyushimpo.jp/economics/entry-5361214.html
@@ -9213,6 +9240,7 @@ url:www.bloomberg.com/jp/news/newsletters/2026-07-15/TI74C1N3N09K00
 url:www.breakingtravelnews.com/news/article/abu-dhabi-islamic-bank-marriott-bonvoy-and-visa-launch-co-branded-cards/
 url:www.breakingtravelnews.com/news/article/accor-and-sun-group-strengthen-strategic-partnership/
 url:www.breakingtravelnews.com/news/article/accor-strengthens-its-luxury-portfolio-in-india-with-the-signing-of/
+url:www.breakingtravelnews.com/news/article/accor-to-expand-presence-in-albania-with-new-hotel-additions-and-brand-laun/
 url:www.breakingtravelnews.com/news/article/aleph-hospitality-appoints-rob-kucera-as-regional-vice-president-for-east-s/
 url:www.breakingtravelnews.com/news/article/all-accor-partners-with-rewardpay-to-launch-new-loyalty-rewards-opportuniti/
 url:www.breakingtravelnews.com/news/article/ani-private-resorts-expands-global-portfolio-with-january-2027-opening-of-a/
@@ -9336,6 +9364,7 @@ url:www.breakingtravelnews.com/news/article/the-langham-debuts-luminaries-in-res
 url:www.breakingtravelnews.com/news/article/the-odyssey-and-travelleisure-boosting-travel-to-moroccos-essaouira/
 url:www.breakingtravelnews.com/news/article/the-pavilions-hotels-resorts-expands-european-luxury-and-wellness-portfolio/
 url:www.breakingtravelnews.com/news/article/tivoli-hotels-resorts-launches-tivoli-palazzo-1880-lecce-hotel-bringing-the/
+url:www.breakingtravelnews.com/news/article/travel-leaders-gather-at-oneonly-one-zaabeel-for-world-travel-awards-middle/
 url:www.breakingtravelnews.com/news/article/travelodge-osaka-shinsaibashi-officially-opens-marking-a-new-chapter-for-tr/
 url:www.breakingtravelnews.com/news/article/tucsons-first-hyatt-regency-hotel/
 url:www.breakingtravelnews.com/news/article/uga-resorts-announces-brand-evolution-of-its-east-coast-properties/

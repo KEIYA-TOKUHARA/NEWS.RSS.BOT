@@ -705,6 +705,7 @@ facility:95b6fc218395a5a0acbc
 facility:96c63435d0ab4cb3903a
 facility:9703db21dbb9436b3234
 facility:970c8df7975073de3639
+facility:97f840d09d86a6506333
 facility:984a495a13fb4b5fb81c
 facility:985c89219daa5767942d
 facility:98cd77ac8e074ccf4ed0
@@ -1055,6 +1056,7 @@ facility:e3ca1b983d6b3e02c012
 facility:e3ca55ee91ae0a841f12
 facility:e4224737c5ee19edd678
 facility:e4488a976d8920e42ba5
+facility:e48d3ca8a6d5f4abb644
 facility:e49b8271706f4cb6a743
 facility:e4e49168d75b60efa343
 facility:e4fa9b9cec4e76e8fadf
@@ -1193,6 +1195,7 @@ title:004e05a523e386a4c299
 title:005d09f846f7136f3411
 title:006503b8dafcbaf8fe72
 title:006dd7e981f37a211251
+title:00755cd2d82c4e191cdf
 title:008ff8532ae51260ac98
 title:009495aaf2c2b4dd885e
 title:009f93ef3ee7141050a6
@@ -1439,6 +1442,7 @@ title:10bd09d28606798c5d56
 title:10be3aa112e5792ad40d
 title:10bf2034b113bff786ac
 title:10cb6498699b40dc1866
+title:10e174617e7326e2b45e
 title:10e48d0d29f40dc3a49a
 title:1102e5de8e377713186b
 title:112896d85db63f14e846
@@ -2199,6 +2203,7 @@ title:3db0d72c5cc2bacea279
 title:3dc1500221b1acca17b9
 title:3dcc70f1815e84de64ac
 title:3dd49c73b02fa3882761
+title:3df5088f22b2c6e53628
 title:3dfccb4786597293c9d9
 title:3e18a6aed405253c37b1
 title:3e28af9b2d2d98529143
@@ -3210,6 +3215,7 @@ title:78d82dc5e37e160e3e18
 title:78ed611aff16c6bcf0ed
 title:7906c05594e8ae9c43a4
 title:7907cb981bccd394fce6
+title:790de76eb1bec47726af
 title:791a38107f0cc704e2fe
 title:793e57fb11b25402c676
 title:7943734209b00f7c96a1
@@ -4221,6 +4227,7 @@ title:af1e9f109244d9304978
 title:af2c485e4934cfb141d4
 title:af35061b7410d65993bd
 title:af55352c1a5b3809f242
+title:af5f6b911a4d3fd6ff6e
 title:af6a9b871738637e9adb
 title:af78226ac7a34fd93f60
 title:afac0df3c5915fafa2b7
@@ -4284,6 +4291,7 @@ title:b3578f8b809adc671bec
 title:b35d0145396827e887c5
 title:b36847b184a62cf10358
 title:b377f96c483cbfc2256e
+title:b37fb4cb408d17f78bd3
 title:b3814ce980dca2ca46d7
 title:b39657cc5c22f2304929
 title:b39f2ec6db0147ece135
@@ -4591,6 +4599,7 @@ title:c4ba5750f6889bf4b250
 title:c4d562d67192410aeab3
 title:c4e678c61920bb184be8
 title:c4ecb1934171b4475707
+title:c4f210ff4f6caba58a50
 title:c4fce6c14231bfccc996
 title:c4fe2328d9c9a49d9ea7
 title:c50a58da57ebdb05e7cf
@@ -4622,6 +4631,7 @@ title:c65c1489aaf68e9abd04
 title:c66a16f095d59357f410
 title:c671cd63f32f37bc5bd9
 title:c684ad343f0e95900dac
+title:c68a858a1b1b18a8ba62
 title:c6903908e4f39003e831
 title:c6981588a9806875dcb2
 title:c6a636ab0793701aa405
@@ -4700,6 +4710,7 @@ title:cb45a151e8be72bbaae7
 title:cb726360f2cb2f680c60
 title:cb9af0b34253ee5c3508
 title:cbb19165608ccf57bd86
+title:cbb217c46ac104900e15
 title:cbbff5d9bf2073a09a71
 title:cbd4d8d944d13f52d90b
 title:cbd858c374a42aa61a0b
@@ -5010,6 +5021,7 @@ title:de1daaa75c8a62b1866d
 title:de7edd471f8252eeaa6c
 title:dea48d6899b83877e76c
 title:deb025e30c0bc2ccb158
+title:deb3a2c11658ec2bec27
 title:ded38110160fe2526e25
 title:dedff85d51ef552e4e4a
 title:deeeb3b5c534c005aa02
@@ -5183,6 +5195,7 @@ title:e799eb617ac6d680e13b
 title:e7a2baa155d734ab732e
 title:e7a9ac3cdf9561635ffb
 title:e7afd418cd3a797b0661
+title:e7ba5978685aaff55587
 title:e7bc71c72199120bb6ca
 title:e7bd8e8d1e0e4ac87c8b
 title:e7cdc09e6a6d78d02a45
@@ -5940,6 +5953,7 @@ topic:396e768d5252038aab4d
 topic:3983a209bdfc0ef8ef32
 topic:39a34a106315d38d5697
 topic:39a3bafa67f140bc80d8
+topic:3a414a6545fd1738f892
 topic:3a4eeecb93dd402bbe23
 topic:3a54e0d744c9d7828797
 topic:3a92ead2c24e8ec1b598
@@ -6499,6 +6513,7 @@ topic:96c63435d0ab4cb3903a
 topic:9703db21dbb9436b3234
 topic:970c8df7975073de3639
 topic:97a1d28333bc3232117c
+topic:97f840d09d86a6506333
 topic:984a495a13fb4b5fb81c
 topic:985c89219daa5767942d
 topic:987250bbb47600339b9e
@@ -6954,6 +6969,7 @@ topic:e3ca55ee91ae0a841f12
 topic:e4069bc2e0bbcd6fa52a
 topic:e4224737c5ee19edd678
 topic:e4488a976d8920e42ba5
+topic:e48d3ca8a6d5f4abb644
 topic:e49b8271706f4cb6a743
 topic:e4e49168d75b60efa343
 topic:e4fa9b9cec4e76e8fadf
@@ -7553,6 +7569,7 @@ url:hotelbank.jp/investment/onsen-ryokan-buyout-cap-2026/
 url:hotelbank.jp/investment/overtourism-100oku-secondary-tender-investment-impact/
 url:hotelbank.jp/investment/park-pfi-203-parks-hotel-development-20year-permit-required-adr/
 url:hotelbank.jp/investment/petrochemical-turnaround-2026-4-complexes-room-stock/
+url:hotelbank.jp/investment/public-lodging-shitei-kanri-capex-per-room-2026/
 url:hotelbank.jp/investment/redevelopment-rights-floor-hotel-vs-buyout-20year-cashflow-2026/
 url:hotelbank.jp/investment/regional-core-cities-hotel-stock-vintage-renewal-2026/
 url:hotelbank.jp/investment/regional-core-cities-supply-absorption-investment/
@@ -9135,6 +9152,8 @@ url:newsdig.tbs.co.jp/articles/cbc/2775988?page=
 url:newsdig.tbs.co.jp/articles/embed/2789293
 url:newsdig.tbs.co.jp/articles/embed/2838380
 url:newsdig.tbs.co.jp/articles/embed/2860496
+url:newsdig.tbs.co.jp/articles/kutv/2953869?display=
+url:newsdig.tbs.co.jp/articles/kutv/2953869?page=
 url:newsdig.tbs.co.jp/articles/mbs/2780578?display=
 url:newsdig.tbs.co.jp/articles/mbs/2896891?display=
 url:newsdig.tbs.co.jp/articles/mro/2851700
@@ -9149,6 +9168,7 @@ url:newsdig.tbs.co.jp/articles/rkk/2949047
 url:newsdig.tbs.co.jp/articles/rkk/2949047?page=
 url:newsdig.tbs.co.jp/articles/rsk/2842397?display=
 url:newsdig.tbs.co.jp/articles/sbc/2772222?display=
+url:newsdig.tbs.co.jp/articles/sbc/2958521?display=
 url:newsdig.tbs.co.jp/articles/sbs/2860496?display=
 url:newsdig.tbs.co.jp/articles/tut/2885720
 url:newsdig.tbs.co.jp/articles/tut/2885720?display=
@@ -9481,6 +9501,7 @@ url:prtimes.jp/main/html/rd/p/000000450.000023271.html
 url:prtimes.jp/main/html/rd/p/000000454.000066095.html
 url:prtimes.jp/main/html/rd/p/000000459.000030012.html
 url:prtimes.jp/main/html/rd/p/000000517.000016557.html
+url:prtimes.jp/main/html/rd/p/000000531.000002364.html
 url:prtimes.jp/main/html/rd/p/000000540.000021228.html
 url:prtimes.jp/main/html/rd/p/000000547.000071323.html
 url:prtimes.jp/main/html/rd/p/000000556.000024137.html
@@ -9765,6 +9786,7 @@ url:topics.smt.docomo.ne.jp/amp/article/hokkaido/region/hokkaido-1325693
 url:topics.smt.docomo.ne.jp/amp/article/hokkaido/region/hokkaido-1329158
 url:topics.smt.docomo.ne.jp/amp/article/hokkaido/region/hokkaido-1335505
 url:topics.smt.docomo.ne.jp/amp/article/hokkaido/region/hokkaido-1360741
+url:topics.smt.docomo.ne.jp/amp/article/hokkaido/region/hokkaido-1371971
 url:topics.smt.docomo.ne.jp/amp/article/hokkoku/region/hokkoku-20260901233533
 url:topics.smt.docomo.ne.jp/amp/article/htb/region/htb-38249
 url:topics.smt.docomo.ne.jp/amp/article/ise/region/ise-20260820110006
@@ -10002,6 +10024,7 @@ url:www.47news.jp/14918696.html
 url:www.47news.jp/14922480.html
 url:www.47news.jp/14925554.html
 url:www.47news.jp/14927210.html
+url:www.47news.jp/14955612.html
 url:www.47news.jp/14964617.html
 url:www.adfwebmagazine.jp/architect/lalique-opened-villa-florhof-in-zurich/
 url:www.afpbb.com/articles/-/3641173?act=
@@ -10251,6 +10274,7 @@ url:www.chugoku-np.co.jp/articles/-/892538
 url:www.chugoku-np.co.jp/articles/-/892655
 url:www.chugoku-np.co.jp/articles/-/893397
 url:www.chugoku-np.co.jp/articles/-/894371
+url:www.chugoku-np.co.jp/articles/-/896032
 url:www.chugoku-np.co.jp/articles/-/896309
 url:www.chugoku-np.co.jp/articles/-/897465
 url:www.chukei-news.co.jp/news/2026/06/27/OK0002606270201_01/
@@ -10289,6 +10313,7 @@ url:www.excite.co.jp/news/article/Hounichi_accessranking_20260828/
 url:www.excite.co.jp/news/article/Hounichi_chokankaiken202606/
 url:www.excite.co.jp/news/article/Hounichi_flightnewroute2026summer/
 url:www.excite.co.jp/news/article/Hounichi_hongkong202607/
+url:www.excite.co.jp/news/article/Hounichi_middleeast202607/
 url:www.excite.co.jp/news/article/Hounichi_thailand202607/
 url:www.excite.co.jp/news/article/Hounichi_travelagent2025/
 url:www.excite.co.jp/news/article/Hounichi_whitepapermatome_20260915/
@@ -10667,6 +10692,7 @@ url:www.housenews.jp/house/36516
 url:www.housenews.jp/house/36941
 url:www.htb.co.jp/news/archives_38613.html
 url:www.indexbox.io/ja/blog/celine-dions-paris-return-drives-travel-surge/
+url:www.indexbox.io/ja/blog/cloudbeds-launches-cloudbeds-rms-revenue-management-system-for-hotels/
 url:www.indexbox.io/ja/blog/nammos-resort-amaala-opens-as-sixth-resort-at-triple-bay/
 url:www.instagram.com/p/DZmsMUVH1D3/
 url:www.instagram.com/p/Dc-xqsWFdEc/
@@ -11470,6 +11496,7 @@ url:www.vietnam.vn/ja/chu-khach-san-o-co-to-mo-lon-rung-dai-gan-50-khach-luu-tru
 url:www.vietnam.vn/ja/cu-bat-tay-lich-su-50-000-combo-bay-nghi-duong-phu-quoc-4-sao-giam-sap-san-con-5-trieu
 url:www.vietnam.vn/ja/dai-dien-flc-chung-toi-khong-chi-ban-phong-nghi-ma-cung-dia-phuong-ban-diem-den-du-suc-canh-tranh
 url:www.vietnam.vn/ja/dat-vang-kim-ma-lai-day-song-vi-thuong-vu-ban-khach-san-daewoo-6-000-ty-dong
+url:www.vietnam.vn/ja/de-xuat-khu-khach-san-thuong-mai-dich-vu-51-ha-tai-san-bay-quoc-te-phu-quoc
 url:www.vietnam.vn/ja/doanh-nghiep-trung-dau-gia-dat-vang-xay-khach-san-5-sao-o-hn-bo-coc
 url:www.vietnam.vn/ja/doanh-nghiep-trung-dau-gia-khu-dat-vang-xay-khach-san-5-sao-o-ha-noi-bat-ngo-bo-coc
 url:www.vietnam.vn/ja/du-an-can-ho-khach-san-khu-trung-tam-duoc-nhieu-nguoi-nuoc-ngoai-thue-sap-ket-thuc-vi-sao

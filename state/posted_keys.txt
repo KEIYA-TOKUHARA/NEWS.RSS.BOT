@@ -368,6 +368,7 @@ facility:35f0af808c8e422e8b7c
 facility:3606f138e3d15b3466df
 facility:36210d6d05013843af7c
 facility:363acec48bff9e1ea0ac
+facility:363c5ab3ac879f070527
 facility:363f07024d6fad714343
 facility:365689d9d782c7df6258
 facility:36abcec882d3d2d9448e
@@ -1372,6 +1373,7 @@ facility:bfb20673e2fb26c86cf5
 facility:bfd5e27abe2093f44974
 facility:bff9df5c103edeb2b683
 facility:c01a6306ed19dad622c2
+facility:c023418c1ca4951bfa8a
 facility:c03d665837a0dff29ce3
 facility:c0778278f059348e00ba
 facility:c0a43fd81f0b68a4846f
@@ -1391,6 +1393,7 @@ facility:c1868e7acb284e5acfae
 facility:c198a73644a499316ebd
 facility:c1b10b72d23f669fb048
 facility:c1c326ec739d044fb6f6
+facility:c1fa3a6a8e572aeca9b1
 facility:c21672f688902f302b4e
 facility:c21fc9700d180967bf9e
 facility:c22b40ca15d025579e88
@@ -1798,6 +1801,7 @@ facility:faa1deb7d2c320d88abb
 facility:fb07aee32fb28590d59a
 facility:fb1644c9cdda4c9822e6
 facility:fb55ac35ca946390f5a7
+facility:fb8d93c51f384e29955e
 facility:fbeb9c65dead47c13443
 facility:fbf694c1279e1cfe9534
 facility:fbf8b7d7a142d0dc2483
@@ -2632,6 +2636,7 @@ title:1c1666517034673712f1
 title:1c18020d05803feb65a4
 title:1c1c7191808d26c468ca
 title:1c202601cacb9789a074
+title:1c272bd8a3dddef3cad9
 title:1c27a2b81047718d9cd6
 title:1c29915494ed6553538a
 title:1c4575d5476fbdcea3da
@@ -4925,6 +4930,7 @@ title:686243cfeb72db295904
 title:686501640eef887f2ba1
 title:68683af75e5b5c38acb1
 title:6868e3b9671db9768647
+title:686bdc11bd546e9758e0
 title:6879b65366f6915b259e
 title:6883361fa39c28314894
 title:688f87a956e655429099
@@ -4974,6 +4980,7 @@ title:698b9175c3789cf7199a
 title:699563e2dbf4f6afe81a
 title:69a612d24187115eca93
 title:69b7fad3d52afacd3b96
+title:69b9611a315eeadb891b
 title:69ba1bf5bec4a156fe9c
 title:69bea6d040bab7b93cfc
 title:69c4ece1d563095dc05d
@@ -6820,6 +6827,7 @@ title:a48369d391d8ec463d71
 title:a487b9c6670e0d09ee89
 title:a48edb247b9dff2a9e10
 title:a4930b9044f1e7673aee
+title:a4b55ddbd1d8eff22aac
 title:a4bb1752dfb4413ddaf6
 title:a4bd62236fe63c549264
 title:a4bd66f4fc99dc9af5c2
@@ -7489,6 +7497,7 @@ title:bac1bbbb365d693843c4
 title:bae61fb72ae1a2be41c6
 title:baf2441e01cf098f25eb
 title:baf843b60b9000eabaa1
+title:bb00019ae7bb12dbc815
 title:bb027b0c638eb20bf1ac
 title:bb08427a555e99948b6f
 title:bb0853c1031d789e5412
@@ -7731,6 +7740,7 @@ title:c29f08a05b56cdc6967e
 title:c2a33ebb3f2efbe4e3ff
 title:c2a7b07413bd077fb1c7
 title:c2ace8b1f638ef81a179
+title:c2b1a43464bf614f415a
 title:c2b7f8086e8bd5fdafeb
 title:c2b853d29d23eb702cba
 title:c2db8e1f305077f8f873
@@ -7967,6 +7977,7 @@ title:ca6079161985e4432aa3
 title:ca6c1c77b7c4ebb172d0
 title:ca89e7a29b2e492629c0
 title:caaaad6c5ed2d634abdc
+title:caaed95f0f3272cb2454
 title:cab43d8d267eadaca287
 title:cab9071950a87e096292
 title:cac422c38e9b1af3da17
@@ -8484,6 +8495,7 @@ title:db75da304904464b604d
 title:db7dd42f6c038cfbe25d
 title:db7e10b276836428cbc4
 title:db81f5d447410c68e2aa
+title:db920e67334e71d6ee8d
 title:db937d5dff4e72b47e39
 title:db9895583888fb334922
 title:db9ed5a7c39f5a33abc1
@@ -10031,6 +10043,7 @@ topic:35f0af808c8e422e8b7c
 topic:3606f138e3d15b3466df
 topic:36210d6d05013843af7c
 topic:363acec48bff9e1ea0ac
+topic:363c5ab3ac879f070527
 topic:363f07024d6fad714343
 topic:3649cfa80934a8e02f44
 topic:365689d9d782c7df6258
@@ -11328,6 +11341,7 @@ topic:bfb20673e2fb26c86cf5
 topic:bfd5e27abe2093f44974
 topic:bff9df5c103edeb2b683
 topic:c01a6306ed19dad622c2
+topic:c023418c1ca4951bfa8a
 topic:c03d665837a0dff29ce3
 topic:c0778278f059348e00ba
 topic:c0861d75a1825878a191
@@ -11352,6 +11366,7 @@ topic:c1868e7acb284e5acfae
 topic:c198a73644a499316ebd
 topic:c1b10b72d23f669fb048
 topic:c1c326ec739d044fb6f6
+topic:c1fa3a6a8e572aeca9b1
 topic:c21672f688902f302b4e
 topic:c21fc9700d180967bf9e
 topic:c22b40ca15d025579e88
@@ -11894,6 +11909,7 @@ topic:fb1644c9cdda4c9822e6
 topic:fb2c55cc13f035032681
 topic:fb55ac35ca946390f5a7
 topic:fb6e12d8547edf4d642d
+topic:fb8d93c51f384e29955e
 topic:fbeb9c65dead47c13443
 topic:fbf694c1279e1cfe9534
 topic:fbf8b7d7a142d0dc2483
@@ -12935,6 +12951,7 @@ url:joetsu.yukiguni.town/l-news/326607/
 url:joshi-spa.jp/1421976
 url:joshi-spa.jp/1430597
 url:jouhou.nagoya/asano-shigure-dinner/
+url:jouhou.nagoya/dote-daikoku/
 url:jouhou.nagoya/wolfgangs-steakhouse/
 url:jp.investing.com/news/analyst-ratings/article-93CH-1587973
 url:jp.investing.com/news/analyst-ratings/article-93CH-1602210
@@ -16249,6 +16266,7 @@ url:skift.com/2026/09/17/minor-hotels-signs-first-hanoi-property-targets-2028-op
 url:skift.com/2026/09/17/singapores-banyan-group-buys-newmark-to-add-26-hotels-in-africa/
 url:skift.com/2026/09/17/thai-airways-expands-flight-network-across-europe-and-asia/
 url:skift.com/2026/09/18/skift-global-forum-preview-ihg-ai-hotel-visibility/
+url:skift.com/2026/09/20/what-uber-and-airbnb-reveal-about-expanding-beyond-the-core/
 url:sky-budget.com/2026/08/12/ana-announces-revision-to-international-fuel-surcharges-for-tickets-issued-from-september/
 url:sky-budget.com/2026/08/27/narita-airport-news-aug2026-3/
 url:sky-budget.com/2026/08/31/delta-airlines-news-aug2026/
@@ -16848,6 +16866,7 @@ url:www.afpbb.com/articles/biz/3652547?ctm_campaign=
 url:www.agara.co.jp/article/648323?rct=
 url:www.agara.co.jp/article/656680?rct=
 url:www.agara.co.jp/article/675731/
+url:www.agara.co.jp/article/688242
 url:www.anemo.co.jp/topics/lifestyle/leisure/429808-20260624/
 url:www.appbank.net/2026/06/19/iphone-news/3033504.php
 url:www.arukikata.co.jp/webmagazine/256336/
@@ -16880,6 +16899,7 @@ url:www.asahi.com/articles/ASV8W41TNV8WPXLB002M.html?iref=
 url:www.asahi.com/articles/ASV913V28V91PLXB00BM.html?iref=
 url:www.asahi.com/articles/ASV92328FV92OXIE006M.html
 url:www.asahi.com/articles/DA3S16512053.html
+url:www.asahi.com/articles/DA3S16548909.html
 url:www.asiainfonet.com/2026/08/11/02-1478/
 url:www.asiatravelnote.com/2026/08/26/thai_vietjet_air_fuel_surcharge_sep_2026.php
 url:www.asiatravelnote.com/2026/09/01/thai_airways_japan_fares_sep_2026.php
@@ -17279,6 +17299,7 @@ url:www.chugoku-np.co.jp/articles/-/893397
 url:www.chugoku-np.co.jp/articles/-/894371
 url:www.chugoku-np.co.jp/articles/-/896032
 url:www.chugoku-np.co.jp/articles/-/896309
+url:www.chugoku-np.co.jp/articles/-/896578
 url:www.chugoku-np.co.jp/articles/-/896748
 url:www.chugoku-np.co.jp/articles/-/897465
 url:www.chukei-news.co.jp/news/2026/06/27/OK0002606270201_01/
@@ -18832,6 +18853,8 @@ url:www.nna.jp/news/2960079
 url:www.nna.jp/news/2961917
 url:www.nna.jp/news/2963918
 url:www.nna.jp/news/2963983
+url:www.nna.jp/news/2968774
+url:www.nna.jp/news/2969055
 url:www.nnn.co.jp/articles/-/744469
 url:www.nnn.co.jp/articles/-/756214
 url:www.nnn.co.jp/articles/-/757009
@@ -19469,6 +19492,7 @@ url:www.traicy.com/posts/20260914381791/
 url:www.traicy.com/posts/20260915381840/
 url:www.traicy.com/posts/20260918382170/
 url:www.traicy.com/posts/20260920382349/
+url:www.traicy.com/posts/20260920382405/
 url:www.travelnews.co.jp/news/inbound/2026061912010349639.html
 url:www.travelnews.co.jp/news/inbound/2026072109010350005.html
 url:www.travelnews.co.jp/news/inbound/2026072209015250003.html

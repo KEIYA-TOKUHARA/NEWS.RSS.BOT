@@ -339,6 +339,7 @@ facility:47a135b068a99914bc60
 facility:47d273e030cadb094b84
 facility:47dc7d4ecae4f352c244
 facility:47dd85f9680a369aaa98
+facility:480f8cb7aa7948e3f6a6
 facility:481424699a2991f28108
 facility:481e261becb82ff544bc
 facility:484efac4d4397b63cc46
@@ -925,6 +926,7 @@ facility:c437217a2159f4526b71
 facility:c4a535174f058708691c
 facility:c4a99ca8a2fed549bffc
 facility:c4c71ef5e96c609775f4
+facility:c51c3bd8543e7a561582
 facility:c5a00eb3a3ded225d8ee
 facility:c5c32e7052083687aa96
 facility:c5fbed5c02c7c3708c79
@@ -1130,6 +1132,7 @@ facility:f1267aacfa650d5da9f6
 facility:f1674707a245f100d83d
 facility:f1ded3b181a85fda5670
 facility:f244d53eea10bfebbe41
+facility:f26d864623e713a67315
 facility:f2814bc12c330a193cb6
 facility:f2980cf9f487fe8cd6a1
 facility:f29a62eb1c92658985c0
@@ -1478,6 +1481,7 @@ title:12bb9349d92382d74650
 title:12c9adae034bff66c664
 title:12cf8e4ac4cb505eb3f6
 title:12d34cee2e7920aaad79
+title:12e04725e3b5eb8c56a2
 title:1307de706c6641014738
 title:1318266cd1fc4e88885b
 title:13268fa22644b336ae26
@@ -2174,11 +2178,13 @@ title:3b037e93e9b1581efdb2
 title:3b1e6a6893fe4dce07a0
 title:3b28a4f38ba93563a74b
 title:3b2d12d14a32837516a9
+title:3b3a872dc0950595540d
 title:3b414be21fc506a8b9e0
 title:3b6bd0bc1cff18278237
 title:3b88718627d7683b56b0
 title:3b96dbe61aa01c3864ba
 title:3b97f920be587ffe0b85
+title:3bb05c6980769f834f11
 title:3bcfff4b9c3c10439570
 title:3bfc531c0be17490f991
 title:3c0503bd65d7184eeb77
@@ -2574,6 +2580,7 @@ title:51f94586a971f461d3f8
 title:520378459cfe4f3eef81
 title:52037d19f17e0c0dd849
 title:522f9a207e6a9ba142b7
+title:524bd11c45b225abb423
 title:525e94e535dd9dd9769d
 title:525f9daccc22a8fc9193
 title:5272a1ad7525931df32b
@@ -4144,6 +4151,7 @@ title:a9f25a11e75c3daaab26
 title:a9f85831653c703a4f5b
 title:aa01f91e0a3a93567a2f
 title:aa063a1cdd51e42a0747
+title:aa09fc2ba0dfc44f0feb
 title:aa100a06645f8b3c2782
 title:aa1da7f18cb54d89f94d
 title:aa31bf30ba8fbf78e787
@@ -4474,6 +4482,7 @@ title:bc6feae0ceb4360d4477
 title:bc76788d7bddce4edf53
 title:bc794b7cf812b409bb66
 title:bc947f29ee4d681ac252
+title:bca10c3a3d7a71732692
 title:bca85b83b4cab13f4d23
 title:bcaac061737f7569035c
 title:bcbe34528db7d3d3d5a1
@@ -4520,6 +4529,7 @@ title:beb3d955eebc675c525a
 title:beb6f15ccedbd587e399
 title:beb7d37eadf7268dde69
 title:bed5e53eaa8234da5681
+title:bef5233b7b7e7660359d
 title:bef69f9b7ead6e1c91f7
 title:bf0e6948c0744b48d2b4
 title:bf16c6e9b7d653943075
@@ -5044,6 +5054,7 @@ title:de06a48b4e6d445ca3e0
 title:de1b8c11f98e93c1fdfd
 title:de1daaa75c8a62b1866d
 title:de7edd471f8252eeaa6c
+title:de8b21db21377aa135fa
 title:dea48d6899b83877e76c
 title:deb025e30c0bc2ccb158
 title:deb3a2c11658ec2bec27
@@ -5058,6 +5069,7 @@ title:df3a1aa0171b3e7ba377
 title:df4811bfb9e813a69668
 title:df4fdef721b2882583c3
 title:df50a7cd9cdf0beeb8c0
+title:df6e747ea598a17f4098
 title:df76efd05219585da03a
 title:df7a4f80cd4f10bd0864
 title:df8cda614e8f9528fdfd
@@ -6064,6 +6076,7 @@ topic:47a135b068a99914bc60
 topic:47d273e030cadb094b84
 topic:47dc7d4ecae4f352c244
 topic:47dd85f9680a369aaa98
+topic:480f8cb7aa7948e3f6a6
 topic:481424699a2991f28108
 topic:481e261becb82ff544bc
 topic:484efac4d4397b63cc46
@@ -6826,6 +6839,7 @@ topic:c48bd4496e4673ea7eda
 topic:c4a535174f058708691c
 topic:c4a99ca8a2fed549bffc
 topic:c4c71ef5e96c609775f4
+topic:c51c3bd8543e7a561582
 topic:c5a00eb3a3ded225d8ee
 topic:c5c32e7052083687aa96
 topic:c5f967b56cf024283b96
@@ -7095,6 +7109,7 @@ topic:f1ab97ff65661d84c835
 topic:f1bcbb524b1841f4cb57
 topic:f1ded3b181a85fda5670
 topic:f244d53eea10bfebbe41
+topic:f26d864623e713a67315
 topic:f2814bc12c330a193cb6
 topic:f2980cf9f487fe8cd6a1
 topic:f29a62eb1c92658985c0
@@ -7288,6 +7303,7 @@ url:biz.chosun.com/jp/jp-realestate/2026/06/24/NU4PZDYTNVDM3JZBAN2KX5464Q/
 url:biz.chosun.com/jp/jp-realestate/2026/07/03/VXANYDOBZRAVNG4NGVQIHY7KYI/
 url:biz.chosun.com/jp/jp-realestate/2026/09/03/K5PCAXIGPJCJZBTSUFP7MR7NTM/
 url:biz.chosun.com/jp/jp-retail/2026/09/09/ASJOS2WPYRH4VOI43FUCURBALU/
+url:biz.chosun.com/jp/jp-retail/2026/09/20/WWT6ZCP6AFHV7HDJQKJQ37SKFY/
 url:biz.chunichi.co.jp/news/article/10/126153/
 url:biz.chunichi.co.jp/news/article/10/126779/
 url:biz.chunichi.co.jp/news/article/10/126805/
@@ -7347,6 +7363,7 @@ url:digital.kentsu.co.jp/articles/artcl_rglr/01M1XEPCJ93MKNHP5ZR1DQW8BQ
 url:digital.kentsu.co.jp/articles/artcl_rglr/01M24RATTMDA8RJ9S2MR0ZY4Q4
 url:digital.kentsu.co.jp/articles/artcl_rglr/01M2KZBYE41SN7QHJPMZWFHGVD
 url:digital.kentsu.co.jp/articles/artcl_rglr/01M2PY7GWJ0QBNKFE75XRPPHXX
+url:digital.kentsu.co.jp/articles/artcl_rglr/01M2RYYY6MHWR5TYGCMVN1FWFY
 url:digitalpr.jp/r/137325
 url:digitalpr.jp/r/140962
 url:dime.jp/genre/2146115/
@@ -7622,6 +7639,7 @@ url:hotelbank.jp/investment/resort-condo-lodging-conversion-breakeven-2026/
 url:hotelbank.jp/investment/rinko-chiku-bunku-hotel-regulation-6-ports-2026/
 url:hotelbank.jp/investment/ryokan-business-net-supply-permits-closures-fy2024/
 url:hotelbank.jp/investment/ryokan-succession-tax-2027-deadline-share-valuation/
+url:hotelbank.jp/investment/ryokan-washitsu-to-wayoshitsu-renovation-roi-2026/
 url:hotelbank.jp/investment/shiga-hotel-development-supply-gap-2026-whitespace-yield/
 url:hotelbank.jp/investment/snow-belt-hotel-climate-opex-5th-location-axis-2026/
 url:hotelbank.jp/investment/soil-contamination-law-hotel-land-designated-areas-2026/
@@ -8252,6 +8270,7 @@ url:news.livedoor.com/article/detail/32296686/?p=
 url:news.livedoor.com/article/detail/32303396/
 url:news.livedoor.com/article/detail/32311376/
 url:news.livedoor.com/article/detail/32322886/?from_page=
+url:news.livedoor.com/article/detail/32371825/
 url:news.livedoor.com/article/image_detail/31468279/?img_id=
 url:news.livedoor.com/article/image_detail/31479406/?img_id=
 url:news.livedoor.com/article/image_detail/31481100/?img_id=
@@ -9318,6 +9337,7 @@ url:prtimes.jp/main/html/rd/p/000000008.000154200.html
 url:prtimes.jp/main/html/rd/p/000000009.000087110.html
 url:prtimes.jp/main/html/rd/p/000000009.000111940.html
 url:prtimes.jp/main/html/rd/p/000000009.000164157.html
+url:prtimes.jp/main/html/rd/p/000000009.000183380.html
 url:prtimes.jp/main/html/rd/p/000000010.000044852.html
 url:prtimes.jp/main/html/rd/p/000000010.000049863.html
 url:prtimes.jp/main/html/rd/p/000000010.000146378.html
@@ -9393,6 +9413,7 @@ url:prtimes.jp/main/html/rd/p/000000045.000164416.html
 url:prtimes.jp/main/html/rd/p/000000046.000170473.html
 url:prtimes.jp/main/html/rd/p/000000047.000114352.html
 url:prtimes.jp/main/html/rd/p/000000047.000170473.html
+url:prtimes.jp/main/html/rd/p/000000049.000029429.html
 url:prtimes.jp/main/html/rd/p/000000050.000020001.html
 url:prtimes.jp/main/html/rd/p/000000053.000060961.html
 url:prtimes.jp/main/html/rd/p/000000056.000017314.html
@@ -9928,6 +9949,7 @@ url:topics.smt.docomo.ne.jp/article/jiji/business/jiji-20260821Y086
 url:topics.smt.docomo.ne.jp/article/kab/region/kab-16894200
 url:topics.smt.docomo.ne.jp/article/kkb/region/kkb-20260713-00003702
 url:topics.smt.docomo.ne.jp/article/kobe/nation/kobe-20260620001?page=
+url:topics.smt.docomo.ne.jp/article/kutv/region/kutv-2953869
 url:topics.smt.docomo.ne.jp/article/kyodo_nor/business/kyodo_nor-2026082101000244
 url:topics.smt.docomo.ne.jp/article/kyodo_nor/business/kyodo_nor-2026082101000515
 url:topics.smt.docomo.ne.jp/article/kyodo_nor/business/kyodo_nor-2026082101000520
@@ -10335,6 +10357,7 @@ url:www.chugoku-np.co.jp/articles/-/893397
 url:www.chugoku-np.co.jp/articles/-/894371
 url:www.chugoku-np.co.jp/articles/-/896032
 url:www.chugoku-np.co.jp/articles/-/896309
+url:www.chugoku-np.co.jp/articles/-/896748
 url:www.chugoku-np.co.jp/articles/-/897465
 url:www.chukei-news.co.jp/news/2026/06/27/OK0002606270201_01/
 url:www.chukei-news.co.jp/news/2026/07/03/OK0002607030601_01/
@@ -11368,6 +11391,7 @@ url:www.shinmai.co.jp/news/article/gfkn2026090301000569
 url:www.shinmai.co.jp/news/article/gfkn2026091501000319
 url:www.smartnews.com/news/article/4988602649638086673-%E3%80%8A%E9%AB%98%E7%B4%9A%E3%83%9B%E3%83%86%E3%83%AB%E3%80%81%E3%83%AA%E3%82%BE%E3%83%BC%E3%83%88%E4%BA%8B%E6%A5%AD%E3%81%AB%E9%80%B2%E5%87%BA%E3%80%8B%E3%80%8C%E6%A4%BF%E5%B1%B1%E8%8D%98%E3%80%8D%E3%81%AE%E5%A4%A7%E6%A0%AA%E4%B8%BB%E3%81%AB%E6%80%A5%E6%B5%AE%E4%B8%8A%20%E3%82%A2%E3%83%8F%E3%82%9A%E3%82%AF%E3%82%99%E3%83%AB%E3%83%BC%E3%83%95%E3%82%9A%E3%81%AE%E7%8B%99%E3%81%84%E3%81%AF%EF%BC%9F
 url:www.starnewskorea.com/ja/business-life/2026/07/02/2026070210081285347
+url:www.sunsuntv.co.jp/news/2026/09/2764961
 url:www.thaich.net/news/20260905ah.htm
 url:www.thaich.net/news/20260919xa.htm
 url:www.the-miyanichi.co.jp/pressrelease/prtimes/1027817.html

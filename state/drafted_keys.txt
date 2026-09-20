@@ -56,6 +56,7 @@ facility:0cc426f099f0468d608c
 facility:0cc73caf16627124a5ac
 facility:0d14c57fb2ca805e399c
 facility:0d1a472962b6c56fcd1e
+facility:0d594082e64f5f07f5bb
 facility:0d9471f09e4d9d00ee84
 facility:0dd65b9c6f66690e484f
 facility:0df2b9c544671925f4ae
@@ -2720,10 +2721,12 @@ title:5887d3e4161ce170ec52
 title:588811b8b97a85c4506b
 title:58ee26891a55fc4e3ca2
 title:58f2f8a28d704364de87
+title:58f8d074dc1d627b1013
 title:5906df2dc4f8c6b9ff24
 title:5917b99733d8e58d8f94
 title:591db957168667223b2a
 title:591e01e50e8c55181eca
+title:59205e560dff2d26ca10
 title:593b2a81fbd007548cbf
 title:593ded437ab58e6fb04a
 title:596dcdb4cb77b2aa3153
@@ -2884,6 +2887,7 @@ title:62bd67324b246bbdc06b
 title:62c5c0429a2f14d16ff7
 title:62cd4e326f44931680db
 title:62d8f860cd0ad08222c4
+title:62ddb12c25277a163d27
 title:62e765d25efc94704f6b
 title:62eeadbc543c06eaa433
 title:62f3238b3ecefd38ce05
@@ -2944,6 +2948,7 @@ title:66f50aede6a272cb7bf6
 title:66fd35eccb463ccfa1a2
 title:672ca81f32b745794328
 title:6735d63fe8dd1e37b17f
+title:673a2c4de65549db6b40
 title:673c5b8c5c3c91828ace
 title:674556920bccfa505b53
 title:6750677dac3077c59f41
@@ -3891,6 +3896,7 @@ title:99f35ee8604350a53e39
 title:9a07ca8511817ecb9717
 title:9a0a6171fecdb95a8b7d
 title:9a0b690ca6ed20d50ed9
+title:9a17c4931fca799542d6
 title:9a25c2b0407469881e95
 title:9a283f9b066bc7872c14
 title:9a31a40bdb8d335f9e99
@@ -4581,6 +4587,7 @@ title:bf6d275f8b20d60c92be
 title:bf721689c24af6324af4
 title:bf7c4ef2138903b173bd
 title:bf8132e34d2b542b3922
+title:bf837bf1c401790a363f
 title:bf8c988b516dbee1afa7
 title:bfb2926c8a60549eb562
 title:bfb7c793192487087643
@@ -4785,6 +4792,7 @@ title:cb2a7bd12d9e88e68de8
 title:cb2e46ed0ed53e8e8d73
 title:cb2fe1741a2b862e3951
 title:cb45a151e8be72bbaae7
+title:cb52bb8d8cf154fde5cb
 title:cb726360f2cb2f680c60
 title:cb9af0b34253ee5c3508
 title:cbb19165608ccf57bd86
@@ -5133,6 +5141,7 @@ title:e00c871d4969d11a0684
 title:e0107548281f7b7acbc6
 title:e0279dfdd30bba978813
 title:e0448da78be93e8a1800
+title:e044df664eb5402bd300
 title:e04fc14068d0e1029249
 title:e0534c7d02a8faef9758
 title:e05f0ba863280759f96b
@@ -5772,6 +5781,7 @@ topic:0cc426f099f0468d608c
 topic:0cc73caf16627124a5ac
 topic:0d14c57fb2ca805e399c
 topic:0d1a472962b6c56fcd1e
+topic:0d594082e64f5f07f5bb
 topic:0d9471f09e4d9d00ee84
 topic:0dd65b9c6f66690e484f
 topic:0df2b9c544671925f4ae
@@ -7478,12 +7488,14 @@ url:finance.yahoo.co.jp/news/detail/accbe7893b7110df7271fdb624090b181083ea10
 url:finance.yahoo.co.jp/news/detail/c4bad38ebc983a018e62527e377740d9dafb3fc2
 url:finance.yahoo.co.jp/news/detail/c8ef9b143fe8f0da3d06415894cd3457a37361fe
 url:finance.yahoo.co.jp/quote/2098.T
+url:finance.yahoo.co.jp/quote/GBPJPY
 url:finders.me/kqFQxAgeePu03uIdQw
 url:finders.me/kqFQxAgi4-AVTKpnxA
 url:finders.me/kqFQxAjlm420dbkCFA
 url:fk-online.jp/archives/24131
 url:fk-online.jp/archives/24138
 url:fk-online.jp/archives/24180
+url:flyteam.jp/airline/ana/review/64549
 url:foods-ch.infomart.co.jp/news/296300
 url:foods-ch.infomart.co.jp/news/297217
 url:foods-ch.infomart.co.jp/news/304161
@@ -8632,6 +8644,7 @@ url:news.yahoo.co.jp/articles/18d94c08f16bec8380c16609dfedc8a1c9b64f8b
 url:news.yahoo.co.jp/articles/1944099d2857a485c1883fc55c2b31925120fd09
 url:news.yahoo.co.jp/articles/1956c06ba8e0f5ac88a59751b2f1969b4047594d?source=rss
 url:news.yahoo.co.jp/articles/19ac5f3d2f377b7280986fb679a7152d6906b65b
+url:news.yahoo.co.jp/articles/19da8d6c722ad3d0b940036d03663e6a99af553b?source=rss
 url:news.yahoo.co.jp/articles/1a40a219667e95bec48813a9f588b593838f8d74
 url:news.yahoo.co.jp/articles/1a4e1d1a1bee2ea651865a69be7e5f6e1c740c87?source=rss
 url:news.yahoo.co.jp/articles/1aa3641e5da4737ad30ae877751ced98e9472e7a
@@ -9349,6 +9362,7 @@ url:nfm.nikkeibp.co.jp/atcl/news/21/00001/08634/
 url:nfm.nikkeibp.co.jp/atcl/news/21/00001/08643/
 url:nfm.nikkeibp.co.jp/atcl/news/21/00001/08671/
 url:nikkan-spa.jp/2184531
+url:nikkantb.com/service/494049/
 url:nlab.itmedia.co.jp/cont/articles/3950545/
 url:nobuko-okamoto.com/deals/14500
 url:note.com/tatsuya_sabato/n/n7738fa78efa0
@@ -10787,6 +10801,7 @@ url:www.hospitalitynet.org/news/4134431/banyan-group-announces-acquisition-of-ne
 url:www.hospitalitynet.org/news/4134441/highgate-and-eternam-enter-greece-with-joint-acquisition-of-zafolia-hotel-athens
 url:www.hospitalitynet.org/news/4134442/pivot-selected-to-manage-the-hutton-hotel-nashville-tennessee-a-tribute-portfolio-by-marriott-hotel
 url:www.hospitalitynet.org/news/4134445/anana-launches-ai-workspace-for-hospitality-commercial-teams
+url:www.hospitalitynet.org/news/4134457/laundris-helps-hotel-operators-save-time-and-cut-costs-with-new-ai-powered-assistant
 url:www.hospitalitynet.org/news/4134458/loews-hotels-co-launches-active-stays-by-loews-hotels
 url:www.hospitalitynet.org/news/4134459/hsmai-dcs-dmv-commercial-leadership-forum-will-address-how-integrated-hospitality-organizations-can-drive-performance
 url:www.hospitalitynet.org/opinion/4132458/the-role-of-operational-luxury-in-hospitality
@@ -10981,6 +10996,8 @@ url:www.kankokeizai.com/2609140900kks/
 url:www.kankokeizai.com/2609151000kks/
 url:www.kankokeizai.com/2609170830kks/
 url:www.kankokeizai.com/2609181000kks-2/
+url:www.kankokeizai.com/2609202000kks/
+url:www.kankokeizai.com/2609210630kks/
 url:www.kateigaho.com/travel/local/182692
 url:www.kenbiya.com/ar/ns/for_rent/minpaku/10241.html
 url:www.kenbiya.com/ar/ns/for_rent/minpaku/10464.html
@@ -11496,6 +11513,7 @@ url:www.thaich.net/news/20260919xa.htm
 url:www.the-miyanichi.co.jp/pressrelease/prtimes/1027817.html
 url:www.the-miyanichi.co.jp/pressrelease/prtimes/1067021.html
 url:www.the-miyanichi.co.jp/pressrelease/prtimes/1071692.html
+url:www.the-miyanichi.co.jp/pressrelease/prtimes/1108490.html
 url:www.the-miyanichi.co.jp/pressrelease/prtimes/862124.html
 url:www.the-miyanichi.co.jp/pressrelease/prtimes/890348.html
 url:www.the-miyanichi.co.jp/pressrelease/prtimes/919961.html

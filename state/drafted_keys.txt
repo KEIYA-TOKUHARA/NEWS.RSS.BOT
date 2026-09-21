@@ -389,6 +389,7 @@ facility:504afc78b36da95a6345
 facility:505676cd8a3d0586c1cf
 facility:506ac6bdc04e57fac408
 facility:506dfc7d3116d56079ef
+facility:507fcc78520981c42ca5
 facility:50801d87736ef32d8e92
 facility:5083e55c13e2f43ca19e
 facility:50b6ca107474938e9023
@@ -527,6 +528,7 @@ facility:6d2264fd43cd378f3524
 facility:6d64148d331708cff749
 facility:6d93831d8d619597a0ab
 facility:6e30344c0e8d9e14ea13
+facility:6e33583f10c7efee61f3
 facility:6e6ce0d6a78e94eb5456
 facility:6e72317165506c7614dc
 facility:6e7d8c804d4dbc80d5ee
@@ -711,6 +713,7 @@ facility:94d87e80a800a561dc67
 facility:94ddce074e0973ebadd1
 facility:95627e9c242789aed185
 facility:95b6fc218395a5a0acbc
+facility:9629fb5097c71a2ce8bf
 facility:96c63435d0ab4cb3903a
 facility:9703db21dbb9436b3234
 facility:970c8df7975073de3639
@@ -880,6 +883,7 @@ facility:b8b723ec8cfa9ce9ca57
 facility:b8c0b782fb80426826b4
 facility:b91bcd8c26aedbf94b88
 facility:b93c680975a70dc561c9
+facility:b9422f9b36c57a398b6f
 facility:b9f2a5f1dc5606f85c35
 facility:ba717f426be0b21d72cf
 facility:ba9196cee32264a08dfa
@@ -1007,6 +1011,7 @@ facility:d4e7e914b08217bb218f
 facility:d4e8e3bc866f3fcb83ee
 facility:d515d24002f652ef82ad
 facility:d5e9965217b2abbaf69f
+facility:d607f7721efe2556a6fa
 facility:d60f618f0bd50a1820b4
 facility:d6c7b4527562c88813e5
 facility:d6c92f80b6c6fe18597c
@@ -1259,6 +1264,7 @@ title:029f605d1cba2dec01c3
 title:02a3554bb0188a110d7b
 title:02b8e0fa3e34695bf8df
 title:02be291a00ad8c76b914
+title:02bed959e183cc389fa6
 title:02c98c7293fc83881691
 title:02cee80c097a220dd9af
 title:02d40b427d3361efa873
@@ -1335,6 +1341,7 @@ title:084df31ec3f0e8468054
 title:08503048d0753cfa9542
 title:08561032f0d1775134b1
 title:085a6fe82a6be3d47742
+title:085cbb4bcff2a9a5053c
 title:0881bd6566139ebb2ee0
 title:08a28f62187a13248b71
 title:08aab6017f73efa8e0b8
@@ -1501,6 +1508,7 @@ title:12d34cee2e7920aaad79
 title:12e04725e3b5eb8c56a2
 title:1307de706c6641014738
 title:1318266cd1fc4e88885b
+title:131f252722c9a301727e
 title:13268fa22644b336ae26
 title:1327e6fc09036d53f158
 title:132a6285a91a06a08738
@@ -1535,6 +1543,7 @@ title:1452274ad92c93e5576c
 title:1455216a1a599c3cf552
 title:145b3f72f0e9393308f1
 title:145ce5287b1b82ca1615
+title:145efe023c4abe139b5f
 title:146243699b4d1ba2d0c2
 title:146fe18219f0ee68d581
 title:148c201e1194be7766b7
@@ -1837,6 +1846,7 @@ title:25c52a5d63a3ad7ac53b
 title:25cf1892f1573d708081
 title:26044f2d02a8a599d8a9
 title:2607f76fafe4ab1b83fb
+title:263a2ea6f1586b4b5694
 title:2640a3ae5b344b46f765
 title:2644b9dbb0a8b6340265
 title:2656b155f0bed0f912f7
@@ -2124,6 +2134,7 @@ title:3670e04659a9c2be08c2
 title:367d3a8b4a7d733e96f9
 title:36ad54aa01b49abf8132
 title:36be41b1e8ded719513d
+title:36c80092313eb6fb3f5e
 title:37099725a8f421e3224a
 title:37126d81d7bd69891def
 title:3713ab705d80978b07f7
@@ -2310,6 +2321,7 @@ title:41171f22fc1a37f5c2a8
 title:411fecd83d161a2d39e8
 title:412b3fbf7d907910fdaa
 title:4138664e6ac15b5ab1c0
+title:413aca8a344c9dd2bf37
 title:413fb948b8bf02dd4642
 title:41473751da775ee886ba
 title:414b342760e1de229abb
@@ -2812,6 +2824,7 @@ title:5dc8acc4451d9f98df27
 title:5dcd2f63943f886f213f
 title:5dcd89bfe404bce3dc57
 title:5dde98617f5263457fb7
+title:5df5b7fefa39daa5af74
 title:5e06b1a1d0cde31cd1b3
 title:5e10a5ed8de1390568c6
 title:5e29145e455875b99056
@@ -3264,6 +3277,7 @@ title:77f327c8b7387d606f0b
 title:77f4a8eb3c06dc0f08d0
 title:781a6f26facabd60a546
 title:782cb3a6f0c8005cd478
+title:783600ee5ccbb2851386
 title:78370cfc4d62468eaa2e
 title:78433ea1c5b9e55a5729
 title:78846fe3de5f81ddf207
@@ -3646,6 +3660,7 @@ title:8c5ba8c36d3bba543ef9
 title:8c5bb1d0f310b971f211
 title:8c78c1192ff9ef8d2916
 title:8c8031077c1935996b6d
+title:8c803ba7ddb4f6d472cc
 title:8c83af8c8da2b8629672
 title:8c909e057fd9b52af2a7
 title:8ca286426e542ce06aa0
@@ -3842,6 +3857,7 @@ title:963acb1d857243d3bd18
 title:963ba7cfbb4a4af01eda
 title:964f133cc55a473da380
 title:9659c00da95b550cbd1e
+title:9665a06fbb5a9f22da2b
 title:9679130820e2e80b6050
 title:9681c6c5dbf9c2dd6926
 title:968337eeb1a9aa988c3c
@@ -4269,6 +4285,7 @@ title:ad17e3659e65f697f52c
 title:ad32f84614dded04926f
 title:ad47d9a6d848d2acfb6d
 title:ad689a883d6cc6a7feab
+title:ad709273f91097e6e9c4
 title:ad812016d1d891bfd342
 title:ad850b8560593d67a371
 title:adb11d286ab690c58ae1
@@ -5416,6 +5433,7 @@ title:ed1d0fa927462a558bc9
 title:ed1e98c17cfadaaba007
 title:ed2c27c184791211deb1
 title:ed5ca35f2f3f276ef3b3
+title:ed6be099309d989205de
 title:edb1e54a46625e39a5a0
 title:edb8dc5d8a6c43396cad
 title:edc3c5ba1e7bdbc0fcb7
@@ -5617,6 +5635,7 @@ title:f9285179e03f84f56bbf
 title:f92adac0fe3440d778a1
 title:f936e800f0a525728288
 title:f941f247f9f30981177f
+title:f94945548d9ed32b2dee
 title:f94fefe043db7a1d158d
 title:f956ded6c5586c297d5a
 title:f9b6fccf9994f218b9c4
@@ -6210,6 +6229,7 @@ topic:504afc78b36da95a6345
 topic:505676cd8a3d0586c1cf
 topic:506ac6bdc04e57fac408
 topic:506dfc7d3116d56079ef
+topic:507fcc78520981c42ca5
 topic:50801d87736ef32d8e92
 topic:5083e55c13e2f43ca19e
 topic:50b6ca107474938e9023
@@ -6294,6 +6314,7 @@ topic:5d50f8d3a1309cbc231b
 topic:5dc6e7953626399d34b5
 topic:5dd0935787e0a1a7d3bb
 topic:5e04dd02ad9517ca3cda
+topic:5e4a339c01180a171d0a
 topic:5e4ea04fb4a505e6109f
 topic:5ecf8b4e8f934f4601e1
 topic:5f16991c93b94871bd09
@@ -6391,6 +6412,7 @@ topic:6d2264fd43cd378f3524
 topic:6d64148d331708cff749
 topic:6d93831d8d619597a0ab
 topic:6e30344c0e8d9e14ea13
+topic:6e33583f10c7efee61f3
 topic:6e45300fa14f60fef0f1
 topic:6e6456fc2035b6732d94
 topic:6e6ce0d6a78e94eb5456
@@ -6638,6 +6660,7 @@ topic:9571311e12e5402b870d
 topic:9593621e4cc2de98600e
 topic:95b6fc218395a5a0acbc
 topic:9616ce4c87e26086876b
+topic:9629fb5097c71a2ce8bf
 topic:96c63435d0ab4cb3903a
 topic:9703db21dbb9436b3234
 topic:970c8df7975073de3639
@@ -6849,6 +6872,7 @@ topic:b8b723ec8cfa9ce9ca57
 topic:b8c0b782fb80426826b4
 topic:b91bcd8c26aedbf94b88
 topic:b93c680975a70dc561c9
+topic:b9422f9b36c57a398b6f
 topic:b9ae805aefa95850f807
 topic:b9f2a5f1dc5606f85c35
 topic:ba717f426be0b21d72cf
@@ -7016,6 +7040,7 @@ topic:d4e8e3bc866f3fcb83ee
 topic:d515d24002f652ef82ad
 topic:d537bc9c04d322df1838
 topic:d5e9965217b2abbaf69f
+topic:d607f7721efe2556a6fa
 topic:d60f618f0bd50a1820b4
 topic:d6af99b7a956ccebd2bd
 topic:d6c7b4527562c88813e5
@@ -7700,8 +7725,10 @@ url:hotelbank.jp/investment/hotel-management-revenue-cost-structure-by-type-2026
 url:hotelbank.jp/investment/hotel-pipeline-70-projects-who-orders-the-rooms-2026/
 url:hotelbank.jp/investment/hotel-reit-appraisal-cap-rate-2026/
 url:hotelbank.jp/investment/hotel-reit-capex-major-renovation-per-room-2026/
+url:hotelbank.jp/investment/hotel-reit-debt-ltv-interest-rate-sensitivity-2026/
 url:hotelbank.jp/investment/hotel-room-count-band-adr-inventory-absorption-2026/
 url:hotelbank.jp/investment/hotel-supply-2026-city-planning-zone-development-permit/
+url:hotelbank.jp/investment/hotel-supply-new-vs-non-new-construction-ratio-2026/
 url:hotelbank.jp/investment/hotel-to-residential-conversion-exit-value-2026/
 url:hotelbank.jp/investment/hotel-vs-condo-land-rivalry-adr-feasibility/
 url:hotelbank.jp/investment/hotel-water-connection-fee-initial-cost-2026/
@@ -7783,6 +7810,7 @@ url:hotelbank.jp/revenue-management/kyoto-settled-adr-yoy-jan-jul-2026/
 url:hotelbank.jp/revenue-management/nagano-2026-09-weekday-trough-booking-curve/
 url:hotelbank.jp/revenue-management/new-supply-2026-rooms-vs-count-rm/
 url:hotelbank.jp/revenue-management/okayama-review-quartile-settled-adr-rm/
+url:hotelbank.jp/revenue-management/okinawa-resort-city-business-rm-comparison-2026/
 url:hotelbank.jp/revenue-management/rm-booking-curve-three-checkpoints-45-30-lastminute/
 url:hotelbank.jp/revenue-management/rm-traveler-mix-settled-adr-2026/
 url:hotelbank.jp/revenue-management/shimane-obon-2026-booking-curve-t45-t30-t14/
@@ -8442,6 +8470,7 @@ url:news.livedoor.com/topics/detail/32311376/
 url:news.livedoor.com/topics/detail/32323506/
 url:news.livedoor.com/topics/detail/32323560/
 url:news.livedoor.com/topics/detail/32340303/
+url:news.livedoor.com/topics/detail/32379500/
 url:news.mynavi.jp/article/20260716-4704895/
 url:news.mynavi.jp/premium/article/20260714-4700605/
 url:news.nicovideo.jp/watch/nw19407255
@@ -8551,6 +8580,8 @@ url:news.nicovideo.jp/watch/nw19775980?news_ref=
 url:news.nicovideo.jp/watch/nw19776543?news_ref=
 url:news.nicovideo.jp/watch/nw19786613?news_ref=
 url:news.nicovideo.jp/watch/nw19788773
+url:news.nicovideo.jp/watch/nw19791007
+url:news.nicovideo.jp/watch/nw19795898?news_ref=
 url:news.ntv.co.jp/category/economy/fb34e3ade2704149e08213418a52ed1d31
 url:news.ntv.co.jp/category/economy/nkeb8c6885f157429981abb009ba4cdb8d
 url:news.ntv.co.jp/category/economy/umd79e028c9777492c8985d4c55e9c62ee
@@ -8778,6 +8809,7 @@ url:news.yahoo.co.jp/articles/40a6161bd7be39dcd9cf1095f7c6e5f48f2b2f53
 url:news.yahoo.co.jp/articles/40abce492d04a100f4d7ae05d2c6230d3236414f?source=rss
 url:news.yahoo.co.jp/articles/40c6a5e1a4b84edd7a36cb1f012b972565eead47?source=rss
 url:news.yahoo.co.jp/articles/40cec76967b70af562b3447b71345d33eafa47ad
+url:news.yahoo.co.jp/articles/40dfd104839948dabe6c69e9640f5d46a0de2f92?source=rss
 url:news.yahoo.co.jp/articles/40e58a36b2559d76845fd69aa58da1a46d42aa31
 url:news.yahoo.co.jp/articles/41c97441e17c5f76e968c80f94697a3fe39d1717
 url:news.yahoo.co.jp/articles/42cf66291dce02241e6f019b7bfd64257cb4ef5f?page=
@@ -9936,6 +9968,7 @@ url:straightpress.jp/20260910/1707023
 url:straightpress.jp/20260910/1707473
 url:straightpress.jp/20260916/1712018
 url:straightpress.jp/20260918/1714490
+url:straightpress.jp/20260921/1713332
 url:straightpress.jp/company_news/detail?pr=
 url:strainer.jp/notes/9277
 url:sumida.goguynet.jp/2026/08/03/lawsonkamezawa/
@@ -10314,6 +10347,7 @@ url:www.breakingtravelnews.com/news/article/frankfurts-new-florentin-hotel-award
 url:www.breakingtravelnews.com/news/article/grab-your-complimentary-cookie-at-any-u.s.-doubletree-by-hilton-hotel/
 url:www.breakingtravelnews.com/news/article/grovy-developers-and-usquare-luxe-properties-unveil-show-apartment-for-rama/
 url:www.breakingtravelnews.com/news/article/gunter-hotel-officially-joins-marriott-bonvoys-tribute-portfolio/
+url:www.breakingtravelnews.com/news/article/h10-hotels-expands-its-portfolio-of-boutique-hotels-in-barcelona1/
 url:www.breakingtravelnews.com/news/article/hard-rock-hotel-malta-celebrates-star-studded-grand-opening-in-st.-georges/
 url:www.breakingtravelnews.com/news/article/hilton-and-fuerte-group-hotels-partner-to-debut-amare-cancun-adults-only-al/
 url:www.breakingtravelnews.com/news/article/hilton-brings-canopy-hotels-to-south-east-asia-with-canopy-bangkok-sukhumvi/
@@ -10358,6 +10392,7 @@ url:www.breakingtravelnews.com/news/article/maybourne-announces-appointment-of-j
 url:www.breakingtravelnews.com/news/article/mice-experiences-in-paradise-at-phuket-marriott-resort-spa-merlin-beach/
 url:www.breakingtravelnews.com/news/article/millennium-hotels-and-resorts-launches-culinary-compass-campaign-in-london/
 url:www.breakingtravelnews.com/news/article/minor-hotels-appoints-kanruethai-roongruang-as-general-manager-of-avani-hua/
+url:www.breakingtravelnews.com/news/article/minor-hotels-earns-22-michelin-keys-in-2026-as-recognised-portfolio-grows-t/
 url:www.breakingtravelnews.com/news/article/minor-hotels-introduces-avani-queenstown-a-lakeside-retreat-in-new-zealands/
 url:www.breakingtravelnews.com/news/article/minor-hotels-names-tamer-khedr-managing-director-for-egypt-expansion/
 url:www.breakingtravelnews.com/news/article/minor-hotels-signs-first-nh-hotels-resorts-property-in-the-middle-east-with/
@@ -10894,12 +10929,14 @@ url:www.hospitalitynet.org/opinion/4134328/what-ai-enabled-really-means-for-hote
 url:www.hospitalitynet.org/opinion/4134331/your-hotel-website-stopped-being-how-she-finds-you-it-became-how-she-checks-you
 url:www.hospitalitynet.org/opinion/4134336/choose-a-brand-with-a-calculator-not-with-your-heart
 url:www.hospitalitynet.org/opinion/4134358/six-warning-signs-your-independent-caribbean-hotel-has-outgrown-its-pms
+url:www.hospitalitynet.org/opinion/4134387/building-high-performance-sales-teams-in-experiential-resorts
 url:www.hospitalitynet.org/opinion/4134397/the-eu-ai-act-is-changing-how-hotels-present-themselves
 url:www.hospitalitynet.org/opinion/4134414/hotel-sale-and-leaseback-is-it-worth-the-trade-off
 url:www.hospitalitynet.org/opinion/4134426/googles-latest-search-changes-could-reshape-the-direct-booking-battle
 url:www.hospitalitynet.org/opinion/4134436/the-surf-park-resort-surge-market-momentum-development-trends-and-attendance-growth
 url:www.hospitalitynet.org/opinion/4134438/the-best-time-to-build-a-lender-relationship-is-before-you-need-one
 url:www.hospitalitynet.org/opinion/4134450/the-growing-cost-of-technology-friction-in-hotel-operation
+url:www.hospitalitynet.org/opinion/4134464/the-invisible-engine-why-hotel-housekeeping-is-the-hardest-job-in-the-hotel
 url:www.hospitalitynet.org/podcast/4134018/hotel-cross-selling-strategy-why-better-data-comes-first
 url:www.hospitalitynet.org/report/4133431/hvs-anarock-monitor-june-2026
 url:www.hospitalitynet.org/report/4133456/hvs-us-hotel-development-cost-survey-2026
@@ -11024,6 +11061,8 @@ url:www.kankokeizai.com/2609170830kks/
 url:www.kankokeizai.com/2609181000kks-2/
 url:www.kankokeizai.com/2609202000kks/
 url:www.kankokeizai.com/2609210630kks/
+url:www.kankokeizai.com/2609211230kks/
+url:www.kankokeizai.com/2609211300kks/
 url:www.kateigaho.com/travel/local/182692
 url:www.kenbiya.com/ar/ns/for_rent/minpaku/10241.html
 url:www.kenbiya.com/ar/ns/for_rent/minpaku/10464.html

@@ -15,6 +15,7 @@ facility:03128fe24e3c31aca472
 facility:0322efe669f80e9af7b3
 facility:03261a0186f72dfa24cb
 facility:03261cc8812da4392352
+facility:033482600d1584656cdf
 facility:039e02797d3cdc525071
 facility:03ee0c9e9ada1dd1917c
 facility:04084529482903e1c721
@@ -497,6 +498,7 @@ facility:6613fb5f13b0431c5a9a
 facility:665d1f136a74e946528e
 facility:666b9dd8f2c9010da5e7
 facility:66ab99e22fc9b0bab9f3
+facility:66f7cf76bf8e46b6a2ba
 facility:676a7aade55052606d92
 facility:6770c4a3f643e90cab29
 facility:67af89bd80a9092088a9
@@ -548,6 +550,7 @@ facility:6fb64f64702dfabd22c0
 facility:701745b295eab31252a6
 facility:70b16f000f03a6dbac1e
 facility:70cfc925c4fdd7615e53
+facility:710099dde0688fa55381
 facility:71152f72a8497fcf1fd3
 facility:7132ebdb108a1cf877f7
 facility:7145b5d0026152269b20
@@ -1366,6 +1369,7 @@ title:0881bd6566139ebb2ee0
 title:08a28f62187a13248b71
 title:08aab6017f73efa8e0b8
 title:08c0fe50c0ee1fbe01b4
+title:08de59177004e2c04392
 title:08e4a110011762a77c5b
 title:08fb720df7cf62c81d96
 title:09204007c0abc8212fde
@@ -1702,6 +1706,7 @@ title:1c29915494ed6553538a
 title:1c6fbfce81ebd1625f73
 title:1c7ae0b2787c65fe3348
 title:1c7c07fa3fc55fdd835a
+title:1c8a38a33e8db3b665b2
 title:1c92c3a9deedb46982e6
 title:1cb2802e4f9fcbddab7d
 title:1cbd4811748d6cf53ed8
@@ -1802,6 +1807,7 @@ title:21942943a1af079a2def
 title:2198677ccdea7c0e7004
 title:21a50760f5540c8c0e50
 title:21b3ae27b7ed5e2ad569
+title:21cadbedeea9bf8d08eb
 title:21d20a659287d1f46efc
 title:222983a0181de31d3fa2
 title:222f6cbfeeebfcf65d28
@@ -1825,6 +1831,7 @@ title:235922bf1b4f4ecc128c
 title:2362d9e290e8f8502689
 title:238d3e839a48c489a69e
 title:23906f24ec70195affb5
+title:23971df309fc37ac5d57
 title:23b5a69814e345810942
 title:23c8083da89c6a055686
 title:23dab13f80470eff583d
@@ -2363,6 +2370,7 @@ title:41066675f82adbb48f45
 title:41171f22fc1a37f5c2a8
 title:411fecd83d161a2d39e8
 title:412b3fbf7d907910fdaa
+title:412df0bb957d0e4bb328
 title:4138664e6ac15b5ab1c0
 title:413aca8a344c9dd2bf37
 title:413fb948b8bf02dd4642
@@ -2402,6 +2410,7 @@ title:42f66ca2cc3f059241f4
 title:4300654975ea0f186e52
 title:4314f839200fd31def7b
 title:431c5e61ff991c80c8ac
+title:4327c8011c212ad4b6cf
 title:433bec4fe9400a66641c
 title:434211660e621cc582e3
 title:4342560d9c3f7cda0b58
@@ -2793,6 +2802,7 @@ title:584bf3244225979a317a
 title:58601120f6679f026a33
 title:5873acd4cdd03c0bd3d9
 title:587472232653dbe8cd78
+title:5877a3243de7be849dfe
 title:587da137bb10782bb900
 title:5883969ed27538d29272
 title:5887d3e4161ce170ec52
@@ -4614,8 +4624,10 @@ title:b9ecbd4c3779778fea40
 title:ba07ad91cbf32a111b6a
 title:ba0dc292cdb4d481aad5
 title:ba0f6858b7d8a50a4d70
+title:ba100de767a57f2e8d6f
 title:ba1068599150adf7569b
 title:ba167f35ded98b6e38d6
+title:ba1a1b4478b53d57f40c
 title:ba2543181fc972884ce5
 title:ba296f3f0518883e37d9
 title:ba29fd0a17b296c7a248
@@ -5682,6 +5694,7 @@ title:f363d3142bcace1fa345
 title:f36c9acd9d66eb656f81
 title:f3b19cd17b25a79f9f24
 title:f3c9242280b509b5ee51
+title:f3dc0d3696e9c747ea7b
 title:f3e6b4f2632577793985
 title:f3e7bea2da5553b325e8
 title:f3ec851e200a5d6ea34a
@@ -5762,6 +5775,7 @@ title:f825502fc44ce4016cc1
 title:f829b7f71173c78f4863
 title:f845ac5fda7f240474e5
 title:f851a59f16a73d224b9f
+title:f85d7aefd3be4d23e1b6
 title:f861a56cc9e90d50e000
 title:f86660d5c2b827f8e51a
 title:f888b8e32e4789b0623e
@@ -5873,11 +5887,13 @@ title:fede92d4079bac6ff3b7
 title:fedf4a3afe879061884d
 title:ff0a3f2ce7489c6892dc
 title:ff1802e89fd54cda8eb8
+title:ff2403b5e24f7b65282b
 title:ff3d80055168af3904a3
 title:ff45fc053c2fc527dfb4
 title:ff49b4134750cd0e1daa
 title:ff5951e71fa5afb83feb
 title:ff699c2560d312fde396
+title:ff713c3534693c61ea90
 title:ff8fdc0b4aa394bc8091
 title:ffae964b45282381d1b5
 title:ffd7e99d2785fa4a87c1
@@ -5908,6 +5924,7 @@ topic:03128fe24e3c31aca472
 topic:0322efe669f80e9af7b3
 topic:03261a0186f72dfa24cb
 topic:03261cc8812da4392352
+topic:033482600d1584656cdf
 topic:035d26d5616b35ddbccd
 topic:039e02797d3cdc525071
 topic:03ee0c9e9ada1dd1917c
@@ -6514,6 +6531,7 @@ topic:6613fb5f13b0431c5a9a
 topic:665d1f136a74e946528e
 topic:666b9dd8f2c9010da5e7
 topic:66ab99e22fc9b0bab9f3
+topic:66f7cf76bf8e46b6a2ba
 topic:676a7aade55052606d92
 topic:6770c4a3f643e90cab29
 topic:679fc6de96b536c89c83
@@ -6578,6 +6596,7 @@ topic:6fb64f64702dfabd22c0
 topic:701745b295eab31252a6
 topic:70b16f000f03a6dbac1e
 topic:70cfc925c4fdd7615e53
+topic:710099dde0688fa55381
 topic:71152f72a8497fcf1fd3
 topic:7129ef6821167b217aff
 topic:7132ebdb108a1cf877f7
@@ -7813,6 +7832,7 @@ url:honichi.com/news/2026/09/16/middleeast202607/
 url:hotelbank.jp/area-analysis/aso-kurokawa-onsen-2026-autumn-inventory-adr/
 url:hotelbank.jp/area-analysis/hotel-rapport-senjukaku-5years-after-machida-market/
 url:hotelbank.jp/area-analysis/ibaraki-hotel-market-map-2026-four-tier-adr/
+url:hotelbank.jp/area-analysis/kirishima-kanko-hotel-operating-2026/
 url:hotelbank.jp/area-analysis/kumamoto-earthquake-2026-lodging-recovery-curve-46days/
 url:hotelbank.jp/area-analysis/kyoto-station-1km-courtyard-marriott-positioning-2026/
 url:hotelbank.jp/area-analysis/naha-shuri-hotel-supply-2026/
@@ -7897,8 +7917,10 @@ url:hotelbank.jp/investment/hotel-inspection-certificate-acquisition-dd-genkyo-c
 url:hotelbank.jp/investment/hotel-land-carry-cost-pre-opening-2026/
 url:hotelbank.jp/investment/hotel-leasing-lease-mc-fc-revenue-structure-2026/
 url:hotelbank.jp/investment/hotel-leasing-lease-mc-rent-structure-2026/
+url:hotelbank.jp/investment/hotel-length-of-stay-housekeeping-cost-per-room-2026/
 url:hotelbank.jp/investment/hotel-management-revenue-cost-structure-by-type-2026/
 url:hotelbank.jp/investment/hotel-pipeline-70-projects-who-orders-the-rooms-2026/
+url:hotelbank.jp/investment/hotel-property-tax-2027-revaluation-burden-adjustment/
 url:hotelbank.jp/investment/hotel-reit-appraisal-cap-rate-2026/
 url:hotelbank.jp/investment/hotel-reit-capex-major-renovation-per-room-2026/
 url:hotelbank.jp/investment/hotel-reit-debt-ltv-interest-rate-sensitivity-2026/
@@ -8556,6 +8578,7 @@ url:news.infoseek.co.jp/article/prtimes_000000413_000048076/
 url:news.infoseek.co.jp/article/prtimes_000000433_000048076/
 url:news.infoseek.co.jp/article/prtimes_000001374_000024246/
 url:news.infoseek.co.jp/article/recordchina_RC_993124/
+url:news.infoseek.co.jp/article/recordchina_RC_993226/
 url:news.infoseek.co.jp/article/stv_1463816053173437209/
 url:news.infoseek.co.jp/article/toyokeizai_20260918_958054/
 url:news.infoseek.co.jp/article/yomiuri_20260909_gyt1t00377/
@@ -9849,6 +9872,7 @@ url:prtimes.jp/main/html/rd/p/000000126.000020288.html
 url:prtimes.jp/main/html/rd/p/000000126.000078364.html
 url:prtimes.jp/main/html/rd/p/000000127.000020288.html
 url:prtimes.jp/main/html/rd/p/000000128.000034203.html
+url:prtimes.jp/main/html/rd/p/000000130.000180015.html
 url:prtimes.jp/main/html/rd/p/000000132.000021997.html
 url:prtimes.jp/main/html/rd/p/000000133.000162689.html
 url:prtimes.jp/main/html/rd/p/000000134.000055952.html
@@ -10522,6 +10546,7 @@ url:www.asahi.co.jp/webnews/pages/ann_000534139.html
 url:www.asahi.com/and/pressrelease/16630780
 url:www.asahi.com/and/pressrelease/16637518
 url:www.asahi.com/and/pressrelease/16843048
+url:www.asahi.com/and/pressrelease/16909350
 url:www.asahi.com/articles/ASV8L2FK2V8LULFA00BM.html
 url:www.asahi.com/articles/ASV8W41TNV8WPXLB002M.html?iref=
 url:www.asahi.com/articles/ASV92328FV92OXIE006M.html
@@ -10793,6 +10818,7 @@ url:www.commercepick.com/archives/97516
 url:www.coolkagawa.jp/news/entry-5691.html
 url:www.coolkagawa.jp/news/entry-5866.html
 url:www.crank-in.net/trend/trip/189815/1
+url:www.daily-cargo.com/news/aviation/2026/09/179998/
 url:www.daily-tohoku.news/archives/CNTS2026090400890
 url:www.data-max.co.jp/article/86895
 url:www.dreamnews.jp/press/0000358689
@@ -11124,6 +11150,7 @@ url:www.hospitalitynet.org/news/4134457/laundris-helps-hotel-operators-save-time
 url:www.hospitalitynet.org/news/4134458/loews-hotels-co-launches-active-stays-by-loews-hotels
 url:www.hospitalitynet.org/news/4134459/hsmai-dcs-dmv-commercial-leadership-forum-will-address-how-integrated-hospitality-organizations-can-drive-performance
 url:www.hospitalitynet.org/news/4134472/hotelminder-launches-the-tech-index-shifting-from-popularity-based-hotelier-tech-ratings-to-an-expert-led-evaluation-model
+url:www.hospitalitynet.org/news/4134473/stayntouch-powers-full-pms-migration-across-imperial-london-hotels-including-the-largest-hotel-in-western-europe
 url:www.hospitalitynet.org/news/4134476/lhs-leading-hospitality-solutions-acquires-majority-stake-in-viato-and-strengthens-brandnamic-unlimiteds-marketing-tech-division
 url:www.hospitalitynet.org/news/4134477/frasers-hospitality-unveils-fraser-suites-reserve-a-new-luxury-serviced-living-brand
 url:www.hospitalitynet.org/news/4134480/hvs-europe-hotel-transactions-bulletin-week-ending-18-september-2026
@@ -11132,8 +11159,12 @@ url:www.hospitalitynet.org/news/4134484/industry-veteran-sloan-dean-launches-ai-
 url:www.hospitalitynet.org/news/4134486/siteminder-unveils-dynamic-commerce-engine-to-close-the-execution-gap-in-hotel-distribution
 url:www.hospitalitynet.org/news/4134487/ihg-hotels-resorts-named-official-hotel-partner-of-mens-rugby-world-cup-2027
 url:www.hospitalitynet.org/news/4134490/simple-booking-opens-the-hotel-back-office-to-ai-agents
+url:www.hospitalitynet.org/news/4134503/actabl-appoints-susan-walker-as-chief-financial-officer
 url:www.hospitalitynet.org/news/4134505/mulpha-acquires-interest-in-landmark-darling-harbour-hotels
 url:www.hospitalitynet.org/news/4134507/aphy-launches-the-ai-platform-for-hoteliers-executing-tasks-autonomously-247-in-real-time
+url:www.hospitalitynet.org/news/4134528/ihg-accelerates-malaysia-expansion-with-debut-of-garner-hotels-and-franchise-model
+url:www.hospitalitynet.org/news/4134535/us90-billion-hotel-pipeline-set-to-expand-gcc-and-north-africa-room-supply-by-27-percent
+url:www.hospitalitynet.org/news/4134536/my-place-hotels-relaunches-trend-by-my-place-at-2026-convention
 url:www.hospitalitynet.org/opinion/4132458/the-role-of-operational-luxury-in-hospitality
 url:www.hospitalitynet.org/opinion/4132482/azuma-brand-launch-signals-larger-hotel-category-trends
 url:www.hospitalitynet.org/opinion/4132494/five-trends-every-hotel-leader-needs-to-watch-in-2026
@@ -11592,6 +11623,7 @@ url:www.nikkei.com/prime/veritas/article/DGXZQOUB262NY0W6A820C2000000
 url:www.nikkinonline.com/article/404752
 url:www.nikkinonline.com/article/423720
 url:www.nikkinonline.com/premium/trendslist/418276
+url:www.nikkinonline.com/premium/trendslist/424759
 url:www.nippon.com/ja/news/kd1445326760207499299/
 url:www.nishinippon.co.jp/item/1507213/
 url:www.nishinippon.co.jp/item/1507945/

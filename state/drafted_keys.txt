@@ -684,6 +684,7 @@ facility:8776d3e2fff2fe935f17
 facility:87805d6f7daa4e2a5d4c
 facility:87aa553de122116d94d8
 facility:880dc40a8133cd0041c8
+facility:881543ea347e52cfcd87
 facility:88401a8f978191fb3ac0
 facility:8890f8c0e05338633f9b
 facility:88a00e176d4fcd0e7615
@@ -809,6 +810,7 @@ facility:a0f2102c34630978b18f
 facility:a1445d311e7effa48ed5
 facility:a16a4b8e77336749808e
 facility:a1992c07e1ea2b8a4dae
+facility:a1af14ac04c73e19ff84
 facility:a1eaaadec29a4bb92c3d
 facility:a2233e5a9b141f8f065a
 facility:a23ecac6e373c791981c
@@ -1502,6 +1504,7 @@ title:0e2feca0155a7fc65fae
 title:0e40f9946d43d5a2b518
 title:0e56cc8d8f12740ee45d
 title:0e78146e2462de0f28cd
+title:0e7e6122d560c4c34d82
 title:0e85bca3acf221634b99
 title:0e8e3e41ac83e10eb260
 title:0e90cbd7339ad08e3092
@@ -2106,6 +2109,7 @@ title:2eb63f50c3cbde58dee2
 title:2ee9ae23fa50dc06f090
 title:2ef1875adfc8481b53ff
 title:2f42a4a1daa8179169ea
+title:2f69c6e18c6fc5354959
 title:2f6d0ac4c52727b67c72
 title:2f7028861aee449595ba
 title:2f74836f10c1e52f6b42
@@ -2205,6 +2209,7 @@ title:342fa2cae72de1fbd117
 title:3444d9b76f1e0e817ccf
 title:346278b752abfdab8e08
 title:34690ae267de6db9633f
+title:346c6668013ac5b9388a
 title:347eda70bb959543698a
 title:3483b00e53e00396663c
 title:349f71de5ca490ce2bfe
@@ -2804,6 +2809,7 @@ title:53c5eb5909f20ed1b51f
 title:53c895f996c070c58349
 title:53dae278d09867c37618
 title:53ede593f23741a1c94e
+title:53fa26d28da72b69cfd1
 title:54080c5b604f66b4f7b9
 title:5411580203f973f1d2c6
 title:54137a677065b4b0292e
@@ -2906,6 +2912,7 @@ title:59205e560dff2d26ca10
 title:593b2a81fbd007548cbf
 title:593ded437ab58e6fb04a
 title:596dcdb4cb77b2aa3153
+title:59713807e75b3d51be19
 title:597b7feb05ea69251e0c
 title:59a5d425ab884955fdf7
 title:59afc4c6c8ac37437d9c
@@ -3464,6 +3471,7 @@ title:78370cfc4d62468eaa2e
 title:78433ea1c5b9e55a5729
 title:7855f089115a3aaef2f4
 title:78846fe3de5f81ddf207
+title:788998e4faa46f75fa2f
 title:78947fdfff3659e8d733
 title:78a28f9e7ac68c50bb47
 title:78a8e870aa4f6b489cc9
@@ -4021,6 +4029,7 @@ title:939fab78d407ba4b987a
 title:93b322ff10d780e3a41b
 title:93c1bcc41e8031f3277a
 title:93d7e6223f67366db439
+title:93e8f923ab99dd436893
 title:94026235dcd810edf082
 title:941640bb6b26c89994cf
 title:9418a107510485a9e6fc
@@ -4043,6 +4052,7 @@ title:9506f6f63cf531bab718
 title:952772b5ecc9e49802be
 title:9535ac2ba83d733dfc0c
 title:953a23d38b1bfd940b00
+title:9540e0c5b73ce71f56f2
 title:954a34f5fe4145cbf038
 title:954ae9e0e96c4c120e42
 title:9562791862e5e2b81347
@@ -5206,6 +5216,7 @@ title:d0e996c7576ede0d9d44
 title:d0f6df56473ef965a8cd
 title:d1004a6956b3aad0188c
 title:d10bfa154e9940b53eaa
+title:d115c3c00b64dd43482f
 title:d1498bb0fa45f41e95f6
 title:d1501bdebe4695126820
 title:d1545e23dee99abd08fb
@@ -5728,6 +5739,7 @@ title:ec7031be8b21d4eca56b
 title:ec72937717f7ccf5a28f
 title:ec9ffd10caf6a85834c7
 title:eca4daef0d98920943aa
+title:ecaa0609ac9f96e50caf
 title:ecb3434171c94e68ff7b
 title:ecbc89310843f05387e0
 title:ecc21208b2ac4e402f0d
@@ -6940,6 +6952,7 @@ topic:87805d6f7daa4e2a5d4c
 topic:87aa553de122116d94d8
 topic:87f94883d50aceb2a1b9
 topic:880dc40a8133cd0041c8
+topic:881543ea347e52cfcd87
 topic:88401a8f978191fb3ac0
 topic:8854d852ab47d5b9ac5b
 topic:88655b7756bf4378402d
@@ -7107,6 +7120,7 @@ topic:a1445d311e7effa48ed5
 topic:a165a6b3060d8ce838f3
 topic:a16a4b8e77336749808e
 topic:a1992c07e1ea2b8a4dae
+topic:a1af14ac04c73e19ff84
 topic:a1b9439ad0fd2af544f9
 topic:a1eaaadec29a4bb92c3d
 topic:a1eadf9bbabac6e3e097
@@ -7133,6 +7147,7 @@ topic:a5c62e861815296cd846
 topic:a5f97c34a4758d08d700
 topic:a62a71fc0d3a59aa1f97
 topic:a631fec1789bc5e0b609
+topic:a63fbb7a861c42842965
 topic:a64b96ef00cdb7bd8db7
 topic:a670bae8183315735f7a
 topic:a6848a7f6b6323b88292
@@ -7366,6 +7381,7 @@ topic:c7ca7df97022e36d633f
 topic:c7f29979a81800a4e36f
 topic:c82e422fec2f37646820
 topic:c855afb810f89d3d3ba8
+topic:c871c58a0cdc643df118
 topic:c896bdf6bee96564f695
 topic:c8b9bb18011cec6ac905
 topic:c8cd2d4a1cf46b13aae3
@@ -8402,6 +8418,7 @@ url:kyobashi.keizai.biz/gpnews/1732751/
 url:kzoohawaii.com/hawaii-news/post-34271/amp/
 url:limo.media/articles/-/131795?page=
 url:limo.media/articles/-/138053
+url:locipo.jp/creative/bfee6956-1731-4bb3-856c-b37722828638
 url:lodgingmagazine.com/hsmai-south-florida-names-michael-cheng-as-2025-hospitality-legend-of-the-year/
 url:london3.jp/2026/06/kyougouhotel/
 url:loopbound.proguide.co.jp/posts/7ox6OomJ
@@ -9062,6 +9079,7 @@ url:news.nicovideo.jp/watch/nw19795898?news_ref=
 url:news.nicovideo.jp/watch/nw19797741
 url:news.nicovideo.jp/watch/nw19804242?news_ref=
 url:news.nicovideo.jp/watch/nw19805842?news_ref=
+url:news.nicovideo.jp/watch/nw19808548?news_ref=
 url:news.ntv.co.jp/category/economy/fb34e3ade2704149e08213418a52ed1d31
 url:news.ntv.co.jp/category/economy/nkeb8c6885f157429981abb009ba4cdb8d
 url:news.ntv.co.jp/category/economy/umd79e028c9777492c8985d4c55e9c62ee
@@ -9555,6 +9573,7 @@ url:news.yahoo.co.jp/articles/9e4eb531a00ec9c8e31523b5a6c7d6bb65d21023
 url:news.yahoo.co.jp/articles/9ed23c83df1da1eb6b4026fb94484e5a201635a4
 url:news.yahoo.co.jp/articles/9fc3307ac5f2b1640e0af5a42a1fdff72a5fcc34
 url:news.yahoo.co.jp/articles/9ff847a0162e70c651fde428a2af839c618d28c6?source=rss
+url:news.yahoo.co.jp/articles/a0109bf12ba808b4d7afe20b6481a1e17ce846a9?source=rss
 url:news.yahoo.co.jp/articles/a04dd50c1f8ea8bdf0e7d7599fd7e08cd239e3ea
 url:news.yahoo.co.jp/articles/a04dd50c1f8ea8bdf0e7d7599fd7e08cd239e3ea?source=rss
 url:news.yahoo.co.jp/articles/a0527d311c3fe0821b2310de27621490d54b6fe3?source=rss
@@ -10348,6 +10367,7 @@ url:prtimes.jp/main/html/rd/p/000003795.000024668.html
 url:prtimes.jp/main/html/rd/p/000003842.000024668.html
 url:prtimes.jp/main/html/rd/p/000003901.000014571.html
 url:prtimes.jp/main/html/rd/p/000003941.000024668.html
+url:prtimes.jp/main/html/rd/p/000004021.000024668.html
 url:prtimes.jp/main/html/rd/p/000004311.000002213.html
 url:prtimes.jp/main/html/rd/p/000004366.000012759.html
 url:prtimes.jp/main/html/rd/p/000005409.000000136.html
@@ -10820,6 +10840,7 @@ url:www.47news.jp/14955612.html
 url:www.47news.jp/14964617.html
 url:www.47news.jp/14965571.html
 url:www.47news.jp/14965834.html
+url:www.47news.jp/14989071.html
 url:www.adfwebmagazine.jp/architect/lalique-opened-villa-florhof-in-zurich/
 url:www.afpbb.com/articles/-/3641173?act=
 url:www.afpbb.com/articles/-/3651590
@@ -11705,6 +11726,7 @@ url:www.kankokeizai.com/2609211230kks/
 url:www.kankokeizai.com/2609211300kks/
 url:www.kankokeizai.com/2609221900kks/
 url:www.kankokeizai.com/2609222100kks/
+url:www.kankokeizai.com/2609252100kks-2/
 url:www.kateigaho.com/travel/local/182692
 url:www.kenbiya.com/ar/ns/for_rent/minpaku/10241.html
 url:www.kenbiya.com/ar/ns/for_rent/minpaku/10464.html
@@ -11789,6 +11811,7 @@ url:www.kyoto-np.co.jp/articles/-/1790131
 url:www.kyoto-np.co.jp/articles/-/1790315
 url:www.kyoto-np.co.jp/articles/-/1790318
 url:www.kyoto-np.co.jp/articles/-/1790667
+url:www.kyoto-np.co.jp/articles/-/1797123
 url:www.kyoto-np.co.jp/articles/biz/1748745
 url:www.kyoto-np.co.jp/articles/biz/1749540
 url:www.kyoto-np.co.jp/articles/biz/1750762
@@ -12230,6 +12253,7 @@ url:www.shinmai.co.jp/news/article/gf01da2nss8h93r5kireg850
 url:www.shinmai.co.jp/news/article/gf01da7vt44aejegpfu33k70
 url:www.shinmai.co.jp/news/article/gf01daba9qqm9tl84se1vbeg
 url:www.shinmai.co.jp/news/article/gf01dal6fifscpf4olnjtpo0
+url:www.shinmai.co.jp/news/article/gf01dar3qgm29c62qgiiutq0
 url:www.shinmai.co.jp/news/article/gfkn2026090301000569
 url:www.shinmai.co.jp/news/article/gfkn2026091501000319
 url:www.smartnews.com/news/article/4988602649638086673-%E3%80%8A%E9%AB%98%E7%B4%9A%E3%83%9B%E3%83%86%E3%83%AB%E3%80%81%E3%83%AA%E3%82%BE%E3%83%BC%E3%83%88%E4%BA%8B%E6%A5%AD%E3%81%AB%E9%80%B2%E5%87%BA%E3%80%8B%E3%80%8C%E6%A4%BF%E5%B1%B1%E8%8D%98%E3%80%8D%E3%81%AE%E5%A4%A7%E6%A0%AA%E4%B8%BB%E3%81%AB%E6%80%A5%E6%B5%AE%E4%B8%8A%20%E3%82%A2%E3%83%8F%E3%82%9A%E3%82%AF%E3%82%99%E3%83%AB%E3%83%BC%E3%83%95%E3%82%9A%E3%81%AE%E7%8B%99%E3%81%84%E3%81%AF%EF%BC%9F
@@ -12255,6 +12279,7 @@ url:www.tokyo-takken.or.jp/re-port/82333
 url:www.tokyo-takken.or.jp/re-port/82352
 url:www.tokyo-takken.or.jp/re-port/82638
 url:www.tokyo-takken.or.jp/re-port/82873
+url:www.tokyo-takken.or.jp/re-port/82963
 url:www.tokyu.co.jp/company/news/detail/62101.html
 url:www.toonippo.co.jp/articles/-/2296400
 url:www.toonippo.co.jp/articles/-/2307829
@@ -12513,6 +12538,7 @@ url:www.yomiuri.co.jp/local/kansai/news/20260709-GYO1T00126/
 url:www.yomiuri.co.jp/local/kansai/news/20260910-GYO1T00131/
 url:www.yomiuri.co.jp/local/kansai/news/20260915-GYO1T00147/
 url:www.yomiuri.co.jp/local/kansai/news/20260916-GYO1T00122/
+url:www.yomiuri.co.jp/local/kansai/news/20260926-GYO1T00001/
 url:www.yomiuri.co.jp/local/kyoto/news/20260714-GYTNT00167/
 url:www.yomiuri.co.jp/local/kyushu/news/20260619-GYS1T00032/
 url:www.yomiuri.co.jp/local/kyushu/news/20260710-GYS1T00011/

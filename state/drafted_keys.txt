@@ -483,6 +483,7 @@ facility:589d30ab807cb67d5ac5
 facility:58ca3ac0b9be0fa3a395
 facility:59075df83dc93f66b23b
 facility:5911989264f3af30571c
+facility:59214cd12527f1b88fb3
 facility:594e441d2148a4af2c8e
 facility:597f90fd1a8cec404d8c
 facility:59d5dfd02004fbbbb804
@@ -1170,6 +1171,7 @@ facility:df4a63a1a486814642b7
 facility:df569a1d95e0d570d6f8
 facility:df8cad85b2840b2192a5
 facility:dfb04453a7fbdc7f6887
+facility:dfbaf6f219f7c9d9aea3
 facility:dfbcb4f925702a0a2e3b
 facility:dfdff2ad76c5940b6f39
 facility:e01ce0191b2b8ca4cbc6
@@ -1320,6 +1322,7 @@ facility:fc1507b78364e9efb727
 facility:fc1eed62182759e148a6
 facility:fc8343bcddcbbd16c8e5
 facility:fc920536c552946c4538
+facility:fce2c92178d9f5df3119
 facility:fcf8c166475fd9de4aa8
 facility:fd0da64f6447815a792b
 facility:fd6444ee423cacc90ac1
@@ -1345,6 +1348,7 @@ title:004e05a523e386a4c299
 title:005d09f846f7136f3411
 title:006503b8dafcbaf8fe72
 title:006dd7e981f37a211251
+title:0072b6ecce2373a2e65e
 title:00755cd2d82c4e191cdf
 title:008ff8532ae51260ac98
 title:009495aaf2c2b4dd885e
@@ -2227,6 +2231,7 @@ title:2e390ede6ad4f391ae5b
 title:2e3e7c892d0a6eff2b65
 title:2e48210835d25062bf76
 title:2e619eb1f85b8ff0d0d5
+title:2e65b71026bd481ef3c3
 title:2e8991c7a1c4541ab3dd
 title:2e8b57ad31613f4ea836
 title:2e9ae82bff5f0657d8e2
@@ -2350,6 +2355,7 @@ title:3483b00e53e00396663c
 title:348d3112a2d9dbda742d
 title:349f71de5ca490ce2bfe
 title:34aa1c4e30bc3105e2c2
+title:34c1a27960baefacb448
 title:34dad4b53bf0874c6e86
 title:34de197646a4eb662206
 title:34f3d7b21d5e76d28d9e
@@ -2783,6 +2789,7 @@ title:498bf9a4695df6efcf65
 title:49ac15e1ecd4fca83bc1
 title:49b4cd3891ec4ca0dcf7
 title:49be734c2fd1d84be45f
+title:49de594a93544822573c
 title:4a09d6d3505e6a13bedb
 title:4a15fca1835ddd6ac2b8
 title:4a22d5184086dc84c8c1
@@ -2821,6 +2828,7 @@ title:4c21742c8f98f4cc2395
 title:4c275519b1dbcd560b21
 title:4c377ca05ecdec9a1417
 title:4c392e6e4a783727ed07
+title:4c535f41e06a06f559f8
 title:4c6ef3415c0b33480e39
 title:4c734bdfd7acc03dc0b1
 title:4c79a8fede999e7bf13b
@@ -3252,6 +3260,7 @@ title:60cc7ba1b62a9883fd37
 title:60d33fa343f52a5340f4
 title:60e2d97b5b9241fb82f6
 title:60ee910bf9ea253b49f3
+title:60febea71456f5631573
 title:60ff55d506012c3250c8
 title:6104f4db988a2503ee18
 title:61391770ad77c2d12958
@@ -3430,6 +3439,7 @@ title:6a31cb8efe787fa19163
 title:6a5ad6e1037a8484e63d
 title:6a65a46efbc1b8566cd0
 title:6a7dc73f56b580b9af9e
+title:6a8101f74b69e087c429
 title:6a87665449722984df08
 title:6a99415397067a3a4e54
 title:6a9d518f314956c4a5d5
@@ -3902,6 +3912,7 @@ title:82437518ae4c5feca7d0
 title:8269888df85b5d0def67
 title:826d713978f410d2aab6
 title:827ceafc9e6be5a2916f
+title:82822662b4fbef47e475
 title:828977f0ee462fca182c
 title:828a035c3d18c25586a9
 title:828e8f07b22a53167da0
@@ -4324,6 +4335,7 @@ title:9540e0c5b73ce71f56f2
 title:954a34f5fe4145cbf038
 title:954ae9e0e96c4c120e42
 title:9562791862e5e2b81347
+title:9568ab70e77b3671c6ba
 title:956c90d4aece25480120
 title:956d2b30f0246491a7ff
 title:958a9700059801eb3080
@@ -4484,6 +4496,7 @@ title:9d34bb65926c739f7f6c
 title:9d446ae2bf590dd57083
 title:9d56d455f0347208e665
 title:9d5efb3c6cab6500c4a8
+title:9d74938a42ad50c5c8eb
 title:9d802d0af21036532afc
 title:9d81b695512cff3b38bd
 title:9d82f79b334070d895a1
@@ -4605,6 +4618,7 @@ title:a3022962efce28956bbf
 title:a308a73327b08a0b6566
 title:a32495fb48a22330bae9
 title:a3280b431b5b71bf7e8d
+title:a34182d7d5e82d0eee45
 title:a347d62fb056f88fdd13
 title:a34ea882a88eaea8e7bb
 title:a35d12e84a54a69c600b
@@ -4622,6 +4636,7 @@ title:a3a9b2368a5a3927bc35
 title:a3ac271b2eaa3b066a04
 title:a3b3c184a6f6c65290f0
 title:a3bb246288884d0144b2
+title:a3bb7f2eee480462d640
 title:a3cdaba2041090e3e732
 title:a3ea55da7a87170deab7
 title:a40ad2eebb57dc5d9f43
@@ -4759,6 +4774,7 @@ title:aa897b871cd103ddbccf
 title:aa8fcfd810dbd1d312fc
 title:aa933be7de840a23c65c
 title:aa9bd16a8d550de8a8b6
+title:aaa08ed13ba556855607
 title:aaa65a62640c322b5969
 title:aaa7e1fbcffea36ffa7c
 title:aaadaa5c85c0064e7103
@@ -5899,6 +5915,7 @@ title:e3311d8c76cb5e660579
 title:e341bf86e9d6acfb04c1
 title:e3421f08efde767ada0e
 title:e3508b579bcf166d75ac
+title:e3601664bae39be9bcc8
 title:e3630132657389b690bd
 title:e36fb1fe87e38a7ac369
 title:e36fd420605293acb0ca
@@ -7074,6 +7091,7 @@ topic:58ca3ac0b9be0fa3a395
 topic:58ee05422f00dd13703f
 topic:59075df83dc93f66b23b
 topic:5911989264f3af30571c
+topic:59214cd12527f1b88fb3
 topic:594e441d2148a4af2c8e
 topic:597f90fd1a8cec404d8c
 topic:59d5dfd02004fbbbb804
@@ -7160,6 +7178,7 @@ topic:6770c4a3f643e90cab29
 topic:679fc6de96b536c89c83
 topic:67af89bd80a9092088a9
 topic:67c3ec5593ec5573f257
+topic:67d4d4d3041b59d6d9c5
 topic:67f1c6db1f49bd9796aa
 topic:680af61e8f6298f365d5
 topic:680f726e16582068a92f
@@ -7982,6 +8001,7 @@ topic:df569a1d95e0d570d6f8
 topic:df7a5d7a6406dfae287b
 topic:df8cad85b2840b2192a5
 topic:dfb04453a7fbdc7f6887
+topic:dfbaf6f219f7c9d9aea3
 topic:dfbcb4f925702a0a2e3b
 topic:dfdff2ad76c5940b6f39
 topic:e01ce0191b2b8ca4cbc6
@@ -8011,6 +8031,7 @@ topic:e3710390e92e7a1e7a6f
 topic:e3ca1b983d6b3e02c012
 topic:e3ca55ee91ae0a841f12
 topic:e4069bc2e0bbcd6fa52a
+topic:e41ea6024e1e8f1ccacd
 topic:e4224737c5ee19edd678
 topic:e4488a976d8920e42ba5
 topic:e48d3ca8a6d5f4abb644
@@ -8178,6 +8199,7 @@ topic:fc3be38adf735fb7c0f6
 topic:fc53b7874151fe1500c2
 topic:fc8343bcddcbbd16c8e5
 topic:fc920536c552946c4538
+topic:fce2c92178d9f5df3119
 topic:fcf8c166475fd9de4aa8
 topic:fd0da64f6447815a792b
 topic:fd57d91097a6080ce79a
@@ -8661,6 +8683,7 @@ url:hotelbank.jp/investment/hotel-exit-cost-after-tax-net-proceeds-2026/
 url:hotelbank.jp/investment/hotel-extension-renovation-third-supply-route-construction-statistics-2026/
 url:hotelbank.jp/investment/hotel-fire-insurance-renewal-building-age-cost-per-room-2026/
 url:hotelbank.jp/investment/hotel-fixed-term-business-land-lease-required-adr-15cities/
+url:hotelbank.jp/investment/hotel-fluorescent-lamp-ban-led-capex-per-room-2026/
 url:hotelbank.jp/investment/hotel-franchise-royalty-fee-adr-lift-breakeven-2026/
 url:hotelbank.jp/investment/hotel-fund-futoku-327-operators-yield-2026/
 url:hotelbank.jp/investment/hotel-industry-capex-depreciation-ratio-corporate-statistics-2026/
@@ -8947,6 +8970,7 @@ url:lodgingmagazine.com/azul-hospitality-group-announces-conversion-of-sheraton-
 url:lodgingmagazine.com/beyond-the-pipeline-inside-hospitality-educations-new-rd-revolution/
 url:lodgingmagazine.com/choice-hotels-acquires-harvest-hosts/
 url:lodgingmagazine.com/choice-hotels-announces-multiple-openings-across-cambria-hotels-and-ascend-collection/
+url:lodgingmagazine.com/choice-hotels-announces-retirement-of-chief-human-resources-officer-patrick-cimerola/
 url:lodgingmagazine.com/hotel-indigo-raleigh-opens-following-renovation/
 url:lodgingmagazine.com/hotels-arent-adopting-ai-theyre-automating-their-dysfunction/
 url:lodgingmagazine.com/hsmai-south-florida-names-michael-cheng-as-2025-hospitality-legend-of-the-year/
@@ -9647,6 +9671,7 @@ url:news.nicovideo.jp/watch/nw19817776?news_ref=
 url:news.nicovideo.jp/watch/nw19818945?news_ref=
 url:news.nicovideo.jp/watch/nw19820781
 url:news.nicovideo.jp/watch/nw19820951?news_ref=
+url:news.nicovideo.jp/watch/nw19832107?news_ref=
 url:news.ntv.co.jp/category/economy/fb34e3ade2704149e08213418a52ed1d31
 url:news.ntv.co.jp/category/economy/nkeb8c6885f157429981abb009ba4cdb8d
 url:news.ntv.co.jp/category/economy/umd79e028c9777492c8985d4c55e9c62ee
@@ -9839,6 +9864,7 @@ url:news.yahoo.co.jp/articles/27ccd658b499a949ba82f68fefb8fda892341e94
 url:news.yahoo.co.jp/articles/27f6bd3a7719ea75eaab774aaeefceb74561fa5b?source=rss
 url:news.yahoo.co.jp/articles/28b5a5fd6879595c739b4adf253ee4c81a9a4e76
 url:news.yahoo.co.jp/articles/28db879b13973dbf086104d517620a0c12a3c96f
+url:news.yahoo.co.jp/articles/2920cba97d89c135fad766d3d0d4b571f3c32a89
 url:news.yahoo.co.jp/articles/2933745d938cfca8491f64ee5f5520256fba0991
 url:news.yahoo.co.jp/articles/29396f0b8113a85b5ed146a3cb677db406bcf30e?source=rss
 url:news.yahoo.co.jp/articles/2956549a979812aa558cc2d958fa1d557c45518c
@@ -10627,6 +10653,7 @@ url:prtimes.jp/main/html/rd/p/000000003.000164099.html
 url:prtimes.jp/main/html/rd/p/000000003.000167884.html
 url:prtimes.jp/main/html/rd/p/000000003.000176141.html
 url:prtimes.jp/main/html/rd/p/000000003.000188873.html
+url:prtimes.jp/main/html/rd/p/000000005.000056532.html
 url:prtimes.jp/main/html/rd/p/000000005.000119880.html
 url:prtimes.jp/main/html/rd/p/000000005.000148163.html
 url:prtimes.jp/main/html/rd/p/000000005.000155696.html
@@ -10795,6 +10822,7 @@ url:prtimes.jp/main/html/rd/p/000000126.000020288.html
 url:prtimes.jp/main/html/rd/p/000000126.000078364.html
 url:prtimes.jp/main/html/rd/p/000000127.000020288.html
 url:prtimes.jp/main/html/rd/p/000000128.000034203.html
+url:prtimes.jp/main/html/rd/p/000000129.000078364.html
 url:prtimes.jp/main/html/rd/p/000000130.000180015.html
 url:prtimes.jp/main/html/rd/p/000000132.000021997.html
 url:prtimes.jp/main/html/rd/p/000000132.000096742.html
@@ -11058,6 +11086,7 @@ url:saitoshika-west.com/blog-entry-10426.html
 url:saitoshika-west.com/blog-entry-9606.html
 url:saitoshika-west.com/blog-entry-9890.html
 url:sakai-news.jp/newface/insyoku/20260810_a085_anima
+url:sakai-news.jp/news/20260916_a106_hotelaston
 url:sanrikushimpo.co.jp/2026/08/20/19612/
 url:sapporo-sokuho.com/archives/post-105646.html
 url:sapporo-sokuho.com/archives/post-109944.html
@@ -11147,6 +11176,7 @@ url:skift.com/2026/09/28/uber-is-coming-for-str-airbnb-has-an-ai-agent-coming/
 url:skift.com/2026/09/28/what-hotel-ceos-are-actually-doing-with-ai-from-voice-agents-to-a-digital-hyatt-ceo/
 url:skift.com/2026/09/30/airbnb-launches-ai-tools-catching-up-to-ota-rivals/
 url:skift.com/2026/09/30/choice-hotels-buys-rv-club-harvest-hosts-for-130-million/
+url:skift.com/2026/09/30/final-episode-of-gmh-hotels-a-big-week-for-hotel-ai-and-resort-ma/
 url:skift.com/2026/10/01/ras-al-khaimah-hotels-renovate-to-capture-the-wynn-effect/
 url:sky-budget.com/2026/08/27/narita-airport-news-aug2026-3/
 url:sky-budget.com/2026/08/31/delta-airlines-news-aug2026/
@@ -11452,6 +11482,7 @@ url:voix.jp/biz/news-analysis/177867/
 url:voix.jp/biz/news-analysis/178104/
 url:voix.jp/biz/news-analysis/178312/
 url:voix.jp/biz/news-analysis/178315/
+url:voix.jp/biz/news-analysis/179462/
 url:voix.jp/biz/news/172281/
 url:voix.jp/biz/news/176581/
 url:voix.jp/business-cards/aiello-new-classic-japan-partnership/
@@ -11971,6 +12002,7 @@ url:www.hokkaido-np.co.jp/article/1367863/
 url:www.hokkaido-np.co.jp/article/1369903/
 url:www.hokkaido-np.co.jp/article/1371971/
 url:www.hokkaido-np.co.jp/article/1379454/
+url:www.hokkaido-np.co.jp/article/1380568/
 url:www.hokkaido-np.co.jp/article_photo/list/?article_id=
 url:www.hokkoku.co.jp/articles/-/2148186
 url:www.hokkoku.co.jp/articles/-/2154164
@@ -12011,6 +12043,7 @@ url:www.hospitalitynet.org/editorial/4134471/she-didnt-choose-your-hotel-the-phi
 url:www.hospitalitynet.org/editorial/4134498/sloan-dean-launches-the-first-ai-native-hotel-management-company-booking-says-distribution-isnt-zero-sum-replace-headcount-with-hpor
 url:www.hospitalitynet.org/editorial/4134562/accor-deploys-hospitalitys-first-ai-concierge-at-scale-travelers-are-two-years-ahead-of-the-industry-on-ai-the-middle-management-layer-nobody-develops
 url:www.hospitalitynet.org/editorial/4134600/you-set-the-rate-booking-sets-the-price-royal-caribbean-acquires-sandals-for-3b-109-hotel-ai-use-cases-now-catalogued
+url:www.hospitalitynet.org/editorial/4134692/91-of-hotel-chains-use-ai-but-only-28-have-a-strategy-choice-hotels-acquires-harvest-hosts-for-130m-is-your-agency-selling-you-ai-pixie-dust
 url:www.hospitalitynet.org/explainer/4133296/ai-terms-for-independent-hoteliers-what-actually-happens-when-a-guest-books-through-ai
 url:www.hospitalitynet.org/explainer/4133336/the-numbers-behind-ais-rise-as-a-booking-channel-for-independent-hotels
 url:www.hospitalitynet.org/explainer/4133745/the-hidden-cost-of-poor-workforce-management-in-hotels
@@ -12246,6 +12279,7 @@ url:www.hospitalitynet.org/news/4134663/hyatt-elevates-the-everyday-stay-with-gr
 url:www.hospitalitynet.org/news/4134671/choice-hotels-to-acquire-harvest-hosts-expanding-its-reach-with-the-value-minded-traveler-into-outdoor-and-rv-travel
 url:www.hospitalitynet.org/news/4134675/cooper-carry-launches-hospitality-interior-design-practice-under-the-johnson-studio
 url:www.hospitalitynet.org/news/4134681/california-boutique-hotel-conference-debuts-in-2027-with-appellation-president-courtland-palmer-as-keynote-speaker
+url:www.hospitalitynet.org/news/4134686/radisson-hotel-group-accelerates-ambition-for-100-verified-net-zero-hotels-by-2030-with-four-new-hotels-in-stockholm-and-copenhagen
 url:www.hospitalitynet.org/opinion/4132458/the-role-of-operational-luxury-in-hospitality
 url:www.hospitalitynet.org/opinion/4132482/azuma-brand-launch-signals-larger-hotel-category-trends
 url:www.hospitalitynet.org/opinion/4132494/five-trends-every-hotel-leader-needs-to-watch-in-2026
@@ -12681,6 +12715,7 @@ url:www.nikkei.com/article/DGKKZO97274850R00C26A7CE0000/
 url:www.nikkei.com/article/DGKKZO97485750Q6A710C2L83000/
 url:www.nikkei.com/article/DGKKZO97497930R10C26A7BZ0000/
 url:www.nikkei.com/article/DGKKZO98595770U6A900C2QM8000/
+url:www.nikkei.com/article/DGKKZO99038590Q6A930C2CM0000/
 url:www.nikkei.com/article/DGXZQOCB2547T0V20C26A9000000/
 url:www.nikkei.com/article/DGXZQOCC016F00R00C26A9000000/
 url:www.nikkei.com/article/DGXZQOCC044XJ0U6A600C2000000/
@@ -13033,6 +13068,7 @@ url:www.starnewskorea.com/ja/business-life/2026/07/02/2026070210081285347
 url:www.sunsuntv.co.jp/news/2026/09/2764961
 url:www.thaich.net/news/20260905ah.htm
 url:www.thaich.net/news/20260919xa.htm
+url:www.thaich.net/news/20261001own.htm
 url:www.the-miyanichi.co.jp/pressrelease/prtimes/1027817.html
 url:www.the-miyanichi.co.jp/pressrelease/prtimes/1067021.html
 url:www.the-miyanichi.co.jp/pressrelease/prtimes/1071692.html

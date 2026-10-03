@@ -582,6 +582,7 @@ facility:4e13f61e4b345aea9202
 facility:4e626ad1faa063eb5642
 facility:4e6c0311938f71c7c813
 facility:4e92bfdcc282341c0192
+facility:4eba622aada4c62049f7
 facility:4ebb0b240be7c624f863
 facility:4ec05ad8e8b8637e14e4
 facility:4ec37019ca197262778b
@@ -2743,6 +2744,7 @@ title:17d528cc2c99d192c999
 title:17e2ef4a49953a973ff2
 title:17eb17e68a6504d91bd9
 title:17ed1d882abe883a0560
+title:17f4328a053056829897
 title:17fdceb0bf582f083c2f
 title:180390fa0b29bf7fe945
 title:18100b04e792ecfcec47
@@ -2752,6 +2754,7 @@ title:181db08fd3eb1621e744
 title:1820df3a161dd8c8aaaf
 title:18241d97e60559242508
 title:183184e85e9392de5433
+title:183ec197ed18f9d1aebe
 title:185032397e8704914fba
 title:1859bd71f79779383127
 title:185e6d0e7c892d3aeb6d
@@ -3260,6 +3263,7 @@ title:27ab162710757ec50810
 title:27ae97ec8ad2ac3543a7
 title:27af9e2664b770c3731d
 title:27b3813cd561b9a58706
+title:27b47db7438c3e747084
 title:27bb834defc8fad541d0
 title:27be9597be18809f0212
 title:27bf162ca81b4d2a7b57
@@ -3743,6 +3747,7 @@ title:35dbb44f6cb8dd48d702
 title:35e674a69026a72d513c
 title:35f20f13a2ee885824dd
 title:35f8335f2289bf2dd9ac
+title:35fa93fdd8e8bc035452
 title:3607b99b55369aa99c42
 title:36321dab79df681a2bd7
 title:3638f8927d1305e838f2
@@ -4664,6 +4669,7 @@ title:51e08de18b4f5c895c10
 title:51e3f4388017ff754542
 title:51e5a7015f9400eda92d
 title:51e605949f863ad0d1d7
+title:51e7e66e58b8715a6977
 title:51ed31730baa85fae0ee
 title:51f3a486314efd1875a3
 title:51f94586a971f461d3f8
@@ -5383,6 +5389,7 @@ title:67660658834555212abf
 title:6771b3e04ddfda6685ca
 title:677998487386aa8566a3
 title:677ec600a8618d0ca641
+title:678c03f498d6bbb469c8
 title:67909d8e66b27152ce45
 title:6792460058891d2db45e
 title:6795ced5b76155288a1b
@@ -6362,6 +6369,7 @@ title:84a5ffcb9f6f8b5e0755
 title:84aa5c8c71413115f435
 title:84ac1c48891d824cd0e3
 title:84bc77032a863043b85c
+title:84c47eede867ad36ac2a
 title:84ca2fa2e669a49f04b4
 title:84cfb4110a86f030095c
 title:84d91d2b6ab42e0a082b
@@ -6448,6 +6456,7 @@ title:86f997be4424daef8392
 title:870265d0ea9a76a1aae0
 title:8706527659a38b1cc9ee
 title:870723a742c4de3b736d
+title:8717d5b2cb402b62cfc5
 title:871aa984cdef77230559
 title:871c9f8a46493a038e6e
 title:872520c21aa9f16279a9
@@ -6555,6 +6564,7 @@ title:8a7eb1cb3d375d706ee5
 title:8a897029034c16c66ac3
 title:8a8ef4169c387244b236
 title:8a9dff2d23eac4dc155c
+title:8aa2ca3a27d5baedcb49
 title:8aa3d3f21d0299822366
 title:8aa99002e74ad2cf9b18
 title:8aac46a06ee04174f017
@@ -6779,6 +6789,7 @@ title:90d03090b05e8de686b6
 title:90d3c20a7b8027f610c4
 title:90d3c48987cffa5c0ef4
 title:90d7c1f5a65ac3ae500a
+title:90d9def83d5a41471e4a
 title:90da5521fbc17b2ade2e
 title:90da835577e503961be8
 title:90e56cbf706aa0117626
@@ -7084,6 +7095,7 @@ title:9982465dde0ba10efd72
 title:998441763e2ee927d6ca
 title:99938c1552b71061dc19
 title:9995a546c3f2f8dffcca
+title:99993c00fdbd28adc2db
 title:99a368d5ab0dafd85ec3
 title:99a95bdbea1b0bfa48a4
 title:99acbfe6a73370ac332b
@@ -7208,6 +7220,7 @@ title:9d3ac37c2fc5c980a35c
 title:9d3cf45ea91ff3f65256
 title:9d446ae2bf590dd57083
 title:9d53964b6dcc5282e97e
+title:9d53f895a7ec39632b76
 title:9d56d455f0347208e665
 title:9d5efb3c6cab6500c4a8
 title:9d74938a42ad50c5c8eb
@@ -7295,6 +7308,7 @@ title:9f98a8cee788fc2a371e
 title:9f9edfc74c3f43766f6d
 title:9faa1b044078b0bc94d7
 title:9fae0e9bce83227d74cd
+title:9fb31f4df0d8b7c33d9e
 title:9fb51d7ab5680fa8d74a
 title:9fbf46e025e28ec7a90e
 title:9fc304717e0e1218aa24
@@ -7582,6 +7596,7 @@ title:a84607045bfe57e17de4
 title:a8493ba12082372ca52a
 title:a84d82f89cdc0d84c83d
 title:a85e9059badaec0e0708
+title:a874d605c2d0ac956c19
 title:a87959c07871e8ca1dc2
 title:a87c2d4268066f5837e5
 title:a87e71b7c34b7546fa91
@@ -9891,6 +9906,7 @@ title:ecd484d01f68153c4d88
 title:ecdd552c9d7aa59f3ba2
 title:ece428178e9b4bf37696
 title:eceed13435363e4880b6
+title:ecf1e8a6c1d166a739b1
 title:ecf3b67d84a8f0ece7d7
 title:ecf7f8dd1d70f67ae358
 title:ecf9de88262df935aeb7
@@ -11080,6 +11096,7 @@ topic:3f9f734501b38a5d8a1a
 topic:3fc340233a34f5b6d5f8
 topic:3fdb2bc7492e392e74d7
 topic:3ff4371f73e9a4ebb133
+topic:400020504bc912b0c935
 topic:401f1a94cc481eca94bf
 topic:40568f14208d052a2804
 topic:409752d3b6ac26dce15e
@@ -11220,6 +11237,7 @@ topic:4e13f61e4b345aea9202
 topic:4e626ad1faa063eb5642
 topic:4e6c0311938f71c7c813
 topic:4e92bfdcc282341c0192
+topic:4eba622aada4c62049f7
 topic:4ebb0b240be7c624f863
 topic:4ec05ad8e8b8637e14e4
 topic:4ec37019ca197262778b
@@ -12471,6 +12489,7 @@ topic:c40354bb875e0a0b20d3
 topic:c40e6f7b367fc6303c67
 topic:c42c58aa48e0dcf0af63
 topic:c437217a2159f4526b71
+topic:c451289a6e989fb05ae3
 topic:c48bd4496e4673ea7eda
 topic:c49050bac8d2449bb875
 topic:c4a535174f058708691c
@@ -14414,6 +14433,7 @@ url:mantan-web.jp/prtimes/article/20260918prt00m200001314a/photopage/001.html
 url:mantan-web.jp/prtimes/article/20260919prt00m200000165a/photopage/001.html
 url:mantan-web.jp/prtimes/article/20260925prt00m200000662a.html
 url:mantan-web.jp/prtimes/article/20260929prt00m200000854a/photopage/001.html
+url:mantan-web.jp/prtimes/article/20261002prt00m200000868a.html
 url:maonline.jp/news/20260601d
 url:matsuyama.goguynet.jp/2026/06/05/gogoshimahostel/
 url:matsuyama.goguynet.jp/2026/07/06/apahotelsushimaru/
@@ -14643,6 +14663,7 @@ url:news.infoseek.co.jp/amp/article/koreawave_3649111/
 url:news.infoseek.co.jp/amp/article/koreawave_3650775/
 url:news.infoseek.co.jp/amp/article/koreawave_3652547/
 url:news.infoseek.co.jp/amp/article/koreawave_3652848/
+url:news.infoseek.co.jp/amp/article/koreawave_3655871/
 url:news.infoseek.co.jp/amp/article/kyodo_1458026064800137243/
 url:news.infoseek.co.jp/amp/article/mainichi_20260902k0000m310288000c/
 url:news.infoseek.co.jp/amp/article/mainichi_20260904k0000m040013000c/
@@ -15257,6 +15278,7 @@ url:news.yahoo.co.jp/articles/073b38ccc5dde968e02a469f4ec3bd56632b5c26?source=rs
 url:news.yahoo.co.jp/articles/075a75eb46e3adee25dd8fc9569dbe46f22656fa?source=rss
 url:news.yahoo.co.jp/articles/079c80e1d823dbe66c293c1931a1dbb9fa948a1b?source=rss
 url:news.yahoo.co.jp/articles/07faaf0f9a6453ce9883452d6da944f4a5787bb6
+url:news.yahoo.co.jp/articles/0811a4a37a4d36150af73e16f8b605db6b7745aa
 url:news.yahoo.co.jp/articles/083357c092e869a428f265f97ab822361c1e977c
 url:news.yahoo.co.jp/articles/085ed143198fc5aad66f30a4fabec51d612e20f8
 url:news.yahoo.co.jp/articles/08e2963f547217cec53106dbdcb0155e38bfbeb5
@@ -15806,6 +15828,7 @@ url:news.yahoo.co.jp/articles/6acb3da5f06e2580f44ac0553f24527186a65ede
 url:news.yahoo.co.jp/articles/6ade2a8adc93287303b65773e5aae394893c1027?source=rss
 url:news.yahoo.co.jp/articles/6aec2fec87d30481b715fa04bf3a3580808dbc93
 url:news.yahoo.co.jp/articles/6b2bbf9cd9738629ded75a0317f3db9838b5eaf5
+url:news.yahoo.co.jp/articles/6b42a6fe5e36c4b476d73561cc8191484f53e2c2
 url:news.yahoo.co.jp/articles/6b4b298ec127ae53606821932362aade20caae1e?source=rss
 url:news.yahoo.co.jp/articles/6b5253e22e9351a7760188b81e8e9ea514d4e358?source=rss
 url:news.yahoo.co.jp/articles/6bb6c93f5fc626b2680b2f01503e679dce6c2ef6?source=rss
@@ -16173,6 +16196,8 @@ url:news.yahoo.co.jp/articles/b039f3cc1722f99823a6dea00cd3a59785b07abe
 url:news.yahoo.co.jp/articles/b03e9803462585b35049cd95b0786b27db6d459e
 url:news.yahoo.co.jp/articles/b040d62b5993c165e455bb8b609cbea298ed113c
 url:news.yahoo.co.jp/articles/b12a6b2324dbbf7aec6dffa05d69ab18c7134c5d
+url:news.yahoo.co.jp/articles/b14bfd04ac83e9d73b36afd4f82ed058a342fa8d
+url:news.yahoo.co.jp/articles/b14bfd04ac83e9d73b36afd4f82ed058a342fa8d?source=rss
 url:news.yahoo.co.jp/articles/b20ec8c5f2b1ee408b4a1143e3a21cd1263ebeee
 url:news.yahoo.co.jp/articles/b29ed47e678776da7648c38c1babc8db36d96c61
 url:news.yahoo.co.jp/articles/b2c2234a1ed0447ee3a641712559d9bc902116b3?source=rss
@@ -17855,6 +17880,7 @@ url:tetsudo-ch.com/13032396.html
 url:tetsudo-ch.com/13034908.html
 url:tetsudo-ch.com/13039785.html
 url:thebridge.jp/2026/09/wayfarer-raises-series-a-for-hotel-ai-platform-materia-connect
+url:therakejapan.com/new/20261002a/
 url:thetv.jp/news/detail/1406060/p2/
 url:times.abema.tv/articles/-/10262536?page=
 url:tjournal.co.jp/local/ueda/post-37761/
@@ -18527,6 +18553,7 @@ url:www.breakingtravelnews.com/news/article/beaches-resorts-adds-kidz-bop-to-its
 url:www.breakingtravelnews.com/news/article/belmo-group-moves-into-north-queensland-with-aquarius-on-the-beach-townsvil/
 url:www.breakingtravelnews.com/news/article/blacksand-and-marriott-international-announce-landmark-deal-to-open-10-hote/
 url:www.breakingtravelnews.com/news/article/bloom-arjaan-by-rotana-opens-as-saadiyat-islands-vibrant-new-hospitality-de/
+url:www.breakingtravelnews.com/news/article/bob-w-signs-285-unit-berlin-property/
 url:www.breakingtravelnews.com/news/article/bob-w-signs-long-term-lease-for-160-unit-flagship-office-conversion-in-cent/
 url:www.breakingtravelnews.com/news/article/bob-w-signs-two-valencia-properties-in-further-spanish-expansion/
 url:www.breakingtravelnews.com/news/article/borgata-hotel-casino-spa-unveils-107-million-transformation-of-the-borgata/
@@ -18580,6 +18607,7 @@ url:www.breakingtravelnews.com/news/article/grab-your-complimentary-cookie-at-an
 url:www.breakingtravelnews.com/news/article/grovy-developers-and-usquare-luxe-properties-unveil-show-apartment-for-rama/
 url:www.breakingtravelnews.com/news/article/gunter-hotel-officially-joins-marriott-bonvoys-tribute-portfolio/
 url:www.breakingtravelnews.com/news/article/h10-hotels-expands-its-portfolio-of-boutique-hotels-in-barcelona1/
+url:www.breakingtravelnews.com/news/article/hale-hkuuala-kauai-debuts-as-curio-collection-by-hiltons-first-hawaii-resor/
 url:www.breakingtravelnews.com/news/article/hard-rock-hotel-cancun-and-hard-rock-hotel-vallarta-announce-an-unprecedent/
 url:www.breakingtravelnews.com/news/article/hard-rock-hotel-malta-celebrates-star-studded-grand-opening-in-st.-georges/
 url:www.breakingtravelnews.com/news/article/hilton-and-fuerte-group-hotels-partner-to-debut-amare-cancun-adults-only-al/
@@ -18607,6 +18635,7 @@ url:www.breakingtravelnews.com/news/article/hyatt-announces-long-term-strategic-
 url:www.breakingtravelnews.com/news/article/hyatt-announces-plans-for-grand-hyatt-victoria-falls-the-kingdom/
 url:www.breakingtravelnews.com/news/article/hyatt-announces-plans-for-hyatt-regency-palace-berlin/
 url:www.breakingtravelnews.com/news/article/hyatt-appoints-guido-fredrich-as-vice-president-development-luxury-and-life/
+url:www.breakingtravelnews.com/news/article/hyatt-centric-sapporo-officially-opens-in-the-heart-of-hokkaidos-capital/
 url:www.breakingtravelnews.com/news/article/hyatt-regency-danang-resort-and-spa-elevates-meetings-with-expanded-group-e/
 url:www.breakingtravelnews.com/news/article/hyatt-regency-london-olympia-opens-at-the-heart-of-west-londons-1.3-bn-land/
 url:www.breakingtravelnews.com/news/article/ibis-budget-welcomes-flagship-hotel-in-the-heart-of-barcelona/
@@ -18698,6 +18727,7 @@ url:www.breakingtravelnews.com/news/article/pink-takes-over-naumi-hotels-turns-u
 url:www.breakingtravelnews.com/news/article/playa-de-palma-expands-mice-offering-with-new-aubamar-convention-center/
 url:www.breakingtravelnews.com/news/article/pphe-hotel-group-reimagines-the-digital-guest-experience-across-17-european/
 url:www.breakingtravelnews.com/news/article/preferred-hotels-resorts-celebrates-15-years-of-preferred-pride-with-expand/
+url:www.breakingtravelnews.com/news/article/preferred-hotels-resorts-expands-prestigious-legend-collection/
 url:www.breakingtravelnews.com/news/article/pricetravel-holding-expands-international-distribution-of-mangias-hotels-re/
 url:www.breakingtravelnews.com/news/article/prism-appoints-lia-prendergast-as-vice-president-of-expansion-europe-and-th/
 url:www.breakingtravelnews.com/news/article/purple-ski-announces-reimagined-chalet-pierre-in-meribel-for-the-2026-27-sk/
@@ -18769,6 +18799,7 @@ url:www.breakingtravelnews.com/news/article/the-hoxton-set-to-make-its-middle-ea
 url:www.breakingtravelnews.com/news/article/the-kontiki-opens-the-doors-to-22-new-rooms-and-suites-jungle-chic-down-to/
 url:www.breakingtravelnews.com/news/article/the-langham-debuts-luminaries-in-residence-with-the-artistry-of-ayanga-phot/
 url:www.breakingtravelnews.com/news/article/the-lind-hotels-set-to-open-its-next-chapter-in-coron-palawan/
+url:www.breakingtravelnews.com/news/article/the-luxury-hospitality-group-marks-global-debut-in-the-maldives/
 url:www.breakingtravelnews.com/news/article/the-next-chapter-of-oaga-art-resort-maldives-begins-rebooted-and-reopened/
 url:www.breakingtravelnews.com/news/article/the-odyssey-and-travelleisure-boosting-travel-to-moroccos-essaouira/
 url:www.breakingtravelnews.com/news/article/the-pavilions-hotels-resorts-expands-european-luxury-and-wellness-portfolio/
@@ -20742,6 +20773,7 @@ url:www.okinawatimes.co.jp/articles/-/1930742
 url:www.okinawatimes.co.jp/articles/-/1932663
 url:www.okinawatimes.co.jp/articles/-/1932671
 url:www.okinawatimes.co.jp/articles/-/1933944
+url:www.okinawatimes.co.jp/articles/-/1935500
 url:www.okinawatimes.co.jp/articles/-/1935621
 url:www.oricon.co.jp/news/2468034/
 url:www.oricon.co.jp/pressrelease/2863263/
@@ -21318,6 +21350,7 @@ url:www.traicy.com/posts/20260927383035/
 url:www.traicy.com/posts/20260928383229/
 url:www.traicy.com/posts/20260928383278/
 url:www.traicy.com/posts/20260930381030/
+url:www.traicy.com/posts/20261003383855/
 url:www.travelnews.co.jp/news/inbound/2026061912010349639.html
 url:www.travelnews.co.jp/news/inbound/2026072109010350005.html
 url:www.travelnews.co.jp/news/inbound/2026072209015250003.html
@@ -21714,6 +21747,7 @@ url:yamatogokoro.jp/inbound_data/61032/
 url:yamatogokoro.jp/inbound_data/61190/
 url:yambaru.keizai.biz/headline/865/
 url:yambaru.keizai.biz/photoflash/1695/
+url:youpouch.com/2026/10/03/1392722/
 url:youtu.be/7H4_G1bXQoo?si=
 url:youtu.be/_GnYBKEvDJo
 url:youtu.be/aMTTO_ThNjQ?si=

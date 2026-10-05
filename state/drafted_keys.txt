@@ -1127,6 +1127,7 @@ facility:ce3e5c198a62dcadec07
 facility:ce654cbdf6290e8692b7
 facility:ceb0cf3d5c1f57b96824
 facility:cf2061fd970830b9103d
+facility:cf86d607a13a2f666254
 facility:cfc379d00c9e441a8df6
 facility:cfebd3e8bf7c345507c5
 facility:d00600644adcc92ecec8
@@ -1663,6 +1664,7 @@ title:0fa1fb02c0da528c1c12
 title:0faf71e31ab272c466df
 title:0fbc5959eabfb97162b6
 title:0fc9773043c09595a9bc
+title:0fcdd3a6ead44f680f41
 title:0fd9527c7c8db1e437e7
 title:0fdbd84e918045a1551b
 title:0fdcc9f38b3812cc7802
@@ -1975,6 +1977,7 @@ title:1e213a983044adf6f62a
 title:1e27bb626058f882fb29
 title:1e2b64547d89bb71c83c
 title:1e317edf16f461b16e1e
+title:1e3c7bfa049cd0a4e949
 title:1e472b645d5400b0bf92
 title:1e6a8e68ad3fe88773da
 title:1e6b925eaf46833f0b43
@@ -2432,6 +2435,7 @@ title:33b116e4e0027e6359f3
 title:33bf45a45a1792d1d40c
 title:33c329287be84a7df874
 title:33c5a53dc95feea4c793
+title:33cc6ac4a331fce7d20d
 title:33e6b0a8689945e31f73
 title:33edb7b187a8388a424c
 title:33ef7d7f46ed2e5abb9b
@@ -2634,6 +2638,7 @@ title:3db0d72c5cc2bacea279
 title:3dc1500221b1acca17b9
 title:3dcc70f1815e84de64ac
 title:3dd49c73b02fa3882761
+title:3de7ab4a1967548414ff
 title:3df5088f22b2c6e53628
 title:3dfccb4786597293c9d9
 title:3e18a6aed405253c37b1
@@ -2687,6 +2692,7 @@ title:4028e34763336c02ec93
 title:4034bfa63da361867502
 title:40450ea097f4f8466e6f
 title:4050c2b637c1088d0bd5
+title:4051d625ef757739e89e
 title:40636a48ff43a145f0cf
 title:4079b3338cf8f007b311
 title:40900de4ee77f168de11
@@ -2854,6 +2860,7 @@ title:471cfd9887db411aa555
 title:472528ac73cea19f3077
 title:4730bc849024e09e986a
 title:4737ec041d0de506f480
+title:4740ce166f0fa5877dd3
 title:474b22cb41530634eb5f
 title:4759cdf1ae413cfce823
 title:4778ab90a4597d1f379b
@@ -2915,6 +2922,7 @@ title:4a645bc3dcb992e0666d
 title:4a70a99cb2d9bf684c94
 title:4a95f0a0da5bcc661e6f
 title:4a9f7f21fe4ee08f78c5
+title:4aa21ea422f224c38470
 title:4abc63c1120a45028ec0
 title:4abda6fa10a97832ecb2
 title:4ac3c23ab9be64333046
@@ -3591,6 +3599,8 @@ title:6ad60a1ad3f81ab6b72d
 title:6aed3d91ba5cea9476b0
 title:6aee825df8469885ccda
 title:6af85b663e23e9ef1b0d
+title:6af8e3ff8d17dc6781a3
+title:6af9cd949d879f452af5
 title:6afd11ef831716e0eba3
 title:6afe40ad2452bb06ea49
 title:6b3fcad28ba3e1443144
@@ -3718,6 +3728,7 @@ title:70c993e4da318ee5c7f4
 title:70e16254ee2675626856
 title:70e9831a62262e60210b
 title:70f7247d37b9d3dc6e3b
+title:710b96fb6df242b5478a
 title:711045fa9518a82189c0
 title:7114ca99ecbdd42dee9b
 title:712d274958877af27e93
@@ -4010,6 +4021,7 @@ title:7f14c174d9dffe73e8be
 title:7f156674cc714c024efc
 title:7f2ee81b09bc36cf6216
 title:7f38b2aacf547e0b05f8
+title:7f418ce50e8c88468442
 title:7f54b0011e4daa43f905
 title:7f58c0293704a6896371
 title:7f80956ddbff18c35af9
@@ -4358,6 +4370,7 @@ title:8e0a5429f4a999f74509
 title:8e127b703d9c931434e5
 title:8e14827b16b756f56e69
 title:8e3b34396249b32d2c90
+title:8e3c74cd6eef23aa36f5
 title:8e3cd5a3daddfb27fb77
 title:8e4de5ae445fe6ae7342
 title:8e4f041de0d114c684fc
@@ -4734,8 +4747,10 @@ title:9f5900c17b3711896318
 title:9f637768748aa31b015f
 title:9f6ee157cffb005a876f
 title:9f7ab7ac7432a54c8df2
+title:9f7f2961cffc884031a4
 title:9f85afd9a0951d211ac3
 title:9f8c24fe116641a26823
+title:9fa52114499dfb80963d
 title:9fae0e9bce83227d74cd
 title:9fb31f4df0d8b7c33d9e
 title:9fbf46e025e28ec7a90e
@@ -6375,6 +6390,7 @@ title:ebf7a272005ccc382d72
 title:ec0776e94980594e3d9c
 title:ec142fc13a8e6ebb7e85
 title:ec1d81dd930e72478bb7
+title:ec2619ac5bc6f4fae426
 title:ec55f3b40dcb09d2e531
 title:ec5ba21db0fa31a80084
 title:ec67543751fc17ea2490
@@ -8214,6 +8230,7 @@ topic:ceb0cf3d5c1f57b96824
 topic:ceeac433eb390fee881f
 topic:cf2061fd970830b9103d
 topic:cf51ae8fe2e80342ac0a
+topic:cf86d607a13a2f666254
 topic:cfb38f8f7c1201fa0c25
 topic:cfc379d00c9e441a8df6
 topic:cfebd3e8bf7c345507c5
@@ -8702,6 +8719,7 @@ url:biz.chunichi.co.jp/news/article/10/130233/
 url:biz.chunichi.co.jp/news/article/10/130233/515/
 url:biz.chunichi.co.jp/news/article/10/130233/545/
 url:biz.chunichi.co.jp/news/article/10/130691/
+url:biz.chunichi.co.jp/news/article/10/131271/
 url:biz.chunichi.co.jp/news/article/40/129602/
 url:budou-chan.jp/open-himeji-ekiminami-office/
 url:building-pc.cocolog-nifty.com/map/2026/06/post-c87999.html
@@ -9333,6 +9351,7 @@ url:kzoohawaii.com/hawaii-news/post-34271/amp/
 url:limo.media/articles/-/131795?page=
 url:limo.media/articles/-/138053
 url:locipo.jp/creative/bfee6956-1731-4bb3-856c-b37722828638
+url:lodgingmagazine.com/a-vital-skillset-the-industry-needs-professionals-trained-to-analyze-revenue-capture-and-protect-margins/
 url:lodgingmagazine.com/aahoa-issues-statement-on-governor-newsoms-veto-of-california-hotel-guest-disclosure-bill/
 url:lodgingmagazine.com/ai-hospitality-alliance-and-hedna-launch-ai-use-case-catalogue/
 url:lodgingmagazine.com/aimbridge-hospitality-assumes-management-of-10-hotel-portfolio/
@@ -9341,6 +9360,7 @@ url:lodgingmagazine.com/beyond-the-pipeline-inside-hospitality-educations-new-rd
 url:lodgingmagazine.com/choice-hotels-acquires-harvest-hosts/
 url:lodgingmagazine.com/choice-hotels-announces-multiple-openings-across-cambria-hotels-and-ascend-collection/
 url:lodgingmagazine.com/choice-hotels-announces-retirement-of-chief-human-resources-officer-patrick-cimerola/
+url:lodgingmagazine.com/choice-hotels-opens-its-600th-extended-stay-property/
 url:lodgingmagazine.com/cooperwynn-capital-arranges-financing-for-palihotel-seattle/
 url:lodgingmagazine.com/costar-u-s-hotel-industry-reports-positive-year-over-year-comparisons-20/
 url:lodgingmagazine.com/coury-hospitality-adds-two-hotels-to-its-portfolio/
@@ -9350,6 +9370,7 @@ url:lodgingmagazine.com/hotel-indigo-raleigh-opens-following-renovation/
 url:lodgingmagazine.com/hotels-arent-adopting-ai-theyre-automating-their-dysfunction/
 url:lodgingmagazine.com/hsmai-south-florida-names-michael-cheng-as-2025-hospitality-legend-of-the-year/
 url:lodgingmagazine.com/hvmg-details-recent-growth-of-its-portfolio/
+url:lodgingmagazine.com/ihgs-hotel-indigo-opens-200th-hotel/
 url:lodgingmagazine.com/mews-announces-partnership-with-accor/
 url:lodgingmagazine.com/red-roof-debuts-multiple-strategic-initiatives/
 url:lodgingmagazine.com/red-roof-ignites-growth-through-disciplined-innovation-and-expansion/
@@ -11637,6 +11658,7 @@ url:skift.com/2026/10/02/hilton-isnt-blocking-new-ai-agents-but-its-not-always-l
 url:skift.com/2026/10/02/hoppers-co-founder-and-b2b-boss-left-the-company/
 url:skift.com/2026/10/02/how-the-tourist-became-the-taxpayer-of-last-resort/
 url:skift.com/2026/10/05/gulf-hotel-deals-stall-as-u-s-iran-war-scrambles-valuations/
+url:skift.com/2026/10/05/travel-leisure-taps-wyndham-to-take-sports-illustrated-resorts-into-hotels/
 url:sky-budget.com/2026/08/27/narita-airport-news-aug2026-3/
 url:sky-budget.com/2026/08/31/delta-airlines-news-aug2026/
 url:sky-budget.com/2026/09/01/sep2026-schedule-jpn/
@@ -11785,6 +11807,7 @@ url:topics.smt.docomo.ne.jp/amp/article/tvasahinews/business/tvasahinews-0005360
 url:topics.smt.docomo.ne.jp/amp/article/tvasahinews/politics/tvasahinews-000535888
 url:topics.smt.docomo.ne.jp/amp/article/tvsdt/region/tvsdt-2026080708476312
 url:topics.smt.docomo.ne.jp/amp/article/umk/region/umk-34298
+url:topics.smt.docomo.ne.jp/amp/article/umk/region/umk-34829
 url:topics.smt.docomo.ne.jp/amp/article/uxtv/region/uxtv-2954695
 url:topics.smt.docomo.ne.jp/amp/article/vague/trend/vague-457522
 url:topics.smt.docomo.ne.jp/amp/article/wasabee/region/wasabee-20260915-20168253
@@ -12505,6 +12528,7 @@ url:www.hokkaido-np.co.jp/article/1369903/
 url:www.hokkaido-np.co.jp/article/1371971/
 url:www.hokkaido-np.co.jp/article/1379454/
 url:www.hokkaido-np.co.jp/article/1380568/
+url:www.hokkaido-np.co.jp/article/1384154/
 url:www.hokkaido-np.co.jp/article_photo/list/?article_id=
 url:www.hokkoku.co.jp/articles/-/2148186
 url:www.hokkoku.co.jp/articles/-/2154164
@@ -12796,6 +12820,9 @@ url:www.hospitalitynet.org/news/4134719/ihgs-hotel-indigo-reaches-200-open-hotel
 url:www.hospitalitynet.org/news/4134721/leonardo-hotels-realigns-development-for-the-next-phase-of-growth
 url:www.hospitalitynet.org/news/4134727/aahoa-welcomes-governor-newsoms-veto-of-california-hotel-guest-disclosure-bill
 url:www.hospitalitynet.org/news/4134728/whitbread-acquires-two-future-inns-hotels-adding-292-rooms-in-bristol-and-plymouth
+url:www.hospitalitynet.org/news/4134734/choice-hotels-international-opens-600th-extended-stay-property-reinforcing-its-segment-leadership
+url:www.hospitalitynet.org/news/4134736/marriott-international-signs-landmark-agreement-to-add-eight-hotels-in-the-netherlands
+url:www.hospitalitynet.org/news/4134737/minor-hotels-launches-life-longevity-one-wellness-brand-for-every-season-of-life
 url:www.hospitalitynet.org/opinion/4132458/the-role-of-operational-luxury-in-hospitality
 url:www.hospitalitynet.org/opinion/4132482/azuma-brand-launch-signals-larger-hotel-category-trends
 url:www.hospitalitynet.org/opinion/4132494/five-trends-every-hotel-leader-needs-to-watch-in-2026
@@ -12886,6 +12913,7 @@ url:www.hospitalitynet.org/opinion/4134698/forget-me-not
 url:www.hospitalitynet.org/opinion/4134708/despite-pdoom-hoteliers-are-all-in-on-ai
 url:www.hospitalitynet.org/opinion/4134711/your-hotel-already-has-an-ai-strategy-you-just-didnt-write-it
 url:www.hospitalitynet.org/opinion/4134712/put-ai-on-the-p-l
+url:www.hospitalitynet.org/opinion/4134732/the-inventory-illusion-why-350000-race-fans-left-madrid-hotel-rooms-empty
 url:www.hospitalitynet.org/podcast/4134018/hotel-cross-selling-strategy-why-better-data-comes-first
 url:www.hospitalitynet.org/podcast/4134493/flash-sales-dont-always-add-up-for-hotels
 url:www.hospitalitynet.org/podcast/4134494/the-risks-of-impulse-and-flash-sales-sites
@@ -13033,6 +13061,7 @@ url:www.kankokeizai.com/2610030800kks/
 url:www.kankokeizai.com/2610031300kks/
 url:www.kankokeizai.com/2610040800kks/
 url:www.kankokeizai.com/2610050900kks/
+url:www.kankyo-business.jp/news/1b534738-cc5c-447b-8493-3ce2ae6c2a3f
 url:www.kateigaho.com/travel/local/182692
 url:www.kenbiya.com/ar/ns/for_rent/minpaku/10241.html
 url:www.kenbiya.com/ar/ns/for_rent/minpaku/10464.html
@@ -13561,11 +13590,13 @@ url:www.sanyonews.jp/article/1954554?rct=
 url:www.sanyonews.jp/article/1955523?kw=
 url:www.sanyonews.jp/article/1960089?kw=
 url:www.sanyonews.jp/article/1961793?kw=
+url:www.sanyonews.jp/article/1964147?rct=
 url:www.sanyonews.jp/article/1965599?kw=
 url:www.sanyonews.jp/article/1967473
 url:www.sanyonews.jp/article/1968569?rct=
 url:www.sanyonews.jp/article/1971446?rct=
 url:www.sanyonews.jp/article/1974366?kw=
+url:www.sanyonews.jp/article/1974948
 url:www.sanyonews.jp/article/1974948?rct=
 url:www.sanyonews.jp/article/1975948
 url:www.sanyonews.jp/article/1979888
@@ -13851,6 +13882,7 @@ url:www.vietnam.vn/ja/hang-ngoai-van-ap-dao-hang-viet-o-duong-bay-quoc-te
 url:www.vietnam.vn/ja/hau-xung-dot-syria-dang-quang-ba-cac-khu-nghi-duong-sang-trong-va-san-bay-vip
 url:www.vietnam.vn/ja/hon-1-ha-dat-vang-giua-trung-tam-hue-tim-chu-dau-tu-xay-khach-san-5-sao
 url:www.vietnam.vn/ja/hue-nghien-cuu-y-tuong-mo-hinh-luu-tru-trai-nghiem-tren-song-huong
+url:www.vietnam.vn/ja/hue-tim-nha-dau-tu-xay-khach-san-cao-cap-o-khu-dat-7-000m2-vi-tri-2-mat-tien
 url:www.vietnam.vn/ja/iran-canh-bao-dung-toan-bo-chuyen-bay-cua-cac-nuoc-trong-khu-vuc
 url:www.vietnam.vn/ja/iran-khoi-phuc-duong-bay-toi-uae-trong-boi-canh-cang-thang-khu-vuc-ha-nhiet
 url:www.vietnam.vn/ja/jw-marriott-phu-quoc-emerald-bay-resort-vao-danh-sach-luu-tru-ky-ao-nhat-the-gioi

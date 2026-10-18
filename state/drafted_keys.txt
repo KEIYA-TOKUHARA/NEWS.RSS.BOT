@@ -112,6 +112,7 @@ facility:123ead521ef71c4ac511
 facility:12772d816863e08fd5fb
 facility:129991b6f955f96e4f2d
 facility:129be3f0383d9501047b
+facility:129f0c411965dc09bad1
 facility:12c759d0768982103ede
 facility:12d56f16817451b674ae
 facility:13acad2dbf7ff5f69a54
@@ -482,6 +483,7 @@ facility:4df2a276c4b79cbe4135
 facility:4e13f61e4b345aea9202
 facility:4e626ad1faa063eb5642
 facility:4e6c0311938f71c7c813
+facility:4eb7eb501760604d6c23
 facility:4eba622aada4c62049f7
 facility:4ebb0b240be7c624f863
 facility:4ebbfda9b43a9b0ff8c5
@@ -2004,6 +2006,7 @@ title:13dad977de546cfbd960
 title:13e0878fe00b98891f9c
 title:13ed860ae548e26feaf9
 title:13f5e1e00906a646ea4d
+title:1401cc309a79c3769b73
 title:14049a855c670f4f42bc
 title:140589863ad603a1e029
 title:140cb1653f6d20a708e6
@@ -2154,6 +2157,7 @@ title:1a7ac0751abe1cc6ad65
 title:1aafce463db8abc1801c
 title:1ad14d94c645dbeda6c8
 title:1adcce830be4c90a8a41
+title:1add8691f4052feef56b
 title:1aefbdf3e40ef56551c3
 title:1afaf9275417319aee7c
 title:1afcf398626af3f9b54f
@@ -2301,6 +2305,7 @@ title:1fd7f0dada457d7df864
 title:1fdd52f63298d7311648
 title:1fe83211af91c565d1d1
 title:1ff99cb99a0f0e8be5f6
+title:2020351960b5aaaa02c1
 title:202bf4c08fcc2ee436fc
 title:204668487aef0ec8401b
 title:20469b51f52dbd2031ee
@@ -3075,6 +3080,7 @@ title:40bec77e001d0f39fbc8
 title:40c07099dc0cc874a10f
 title:40c6eb0822b1c72b7b0e
 title:40ca7a6f0166163f3123
+title:40cf6e70a39ab7ae0bcc
 title:40cf7319c5fa90afa258
 title:40d161316fdaa7eaee47
 title:40d17af8b629bed47abf
@@ -3670,6 +3676,7 @@ title:58f8d074dc1d627b1013
 title:5906df2dc4f8c6b9ff24
 title:590b793c552e6d2aaa54
 title:5917b99733d8e58d8f94
+title:591d4b20ffb4dd446551
 title:591db957168667223b2a
 title:591e01e50e8c55181eca
 title:59205e560dff2d26ca10
@@ -4234,6 +4241,7 @@ title:717ee7f82866bfbf33d8
 title:71a11855497562744e3f
 title:71a924d2a4682b47b8d3
 title:71ac5dbaf295c7d1367e
+title:71b263afa2e77bd19245
 title:71b4bad43f3c1a70f9a0
 title:71c077004418f9b406fe
 title:71cc22604868c005c773
@@ -4338,6 +4346,7 @@ title:763eab6d6ed664479b55
 title:76513d29c81672d2a694
 title:76594f152b8b852b006d
 title:767238e2538ddf1b2cba
+title:7675ac687b839092fc94
 title:76820372b593a18ddaed
 title:76ae1f080047e0f2c279
 title:76aea2b64c163570788f
@@ -4471,6 +4480,7 @@ title:7bcd39011e7a0d305c41
 title:7bd1016f55190ec9ffca
 title:7bd53983cec5e02747fa
 title:7be1dbde7719ca8d68b0
+title:7bed744a8660d5658909
 title:7bf2f8c97eba28c7a840
 title:7c03d4d5bfb4462875ba
 title:7c47aecadf2bd8986add
@@ -6883,6 +6893,7 @@ title:dddedccb392660281853
 title:ddeaee434c3626a4a395
 title:ddf0916938afa9902493
 title:ddfa35c10a0503e2bf40
+title:ddfbb148d6bd477a47e6
 title:ddfcc00fa5512b9463f7
 title:ddfe539535b0b595d55b
 title:de022f41bed398ee8efd
@@ -7848,6 +7859,7 @@ topic:1240e0563365f1a0af3b
 topic:12772d816863e08fd5fb
 topic:129991b6f955f96e4f2d
 topic:129be3f0383d9501047b
+topic:129f0c411965dc09bad1
 topic:12c759d0768982103ede
 topic:12d56f16817451b674ae
 topic:13acad2dbf7ff5f69a54
@@ -8306,6 +8318,7 @@ topic:4df4d9b37c89945d8529
 topic:4e13f61e4b345aea9202
 topic:4e626ad1faa063eb5642
 topic:4e6c0311938f71c7c813
+topic:4eb7eb501760604d6c23
 topic:4eba622aada4c62049f7
 topic:4ebb0b240be7c624f863
 topic:4ebbfda9b43a9b0ff8c5
@@ -9176,6 +9189,7 @@ topic:b89895854a3588e78d39
 topic:b8b723ec8cfa9ce9ca57
 topic:b8c0b782fb80426826b4
 topic:b8cd362d1c7275ee7a86
+topic:b8e66c272717829f6326
 topic:b90ff4b585b51eec4b9d
 topic:b91bcd8c26aedbf94b88
 topic:b92a3e207a52483863ab
@@ -9620,6 +9634,7 @@ topic:f121e7fd330a6b212140
 topic:f1267aacfa650d5da9f6
 topic:f162a37d1bbf9215a953
 topic:f1674707a245f100d83d
+topic:f179e9c81b4d64c4e03b
 topic:f19b4308c9c75ff3ac8a
 topic:f1a7db6ecd58bc75bbfc
 topic:f1ab97ff65661d84c835
@@ -10007,6 +10022,7 @@ url:finance.biggo.jp/news/JP_9603.T_2026-09-11
 url:finance.biggo.jp/news/TW_1103.TW_2026-09-30
 url:finance.biggo.jp/news/TW_2511.TW_2026-09-02
 url:finance.biggo.jp/news/b69b0f47-caad-490d-bcdb-2a1a16a8fcaf
+url:finance.biggo.jp/news/c680c1bc-75ab-48c4-b1b8-3f69124a22e7
 url:finance.biggo.jp/news/c7620f70-ed61-4a4e-b551-b70cc4f5780a
 url:finance.biggo.jp/news/d27ef1b4-9b31-4f36-af22-0fc74077c4a3
 url:finance.biggo.jp/news/ddea847f-2ee8-4c45-894d-90deca2348c1
@@ -10620,6 +10636,7 @@ url:kashiwa-tsushin.com/25213.html
 url:kashiwa-tsushin.com/27369.html
 url:kawasaki.keizai.biz/release/624271/
 url:kiryutimes.jp/article/K1Rqmw0y/
+url:kisspress.jp/articles/66295/
 url:kitakan-navi.jp/archives/250000
 url:kobe-journal.com/archives/2298473324.html
 url:kobe-journal.com/archives/5287688227.html
@@ -10795,6 +10812,7 @@ url:media.unisba.ac.id/46830a8b/ddaf1738qDJy5iVHxNg
 url:media.unisba.ac.id/5de597d0/8d197ef2pfp2NQ_4t_s
 url:media.unisba.ac.id/7226e320/2ff8be297A45a3cVNew
 url:media.unisba.ac.id/bf61bdc8/244b6711gP7tzEDWYgE
+url:media.unisba.ac.id/cfac09ee/afadfeadW1dVJFd2AhQ7QDc/?share=
 url:media.unisba.ac.id/e51d287b/14961c7cMgISPiZaRyI6Nlo/?share=
 url:media.unisba.ac.id/eae0446a/6dfa6fe2KToDE1deIisuEAk
 url:media.unisba.ac.id/fd9546b9/af457d66BxI2ACp0ETsZH1I
@@ -10820,6 +10838,7 @@ url:miton-imabari.jp/times-newopen/
 url:miyazaki.keizai.biz/headline/2455/
 url:miyoca.jp/go/4488
 url:motoryokoblog.com/?p=
+url:mov.am/news/post/2TWYQ38A
 url:mshale.com/24ef5e37/b298bbb2BTUDLQQ2aSg2GwY
 url:mshale.com/29434dc2/130ad403jM0ACNj6uqU
 url:mshale.com/296846a0/534f68a2KuwL07JHjW8
@@ -11472,6 +11491,7 @@ url:news.nicovideo.jp/watch/nw19878739?news_ref=
 url:news.nicovideo.jp/watch/nw19884086
 url:news.nicovideo.jp/watch/nw19884186?news_ref=
 url:news.nicovideo.jp/watch/nw19884744?from=
+url:news.nicovideo.jp/watch/nw19885294
 url:news.nicovideo.jp/watch/nw19886204?news_ref=
 url:news.ntv.co.jp/category/economy/fb34e3ade2704149e08213418a52ed1d31
 url:news.ntv.co.jp/category/economy/nkeb8c6885f157429981abb009ba4cdb8d
@@ -12867,6 +12887,7 @@ url:prtimes.jp/main/html/rd/p/000000220.000031800.html
 url:prtimes.jp/main/html/rd/p/000000227.000034663.html
 url:prtimes.jp/main/html/rd/p/000000227.000112458.html
 url:prtimes.jp/main/html/rd/p/000000229.000004992.html
+url:prtimes.jp/main/html/rd/p/000000230.000031800.html
 url:prtimes.jp/main/html/rd/p/000000230.000111353.html
 url:prtimes.jp/main/html/rd/p/000000239.000015235.html
 url:prtimes.jp/main/html/rd/p/000000245.000112458.html
@@ -13351,6 +13372,7 @@ url:topics.smt.docomo.ne.jp/amp/article/nagoyatv/region/nagoyatv-037612
 url:topics.smt.docomo.ne.jp/amp/article/nbs/region/nbs-29924
 url:topics.smt.docomo.ne.jp/amp/article/nib/region/nib-2026101607752347
 url:topics.smt.docomo.ne.jp/amp/article/nikkan_spa/trend/nikkan_spa-2184531
+url:topics.smt.docomo.ne.jp/amp/article/nikkangendai/life/nikkangendai-1255880
 url:topics.smt.docomo.ne.jp/amp/article/nkt_tv/region/nkt_tv-2026070508263627
 url:topics.smt.docomo.ne.jp/amp/article/oita/region/oita-8568F1DB-B646-48BC-9591-1EDC2CE61E61
 url:topics.smt.docomo.ne.jp/amp/article/oricon/entertainment/oricon-2467449
@@ -13546,6 +13568,7 @@ url:trilltrill.jp/articles/4914292
 url:trilltrill.jp/articles/4957193
 url:trilltrill.jp/articles/5061710
 url:trilltrill.jp/articles/5082313
+url:trilltrill.jp/articles/5107654
 url:tripre.jp/archives/40991
 url:tver.jp/episodes/ep38l5t0g9
 url:tver.jp/episodes/ep4ho7xooi
@@ -14989,6 +15012,7 @@ url:www.mk.co.kr/jp/culture/12095537
 url:www.mk.co.kr/jp/culture/12095972
 url:www.mk.co.kr/jp/culture/12133725
 url:www.mk.co.kr/jp/culture/12139307
+url:www.mk.co.kr/jp/culture/12178428
 url:www.mk.co.kr/jp/economy/12084928
 url:www.mk.co.kr/jp/economy/12085023
 url:www.mk.co.kr/jp/economy/12158429

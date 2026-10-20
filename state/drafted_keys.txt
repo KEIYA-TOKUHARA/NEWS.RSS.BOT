@@ -90,6 +90,7 @@ facility:0ebcabe4566417bd4b8b
 facility:0ecf2899d008c326770a
 facility:0eefa6c38c6fc785ef2e
 facility:0f17aeeac4b9771ce8b2
+facility:0f364cea2d575da5ae4b
 facility:0f8e64b76edb8115cdfd
 facility:0f8f531f7d1710a92077
 facility:0fb8d493a4ca21d9c073
@@ -182,6 +183,7 @@ facility:1c3a1ca856d38eb3310f
 facility:1c3b22ceafbf63d76dc1
 facility:1c3e048eebb2c0c76337
 facility:1c4ea90b48d7c4136c13
+facility:1c73cbba40a402bf0576
 facility:1c78189322c1d120184a
 facility:1ca558aea470d92c5359
 facility:1cb2664b06bb50fb6b2a
@@ -867,6 +869,7 @@ facility:89cb06e2c4ee1d2ba0ca
 facility:89f560cb37392da98801
 facility:8a048100b587aa8115ae
 facility:8a2651a38d7dda4860a1
+facility:8af16057689e83c075a6
 facility:8b0abacd592cc3c687b9
 facility:8b1c8b2d3d9c0ff666c9
 facility:8b3972f8402f75dfb11c
@@ -1459,6 +1462,7 @@ facility:e9d31ab0233c0b365d9c
 facility:e9fc4ec230269f786253
 facility:ea64e0d92ad7507297ae
 facility:ea82d6cdd48a8f7ec568
+facility:ea90a305ba01cfa30752
 facility:eb1854b6ac01821519f8
 facility:eb4716c1a09dd12c849c
 facility:eb6b3e70ba72be3cdcc0
@@ -1826,6 +1830,7 @@ title:0ba63c602e8554a95be6
 title:0bade200d5599bee87fb
 title:0bb0b1a6ef03470cb96a
 title:0bc2c970ab1d38ce17f5
+title:0c16abbe912e3702cb47
 title:0c2a4859782b347a120e
 title:0c2b7706e780306bd47e
 title:0c327285d603521e645c
@@ -1838,6 +1843,7 @@ title:0c4b22d5e10b4ab69f64
 title:0c4baf3d600818d6316e
 title:0c585f865260c27a488f
 title:0c60a564d92dae9840d2
+title:0c656a81e65a6cfb17fd
 title:0c72be5f31ff55bc361e
 title:0c7605d54ab610c2407e
 title:0c7a51a233c6f8a71923
@@ -2525,6 +2531,7 @@ title:283b576fcfe4d901fe3a
 title:283cf8b52ba6565c2180
 title:2843afbd80a9d543e888
 title:284a8d0c4b3b73e9bf09
+title:28562f1bb867f4719f23
 title:2859b211f5a442bea517
 title:28600ec24bc537191673
 title:287f1f3d45030d39d0f2
@@ -3233,6 +3240,7 @@ title:4545081f45c6e6f20375
 title:454c6d41db3341de8636
 title:45545ec0fa8b1df151e6
 title:4564edc7e40cdfe7b272
+title:456ef41be481ff56a80b
 title:457158cc21ee201782d1
 title:457dda2e627817738b68
 title:45827a6ce1c39e6b28e4
@@ -3297,6 +3305,7 @@ title:4798e35d7d527a4cc8be
 title:479ccae948ad89d7cfda
 title:47b8388f199cc254dc72
 title:47c3743a7fc5410984bc
+title:47c3818e09019d846003
 title:47cbe3fedc2d4770495e
 title:47d1a99e34c6dde654da
 title:47d25628158f7ff117ce
@@ -3798,6 +3807,7 @@ title:5c24d9eff88d247ecaad
 title:5c27b87fcde21883cb0f
 title:5c3eb2c8300dd07ba403
 title:5c3fb19231fef4d2cdc8
+title:5c58f724fbfc5ed1f5d4
 title:5c5a9422d5e8c4095a18
 title:5c5d7f8d0733f5bf283b
 title:5c70242ed403dad2d5fe
@@ -3913,6 +3923,7 @@ title:61391770ad77c2d12958
 title:614a51696c5523770a90
 title:614ea5344d8dd8bfe476
 title:61881abeefea21146927
+title:6196c77ebc84c247e165
 title:61a9e6b69ad1f6ccfdf7
 title:61b1032edf1c0b70cdbb
 title:61d522e335c10c03fa74
@@ -3950,6 +3961,7 @@ title:631bde974db9d4fd92f8
 title:632119014f1f64c940c2
 title:632e7461cb267ad0ed68
 title:635acc50dc2ea88e0129
+title:63783934a021eacb6f85
 title:6382216b9471ca77166e
 title:6390e9a52f10699f1d82
 title:6395f608e5bbea79f825
@@ -4415,6 +4427,7 @@ title:771ca6ad7aca6f2fbf9a
 title:771fd97a868bc683700d
 title:772eac2af160acb840e6
 title:77323281992535f12f15
+title:773d9985807153efaf8a
 title:774e94c9c8d4952fc97d
 title:775cfcdc3df915141a62
 title:7768d28a5d0581e7713b
@@ -4458,6 +4471,7 @@ title:78ed611aff16c6bcf0ed
 title:78f890341246dce0118f
 title:7906c05594e8ae9c43a4
 title:7907cb981bccd394fce6
+title:790cc1ff0df48b699865
 title:790de76eb1bec47726af
 title:791a38107f0cc704e2fe
 title:793e57fb11b25402c676
@@ -4791,6 +4805,7 @@ title:865b9e95ab3a84abe34d
 title:86652dac99f7941dd054
 title:86732a484dc93bda046d
 title:8673b964ca661880e50a
+title:868aa3b5e1cd8792d8e6
 title:868be9abadbf68f53940
 title:869a2cfd9fa7b40cb2fb
 title:869d87029dd54313dc36
@@ -6236,6 +6251,7 @@ title:be4004bd7084fd4a6c72
 title:be48e6b9517127a708f5
 title:be51298b85bccdef28b6
 title:be5d505d50cf77bb9575
+title:be70fc357f89cbcd012f
 title:be7f5536bf69d1474d9f
 title:be7f87b73b1063cb685e
 title:be83745c336ab31216c3
@@ -6415,6 +6431,7 @@ title:c58a4160e11bbea870a7
 title:c59334533d368b60198c
 title:c59d37651bf3753aff4a
 title:c5a7bd3789382ccaddc4
+title:c5affeaf436fb2ab3eaa
 title:c5c0c872fdf812a7fc4a
 title:c5cc50598a198c3b5a96
 title:c5d01c24567a4c999def
@@ -6494,9 +6511,11 @@ title:c90232fdb5b23dca6a00
 title:c90f23254c5081aa551f
 title:c915728a7e55aa41eac6
 title:c9160b9bc0abcb5d883b
+title:c91e1efc14f4e6aba756
 title:c9203612f6116eeef812
 title:c925dc3ec459aae71590
 title:c9265075f67cd561aac8
+title:c92d12112f06528d9393
 title:c937f8eefb7ce231e51d
 title:c93bdb82e09450168c89
 title:c94228dffbb536102e8d
@@ -7224,6 +7243,7 @@ title:e7d49ce831bcd5aab974
 title:e7e9cf6380288534a2ea
 title:e7f5df493f38cab28d2d
 title:e80871363bbfe3f92006
+title:e81dbc7ead829be298c8
 title:e81e636d9aee318352b1
 title:e83843a4edc4e27cbd23
 title:e85920370e21858ed1a9
@@ -7918,6 +7938,7 @@ topic:0eefa6c38c6fc785ef2e
 topic:0ef20fc188a14de7b3a8
 topic:0f04d94a52ce4b6abef2
 topic:0f17aeeac4b9771ce8b2
+topic:0f364cea2d575da5ae4b
 topic:0f3acf47dbcc91a2f163
 topic:0f8e64b76edb8115cdfd
 topic:0f8f531f7d1710a92077
@@ -8030,6 +8051,7 @@ topic:1c3b22ceafbf63d76dc1
 topic:1c3e048eebb2c0c76337
 topic:1c4ea90b48d7c4136c13
 topic:1c6a0b9a031af229b6c3
+topic:1c73cbba40a402bf0576
 topic:1c78189322c1d120184a
 topic:1c7987b5976ac61c18d9
 topic:1ca558aea470d92c5359
@@ -8905,6 +8927,7 @@ topic:8a048100b587aa8115ae
 topic:8a2651a38d7dda4860a1
 topic:8a592afb830a8f28b117
 topic:8a86aebdff1420a2adc5
+topic:8af16057689e83c075a6
 topic:8b0abacd592cc3c687b9
 topic:8b0b01063a80d8c3e5fd
 topic:8b1c8b2d3d9c0ff666c9
@@ -9046,6 +9069,7 @@ topic:9be2e1f5d345d0cc8a1f
 topic:9c10ddb0a0b4cf38d37a
 topic:9c2d51fa93f5c553f919
 topic:9c4ea132fdc0deb22e30
+topic:9c62b47d997f9adeb710
 topic:9c73c1304faa1b1c9c6c
 topic:9ca18367a17a4b520c75
 topic:9cb94d5f6d89f934856e
@@ -9449,6 +9473,7 @@ topic:ca40b86fcdea95390704
 topic:ca51167d7e06651a303e
 topic:ca80232ca236dfcf8d10
 topic:ca98284e0efac0420817
+topic:cad15fa0423526d7c76c
 topic:cafea7c07c4a9f738bac
 topic:cb11e20569da72199344
 topic:cb30d25488e811d76a92
@@ -9689,6 +9714,7 @@ topic:e9fc4ec230269f786253
 topic:ea64e0d92ad7507297ae
 topic:ea82d6cdd48a8f7ec568
 topic:ea858b58a4a79107398b
+topic:ea90a305ba01cfa30752
 topic:ead96e5feb16176bf72b
 topic:eb1854b6ac01821519f8
 topic:eb4716c1a09dd12c849c
@@ -9704,6 +9730,7 @@ topic:ecfd0cefba97724d8b14
 topic:ed06dfacd449d44a962c
 topic:ed1dded85f3b3baf5918
 topic:ed1e2115850ffc5051e8
+topic:ed73acf9c8d176a77ffb
 topic:ed90fc35cae6c0ced1e8
 topic:ed9174959531ee06695b
 topic:edc6dc196f0ab5cc8b21
@@ -9902,6 +9929,7 @@ url:ampmedia.jp/2026/10/08/tomaruhotel/
 url:article.auone.jp/09606bd0-98cf-4d66-8aa0-0afade78fe4b
 url:article.auone.jp/27043c5d-2c3a-4e78-a6ea-4b2b8d721732
 url:article.auone.jp/3278584c-1836-4778-864f-0cce4788887f
+url:article.auone.jp/37323fe2-8669-4423-b7ce-150995c31280
 url:article.auone.jp/4744533b-442d-48bc-bbdf-2563f93e8cb0
 url:article.auone.jp/53b72b53-8b66-41f0-846f-297efb73a9e0
 url:article.auone.jp/55dcd705-13a8-40c5-89e3-ea0a256e19dc
@@ -10085,6 +10113,7 @@ url:digital.kentsu.co.jp/articles/artcl_rglr/01M3K4W0NSY380J6AD6K9D61BS
 url:digital.kentsu.co.jp/articles/artcl_rglr/01M44ZBF0ZFVVEY60DHSVMVHKR
 url:digital.kentsu.co.jp/articles/artcl_rglr/01M4EZXRKBBXDF0DSQ6C0CT8DT
 url:digital.kentsu.co.jp/articles/artcl_rglr/01M4SDESX04CXS27MRYGGFDC9K
+url:digital.kentsu.co.jp/articles/artcl_rglr/01M59VCV2095W11C46JQ5H8K7M
 url:digitalpr.jp/r/137325
 url:digitalpr.jp/r/140962
 url:dime.jp/genre/2146115/
@@ -10711,6 +10740,7 @@ url:japan.focustaiwan.tw/travel/202608030006
 url:japan.storm.mg/articles/1156833
 url:japan.storm.mg/articles/1168819
 url:japan.storm.mg/articles/1169106
+url:japan.storm.mg/articles/1173493
 url:jbpress.ismedia.jp/articles/-/96576?page=
 url:joshi-spa.jp/1421976
 url:joshi-spa.jp/1430597
@@ -10938,6 +10968,7 @@ url:media.unisba.ac.id/e51d287b/14961c7cMgISPiZaRyI6Nlo/?share=
 url:media.unisba.ac.id/eae0446a/6dfa6fe2KToDE1deIisuEAk
 url:media.unisba.ac.id/fd9546b9/af457d66BxI2ACp0ETsZH1I
 url:merkmal-biz.jp/post/121389
+url:merkmal-biz.jp/post/124124
 url:mezha.net/jp/news/96ff9bf6_new_york_and/
 url:mezha.net/jp/news/c07b51d9_us_immigration_arrests/
 url:mezha.net/jp/news/d90cfb51_ukraine-s_central_bank/
@@ -11875,6 +11906,7 @@ url:news.yahoo.co.jp/articles/331f91e1a429e261ce3663f969449c6350952f32?source=
 url:news.yahoo.co.jp/articles/3367489ecbcefba6aee934114069655e76b5c11b
 url:news.yahoo.co.jp/articles/3382a09bcb4d66a6a7ce3e3ed1a4092dc4daa65a
 url:news.yahoo.co.jp/articles/33990b226293ccfa7a7e150d16b2a31b60e66601?source=rss
+url:news.yahoo.co.jp/articles/33b877fd96cfbf863647b6b8f7b795ba3a460568
 url:news.yahoo.co.jp/articles/3401cc02376803ce76cc4762c80cb969fc55fd18?source=rss
 url:news.yahoo.co.jp/articles/34f4992720794e6f7d5638ece53c57352a75373f
 url:news.yahoo.co.jp/articles/353418dca02c19de3e4f6f12d6d8a4db8a73bd50
@@ -11917,6 +11949,8 @@ url:news.yahoo.co.jp/articles/40a6161bd7be39dcd9cf1095f7c6e5f48f2b2f53
 url:news.yahoo.co.jp/articles/40abce492d04a100f4d7ae05d2c6230d3236414f?source=rss
 url:news.yahoo.co.jp/articles/40c6a5e1a4b84edd7a36cb1f012b972565eead47?source=rss
 url:news.yahoo.co.jp/articles/40cec76967b70af562b3447b71345d33eafa47ad
+url:news.yahoo.co.jp/articles/40dadf9c0a9a8681350b615efd4eaef38dcf7feb
+url:news.yahoo.co.jp/articles/40dadf9c0a9a8681350b615efd4eaef38dcf7feb?page=
 url:news.yahoo.co.jp/articles/40dfd104839948dabe6c69e9640f5d46a0de2f92?source=rss
 url:news.yahoo.co.jp/articles/40e58a36b2559d76845fd69aa58da1a46d42aa31
 url:news.yahoo.co.jp/articles/40fd108ef1ba5ebd0095bf63ab772d7e15651747
@@ -12355,6 +12389,7 @@ url:news.yahoo.co.jp/articles/bd347308cbcc16b0b33a78e96d7d745509102620
 url:news.yahoo.co.jp/articles/bd3669c68f374b7965f963a85fcf1dea2b4c5210
 url:news.yahoo.co.jp/articles/bd737296d3d0a2e3897e3e40c57d6e89fe30b15f?source=rss
 url:news.yahoo.co.jp/articles/bd9c1cdb5eb87d6f39454ea11161f3f0de6d1ebe
+url:news.yahoo.co.jp/articles/bdfbadb2f0e312ca97599055a5d73d4f8be6d25a?source=rss
 url:news.yahoo.co.jp/articles/be74b82c85e5fe8936568cfe9b78596e70bd5c42
 url:news.yahoo.co.jp/articles/bfc8e53db0dfb1b1309353236843244cc7249b67
 url:news.yahoo.co.jp/articles/bfed930928bcd4679f07504fe93d18ff728468e9?source=rss
@@ -12763,6 +12798,7 @@ url:prtimes.jp/main/html/rd/p/000000003.000164099.html
 url:prtimes.jp/main/html/rd/p/000000003.000165131.html
 url:prtimes.jp/main/html/rd/p/000000003.000167884.html
 url:prtimes.jp/main/html/rd/p/000000003.000176141.html
+url:prtimes.jp/main/html/rd/p/000000003.000187162.html
 url:prtimes.jp/main/html/rd/p/000000003.000188873.html
 url:prtimes.jp/main/html/rd/p/000000003.000189821.html
 url:prtimes.jp/main/html/rd/p/000000004.000175126.html
@@ -12795,6 +12831,7 @@ url:prtimes.jp/main/html/rd/p/000000009.000177539.html
 url:prtimes.jp/main/html/rd/p/000000009.000183380.html
 url:prtimes.jp/main/html/rd/p/000000010.000044852.html
 url:prtimes.jp/main/html/rd/p/000000010.000049863.html
+url:prtimes.jp/main/html/rd/p/000000010.000110054.html
 url:prtimes.jp/main/html/rd/p/000000010.000146378.html
 url:prtimes.jp/main/html/rd/p/000000010.000162744.html
 url:prtimes.jp/main/html/rd/p/000000011.000032884.html
@@ -13104,6 +13141,7 @@ url:prtimes.jp/main/html/rd/p/000000761.000018653.html
 url:prtimes.jp/main/html/rd/p/000000771.000036445.html
 url:prtimes.jp/main/html/rd/p/000000772.000052784.html
 url:prtimes.jp/main/html/rd/p/000000796.000032901.html
+url:prtimes.jp/main/html/rd/p/000000809.000052784.html
 url:prtimes.jp/main/html/rd/p/000000813.000010391.html
 url:prtimes.jp/main/html/rd/p/000000829.000010391.html
 url:prtimes.jp/main/html/rd/p/000000859.000018265.html
@@ -14171,6 +14209,7 @@ url:www.chiba-tv.com/plus/detail/2026102107676
 url:www.chiba-tv.com/plus/detail/2026102109461
 url:www.chiba-tv.com/plus/detail/2026102114352
 url:www.chiba-tv.com/plus/detail/2026102118956
+url:www.chiba-tv.com/plus/detail/2026102134239
 url:www.chiba-tv.com/plus/detail/amp/2026061745568
 url:www.chiba-tv.com/plus/detail/amp/2026061751967
 url:www.chiba-tv.com/plus/detail/amp/2026061756285
@@ -15086,6 +15125,7 @@ url:www.kobe-np.co.jp/news/zenkoku/compact/202607/0020558544.shtml
 url:www.kobe-np.co.jp/news/zenkoku/compact/202607/0020565826.shtml?obOrigUrl=
 url:www.kobe-np.co.jp/news/zenkoku/compact/202609/0020828771.shtml
 url:www.kobe-np.co.jp/news/zenkoku/compact/202610/0020910620.shtml
+url:www.kobe-np.co.jp/news/zenkoku/compact/202610/0020947865.shtml
 url:www.kobe-np.co.jp/news/zenkoku/core/202607/0020565825.shtml
 url:www.kobe-np.co.jp/news/zenkoku/core/202608/0020718287.shtml
 url:www.kobe-np.co.jp/news/zenkoku/core/202609/0020806943.shtml
@@ -15426,6 +15466,7 @@ url:www.oita-press.co.jp/1010000000/2026/06/25/JDC2026062502018
 url:www.oita-press.co.jp/1010000000/2026/08/22/JDC2026071300728
 url:www.oita-press.co.jp/1010000000/2026/09/16/JDC2026091002931
 url:www.oita-press.co.jp/1010000000/2026/09/25/JDC2026092502317
+url:www.oita-press.co.jp/1010000000/2026/10/19/JDC2026101901094
 url:www.okinawatimes.co.jp/articles/-/1863963
 url:www.okinawatimes.co.jp/articles/-/1865215
 url:www.okinawatimes.co.jp/articles/-/1865482
@@ -15927,6 +15968,7 @@ url:www.travelvoice.jp/20261015-160676
 url:www.travelvoice.jp/20261015-160680
 url:www.travelvoice.jp/20261016-160688
 url:www.travelvoice.jp/20261020-160672
+url:www.travelvoice.jp/20261020-160702
 url:www.travelvoice.jp/tenders/1411
 url:www.travelvoice.jp/tenders/1420
 url:www.travelvoice.jp/tenders/1431
@@ -16093,6 +16135,7 @@ url:youpouch.com/2026/10/03/1392722/
 url:youtu.be/7H4_G1bXQoo?si=
 url:youtu.be/IV3YNraI4Bw
 url:youtu.be/_GnYBKEvDJo
+url:youtu.be/jLYu_PrFdFk?si=
 url:yutosoken.com/wp/2026/06/01/crowneplaza-chiryu/
 url:yutosoken.com/wp/2026/06/16/heiwa-net-7/
 url:yutosoken.com/wp/2026/07/01/nishiizu-meguri/

@@ -618,6 +618,7 @@ facility:5d50f8d3a1309cbc231b
 facility:5d6c0a94dcdb80ac8513
 facility:5dc6e7953626399d34b5
 facility:5e4ea04fb4a505e6109f
+facility:5e8d921175e7b89f8616
 facility:5f16991c93b94871bd09
 facility:5f1fc7601cb75c6af23a
 facility:5f31b7a397a42304e742
@@ -1575,6 +1576,7 @@ facility:f6c0aa931a587467680a
 facility:f7041f9d8a984c718225
 facility:f733a85cef78891de9e1
 facility:f73dd34a7d375770bee3
+facility:f75bd88196277b27e319
 facility:f7753149bf171664a44d
 facility:f789512ac2d9ca4d391f
 facility:f7be63860c0728b4e37e
@@ -2156,6 +2158,7 @@ title:1600ed44f710d6c32262
 title:160482c65fb84d92f33c
 title:161ae2f991fe00988c09
 title:161ef8e10b62b2f2b038
+title:1621a73b5320d563bbf2
 title:1651f924a25a9ebdfa1b
 title:1653895da71db43ce12b
 title:1656baf22c97beb44d51
@@ -2596,6 +2599,7 @@ title:27dcc42cd49551f33af7
 title:27dcca0b99bdf904494d
 title:27fac399d073266478d6
 title:27ff30e7d7d8b770bb38
+title:281ce5ad87e01d3bc169
 title:281e35e62187773f7e1c
 title:282f5c3306bd06933db9
 title:283620a761fe5acfff3a
@@ -3141,6 +3145,7 @@ title:3dfccb4786597293c9d9
 title:3e18a6aed405253c37b1
 title:3e1a9d1cbaa5286582e4
 title:3e28af9b2d2d98529143
+title:3e2e891d18fd092d8c7a
 title:3e39f6885d1472f0e648
 title:3e5e347b686f4ca8b1f4
 title:3e63f3f461284f6b34a5
@@ -3469,6 +3474,7 @@ title:4ac3c23ab9be64333046
 title:4ac5dcd3869162ac6ea0
 title:4acb248a8e650e0bf611
 title:4ae126225f270650acbf
+title:4ae23f4475b05becaa49
 title:4aefb8d641ab42741228
 title:4af30c82c2a0f093a742
 title:4af329089f01f70c0957
@@ -3595,6 +3601,7 @@ title:4ff661fd840afaf2c1aa
 title:4ff8b64653d5d33c4629
 title:50192a3a4c953c8c5041
 title:50225b7b53a3ac47f28c
+title:5022999c740c59c28ad5
 title:502306bec3eaff261730
 title:5026a63b3fb7cfd6d9e3
 title:5028a6f3d8b364ea6cf7
@@ -4132,6 +4139,7 @@ title:6604481b005bc3713863
 title:6626b1ddf1f69add4490
 title:662f444e43aa848d0627
 title:665ad21036af8be15ced
+title:666d2bb9a1015ae1c5c8
 title:6676586c4384bd58fae2
 title:667d8fc4d3d2710a26e5
 title:66891b8c005715aef54c
@@ -4370,6 +4378,7 @@ title:6f66decdb60c50db7dde
 title:6f6727b2d2b7c7243567
 title:6f995bf0690689cb92e1
 title:6f9b3514aacb88552d6b
+title:6fa438bdbec1840bb317
 title:6faf9950f9e87ea6e048
 title:6fb4c3c0a41ea75e605a
 title:6fba9df7416a20eefccb
@@ -4510,6 +4519,7 @@ title:756ecc74c39925731a17
 title:757859637d977deb96e3
 title:75811b9883185c9a1be8
 title:75903ce10e796576c940
+title:759095059a9ebc717afd
 title:759e7a1674f44d1c3219
 title:75a6cd77a3e509b4b0b7
 title:75b51ed3596f369a352f
@@ -5006,6 +5016,7 @@ title:8873297ababef1c5fc14
 title:887c36a331c02789bdc1
 title:88898d3ac6b49d85347b
 title:888a5beb2c1cbfbe74f4
+title:889541fe7c29bea439ef
 title:88b1e4c9aaa306b624bc
 title:88b1e7758f5873ba2407
 title:88b78d52576bfda664fd
@@ -5076,6 +5087,7 @@ title:8ae5068d243959e95a72
 title:8af17857090aeda71013
 title:8b065ac8a3698a5e276b
 title:8b09a8e7ea2479cc7399
+title:8b27255a74e9bdf0092c
 title:8b2dadca1fdde49fafa5
 title:8b31c36598880ccb0971
 title:8b3700940bdb135f2c1e
@@ -5315,6 +5327,7 @@ title:9345e3562fdb4c892cec
 title:9345fa58ed16a220fba8
 title:93473b0eb17851b26176
 title:937350f97b078342a326
+title:93820c3d6dd8e10bd70a
 title:938950295478503c57e5
 title:938dfe399e5ff8638df2
 title:93931f997f0fc8834ff1
@@ -5335,6 +5348,7 @@ title:9429f7039ad010dfa06b
 title:942e6d705711add525e6
 title:94655082dc75b01960bf
 title:946c642849de4e5299a0
+title:946c870c512a1e30cf4a
 title:947431e9bc439a38ddc9
 title:9476319e12f665793c25
 title:947e45c6ce13a534771b
@@ -5864,6 +5878,7 @@ title:a89b9afdea3bdba59583
 title:a89ce97a1261d8b1bd4d
 title:a89efb9ea7189609ed3b
 title:a8a0259247f5f86c876c
+title:a8a58f14723d52b51288
 title:a8ab03f33c3f5bdb4dfd
 title:a8b8a53df1f0c9c3bb1c
 title:a8c402f7a0d2ab2dd1ac
@@ -6181,6 +6196,7 @@ title:b4bc36315f4b1434593e
 title:b4c8849ce1e46c1a9def
 title:b4cc20f74d465c5bc0b3
 title:b4e8009a412889887fd1
+title:b4f245e2b0bff069a3a7
 title:b4fa22796dcfdeaf5bb2
 title:b5076d62a01531ca2fa9
 title:b512dccab8da9bf3801d
@@ -6325,6 +6341,7 @@ title:ba296f3f0518883e37d9
 title:ba29fd0a17b296c7a248
 title:ba2b3534be40bc942f31
 title:ba2f9d7a9b343c9b6cfc
+title:ba33a8069ae854101c55
 title:ba3a1dde6b89831f7564
 title:ba4ebaf235e996ca7fed
 title:ba4facba919301d6bc92
@@ -6725,6 +6742,7 @@ title:c9a1de463b59f16fd35a
 title:c9a877cc3bb6fafb054b
 title:c9baf3aaa2f6d2dbc630
 title:c9be572ecbec6901b8be
+title:c9c2a93177f2f54ebc93
 title:c9c9e7ca0c7bed6bd4fe
 title:c9e3a65174ec78d49c63
 title:c9efca2068628e63ec75
@@ -7099,6 +7117,7 @@ title:d9ca9e4bc9bb4692a651
 title:d9cb28cae929537d27c2
 title:d9cbd243bf3d0bb7aaf7
 title:d9cf43f7c38146dc3c5d
+title:d9d75f9cb9e6bd92456a
 title:d9dbde18b5326a62866d
 title:d9e0698897493c9f606e
 title:d9e62a82a54803d386fc
@@ -7120,6 +7139,7 @@ title:da5cd66bdcf39b5cdeb7
 title:da8aac98f9d7ab711df1
 title:da91a8cb0fe779cecba7
 title:da929f89c568f57e6cba
+title:da98f4b59ec3227979a4
 title:da9b6deb86652eb844b6
 title:da9b807d5910fc8d4c8b
 title:da9bfc16bbaa994cbfc0
@@ -7232,6 +7252,7 @@ title:df7a8101f372ca52e625
 title:df8cda614e8f9528fdfd
 title:df95378232de33206ef5
 title:df97363fc8236ff53aff
+title:dfae0e731378cb02bb7a
 title:dfbcc34d28c27804e29a
 title:dfbdc1b779c78b8e604a
 title:dfc7647311a210f7c689
@@ -7984,6 +8005,7 @@ title:fdb109ae2acf8b48fb88
 title:fdc174ab870f237bf640
 title:fdc26537b3b5425e9d77
 title:fdc524585343b595eb45
+title:fde786fdbf2ec9d812a0
 title:fdf04e1d7a4db3febe32
 title:fe0065699c233260ca50
 title:fe07a54173999bf8217f
@@ -8592,6 +8614,7 @@ topic:437218d3647303c6d25e
 topic:437a712a127e54b1295d
 topic:439bfbd2e4b40298d243
 topic:43a9b6163d93c59b53f1
+topic:43c95e93b72e5fa2cddb
 topic:43e9175b634534b709b7
 topic:4406a61276b4ed9e5ae1
 topic:4468f4329a0d8c17e007
@@ -8624,6 +8647,7 @@ topic:47dd85f9680a369aaa98
 topic:480f8cb7aa7948e3f6a6
 topic:481424699a2991f28108
 topic:481e261becb82ff544bc
+topic:4837019129cc88676d3e
 topic:484efac4d4397b63cc46
 topic:48760ae382326e16d46f
 topic:488014f4f3f7137bc55a
@@ -8821,6 +8845,7 @@ topic:5dd0935787e0a1a7d3bb
 topic:5e04dd02ad9517ca3cda
 topic:5e4a339c01180a171d0a
 topic:5e4ea04fb4a505e6109f
+topic:5e8d921175e7b89f8616
 topic:5eca0666c0b0ab892864
 topic:5ecf8b4e8f934f4601e1
 topic:5f16991c93b94871bd09
@@ -9973,6 +9998,7 @@ topic:e752b38a4623bcfeb672
 topic:e7c9a304eb63aac43713
 topic:e7d42956fa9706cb8fdd
 topic:e8124330eac57e6137e7
+topic:e813c4b0c4abaae71061
 topic:e82ed2a85cac181f6c5e
 topic:e8383c77adc5122f952d
 topic:e857a4593035bd224163
@@ -10092,6 +10118,7 @@ topic:f7041f9d8a984c718225
 topic:f733a85cef78891de9e1
 topic:f73dd34a7d375770bee3
 topic:f74b3673f95b0b69840e
+topic:f75bd88196277b27e319
 topic:f7753149bf171664a44d
 topic:f7834b87734af1bb77dd
 topic:f789512ac2d9ca4d391f
@@ -10215,6 +10242,7 @@ url:article.auone.jp/37323fe2-8669-4423-b7ce-150995c31280
 url:article.auone.jp/4744533b-442d-48bc-bbdf-2563f93e8cb0
 url:article.auone.jp/53b72b53-8b66-41f0-846f-297efb73a9e0
 url:article.auone.jp/55dcd705-13a8-40c5-89e3-ea0a256e19dc
+url:article.auone.jp/7163e242-10b0-49b3-85e9-1d750aa6c53c
 url:article.auone.jp/7d876216-fea6-4971-9260-0698fbff1b68
 url:article.auone.jp/867dc7d5-db6c-4361-8eb6-2ab11384c618
 url:article.auone.jp/92790301-7985-4e65-95dc-be35f7d1a934
@@ -11010,6 +11038,7 @@ url:hotkochi.co.jp/gourmet/lunch/124008/
 url:hre-net.com/keizai/kanko/92918/
 url:hre-net.com/keizai/kanko/92998/
 url:hre-net.com/keizai/kanko/95326/
+url:hre-net.com/keizai/kanko/95431/
 url:hre-net.com/real_estate/94333/
 url:hre-net.com/real_estate/94416/
 url:hre-net.com/real_estate/94680/
@@ -11131,8 +11160,10 @@ url:lodgingmagazine.com/access-point-financial-shares-findings-from-its-state-of
 url:lodgingmagazine.com/ai-hospitality-alliance-and-hedna-launch-ai-use-case-catalogue/
 url:lodgingmagazine.com/ai-hospitality-alliance-publishes-ai-governance-framework/
 url:lodgingmagazine.com/aimbridge-hospitality-assumes-management-of-10-hotel-portfolio/
+url:lodgingmagazine.com/amerilodge-group-announces-opening-of-holiday-inn-express-suites-kalamazoo-east/
 url:lodgingmagazine.com/aperture-hotels-acquires-the-ellis-and-announces-planned-conversion/
 url:lodgingmagazine.com/atlanta-marriott-peachtree-completes-renovation/
+url:lodgingmagazine.com/avatar-hotel-announces-opening-of-new-restaurant/
 url:lodgingmagazine.com/avendra-expands-its-culinary-innovation-group/
 url:lodgingmagazine.com/azul-hospitality-group-announces-conversion-of-sheraton-carlsbad-resort-spa-to-hotel-solea-autograph-collection/
 url:lodgingmagazine.com/beyond-the-pipeline-inside-hospitality-educations-new-rd-revolution/
@@ -11349,7 +11380,9 @@ url:news.at-s.com/article/2031095
 url:news.at-s.com/article/2038934
 url:news.at-s.com/article/2060569
 url:news.careerconnection.jp/lifestyle/254462/
+url:news.dellows.jp/140853/?from=
 url:news.dellows.jp/638678/?from=
+url:news.dellows.jp/725371/?from=
 url:news.dellows.jp/743468/?from=
 url:news.dellows.jp/756247/?from=
 url:news.google.com/rss/articles/CBMiREFVX3lxTE1EZURsNTlkYWNpVzgyT1JMNm9rQ25Fb3UtRUE3SGtScjZpc3Vma3FlbjVTcWVOWnd5eFVpalo3bkNjekpE?oc=5
@@ -12092,6 +12125,7 @@ url:news.yahoo.co.jp/articles/0a3306eaae714fc571d00334c2a6d6e7f1cab703
 url:news.yahoo.co.jp/articles/0aa7f7f5883603fc5ad322357a9551eadd3548ef
 url:news.yahoo.co.jp/articles/0ac7db4f66709d633cee6a7e28428e2c2d48c8e8
 url:news.yahoo.co.jp/articles/0b07cd351ce946e1975a60e60441f510a8815424?source=rss
+url:news.yahoo.co.jp/articles/0b0a7673c1f8b15bc733553dcee655ccde3fecc3
 url:news.yahoo.co.jp/articles/0b135a8722f786e04cb166d4e5a4c0f2baa51d3e?source=rss
 url:news.yahoo.co.jp/articles/0b22212eb4bba61370c15087e5655d2c8645f1ba
 url:news.yahoo.co.jp/articles/0b3a9578d1a24b61c8f41e0ae99aa491e9ba1692
@@ -12975,6 +13009,7 @@ url:news.yahoo.co.jp/articles/ffc5439bcc00f2a62a95e95a9fa483312c1e156c
 url:news.yahoo.co.jp/articles/fff92e91dcfff581512e2200fe82d74160c4b602
 url:news.yahoo.co.jp/expert/articles/0272fcfee4c6e5d090b02824b89060127df63303
 url:news.yahoo.co.jp/expert/articles/49d663267c432a5f2ce5938f4f89ec72623de5c9
+url:news.yahoo.co.jp/expert/articles/4af09b171771f069e84f4fa51475e29f5a82cf7f
 url:news.yahoo.co.jp/expert/articles/5cf115879d29d8a83a45bb27074ad8f88280a457
 url:news.yahoo.co.jp/expert/articles/6bbeb7b157ed9d2d91e01122aa1b9751efa8bd95
 url:news.yahoo.co.jp/expert/articles/6cd177bfc9d362cf2dcbfd275dc83bf151ae304b
@@ -13274,6 +13309,7 @@ url:prtimes.jp/main/html/rd/p/000000040.000057642.html
 url:prtimes.jp/main/html/rd/p/000000040.000090948.html
 url:prtimes.jp/main/html/rd/p/000000040.000140757.html
 url:prtimes.jp/main/html/rd/p/000000040.000151784.html
+url:prtimes.jp/main/html/rd/p/000000041.000025107.html
 url:prtimes.jp/main/html/rd/p/000000041.000145111.html
 url:prtimes.jp/main/html/rd/p/000000042.000139668.html
 url:prtimes.jp/main/html/rd/p/000000042.000140757.html
@@ -13790,6 +13826,7 @@ url:skift.com/2026/10/19/vacation-ownership-experience-platform/
 url:skift.com/2026/10/20/hospitality-has-a-water-issue/
 url:skift.com/2026/10/21/yotel-plans-upscale-brand-and-yotelair-in-city-centers-as-it-targets-100-hotels-exclusive/
 url:skift.com/2026/10/22/ihg-says-its-winning-hotels-from-rival-brands/
+url:skift.com/2026/10/23/who-owns-a-travelers-connectivity-airlines-hotels-and-platforms-share-the-responsibility/
 url:sky-budget.com/2026/08/27/narita-airport-news-aug2026-3/
 url:sky-budget.com/2026/08/31/delta-airlines-news-aug2026/
 url:sky-budget.com/2026/09/01/sep2026-schedule-jpn/
@@ -14195,6 +14232,7 @@ url:voix.jp/business-cards/miyazaki-revival-project-school-inn/
 url:voix.jp/credit-cards/hotel-guest-retention-package/
 url:voix.jp/mobile/hacomono-expands-vacant-houses/
 url:voix.jp/money/card/33478/
+url:voix.jp/money/real-estate/34254/
 url:voix.jp/sdgs/sdgs/87272/
 url:wakayamashimpo.co.jp/2026/06/20260618_138604.html
 url:web.fisco.jp/FiscoPFApl/NewsDetailWeb?nwsId=
@@ -14642,6 +14680,7 @@ url:www.chiba-tv.com/plus/detail/amp/2026102127423
 url:www.chiba-tv.com/plus/detail/amp/2026102132919
 url:www.chibanippo.co.jp/articles/1656139
 url:www.chibanippo.co.jp/articles/1681815
+url:www.chibanippo.co.jp/articles/1682840
 url:www.chibanippo.co.jp/articles/834424
 url:www.chibanippo.co.jp/prtimes/1628932
 url:www.chibanippo.co.jp/prtimes/1649080
@@ -15221,6 +15260,10 @@ url:www.hospitalitynet.org/news/4135026/leonardo-hotels-bolsters-its-presence-in
 url:www.hospitalitynet.org/news/4135042/pan-pacific-hotels-group-continues-version-20-momentum
 url:www.hospitalitynet.org/news/4135047/btg-hotels-and-kempinski-group-hold-high-level-talks-to-deepen-strategic-partnership-and-foster-mutual-growth
 url:www.hospitalitynet.org/news/4135057/dailypoint-launches-free-and-anonymous-ai-readiness-check-for-hotels
+url:www.hospitalitynet.org/news/4135062/hijiffy-launches-email-copilot-ai-that-drafts-hotel-email-replies
+url:www.hospitalitynet.org/news/4135063/beyond-green-expands-its-global-portfolio-with-new-members-in-costa-rica-and-spain
+url:www.hospitalitynet.org/news/4135065/artotel-group-strengthens-its-presence-in-central-java-through-the-management-of-ramada-by-wyndham-yogyakarta-and-wyndham-garden-yogyakarta-conference-hotel-action-park
+url:www.hospitalitynet.org/news/4135076/celebrating-hospitality-excellence-2026-guestrevu-great-awards-europe-america-apac-winners-announced
 url:www.hospitalitynet.org/opinion/4132458/the-role-of-operational-luxury-in-hospitality
 url:www.hospitalitynet.org/opinion/4132482/azuma-brand-launch-signals-larger-hotel-category-trends
 url:www.hospitalitynet.org/opinion/4132494/five-trends-every-hotel-leader-needs-to-watch-in-2026
@@ -15540,6 +15583,7 @@ url:www.kensetsunews.com/archives/1298863
 url:www.kensetsunews.com/archives/1299317
 url:www.kensetsunews.com/archives/1299435
 url:www.kensetsunews.com/archives/1299474
+url:www.kensetsunews.com/archives/1299777
 url:www.kensetsunews.com/single?news_code=
 url:www.kensetsunews.com/sokuho/1261230
 url:www.kensetsunews.com/sokuho/1269523
@@ -15822,6 +15866,7 @@ url:www.nikkei.com/article/DGXZQOUC189UB0Y6A610C2000000/
 url:www.nikkei.com/article/DGXZQOUF0277B0S6A900C2000000/
 url:www.nikkei.com/article/DGXZQOUF111G30R10C26A5000000/
 url:www.nikkei.com/article/DGXZQOUF1280M0S6A610C2000000/
+url:www.nikkei.com/article/DGXZQOUF237CJ0T21C26A0000000/
 url:www.nikkei.com/article/DGXZQOUF2455E0U6A920C2000000/
 url:www.nikkei.com/article/DGXZQOUF25AEU0V20C26A6000000/
 url:www.nikkei.com/nkd/disclosure/tdnr/20260612568999/
@@ -16046,6 +16091,7 @@ url:www.saga-s.co.jp/articles/-/1772919
 url:www.saga-s.co.jp/articles/-/1795377
 url:www.sakigake.jp/news/article/20260624AK0007/?nv=
 url:www.sakigake.jp/news/article/20260930PR0020/
+url:www.sakuranbo.co.jp/news/2026/10/23/2026102300000005.html
 url:www.sangyo-rodo.metro.tokyo.lg.jp/tourism/kakusyu/shoryokuka
 url:www.sanin-chuo.co.jp/articles/-/1018712
 url:www.sanin-chuo.co.jp/articles/-/1028156
@@ -16150,6 +16196,7 @@ url:www.sanyonews.jp/article/2003133?kw=
 url:www.sanyonews.jp/article/2003133?rct=
 url:www.sanyonews.jp/article/2005506?rct=
 url:www.sanyonews.jp/article/2006840?kw=
+url:www.sbigroup.co.jp/news/pr/2026/1023_16676.html
 url:www.setsunan.ac.jp/news/detail/8627
 url:www.shibukei.com/headline/20025/
 url:www.shibukei.com/headline/20031/

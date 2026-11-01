@@ -437,6 +437,7 @@ facility:2f1e51254ffee9545bf6
 facility:2f21f8cdf1274cebd75f
 facility:2f53c0de6aec05b96675
 facility:2f6a4cf1cd290f4fc398
+facility:2f78982ad5deb6d9a1bf
 facility:2f893429d5024a0cefcb
 facility:2f9f1606a6272c8accae
 facility:2fcbd135977630a10e69
@@ -1588,6 +1589,7 @@ facility:a7ed5b37c2745ab297c0
 facility:a7f81424b91fd56e8e0c
 facility:a7f99dac6e852470f601
 facility:a80d29ae17d313850093
+facility:a81095d87196741c22a6
 facility:a82c96283d06134c33e1
 facility:a86b6f0990134b932a41
 facility:a89549f54f54ec4f519a
@@ -1617,6 +1619,7 @@ facility:aa08d566178c2167dce4
 facility:aa221219c04d17b92721
 facility:aa352dcd568163d94b4e
 facility:aa555d7da1261a0454e3
+facility:aa7b43a3285a44925902
 facility:aa9159bdff19b7696e70
 facility:aaadb9fb93046c4b7bbe
 facility:aabe398dc8ccbe19fd79
@@ -2203,6 +2206,7 @@ facility:e71b2d4ae2e452f24d33
 facility:e72b0c240d5be909a52d
 facility:e73ad02820254315884b
 facility:e752b38a4623bcfeb672
+facility:e7a86a72ce2064fa3bbe
 facility:e7c9a304eb63aac43713
 facility:e7cc90a152678db7f8c1
 facility:e7d42956fa9706cb8fdd
@@ -4214,6 +4218,7 @@ title:2d3c9dbdd58836f621b0
 title:2d439c77df29130de446
 title:2d4fec4c5dc63dc6dbdc
 title:2d53276ce40f0f9d64aa
+title:2d5b953acaaf85978369
 title:2d640e76a6ed9252a64e
 title:2d6a10f9b5bbc25f7fc5
 title:2d71095df13ab8df977c
@@ -6560,6 +6565,7 @@ title:684b875d450cdcc87698
 title:684e8efb522d5be96f52
 title:6854052151a7aa1f1e29
 title:686243cfeb72db295904
+title:6863c12a1ebf5a54a687
 title:686501640eef887f2ba1
 title:68683af75e5b5c38acb1
 title:6868e3b9671db9768647
@@ -7821,6 +7827,7 @@ title:8745be14beb09119e438
 title:87478d9099868ae9a3d7
 title:8747bb738d6d05728abe
 title:874d8dc663c18a97761d
+title:874e8243fe7689ce25f2
 title:874fc96977836cefab3e
 title:8750907b6aebc6f933d3
 title:876757c964f3bdba589c
@@ -7992,6 +7999,7 @@ title:8b961e5c2a5ffc12df0d
 title:8b9c84be836e0a2ccc1c
 title:8ba19f0d69bcf20aa0de
 title:8ba702560185f3adca3c
+title:8baae7831d6a4dc1be43
 title:8bb2e790aa2fc92f6828
 title:8bbc0ef1f0dcc1d119d4
 title:8bbc172665d99c31af31
@@ -9115,6 +9123,7 @@ title:a5d60dce6e64db6029e6
 title:a5d876047574687e29bf
 title:a5d9b0d2f96b84685c40
 title:a5dff48bda5dbec5ec4c
+title:a5e04f0acd99bd57295c
 title:a5e71101d1d6abafd506
 title:a5f2619a8eb064566c9f
 title:a5f396c391733367d2b5
@@ -10825,6 +10834,7 @@ title:d0d9dd1be3cd2b8eff46
 title:d0da0d3fde0ea0519e58
 title:d0db1e73baf726aca181
 title:d0de7b4e6cc3abb4a65a
+title:d0e2143e539540bc5d1f
 title:d0e996c7576ede0d9d44
 title:d0ec01625e55f7a79c65
 title:d0f6df56473ef965a8cd
@@ -12358,6 +12368,7 @@ title:f7c9c587fb2741fc9100
 title:f7cdfaf431dc28ceecd8
 title:f7d1fb4f38f24482dfa1
 title:f7dd06bbe9a7b86df9ed
+title:f7de4ae8b8fdbedc3da1
 title:f7e1750a1e0998ad51a5
 title:f7e556877c7544a1f9b0
 title:f7e6a2934498d83da20e
@@ -13240,6 +13251,7 @@ topic:2f21f8cdf1274cebd75f
 topic:2f53c0de6aec05b96675
 topic:2f5eea1fe27013db11e6
 topic:2f6a4cf1cd290f4fc398
+topic:2f78982ad5deb6d9a1bf
 topic:2f893429d5024a0cefcb
 topic:2f9f1606a6272c8accae
 topic:2fcbd135977630a10e69
@@ -14730,6 +14742,7 @@ topic:a7ed5b37c2745ab297c0
 topic:a7f81424b91fd56e8e0c
 topic:a7f99dac6e852470f601
 topic:a80d29ae17d313850093
+topic:a81095d87196741c22a6
 topic:a82c96283d06134c33e1
 topic:a8499246f21311fb92a0
 topic:a8509097ee0f111f3bc0
@@ -14767,6 +14780,7 @@ topic:aa221219c04d17b92721
 topic:aa352dcd568163d94b4e
 topic:aa555d7da1261a0454e3
 topic:aa63c6e13a5ed2b9c64a
+topic:aa7b43a3285a44925902
 topic:aa9159bdff19b7696e70
 topic:aaadb9fb93046c4b7bbe
 topic:aabe398dc8ccbe19fd79
@@ -15535,6 +15549,7 @@ topic:e71b2d4ae2e452f24d33
 topic:e72b0c240d5be909a52d
 topic:e73ad02820254315884b
 topic:e752b38a4623bcfeb672
+topic:e7a86a72ce2064fa3bbe
 topic:e7bdb80e4852c1986582
 topic:e7c9a304eb63aac43713
 topic:e7cc90a152678db7f8c1
@@ -16120,6 +16135,7 @@ url:biz.chunichi.co.jp/news/article/10/131389/
 url:biz.chunichi.co.jp/news/article/10/131443/
 url:biz.chunichi.co.jp/news/article/10/131489/
 url:biz.chunichi.co.jp/news/article/10/131615/
+url:biz.chunichi.co.jp/news/article/10/131910/
 url:biz.chunichi.co.jp/news/article/10/132176/
 url:biz.chunichi.co.jp/news/article/10/132558/
 url:biz.chunichi.co.jp/news/article/40/129602/
@@ -16965,8 +16981,10 @@ url:hotelbank.jp/lifestyle/hotel-sunroute-kyoto-closed-kiyamachi-renamed-2026/
 url:hotelbank.jp/lifestyle/inuyamakan-still-open-hotel-wing-2026/
 url:hotelbank.jp/lifestyle/itoen-hotels-guide-price-2026/
 url:hotelbank.jp/lifestyle/kumamoto-shukuhakuzei-200yen-2026/
+url:hotelbank.jp/lifestyle/kyushu-fukkowari-amakusa-kameya-hotelme-weekday/
 url:hotelbank.jp/lifestyle/kyushu-fukkowari-amami-naze-yui-ness-hotelme/
 url:hotelbank.jp/lifestyle/meitetsu-new-grand-hotel-closed-2022-nagoya-nishiguchi/
+url:hotelbank.jp/lifestyle/minakami-onsen-november-price-by-type/
 url:hotelbank.jp/lifestyle/nagoya-sakae-tokyu-rei-hotel-closed-alternatives/
 url:hotelbank.jp/lifestyle/naruto-glamping-glampremier-2026/
 url:hotelbank.jp/lifestyle/ryokan-hotel-long-stay-3routes-2026/
@@ -21188,6 +21206,7 @@ url:prtimes.jp/main/html/rd/p/000002073.000016207.html
 url:prtimes.jp/main/html/rd/p/000002086.000019483.html
 url:prtimes.jp/main/html/rd/p/000002089.000019483.html
 url:prtimes.jp/main/html/rd/p/000002119.000026157.html
+url:prtimes.jp/main/html/rd/p/000002165.000019483.html
 url:prtimes.jp/main/html/rd/p/000002228.000023303.html
 url:prtimes.jp/main/html/rd/p/000002245.000023303.html
 url:prtimes.jp/main/html/rd/p/000002247.000080271.html
@@ -22839,6 +22858,7 @@ url:www.chiba-tv.com/plus/detail/2026102114352
 url:www.chiba-tv.com/plus/detail/2026102118956
 url:www.chiba-tv.com/plus/detail/2026102134239
 url:www.chiba-tv.com/plus/detail/2026102156854
+url:www.chiba-tv.com/plus/detail/2026102177733
 url:www.chiba-tv.com/plus/detail/amp/2026061736548
 url:www.chiba-tv.com/plus/detail/amp/2026061737116
 url:www.chiba-tv.com/plus/detail/amp/2026061745568
@@ -22868,6 +22888,7 @@ url:www.chibanippo.co.jp/articles/1682840
 url:www.chibanippo.co.jp/articles/834424
 url:www.chibanippo.co.jp/prtimes/1628932
 url:www.chibanippo.co.jp/prtimes/1649080
+url:www.chosunonline.com/site/data/html_dir/2026/10/29/2026102980177.html
 url:www.chugoku-np.co.jp/articles/-/849779
 url:www.chugoku-np.co.jp/articles/-/851695
 url:www.chugoku-np.co.jp/articles/-/852257
@@ -24600,6 +24621,7 @@ url:www.mk.co.kr/jp/business/12121158
 url:www.mk.co.kr/jp/business/12128186
 url:www.mk.co.kr/jp/business/12177093
 url:www.mk.co.kr/jp/business/12189485
+url:www.mk.co.kr/jp/business/12191548
 url:www.mk.co.kr/jp/contributors/12102528
 url:www.mk.co.kr/jp/culture/12095537
 url:www.mk.co.kr/jp/culture/12095971

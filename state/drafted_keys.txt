@@ -42,6 +42,7 @@ facility:051d6359dc78fbcc8b3f
 facility:053ef76810cb79bba8c3
 facility:0554e834c04c8c9d2e3d
 facility:055e681dcc90d19e62ed
+facility:05bac67cdb25215323cd
 facility:05bfe17121b1c6f689ce
 facility:05ff24b5d58b6c342fe8
 facility:061a25513b1ba77f572a
@@ -173,6 +174,7 @@ facility:168102c1a5aefe8e9a45
 facility:1699b0c7195bd5e1ea58
 facility:169ce0e669957c5319cc
 facility:16c208274585af45a2a9
+facility:16d275b5f2e74452f8ef
 facility:16d4766c875f8b05f871
 facility:16d66567c26cdce55917
 facility:16fdebfa8f95b7951ac2
@@ -278,6 +280,7 @@ facility:21bba8a100b65dde799b
 facility:223f614e9692634ea9ed
 facility:2250ca42cba5f9cdd201
 facility:225757721505234eebd9
+facility:226d9343272c6a020524
 facility:2287fc88770194c0062b
 facility:22b0e64d87b9a24dc662
 facility:23512dcefe10f0e2fc6f
@@ -350,6 +353,7 @@ facility:2a9b8ef4bd49dda245b6
 facility:2abdfbf50d09128e1dea
 facility:2ad18d021b6006c24fc3
 facility:2ad91c455c95717d4370
+facility:2aea039c7a992a2ec411
 facility:2af1e1bd479d05192188
 facility:2b0a6fdbffdd3fc4e182
 facility:2b343583935d873bae54
@@ -466,6 +470,7 @@ facility:37cc0c94e74e2e1ebf2e
 facility:37cf34af95d09a77f973
 facility:37df878bba26e783b858
 facility:3802c03872655a238fad
+facility:382782f5ac73c482ec93
 facility:3828f8cb6d22c706b328
 facility:386aac8fb0ae4dd52e79
 facility:38929dab4539eb46bced
@@ -695,6 +700,7 @@ facility:538d4c23bc10a8dd7cc4
 facility:53a375c2376fb9e36341
 facility:53a3fd18ae5e1e975ef1
 facility:53b0d665e44c0772ed3b
+facility:53bef04daad5477fc584
 facility:53d09988b857d4242c6b
 facility:53fe711603189c1d3112
 facility:543b09a0c4b83396cbe8
@@ -1647,6 +1653,7 @@ facility:ca1ea28d64403530316d
 facility:ca376a9f66915f6dbc59
 facility:ca40b86fcdea95390704
 facility:ca4c876a32992dec390e
+facility:ca4f4908de4323669720
 facility:ca80232ca236dfcf8d10
 facility:ca98284e0efac0420817
 facility:cab441f380092169f1dd
@@ -2242,6 +2249,7 @@ title:06d7b6ec08885bde4778
 title:06ee861bd6868ffdaf20
 title:06f37d40e4f90cb11413
 title:06f525a9098ccdd5e478
+title:06f69ab2a3780c38f17e
 title:06f91743402821235084
 title:06fb99d575e8850f4aac
 title:070790b424b42e7c1eac
@@ -3047,6 +3055,7 @@ title:21412d6772a2d309762b
 title:214641e407c07b0619c9
 title:215b7c6657a0fd211169
 title:215df15144939ecee974
+title:21615adb20b3edbb8dfa
 title:216c00b10542c16c1e5f
 title:216f163bb9a74e740e06
 title:2172f15fcd886f0c7fe2
@@ -4010,6 +4019,7 @@ title:40450ea097f4f8466e6f
 title:4050c2b637c1088d0bd5
 title:4051d625ef757739e89e
 title:40636a48ff43a145f0cf
+title:4064a2ff58debf458fc9
 title:4079b3338cf8f007b311
 title:40900de4ee77f168de11
 title:4095481b485074768716
@@ -5047,6 +5057,8 @@ title:623ec9562203264ed72a
 title:624762c9abeaea5a3301
 title:6248b9430e380bd98a4a
 title:624beb8007b7e5f03ec9
+title:624d291dc22bde8db5d5
+title:624f1180f16a11abef1f
 title:624fade3a30113b91a36
 title:6261ebe56e758018ba46
 title:62667f22128894cc750f
@@ -5112,6 +5124,7 @@ title:6464113a8d9476cc5449
 title:6472fb828f27960edc44
 title:64bdd1591f51e4e0362d
 title:64c9c1ebae6d36d8d672
+title:64d51b57e4ecb8319ed2
 title:64de1640309fa26ee337
 title:64dedd15e104e783f8af
 title:6500ce7601b5391a3436
@@ -5173,6 +5186,7 @@ title:66e1e01dd81266eab2fb
 title:66e1f99d02126e9253a5
 title:66f50aede6a272cb7bf6
 title:66f77f85c118a364f715
+title:66f9ee0592eeb0c82cb7
 title:66fd35eccb463ccfa1a2
 title:6716f1ce4d0835bffb44
 title:672ca81f32b745794328
@@ -5182,6 +5196,7 @@ title:673c5b8c5c3c91828ace
 title:674556920bccfa505b53
 title:6748cb4eba288eaf5718
 title:6750677dac3077c59f41
+title:6755dc0807e7ad8242b3
 title:675727fbeb50fd39ac13
 title:67617d4868ac3ad482e4
 title:67660658834555212abf
@@ -5206,6 +5221,7 @@ title:67fc568e82fe6b0507fa
 title:68111960a9db7dc58141
 title:6813163f76f9475d910b
 title:681ee992d7f751dce5bf
+title:68238d5f59a2ce7ef30a
 title:682a035f1731e470c10a
 title:682a655d03deac51c7fd
 title:682cd7863aef5e8bee72
@@ -5570,6 +5586,7 @@ title:739f8f02f058e60457f2
 title:73a1cae2e49999ea84ff
 title:73b37ed64cec9f0d3f30
 title:73b88ce34483581b57cb
+title:73b9bd66d5fd5aab380e
 title:73d2e91bc76c7fa30a5b
 title:73da932e9c6b60bcc177
 title:73ee7b00ad77f80d7a6b
@@ -5577,6 +5594,7 @@ title:73f5fa77f934744a9251
 title:73f971937bd749aa629f
 title:73f9f59431a1dd88df0a
 title:74083a1fe8e1360ec4bc
+title:74096ce339c33f327222
 title:743bf554d59ed304a3be
 title:743e4de28bfd9e376b69
 title:7452c76dae119ba9b0e4
@@ -5885,6 +5903,7 @@ title:7dcf6358c8c53bb63523
 title:7de2bb89deb1c378bc90
 title:7df0e3db3d7bcd74b977
 title:7dffc4b4f610da1ad4d6
+title:7e03424d7ba75fadd1e6
 title:7e06a01edf82968fb82f
 title:7e1522ed8863059938fb
 title:7e171080cd26ac8b60fa
@@ -6274,6 +6293,7 @@ title:899bd3855f612dddea8a
 title:89a4430cddb8a10e481a
 title:89a8f93c3de22f10b77d
 title:89acf79544774236f7f4
+title:89b0c84fc66534d19cdb
 title:89be175dbed91da5d023
 title:89c43c7ed3819382a96b
 title:89db157a999b752c3d97
@@ -6411,6 +6431,7 @@ title:8d480b961ead6ffd8006
 title:8d4c2d27c62bd1384d32
 title:8d523048c2311d56fd3c
 title:8d5ad1b6ed76779dd08b
+title:8d652575064b5f26b221
 title:8d6b979971782072c9b2
 title:8d7ed9c7f8a2e010ee64
 title:8d90c9c2262c01127ab0
@@ -6711,6 +6732,7 @@ title:96ab618ba5d2bf26b1a2
 title:96b280c3396d96f865d2
 title:96bef9bdf208d971b717
 title:96c73a9bba9209862392
+title:96da0026756bef483e8a
 title:96da5429837c55b24ac0
 title:96e0a01e74569120df85
 title:96f1e7e3b20772e457aa
@@ -6782,6 +6804,7 @@ title:98f1104e0c1206a2ccb4
 title:9904c48d0f3d4614c157
 title:9907b011ec442d0db27a
 title:990a7e67d360075c5d24
+title:990be5fe3a120abb2a45
 title:9911fc42f3c8f079e088
 title:991bd1619d5f90c6211b
 title:9925167bbe4a2f2fcd47
@@ -6817,6 +6840,7 @@ title:9a25c2b0407469881e95
 title:9a283f9b066bc7872c14
 title:9a302aee3c6c2e952fb6
 title:9a31a40bdb8d335f9e99
+title:9a38f715eca7d3edb03d
 title:9a4188aaa9c32687e243
 title:9a4203f6c0d4f3263952
 title:9a4547df506a1369fd45
@@ -7169,6 +7193,7 @@ title:a5370bee4fc7f4b7ab49
 title:a541322bc2a1342e9443
 title:a543d0b5286bf21ee521
 title:a548b2276bb44b6dd18b
+title:a550cdf4c27b8fcac5ed
 title:a5525fb6998b08fdb02d
 title:a554fd66fce59cbeadf3
 title:a556e03efec873e6fcc7
@@ -7462,6 +7487,7 @@ title:ae1e4766760b9a6c6320
 title:ae38433d25ec2f0d84e1
 title:ae38f3a3c3cb3b826da6
 title:ae3c8f2ba36e7218450e
+title:ae414e88d6643e0d2d09
 title:ae493f1e68aab45a4258
 title:ae49dc43c36cfff57790
 title:ae74076ed7d31b001683
@@ -7813,6 +7839,7 @@ title:b9ef9e5e27a06d6b5ade
 title:b9f4bd269582000b0df3
 title:b9f797dc90776c1a35ef
 title:ba07ad91cbf32a111b6a
+title:ba0d28f9387ea73407f1
 title:ba0dc292cdb4d481aad5
 title:ba0f6858b7d8a50a4d70
 title:ba100de767a57f2e8d6f
@@ -7911,6 +7938,7 @@ title:bcc2631626d1ed45f0b0
 title:bcd4843b2690ca422a21
 title:bcd5f524e6015529190f
 title:bce8e183d042bbba3b76
+title:bcf188b48b6d771c60b3
 title:bd00298facc4af17041e
 title:bd032ff97fee55dd6984
 title:bd05643347e9f1b3506c
@@ -8483,6 +8511,7 @@ title:cf8c664e7a25ed89c4e3
 title:cfa77792cdcff99cab0a
 title:cfb2d0c2cfe1d5eb69cf
 title:cfb9e19e77f8288b91c7
+title:cfba5723d68cd6caea81
 title:cfcc810f730ea042b367
 title:cfce537c7b226161efde
 title:cfdec164e4ec70fa8b80
@@ -8721,6 +8750,7 @@ title:d7d5336d392e98b67556
 title:d7db3557d45cc71958d5
 title:d7dcce095b4fa84e3ce4
 title:d7e1f6e4a6c95a141f88
+title:d7e4291911858c2c8055
 title:d7e9956d2c8f0f535b7f
 title:d7ef8aa4c25e3d5abf8b
 title:d7f4ad38f1238d1dd6c4
@@ -9108,6 +9138,7 @@ title:e488a6c522074724f42c
 title:e48b12f6e017ae8e4772
 title:e49d0c75e78f6e400520
 title:e4b83674b339a4feb22a
+title:e4b869feb45ef60213b8
 title:e4bb68b563a0321a0d0e
 title:e4c1c7f8c004ae7ad177
 title:e4cbfcaf53b8c336b36d
@@ -9554,6 +9585,7 @@ title:f2e4693606f05ab445a0
 title:f2e652ec1c78710e478c
 title:f2e86167105c90d2d075
 title:f2ef0a00c4aef3d789d9
+title:f2f16430624f6ae2a647
 title:f2f2863121e178598097
 title:f2f31415a5cf3cd6c5e1
 title:f2f7be556002dfbfa8e4
@@ -9589,6 +9621,7 @@ title:f3f972ee9f797d56ee93
 title:f4025364dd1b7d76c11e
 title:f4143d022a6c2f23db41
 title:f42d956b54db739e701b
+title:f4324d9d94e60d7b96a7
 title:f43549a1f04a22f41bb4
 title:f43643920d66faf19df7
 title:f43a7d9b6a34ab4a2f41
@@ -9674,6 +9707,7 @@ title:f768a378e562fba56d44
 title:f769aa2ea440e8697529
 title:f77d6c8fde3b038f4bfd
 title:f780362abb64594b0db9
+title:f7888f0f685d4f15436b
 title:f789299273ef9244e8f1
 title:f78defdd69b74802292b
 title:f7a678fd86d1a5a615ce
@@ -9987,6 +10021,7 @@ topic:053545482880c4f12934
 topic:053ef76810cb79bba8c3
 topic:0554e834c04c8c9d2e3d
 topic:055e681dcc90d19e62ed
+topic:05bac67cdb25215323cd
 topic:05bfe17121b1c6f689ce
 topic:05ff24b5d58b6c342fe8
 topic:061a25513b1ba77f572a
@@ -10154,6 +10189,7 @@ topic:169ce0e669957c5319cc
 topic:16aa91c307a43d211610
 topic:16bbe45a92ab3a91a00c
 topic:16c208274585af45a2a9
+topic:16d275b5f2e74452f8ef
 topic:16d4766c875f8b05f871
 topic:16d66567c26cdce55917
 topic:16fdebfa8f95b7951ac2
@@ -10276,6 +10312,7 @@ topic:223f614e9692634ea9ed
 topic:2250ca42cba5f9cdd201
 topic:225757721505234eebd9
 topic:225ca5571e4a0b23bdb8
+topic:226d9343272c6a020524
 topic:2275f2a6fba97c8d6f34
 topic:2287fc88770194c0062b
 topic:22b0e64d87b9a24dc662
@@ -10368,6 +10405,7 @@ topic:2a866dfc1720ba92e838
 topic:2a9b8ef4bd49dda245b6
 topic:2ad18d021b6006c24fc3
 topic:2ad91c455c95717d4370
+topic:2aea039c7a992a2ec411
 topic:2af1e1bd479d05192188
 topic:2b0a6fdbffdd3fc4e182
 topic:2b343583935d873bae54
@@ -10510,6 +10548,7 @@ topic:37cf34af95d09a77f973
 topic:37df878bba26e783b858
 topic:37f26196ea09af63f249
 topic:3802c03872655a238fad
+topic:382782f5ac73c482ec93
 topic:3828f8cb6d22c706b328
 topic:386aac8fb0ae4dd52e79
 topic:38929dab4539eb46bced
@@ -10758,6 +10797,7 @@ topic:5083e55c13e2f43ca19e
 topic:50b6ca107474938e9023
 topic:50ba260616f604fa6a49
 topic:50e0180e26d19a4b8572
+topic:510baa0735e7a5fbc9dc
 topic:511ac539d653fba0681e
 topic:514414a741159616c3a4
 topic:51548461e7266fa82c69
@@ -10789,6 +10829,7 @@ topic:538d4c23bc10a8dd7cc4
 topic:53a375c2376fb9e36341
 topic:53a3fd18ae5e1e975ef1
 topic:53b0d665e44c0772ed3b
+topic:53bef04daad5477fc584
 topic:53ca4312eeb255ed9ced
 topic:53d09988b857d4242c6b
 topic:53fe711603189c1d3112
@@ -11177,6 +11218,7 @@ topic:7846c2d30e8822bb3330
 topic:786adbd29aa2a76ececc
 topic:786b4acb73d439b3dc77
 topic:788f29887f31ad5f0bea
+topic:78d59d6501c2233488a9
 topic:7911071393080989bc14
 topic:7937a1daf3b06feff3f8
 topic:793c0fa6987ea2397f2d
@@ -11622,6 +11664,7 @@ topic:a3c954607c621915c17b
 topic:a3cf8dc6740bac0e6c10
 topic:a3d8be83849778f7c39b
 topic:a3de0854681636ee5ee6
+topic:a41a7c9d86085618211f
 topic:a42bde863da80e4ddac2
 topic:a43bc4af5ef313234917
 topic:a47c954feae6022cf734
@@ -12039,6 +12082,7 @@ topic:ca222cddd9a2f92ffe0d
 topic:ca376a9f66915f6dbc59
 topic:ca40b86fcdea95390704
 topic:ca4c876a32992dec390e
+topic:ca4f4908de4323669720
 topic:ca51167d7e06651a303e
 topic:ca80232ca236dfcf8d10
 topic:ca98284e0efac0420817
@@ -13567,6 +13611,7 @@ url:hotelbank.jp/seasonal-events/ski-resort-opening-dates-2026-27-nov-dec-adr-st
 url:hotelbank.jp/seasonal-events/spring-ski-march-vs-february-adr-drop-kutchan-yuzawa-hakuba-nozawa-2026/
 url:hotelbank.jp/seasonal-events/summer-beachfront-hotels-30/
 url:hotelbank.jp/seasonal-events/summer-festival-late-checkin-hotels-2026/
+url:hotelbank.jp/seasonal-events/tokyo-dome-december-2026-concerts-bunkyo-hotel-booking-curve/
 url:hotelbank.jp/seasonal-events/toyokawa-inari-gokaicho-2026-higashi-mikawa-hotel-rooms-stock/
 url:hotelbank.jp/seasonal-events/yokohama-akarenga-christmas-market-2026-hotel-naka-nishi-weekend-weekday-occ-adr/
 url:hotelbank.jp/services/metroengine-research-plan-review-insight-2026/
@@ -13825,6 +13870,7 @@ url:lodgingmagazine.com/duetto-announces-partnership-with-bb-hotels/
 url:lodgingmagazine.com/evolution-hospitality-adds-the-brandywine-to-its-portfolio/
 url:lodgingmagazine.com/extended-stay-america-announces-conversion-of-san-antonio-hotel/
 url:lodgingmagazine.com/fairmont-announces-opening-of-its-100th-hotel/
+url:lodgingmagazine.com/fb-and-the-bottom-line-analyzing-the-impact-of-hotel-restaurants-on-average-daily-rate/
 url:lodgingmagazine.com/g6-hospitality-signs-development-agreement-for-new-studio-6-plus-hotel/
 url:lodgingmagazine.com/gencom-and-white-bridge-capital-announce-acquisition-of-intercontinental-miami/
 url:lodgingmagazine.com/hapi-debuts-two-solutions-designed-to-connect-guest-data-across-systems/
@@ -13863,6 +13909,7 @@ url:lodgingmagazine.com/otelier-announces-two-way-integration-with-avalara/
 url:lodgingmagazine.com/oth-hotels-resorts-expands-its-portfolio-with-addition-of-two-hotels/
 url:lodgingmagazine.com/oto-development-adds-ac-hotel-atlanta-buckhead-at-phipps-plaza-to-its-portfolio/
 url:lodgingmagazine.com/pacific-hospitality-group-announces-opening-of-denu-hotel-spa/
+url:lodgingmagazine.com/peachtree-announces-acquisition-of-home2-suites-by-hilton-in-destin-florida/
 url:lodgingmagazine.com/peachtree-announces-opening-of-dual-branded-marriott-hotel-in-dallas-texas/
 url:lodgingmagazine.com/pm-hotel-group-adds-florida-hotel-to-its-portfolio/
 url:lodgingmagazine.com/pm-hotel-group-adds-three-hotels-to-its-portfolio/
@@ -13891,6 +13938,7 @@ url:lodgingmagazine.com/strategy-and-service-stonebridge-develops-its-luxury-por
 url:lodgingmagazine.com/terranea-resort-completes-renovation-of-meeting-and-event-spaces/
 url:lodgingmagazine.com/the-education-edge-leveraging-learning-and-leadership-development-for-hotel-teams/
 url:lodgingmagazine.com/the-future-of-labor-why-hotels-need-to-plan-for-the-unexpected/
+url:lodgingmagazine.com/the-hospitality-show-reports-year-over-year-growth-in-qualified-buyers-and-exhibitor-participation/
 url:lodgingmagazine.com/the-hospitality-show-to-spotlight-key-issues-facing-hoteliers/
 url:lodgingmagazine.com/the-indigo-road-hospitality-group-adds-the-central-station-hotel-to-its-portfolio/
 url:lodgingmagazine.com/the-lofton-hotel-completes-renovation/
@@ -14137,6 +14185,7 @@ url:news.google.com/rss/articles/CBMiUEFVX3lxTE1TNWtfTndpYjdhNHRmcXVtdHdZSEEzQUp
 url:news.google.com/rss/articles/CBMiUEFVX3lxTE5WQmhrS0w1V3p5RFByWXR6XzFPeWR6MktNU0x1bF9sNXNOWTJJTlJhZVItdUVMRndXdjBMdVZ4U0pLQXNjQkFDM01yVUlNSEJ4?oc=5
 url:news.google.com/rss/articles/CBMiUkFVX3lxTE15UXE3bDlDNFRvYjFBbFFhbFk1clRYQ1Z1UDktU1FlcVJ0TndlWDNwVnBLQlQ4UktnMEt1M05Gc2JodHY1anVYUzdvcW91RXBfSGc?oc=5
 url:news.google.com/rss/articles/CBMiUkFVX3lxTE1nMXQ3VF9JUzVLekJhcl9fLUZ0dnJSVExiVkdXNTNBLUpDaWwwLTBCbG03WkNOQVUwSE9Eclo0U2xhek1NSGZhaUc5NEh3UF8tcHc?oc=5
+url:news.google.com/rss/articles/CBMiUkFVX3lxTE5lUnYyY0dwbDIycmdUVllnT1FMSlJFVnRIVFI4ZVllaGdFZ1J0RGtJQUt2VXYxMld1YnJ3aFM4VGVfNEF3MUljc2FWeWpJQng5TWc?oc=5
 url:news.google.com/rss/articles/CBMiUkFVX3lxTE5xTW1uN1hYa3BuRmw0NFhfVHdKeTlLZE14T21TZlROYWVVU2hzMHVHR2QxbE1mcUJMaTJxWFI5N1p3NW5PUDVObTk4ZHRySkk5eHfSAVRBVV95cUxQMld6MXNubWtHb24yeFhja0RnRnlweDNpWUZZdjVpcUNLck1rZ1B1eGJRbm41SFZ3MjNRcTVqX2JNTlNFcDVNaEE4c1ZxYm9UbmtvQTM?oc=5
 url:news.google.com/rss/articles/CBMiUkFVX3lxTE8tQWJVdXdDdi0xTExOYkI2bjlYTlFWRkp3Y0dEOUFmOV9aVW5EbmZfSEcyYVFsTEFrZDRsOEZLT1Nla1pqbHJqd1FLUy13clI2Ync?oc=5
 url:news.google.com/rss/articles/CBMiUkFVX3lxTE96eVdsZzlodG5FbUwxdnZHM29kTThEMWtzTTNiVzBVMzBrdEowd1J3LVJUUm41cUstcW9xQW5ENVlMZXppdHBsZE5adEE1NmRWTFHSAVJBVV95cUxPenlXbGc5aHRuRW1MMXZ2RzNvZE04RDFrc00zYlcwVTMwa3RKMHdSdy1SVFJuNXFLLXFvcUFuRDVZTGV6aXRwbGROWnRBNTZkVkxR?oc=5
@@ -14299,6 +14348,7 @@ url:news.google.com/rss/articles/CBMif0FVX3lxTE1ZdGw1VWVDN0NnNjdYMHEtMklwN1BZQmZ
 url:news.google.com/rss/articles/CBMif0FVX3lxTE1fNjhzbmxPeGUzQk9XQWx2YXJ1TlhUbjctT01sR1VSS1J6N1hrMzJIY3c0ZWUzUUZydTBOOGZLc0g3TlZGbnotc1JDOFRkZ3E4bjhUdHJMWVAwT3AyODk5ZE56VHh0Z1A2VHBQUFBOcmpIZXNubTVqak1FV3RQWTA?oc=5
 url:news.google.com/rss/articles/CBMif0FVX3lxTE1ibmgyczlON2dibnFJbXdacm1UNmtoanBGMkU4ZGVaaE0yb1B2T21BbTZ1QkpKQlJvS0dIZno4NTB2YVRuMFdsX25vajR0a0lSQmotenRUMGF6Wm9wMng5RElKSzc3TXBTQ0tmaV9Ub2RWQUVMczY4cy1Zb1NRRDQ?oc=5
 url:news.google.com/rss/articles/CBMif0FVX3lxTE1nTVJ2R2QzTFl2UEpvV29jM1NHVXB5b0t6YVlWQ0cwZ05EYS1QdWMzVGFuYXJxWlVKb29ud1BOak0tVDVQd0dlZ2kxZmdfb1N6NFdoSWhBdmFtZl8ydzhVRXRsTlNDQzZoWEpneXlVbjBPZVd3ZXlKZGkxQ0YwYjg?oc=5
+url:news.google.com/rss/articles/CBMif0FVX3lxTE1pN09LSHIzMVdtMXlEbmQwZWVJZ2FYU0NyRW5MSHgzcldkeUM3ZEFkZGo2ejYyZVY2RTViMDVIZjJraFlGM2RnTDVKQmYxM1R0QUNhTEN2b3F3TV9wSlNOYVZuYnpqV0diblM3U19nZXpRalRqbnhWWVdodGVCY2M?oc=5
 url:news.google.com/rss/articles/CBMif0FVX3lxTE1qQVItckY5aXRsRHU3bDc5TmFQbDRTOTIyZ2ZDYW92RTVZWFYxYURWdXo4NDRYaHQxY3N4NDN2WGk3TjBaNFNPbmR2MFUxZGhBVE9xR2NSQ21Nc2xubFRQSmlSbVNwMkh5VTRTNmdtY1hFd0plQ2plNmY3NWhBOG8?oc=5
 url:news.google.com/rss/articles/CBMif0FVX3lxTE1rMXRFQjc0alRoY3pZXy1NTF8yQVQwMEctUkNpLWEtMmtlLU5zUHpYQUUwNmxsa0YtM1lQSEthdDEwcE1uV1dEMFduVXkzazRUZHJtTDhNU1RCc1RNYlltNDN6UmFLcEltZEVGMUtVakNSbFg4LXBEbGZvak1GTFU?oc=5
 url:news.google.com/rss/articles/CBMif0FVX3lxTE1uNzlTYXhLNy1yUmtjNndlejFHWnRzenhVb1Q2Z3lhcTRlX3dULXptV0V3dHAzak9VOXoyWS1TZDZFbnExRHQycVVVTEZveExJdnJwVFhCc08yU09zdkozWlRkMEJFVC03NU5Sd1pjX2N2Y21aSktSZHRHeWVjY2M?oc=5
@@ -14325,6 +14375,7 @@ url:news.google.com/rss/articles/CBMif0FVX3lxTFB6MWs2LVIwMzJLdVVSM0RSc1hIZVp0M2h
 url:news.google.com/rss/articles/CBMif0FVX3lxTFB6MWsydmFNNVF0RmtMWllxaWxxdnRaWW4zWXVkXzhtbzlOZEpncDlLQlNXNGdoY1F0S2huM09jT21YOXZWbS1WYzdxVkxxUldCTE1zaUJodUVSYlNneEVfeDdaN05vQTRzaUdUVXN0WUhDT0llTmJLUWcwdzlsMHM?oc=5
 url:news.google.com/rss/articles/CBMif0FVX3lxTFBEMjQ3Qjg3dnMxQ2JGQXpSS1hKaE5TMnNfSVBLdmdPeU9la3hEREdBN2ozaklxTy1XaUdUZ2pOLWRPTEVkN20xRlNPMjlzUC1JdnVkb3lJNHg4RXJZTkhoQzdNb0FXdGE5dGJOQXk3cU5iMkpZNUdSbmVWU29YRXM?oc=5
 url:news.google.com/rss/articles/CBMif0FVX3lxTFBRU1pDTmtnUTF4Qy1JX1FlVjNhUHhpVnZvemVnYkF1aUVFRGotTGZKMVl1c3RQcWNmWnpMRktMV1AwaDZLbnplUDV3eFdmTUEyaDNUN0UxOERVSHBxdlZJbEJaSV9wcHNwa1pIb1VJN1drdnJUbjExdnVMdXpPNXc?oc=5
+url:news.google.com/rss/articles/CBMif0FVX3lxTFBWLWZfbFVDYmJyZ3RwcVZFMmNyQ0stcGVlX0NwUTltam15ZDk3ZWMxckUzSnoxYmVFazV2UFA5WnFCaGtQUVlPeVpOSjVKc0dyV19MTWZQQVdlOWlaLTNMVy1wN0hsSlN6V0RjeDBnWFpld09OSTQ4VWxPUEdCWDA?oc=5
 url:news.google.com/rss/articles/CBMif0FVX3lxTFBkYW9MbzlVT1hfQnlNOWlvTU5wZG45ZFZpa1B6amxGcDl3Z2xkb25kSFR2WG00NENGc2cxeDRVREVrWUhGenNzcGctQXpSSk5hQTNybXBFUFUzanpNcGJ3cHBaTmZnQi1MdU5JUlNlY3dYbml4dmhmQm1pTzNHSXc?oc=5
 url:news.google.com/rss/articles/CBMif0FVX3lxTFBkak90cXlPeFZvbC1JTUZXbDVOTUZZUTN1UUE2LUdvQ2c0X29Dd2otaTZrWHUxZ2VvUDZwNGhnVDlCM2RHTUFUZTNmX2I4Qzd4MDVCRDNNemxqWkZzZFFlbmpKYk5Menk1SnowWTdxSnhLaTNGMjlSbmFMOFJlTW8?oc=5
 url:news.google.com/rss/articles/CBMif0FVX3lxTFBmQmlTREZTNHdTV0pOZFNOclFiVlYxMmZ6TG4wTzlRUURWRWhCbDFoT3dXZHdOSXIyOG1lOXhJTl9NRHlORlo4NV9QOHlPaVdLa183aU1yTGpIbGk4cXZBdzg2MjkzcWRQRE9hVFp4S2Roek1HUkdVMXJzNHl2Y1E?oc=5
@@ -14369,6 +14420,7 @@ url:news.google.com/rss/articles/CBMijAFBVV95cUxQS3BnclQ5akkzbDlPQnRvTHpIWTFIMHp
 url:news.google.com/rss/articles/CBMijgFBVV95cUxNR0UxMVF0TjlrMWV1VXpyaVJLMDM0am9UenlDRGR3OEpRS28tcWxTY3RfNlhfeldZZGxjTUxBWkU4YmVhRjMzdFlldzhBRzRzTHBwQ2cweDNQaFNJWXd4S3ZvT0FiWnc0ZEhxVkIybm80eWV3VlV2U1FnUjd0TjNUREZrNGFMVndhdUtRclJn?oc=5
 url:news.google.com/rss/articles/CBMijgFBVV95cUxNRXVvNDJiUHBOZ1VSV2psOThuelo5N2Uyamt1dFNPcnVXcEhtdDVkV1FhZm5DcnREVUtlYmhPN0l5OXhzVmlGc0dwUTQ4akpfdHNpbm1QS183SDA3TWJ4eExvU3NoVXR6Q1ZoOWg3ZDNVRHJOVXQxdXZITVc5UXRidXJiS00wdlloS29ZN1h3?oc=5
 url:news.google.com/rss/articles/CBMijgFBVV95cUxNWGxkTmh5MjZoeV9JU2h4Q0oycDRjV0dYTUlFUS12Z2lqajJjbHA2eDhXd0RpbHg5bWladkdqbzkwejhVQW5oaUVXb1JTMmdDeWprSHdLaV9FVFpHYTlyaWhTa1ROWmNTSmluY2VNWmU2WUNlOFZ0Z0FCS3JnVWJDdVlFNVpYQ0l6c0V0a2x3?oc=5
+url:news.google.com/rss/articles/CBMijgFBVV95cUxOVGpMa3FqRkhSamdOLUFsU1NIcXc0ZDNrYkNVWkZUdmluMVFWZEJfN2FuNWJOaS1veFlGcXRkOS1Cbk9jc0tob05qZmZLVzdkaUQxV3FCbm42ZWN5WWFJbmNLR05ZSFBiTHhQU0NxN2JkS0RoZmtZREJmUVFaZkpObk5EczQwOTQ4SjJPVjFB?oc=5
 url:news.google.com/rss/articles/CBMijgFBVV95cUxOd29RS3RpcjA4ajRVS0txaDJ4YUMzWm01TUdLNmlMS19tQWZ3MG9jRHVJQzN4RWo4czBfM0FrUkRObGlOZnJrQmJwNlJsX1VyLWN6SE9Hb2dGMW45dUFqLWFHT05TZDhiZlVjRGVXZGlpOW42dTBzek1rVmlzdGZqOTVoYWpILUw4UXBtSU53?oc=5
 url:news.google.com/rss/articles/CBMijgFBVV95cUxOdTI4bk50T1dodXpzTHQtWllCc2JZNmRRUEdmTzNvaVd3ZTB6XzBFTnM1bUJYN3pLMmFBNjhjbnJmeDlHY2tjNl9FRWllTnRxMmp0bWJiZTBmcXRNR01rQ3JzTEtoc1ZwUXdwemZ1bFVZZUJEWlBJR1hBd1lwc3hsSURZUFlVeWt1YURSRjhR?oc=5
 url:news.google.com/rss/articles/CBMijgFBVV95cUxPRGs2QUo5X0k3RzFpOHNkcnRxSGJpUjhfMTVkcE13a0JldlFNNnJ0Qi1ETzA1WUxaU0ZEMEtabHlTVmUtcllmQXI5b25hSzFubnNhbkozWVd0dFFqOThWOGg1MF9XUTlWa2R4RC1lSVlFV2RXRUdadnJXSzQ5OTJqNERuT1llQVNvZnRGT0VR?oc=5
@@ -14383,6 +14435,7 @@ url:news.google.com/rss/articles/CBMimgFBVV95cUxONG93ei0xTTRVR1dhcU1XaFJNMWRrVEl
 url:news.google.com/rss/articles/CBMimgVBVV95cUxOQ2ppX1pMZ2VUeVh6OXQ4azRfbjZSN0U1YkVkS1pyLWo2eS10NnFuV2JuQ0VwdThCcFNORmxCSVJuZG5yQ0pMMFdCV3ktbkt6M0d3NGFOQjNEWkxxTWdIMGtMSGYzVHhpSnlpa096SFpJVXNLUHdwY0dnSXlpYTZRX1pnWlo2d3R3SXV6NjRFX3dCMzRkZFFjSUhXNDZETGxPTENEU3hTcGFwWUMwRXQ0QUtsSGxxSTcwSjJOSWpKRFdkdTQ1ZzVIUXpmTFNldkxlSVZ2cVZVeHo2SmJ5VDhIdDVQRlFUeXBfOTl4N0VWeVk5NnFUMDhCOGJCcjQ2aGtYTklFekhzMk9Yb3JjaVp6SEdWWTgtTmU3ZlFySXdncGNvTlVmYU55b0xmc0h5eDlsNWw2dnRtS2FoMFJ1U3o5OEtGcGRjZHkxODRtUFQ0NjdQY043Y21Ja1ZzN2Zmb0F5SVMwUUJ0U2N5YlhzcVhRdEhVdXlEUW5nS09zV21YRG1qY0pUSUlCd2gxYm50c3dPdkswVkE2MjBWOTJIWGNXZ1BtSThReWMzSW4xWWNidDJicXdtTHBKdWZVZFJWRzZUV1VFOWFRZ002TkdMNDBjelRyOW9iZjQ0TU5LdVc2NVF6blh6MUxacEpmam5iOUtma01GdXJZYWw1MlpobkVvUFVhcGdWeWRQeFpXY2JMWjBPcUxNVDB4UnA1STVtc2NwQWx6QWQ3UUt4ZEc5V191MVpOcC1UbGJlUGZTM1BJU1A1d2h2dkxrM0s5M2JjeWxjdnBHdVJLMGdTT2xjYTJzOUhtOEJGZ0dHTndEckJHdV90S2hlOXhkS1RUU2VsSm5uakxSMjZiR3lTWlQyVGdVaDhodTEtYUNBMFE?oc=5
 url:news.google.com/rss/articles/CBMimwFBVV95cUxORnJIbGdkbTNhc25zdFZta05WLUtVTGRKV0tiT2dFdnB6ZEExQzNsdkVoQUNrZGs5SUZqdmx1WjNwUlBQNS1Wd2l2V1ZKVXNpZmpEMGJtaHRxYXdWTjVHQ2FLTDJwS2xaUHRiajhZWUhDWFJwU053NUZZNXlNclVnZ0toek9YbWpuNE1SM2tXTHZnaTA5TnFtSml5WQ?oc=5
 url:news.google.com/rss/articles/CBMinwFBVV95cUxOaS1jSW1WdWtZTFY5MDF3c2tUY2g2ZW9ySV85TVUtYkhTbC1BV0FBeXJ3R0VxMmUzRk55WUgtaklHWW14V0s5X3V5ZmtGU2JIdlY4UERTWmRLSnV6LW01dFJnald0WjJ0c2dYMEJGaERIZzlnWWhmR0tDOVJDQ3lMTUJPNXV6SkxKTDRRTVE1T1JkSEllNEZJM29pTnFCWTg?oc=5
+url:news.google.com/rss/articles/CBMiogFBVV95cUxNSHBubU5TZm9hYW94bHVKVFVqOHAycGR0ZnhpcElqZlR6RFd6MDYxQ2ROVDVmMngza0M2T3Rjb05JX1BqbmxCcjNJZjhkSml6OE9ndnNyekE4LTN2ZTlaNEEyT2ZjOU9pdG1UVS1LVVV1OFhtOTFqanRFUlItNE1uVjN4T3doZjZiX2xCWjd3ZzFSb3BtQW01cWhtbmxrcjRON0E?oc=5
 url:news.google.com/rss/articles/CBMiowRBVV95cUxPRXA1SVQ5NS1CVVBSTEJWZk5vY0VLVFVEZEJfX0gwU0lqLVZKS215NFB3dnpfM2ZZenhyWEVrT290VkhTRlVhaWRLMUVjR255TkZBRWVUYzJHWjI2LWJGRU42R3VpM05ZbjRhUUpBY2lBbEkyN0ZPdS10SG53LS12OENCVFQ4YU5CandYMFVidVBlWWdCSmlXbnBDQ2Z5YXA1QTlhaS0tY3dDdHA3bnRkOW5XMmloTnItOW54Vm9SRVFjeGx0bm91WkhlUWkyWl9FcElpOTdiQ3NVU1JQMC02NEdiSmJYYTZqYkl2czBTV2JYRzRCYk5rdnFkVE0tOHdoZV85OWplLXdESGxad2lOM0VXSDl2djdfMjhTOFlXbkplRnUyM0hkaHhoMUk2ek0xRnpyS1Z5OEM1dDZmbGZYalpYN2p0TDIxUVlkbGZNY09la2lLOHhrS2lfZmVSMkdOQjBiV0I2V0RGYXNkXzNNTldxdXZVTUNHVFV3RWxjOWtqcGxWczdEa3VPWmdScDBSbGNnTjlwQ1lVRVpNUlJYVV9lUUphU1JoN3BtOHBGbmFmc2RwMmZZQnNZa1BNaGhqMm5kdWdyMFl1TElvR2c4UUpmLVdnLUJzNXExcjI5QmNmSEMySjJXNGFwNGJieW5OenJuaXl4emVfV1prZE5jMHRZRXc2VHB2Vlg3S1pfbUl6RjlmSXR1V2UwdlRPLURJMmRZ?oc=5
 url:news.google.com/rss/articles/CBMipwFBVV95cUxPN0tNZV9RZjdwaFg0b25SMnNkX1FQSHBoTzVWQUtTZFE1aGtsOWh2U0l3RW1GR2pGTkMzVmliZDFUZWY3bDROdkQ0bW55STlpelhYR3NZbmhGeHZQbG13OVZVMXRxYlJtU3kyQ1g1VjdTU3VwOFNzczlVQV9oR0xJRE5ic2NxRkg2dGZCY1JzU19YRnNtSHBtTHlES1BoOERmLVlDUlNDWdIBngFBVV95cUxQOXdyNV91S01PZExwQWJ1bWg3NlY0NHdJSklSRlBMNE1LbXpnSW5SemhpUGk5aHNxRDFndm1MWGU5NnZmVTUxSnBFanY1MG5maWFMNm1YbHcxdUdGVHp6WmhOY0JHcWx1Y0Y2QTZKUklNamJZSUhKZ2VLNHpXSXpocko1SUpESEZYUkZzTTNMLUNOZS1lTUdxZEFIWG1zZw?oc=5
 url:news.google.com/rss/articles/CBMiqAFBVV95cUxPOEF1WUp3XzgwUjdZTW1lRlh6YnpRcFFtaXQ0SDQ1ZVV0dXZTX3docFFNUmVhZjNHOGJMYWQ4cE9FaWdMVEpLMndhX2g5RTZyQTY3X3B5Sm5Eb215QzkxdzYtUzBfZG9iY29BVU5hMnY2dk1uUnhUXzdvbU5DN3hDd2d1VmJVRHZnTktrRTdvYk83X0FubDc1clBlRUtxb2UyT1FSZEFLTHo?oc=5
@@ -14790,6 +14843,7 @@ url:news.nicovideo.jp/watch/nw19959849?news_ref=
 url:news.nicovideo.jp/watch/nw19963173?news_ref=
 url:news.nicovideo.jp/watch/nw19970510?news_ref=
 url:news.nicovideo.jp/watch/nw19990088?news_ref=
+url:news.nicovideo.jp/watch/nw19995027?news_ref=
 url:news.nicovideo.jp/watch/nw19996532?news_ref=
 url:news.ntv.co.jp/category/economy/fb34e3ade2704149e08213418a52ed1d31
 url:news.ntv.co.jp/category/economy/nkeb8c6885f157429981abb009ba4cdb8d
@@ -15355,6 +15409,7 @@ url:news.yahoo.co.jp/articles/676a0b722d8094e805c8049f09947030922a12d3?source=rs
 url:news.yahoo.co.jp/articles/676a71fab26c12bb30d24ee59493f9b48fb08ba2
 url:news.yahoo.co.jp/articles/67c2a8159e42a155ead6e5f6830cd333b3b9046d
 url:news.yahoo.co.jp/articles/67f000fd0ec349b74878e159ca18abd2b8013abf?source=rss
+url:news.yahoo.co.jp/articles/688ed0ced79a3e2e8cabaa0486d149f097bb07d7
 url:news.yahoo.co.jp/articles/68dfb8de3b2718beb67f686b957d5b49acbc5938
 url:news.yahoo.co.jp/articles/69d9edc7fd53ce3685d87c5afbbc9cea067b6e59
 url:news.yahoo.co.jp/articles/69d9edc7fd53ce3685d87c5afbbc9cea067b6e59?source=rss
@@ -15613,6 +15668,7 @@ url:news.yahoo.co.jp/articles/a8ef4ab257395c3f2bd57bf7eff3cf129ffa268e
 url:news.yahoo.co.jp/articles/a9b5125ba603df0280b1e56823c0bf53808cc8e2
 url:news.yahoo.co.jp/articles/a9ce00e8dea69ef12b247535dfe2259eaf82e8d8
 url:news.yahoo.co.jp/articles/aa5f0662dfb937e909b64f0121d2369f468d4636
+url:news.yahoo.co.jp/articles/aa6ea9faa0699b4e4e06ba7275876df633ad8e2c
 url:news.yahoo.co.jp/articles/aac749b386f38662932f5843fc4feb5c11114bd6?source=rss
 url:news.yahoo.co.jp/articles/aae43e41076a7cc5e1eb8b08050965dbc896ee9d
 url:news.yahoo.co.jp/articles/ab4d2934baed45c16d564ededd8862ae32d0b844
@@ -15632,6 +15688,7 @@ url:news.yahoo.co.jp/articles/ae465c1e4ece6374f3b84e08005096f1ac548242?source=rs
 url:news.yahoo.co.jp/articles/aed552ac60d3d85371549032edbed3b53bdfd858
 url:news.yahoo.co.jp/articles/af03581f4942caf0c8cfc1b1bbcfbdb067d4e88f
 url:news.yahoo.co.jp/articles/af05a39679edf0f8e593a93976faf6f4c5c36db9?source=rss
+url:news.yahoo.co.jp/articles/af4f05faaf8cc71ef58bb150aad77a709cee0991
 url:news.yahoo.co.jp/articles/af94b4cb8dec0e537655dfe8b059d6fdd524d64c?page=
 url:news.yahoo.co.jp/articles/afaf648d12d5f5420758cc66c411a453cf7eb1a5
 url:news.yahoo.co.jp/articles/afe5f236d44788cd291e443ec6f61a34104989dc
@@ -15753,6 +15810,7 @@ url:news.yahoo.co.jp/articles/c78d9e71e4dc8e14e931414565843a5c968bddc4?source=rs
 url:news.yahoo.co.jp/articles/c826218e6f54509d57d6684deb271c8080f2a1cc
 url:news.yahoo.co.jp/articles/c829c76c7c1a86eb25f21a6c6ee05d0ef2da38a2?source=rss
 url:news.yahoo.co.jp/articles/c85c1e9a6f74c9f7ba82c47bc018e999fa36ba46
+url:news.yahoo.co.jp/articles/c8a00436266ec806ce7f99b51cee80ffd0e2ace1
 url:news.yahoo.co.jp/articles/c8f4b8717bad4a32c903489a7b09d322e99f3d72?source=rss
 url:news.yahoo.co.jp/articles/c90e887ccd5f519d5b40a4971614c48866e960a7
 url:news.yahoo.co.jp/articles/c9c1f705ce431a1e19f3f74b4665cbd04810fd34
@@ -16613,6 +16671,7 @@ url:prtimes.jp/main/html/rd/p/000000433.000048076.html
 url:prtimes.jp/main/html/rd/p/000000434.000047917.html
 url:prtimes.jp/main/html/rd/p/000000435.000014185.html
 url:prtimes.jp/main/html/rd/p/000000450.000023271.html
+url:prtimes.jp/main/html/rd/p/000000452.000050845.html
 url:prtimes.jp/main/html/rd/p/000000454.000066095.html
 url:prtimes.jp/main/html/rd/p/000000459.000030012.html
 url:prtimes.jp/main/html/rd/p/000000461.000025087.html
@@ -16634,6 +16693,7 @@ url:prtimes.jp/main/html/rd/p/000000606.000003280.html
 url:prtimes.jp/main/html/rd/p/000000612.000005736.html
 url:prtimes.jp/main/html/rd/p/000000621.000052843.html
 url:prtimes.jp/main/html/rd/p/000000625.000047342.html
+url:prtimes.jp/main/html/rd/p/000000630.000026884.html
 url:prtimes.jp/main/html/rd/p/000000633.000052428.html
 url:prtimes.jp/main/html/rd/p/000000682.000101028.html
 url:prtimes.jp/main/html/rd/p/000000692.000018863.html
@@ -16664,6 +16724,7 @@ url:prtimes.jp/main/html/rd/p/000000879.000018265.html
 url:prtimes.jp/main/html/rd/p/000000885.000008585.html
 url:prtimes.jp/main/html/rd/p/000000887.000018265.html
 url:prtimes.jp/main/html/rd/p/000000896.000018265.html
+url:prtimes.jp/main/html/rd/p/000000900.000018265.html
 url:prtimes.jp/main/html/rd/p/000000901.000008128.html
 url:prtimes.jp/main/html/rd/p/000000944.000099487.html
 url:prtimes.jp/main/html/rd/p/000000962.000017692.html
@@ -16990,6 +17051,7 @@ url:skift.com/2026/11/12/american-express-travel-on-the-next-chapter-for-premium
 url:skift.com/2026/11/12/saudi-hotel-builders-keep-going-as-attacks-scare-off-foreign-visitors/
 url:skift.com/2026/11/13/new-webinar-turning-travel-disruptions-into-guest-loyalty/
 url:skift.com/2026/11/13/the-hotel-restaurant-is-becoming-the-main-event-again/
+url:skift.com/2026/11/16/u-s-hotels-are-keeping-less-and-less-of-every-guest-dollar/
 url:sky-budget.com/2026/08/27/narita-airport-news-aug2026-3/
 url:sky-budget.com/2026/08/31/delta-airlines-news-aug2026/
 url:sky-budget.com/2026/09/01/sep2026-schedule-jpn/
@@ -17740,6 +17802,7 @@ url:www.breakingtravelnews.com/news/article/hilton-to-make-its-debut-in-guinea-w
 url:www.breakingtravelnews.com/news/article/historic-gunter-hotel-selected-to-join-marriotts-invitation-only-luminous-p/
 url:www.breakingtravelnews.com/news/article/hmh-strengthens-sustainable-hotel-operations-as-uae-hotels-turn-to-technolo/
 url:www.breakingtravelnews.com/news/article/hospitality-leaders-navigate-uncertainty-as-loyalty-and-ai-reshape-the-futu/
+url:www.breakingtravelnews.com/news/article/hotel-indigo-celebrates-40-open-hotels-in-greater-china/
 url:www.breakingtravelnews.com/news/article/hotel-leadership-conference-announces-2027-theme-and-conference-chair/
 url:www.breakingtravelnews.com/news/article/hotel-vulcanos-live-dj-beats-and-brunch-strikes-a-chord-with-holidaymakers/
 url:www.breakingtravelnews.com/news/article/hotelbricks-to-fill-technology-gap/
@@ -18343,6 +18406,7 @@ url:www.hospitalitynet.org/editorial/4135038/booking-holdings-now-collects-payme
 url:www.hospitalitynet.org/editorial/4135115/radisson-ceo-federico-gonzalez-on-turnarounds-that-work-prism-acquires-fletcher-hotels-bookingcoms-ai-answers-guest-questions-before-the-hotel-can
 url:www.hospitalitynet.org/editorial/4135248/have-hospitality-trade-shows-gone-the-way-of-the-dodo-hotels-choose-a-role-in-guest-wellbeing-geo-and-the-restaurant-that-isnt-recommended
 url:www.hospitalitynet.org/editorial/4135470/how-to-list-your-hotel-on-chatgpt-your-rights-when-bookingcom-closes-your-account-questions-to-ask-before-a-loyalty-partnership
+url:www.hospitalitynet.org/editorial/4135500/alessio-re-explains-agentic-ai-to-aliens-hotel-rates-wont-carry-2027-indias-hotel-pipeline-reaches-77-of-existing-rooms
 url:www.hospitalitynet.org/explainer/4133296/ai-terms-for-independent-hoteliers-what-actually-happens-when-a-guest-books-through-ai
 url:www.hospitalitynet.org/explainer/4133336/the-numbers-behind-ais-rise-as-a-booking-channel-for-independent-hotels
 url:www.hospitalitynet.org/explainer/4133745/the-hidden-cost-of-poor-workforce-management-in-hotels
@@ -18733,6 +18797,8 @@ url:www.hospitalitynet.org/news/4135418/middle-east-hotel-construction-pipeline-
 url:www.hospitalitynet.org/news/4135442/hapi-and-dailypoint-partner-to-simplify-hotel-technology-integrations-and-speed-customer-deployment
 url:www.hospitalitynet.org/news/4135461/evolution-hospitality-expands-with-the-addition-of-the-brandywine-a-new-marriott-tribute-portfolio-hotel-in-radnor-pennsylvania
 url:www.hospitalitynet.org/news/4135463/eos-investors-acquires-hyatt-centric-faneuil-hall-boston-marking-firms-entry-into-boston
+url:www.hospitalitynet.org/news/4135502/worldhotels-unveils-rewards-overhaul-elite-status-after-just-5-nights
+url:www.hospitalitynet.org/news/4135505/new-study-consumers-frequently-mistake-deceptive-booking-sites-for-official-hotel-websites-want-stronger-standards-to-protect-travelers
 url:www.hospitalitynet.org/opinion/4132458/the-role-of-operational-luxury-in-hospitality
 url:www.hospitalitynet.org/opinion/4132482/azuma-brand-launch-signals-larger-hotel-category-trends
 url:www.hospitalitynet.org/opinion/4132494/five-trends-every-hotel-leader-needs-to-watch-in-2026
@@ -18869,8 +18935,11 @@ url:www.hospitalitynet.org/opinion/4135430/how-conversational-ai-is-moving-hotel
 url:www.hospitalitynet.org/opinion/4135433/the-bouncers-have-arrived-hotels-start-choosing-which-machines-get-in
 url:www.hospitalitynet.org/opinion/4135439/why-openai-bought-an-ai-travel-agent
 url:www.hospitalitynet.org/opinion/4135462/the-loyalty-partnership-questions-operators-should-be-asking
+url:www.hospitalitynet.org/opinion/4135472/changes-in-hospitality-moving-beyond-static-design-into-adaptive-development
 url:www.hospitalitynet.org/opinion/4135473/the-retail-opportunity-hotels-keep-missing
 url:www.hospitalitynet.org/opinion/4135477/the-book-as-refuge-hospitalitys-new-quiet-luxury
+url:www.hospitalitynet.org/opinion/4135488/9-revenue-leaks-on-your-hotel-website
+url:www.hospitalitynet.org/opinion/4135489/hotel-groups-are-finally-giving-f-b-a-structure-of-its-own
 url:www.hospitalitynet.org/podcast/4134018/hotel-cross-selling-strategy-why-better-data-comes-first
 url:www.hospitalitynet.org/podcast/4134023/eivind-hjulstad-of-citybox-hotels-on-scandinavian-design-budget-done-right-and-why-the-middle-market-is-running-out-of-time
 url:www.hospitalitynet.org/podcast/4134415/niels-and-thijs-van-der-valk-of-baoase-on-family-hospitality-the-art-of-saying-yes-and-building-the-caribbeans-number-one-resort
@@ -19766,6 +19835,7 @@ url:www.ryoko-net.co.jp/?p=174958
 url:www.ryoko-net.co.jp/?p=175261
 url:www.ryoko-net.co.jp/?p=175306
 url:www.ryoko-net.co.jp/?p=175349
+url:www.ryoko-net.co.jp/?p=175804
 url:www.saga-s.co.jp/articles/-/1736982
 url:www.saga-s.co.jp/articles/-/1748878
 url:www.saga-s.co.jp/articles/-/1772919
@@ -20130,6 +20200,7 @@ url:www.traicy.com/posts/20261110387575/
 url:www.traicy.com/posts/20261110387577/
 url:www.traicy.com/posts/20261114387903/
 url:www.traicy.com/posts/20261115388100/
+url:www.traicy.com/posts/20261116388227/
 url:www.travelnews.co.jp/news/inbound/2026061912010349639.html
 url:www.travelnews.co.jp/news/inbound/2026082012160950365.html
 url:www.travelnews.co.jp/news/inbound/2026091616574350652.html
